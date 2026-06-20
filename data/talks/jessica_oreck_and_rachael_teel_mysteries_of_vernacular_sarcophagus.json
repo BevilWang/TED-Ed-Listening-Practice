@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "Mysteries of vernacular: Sarcophagus",
+    "speaker": "Jessica Oreck and Rachael Teel",
+    "duration": 81,
+    "slug": "jessica_oreck_and_rachael_teel_mysteries_of_vernacular_sarcophagus",
+    "sourcePage": "https://www.ted.com/talks/jessica_oreck_and_rachael_teel_mysteries_of_vernacular_sarcophagus",
+    "translationSourcePage": "https://www.ted.com/talks/jessica_oreck_and_rachael_teel_mysteries_of_vernacular_sarcophagus?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/59/59/001/products/2013e-jessica-oreck-sarcophagus-001-fallback-e1fd3179882c78c1fe0d3965a65caa66-1200k.mp4",
+    "youtubeId": "s0-iSrj6pNU",
+    "youtubeTitle": "Mysteries of vernacular: Sarcophagus - Jessica Oreck and Rachael Teel"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 5.962,
+      "end": 15.496,
+      "text": "Mysteries of vernacular: Sarcophagus, a stone coffin typically adorned with decorative carvings or inscriptions.",
+      "translation": "词源揭秘：“Sarcophagus”，一座石质棺材，通常带有雕刻和铭文做装饰。"
+    },
+    {
+      "id": 2,
+      "start": 15.546,
+      "end": 24.667,
+      "text": "The history of the word sarcophagus is so skin-crawlingly grotesque, it seems to come right out of a low-budget horror film.",
+      "translation": "“Sarcophagus”一词的历史是如此令人毛骨悚然，以至于它好像是从低成本恐怖电影中出来的一样。"
+    },
+    {
+      "id": 3,
+      "start": 24.717,
+      "end": 40.0,
+      "text": "Rather than having a B-movie origin, however, its roots can be traced back to the early Roman Empire where the Greek word sarkophagus was used to describe the limestone that a coffin was made of, not the coffin itself.",
+      "translation": "不过它并不是从B级电影中出来的，它的源头可以追溯到罗马帝国早起。当时希腊语单词“sarkophagus”用来描述制作棺材的石灰岩，不是棺材本身。"
+    },
+    {
+      "id": 4,
+      "start": 40.05,
+      "end": 50.048,
+      "text": "According to the Roman scholar Pliny the Elder, citizens of the Empire believed that limestone from a quarry near Troy would dissolve flesh.",
+      "translation": "据罗马学者老普林尼说，帝国的公民相信特洛伊附近采石场出产的石灰岩能分解肉体。"
+    },
+    {
+      "id": 5,
+      "start": 50.098,
+      "end": 55.087,
+      "text": "For this reason, it was quite desireable in the construction of coffins.",
+      "translation": "正因如此，该材质很适合用来制作棺材。"
+    },
+    {
+      "id": 6,
+      "start": 55.137,
+      "end": 72.792,
+      "text": "Though it's unclear if the belief was widespread or even accurately reported by Pliny, what is certain is that sarkophagus came from the Greek words sark, meaning flesh, and phagein, a verb meaning to eat.",
+      "translation": "说法是否普遍，以及普林尼的记载是否准确并不清楚，但可以确定的是，“sarkophagus”来自希腊语“sark”，意思是肉体，和“phagein”，动词，意思是吃。"
+    },
+    {
+      "id": 7,
+      "start": 72.842,
+      "end": 80.95,
+      "text": "From flesh-eating stone to stone coffin, it's a fitting etymology for the final resting place of the deceased.",
+      "translation": "从吃肉的岩石到石质棺材，这个语源倒是与逝者的最后栖息地相符。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 5.962,
+      "text": "Mysteries of vernacular:",
+      "end": 8.094999999999999
+    },
+    {
+      "start": 8.145,
+      "text": "Sarcophagus,",
+      "end": 9.994
+    },
+    {
+      "start": 10.044,
+      "text": "a stone coffin typically adorned",
+      "end": 11.933
+    },
+    {
+      "start": 11.983,
+      "text": "with decorative carvings or inscriptions.",
+      "end": 15.495999999999999
+    },
+    {
+      "start": 15.546,
+      "text": "The history of the word sarcophagus",
+      "end": 17.799
+    },
+    {
+      "start": 17.849,
+      "text": "is so skin-crawlingly grotesque,",
+      "end": 20.090999999999998
+    },
+    {
+      "start": 20.141,
+      "text": "it seems to come right out",
+      "end": 21.651
+    },
+    {
+      "start": 21.701,
+      "text": "of a low-budget horror film.",
+      "end": 24.666999999999998
+    },
+    {
+      "start": 24.717,
+      "text": "Rather than having a B-movie origin, however,",
+      "end": 27.582
+    },
+    {
+      "start": 27.632,
+      "text": "its roots can be traced back to the early Roman Empire",
+      "end": 31.549
+    },
+    {
+      "start": 31.599,
+      "text": "where the Greek word sarkophagus",
+      "end": 34.378
+    },
+    {
+      "start": 34.428,
+      "text": "was used to describe the limestone",
+      "end": 36.248000000000005
+    },
+    {
+      "start": 36.298,
+      "text": "that a coffin was made of,",
+      "end": 37.915000000000006
+    },
+    {
+      "start": 37.965,
+      "text": "not the coffin itself.",
+      "end": 40.0
+    },
+    {
+      "start": 40.05,
+      "text": "According to the Roman scholar Pliny the Elder,",
+      "end": 43.053000000000004
+    },
+    {
+      "start": 43.103,
+      "text": "citizens of the Empire believed",
+      "end": 45.098000000000006
+    },
+    {
+      "start": 45.148,
+      "text": "that limestone from a quarry near Troy",
+      "end": 47.497
+    },
+    {
+      "start": 47.547,
+      "text": "would dissolve flesh.",
+      "end": 50.048
+    },
+    {
+      "start": 50.098,
+      "text": "For this reason, it was quite desireable",
+      "end": 52.440000000000005
+    },
+    {
+      "start": 52.49,
+      "text": "in the construction of coffins.",
+      "end": 55.087
+    },
+    {
+      "start": 55.137,
+      "text": "Though it's unclear if the belief was widespread",
+      "end": 58.028000000000006
+    },
+    {
+      "start": 58.078,
+      "text": "or even accurately reported by Pliny,",
+      "end": 61.11
+    },
+    {
+      "start": 61.16,
+      "text": "what is certain is that sarkophagus",
+      "end": 63.838
+    },
+    {
+      "start": 63.888,
+      "text": "came from the Greek words sark,",
+      "end": 66.599
+    },
+    {
+      "start": 66.649,
+      "text": "meaning flesh,",
+      "end": 68.132
+    },
+    {
+      "start": 68.182,
+      "text": "and phagein,",
+      "end": 69.74900000000001
+    },
+    {
+      "start": 69.799,
+      "text": "a verb meaning to eat.",
+      "end": 72.792
+    },
+    {
+      "start": 72.842,
+      "text": "From flesh-eating stone",
+      "end": 74.581
+    },
+    {
+      "start": 74.631,
+      "text": "to stone coffin,",
+      "end": 76.046
+    },
+    {
+      "start": 76.096,
+      "text": "it's a fitting etymology",
+      "end": 77.968
+    },
+    {
+      "start": 78.018,
+      "text": "for the final resting place of the deceased.",
+      "end": 80.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 5.962,
+      "text": "词源揭秘：",
+      "end": 8.094999999999999
+    },
+    {
+      "start": 8.145,
+      "text": "“Sarcophagus”，",
+      "end": 9.994
+    },
+    {
+      "start": 10.044,
+      "text": "一座石质棺材，通常带有",
+      "end": 11.933
+    },
+    {
+      "start": 11.983,
+      "text": "雕刻和铭文做装饰。",
+      "end": 15.495999999999999
+    },
+    {
+      "start": 15.546,
+      "text": "“Sarcophagus”一词的历史",
+      "end": 17.799
+    },
+    {
+      "start": 17.849,
+      "text": "是如此令人毛骨悚然，",
+      "end": 20.090999999999998
+    },
+    {
+      "start": 20.141,
+      "text": "以至于它好像是从低成本",
+      "end": 21.651
+    },
+    {
+      "start": 21.701,
+      "text": "恐怖电影中出来的一样。",
+      "end": 24.666999999999998
+    },
+    {
+      "start": 24.717,
+      "text": "不过它并不是从B级电影中出来的，",
+      "end": 27.582
+    },
+    {
+      "start": 27.632,
+      "text": "它的源头可以追溯到罗马帝国早起。",
+      "end": 31.549
+    },
+    {
+      "start": 31.599,
+      "text": "当时希腊语单词“sarkophagus”",
+      "end": 34.378
+    },
+    {
+      "start": 34.428,
+      "text": "用来描述制作棺材的",
+      "end": 36.248000000000005
+    },
+    {
+      "start": 36.298,
+      "text": "石灰岩，",
+      "end": 37.915000000000006
+    },
+    {
+      "start": 37.965,
+      "text": "不是棺材本身。",
+      "end": 40.0
+    },
+    {
+      "start": 40.05,
+      "text": "据罗马学者老普林尼说，",
+      "end": 43.053000000000004
+    },
+    {
+      "start": 43.103,
+      "text": "帝国的公民相信",
+      "end": 45.098000000000006
+    },
+    {
+      "start": 45.148,
+      "text": "特洛伊附近采石场出产的石灰岩",
+      "end": 47.497
+    },
+    {
+      "start": 47.547,
+      "text": "能分解肉体。",
+      "end": 50.048
+    },
+    {
+      "start": 50.098,
+      "text": "正因如此，该材质很适合",
+      "end": 52.440000000000005
+    },
+    {
+      "start": 52.49,
+      "text": "用来制作棺材。",
+      "end": 55.087
+    },
+    {
+      "start": 55.137,
+      "text": "说法是否普遍，以及普林尼的记载",
+      "end": 58.028000000000006
+    },
+    {
+      "start": 58.078,
+      "text": "是否准确并不清楚，",
+      "end": 61.11
+    },
+    {
+      "start": 61.16,
+      "text": "但可以确定的是，“sarkophagus”",
+      "end": 63.838
+    },
+    {
+      "start": 63.888,
+      "text": "来自希腊语“sark”，",
+      "end": 66.599
+    },
+    {
+      "start": 66.649,
+      "text": "意思是肉体，",
+      "end": 68.132
+    },
+    {
+      "start": 68.182,
+      "text": "和“phagein”，",
+      "end": 69.74900000000001
+    },
+    {
+      "start": 69.799,
+      "text": "动词，意思是吃。",
+      "end": 72.792
+    },
+    {
+      "start": 72.842,
+      "text": "从吃肉的岩石",
+      "end": 74.581
+    },
+    {
+      "start": 74.631,
+      "text": "到石质棺材，",
+      "end": 76.046
+    },
+    {
+      "start": 76.096,
+      "text": "这个语源倒是与",
+      "end": 77.968
+    },
+    {
+      "start": 78.018,
+      "text": "逝者的最后栖息地相符。",
+      "end": 80.95
+    }
+  ]
+}

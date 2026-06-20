@@ -1,0 +1,113 @@
+:root {
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #22293a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f6fb;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px 16px 36px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.header p {
+  margin: 6px 0 0;
+  color: #62708f;
+}
+
+.toolbar {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.toolbar input {
+  flex: 1;
+  min-width: 220px;
+  border: 1px solid #d5dff1;
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+
+.link-btn {
+  text-decoration: none;
+  color: #fff;
+  background: #5f6cf0;
+  border-radius: 10px;
+  padding: 10px 14px;
+}
+
+h2 {
+  margin: 24px 0 10px;
+  font-size: 1.1rem;
+}
+
+.talk-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 10px;
+}
+
+.talk-item {
+  background: #fff;
+  border: 1px solid #e5ebf7;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.talk-title {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.talk-meta {
+  margin: 8px 0 0;
+  color: #5f6f91;
+  font-size: 0.92rem;
+}
+
+.talk-actions {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.start-btn,
+.ted-link {
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 7px 10px;
+  font-size: 0.88rem;
+}
+
+.start-btn {
+  color: #fff;
+  background: #5f6cf0;
+}
+
+.ted-link {
+  color: #46526f;
+  background: #eef2fb;
+}
+
+.unmatched-list {
+  margin: 0;
+  padding-left: 20px;
+  color: #5f6c89;
+}

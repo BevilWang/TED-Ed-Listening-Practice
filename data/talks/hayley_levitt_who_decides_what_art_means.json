@@ -1,0 +1,953 @@
+{
+  "meta": {
+    "title": "Who decides what art means? ",
+    "speaker": "Hayley Levitt",
+    "duration": 261,
+    "slug": "hayley_levitt_who_decides_what_art_means",
+    "sourcePage": "https://www.ted.com/talks/hayley_levitt_who_decides_what_art_means",
+    "translationSourcePage": "https://www.ted.com/talks/hayley_levitt_who_decides_what_art_means?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/43/87/001/products/2018e-hayley-levitt-authorial-intent-001-fallback-2418016ebc7662bfe97be668385e6380-1200k.mp4",
+    "youtubeId": "HoXyw909Qu0",
+    "youtubeTitle": "Who decides what art means? - Hayley Levitt"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 13.005,
+      "end": 18.605,
+      "text": "Imagine you and a friend are strolling through an art exhibit and a striking painting catches your eye.",
+      "translation": "想象你和一位朋友正漫步观赏 一个艺术作品展览，你被一幅引人注目的画作所吸引。"
+    },
+    {
+      "id": 2,
+      "start": 18.655,
+      "end": 25.395,
+      "text": "The vibrant red appears to you as a symbol of love, but your friend is convinced it's a symbol of war.",
+      "translation": "醒目的红色在你看来象征着爱，但你的朋友坚持认为 这红色象征着战争。"
+    },
+    {
+      "id": 3,
+      "start": 25.445,
+      "end": 33.737,
+      "text": "And where you see stars in a romantic sky, your friend interprets global warming-inducing pollutants.",
+      "translation": "你看到星星在浪漫的天空下，而你的朋友将此理解为 全球变暖引发的污染物。"
+    },
+    {
+      "id": 4,
+      "start": 33.787,
+      "end": 46.696,
+      "text": "To settle the debate, you turn to the internet, where you read that the painting is a replica of the artist's first-grade art project: Red was her favorite color and the silver dots are fairies.",
+      "translation": "为了解决争议，你上网查到 如下解读——此画是艺术家复制自己 小学一年级时在美术课上的画作：红色是她当时最喜欢的颜色 那些银色的点是小精灵。"
+    },
+    {
+      "id": 5,
+      "start": 46.746,
+      "end": 51.278,
+      "text": "You now know the exact intentions that led to the creation of this work.",
+      "translation": "你此时明白了这幅画的 确切创作意图。"
+    },
+    {
+      "id": 6,
+      "start": 51.328,
+      "end": 55.348,
+      "text": "Are you wrong to have enjoyed it as something the artist didn’t intend?",
+      "translation": "你对这幅画的解读 与其作者的创作意图不符，你欣赏错了吗？"
+    },
+    {
+      "id": 7,
+      "start": 55.398,
+      "end": 58.868,
+      "text": "Do you enjoy it less now that you know the truth?",
+      "translation": "你知道了这一点，此时 你对此画作的欣赏减少了吗？"
+    },
+    {
+      "id": 8,
+      "start": 58.918,
+      "end": 64.278,
+      "text": "Just how much should the artist's intention affect your interpretation of the painting?",
+      "translation": "艺术家的创作意图到底能影响多少你对其作品的解读？"
+    },
+    {
+      "id": 9,
+      "start": 64.328,
+      "end": 71.728,
+      "text": "It's a question that's been tossed around by philosophers and art critics for decades, with no consensus in sight.",
+      "translation": "这个问题已经被哲学家们和艺术评论家们 争论了几十年，仍未达成一致。"
+    },
+    {
+      "id": 10,
+      "start": 71.778,
+      "end": 81.309,
+      "text": "In the mid-20th century, literary critic W.K. Wimsatt and philosopher Monroe Beardsley argued that artistic intention was irrelevant.",
+      "translation": "在二十世纪中叶，文学评论家W·K·威姆斯特 与哲学家曼诺·比尔斯雷认为艺术家的创作意图 无关其作品的含义。"
+    },
+    {
+      "id": 11,
+      "start": 81.359,
+      "end": 88.099,
+      "text": "They called this the Intentional Fallacy: the belief that valuing an artist's intentions was misguided.",
+      "translation": "他们称之为意图谬误：倚重于艺术创作者的意图—— 这种看法是一种误导。"
+    },
+    {
+      "id": 12,
+      "start": 88.149,
+      "end": 99.557,
+      "text": "Their argument was twofold: First, the artists we study are no longer living, never recorded their intentions, or are simply unavailable to answer questions about their work.",
+      "translation": "他们的论点分为两部分：一方面，我们研究的 艺术创作者已不在世，这些艺术家从未留下 关于自己的创作意图的记录，即：他们的作品创作意图 根本没有考据。"
+    },
+    {
+      "id": 13,
+      "start": 99.607,
+      "end": 109.037,
+      "text": "Second, even if there were a bounty of relevant information, Wimsatt and Beardsley believed it would distract us from the qualities of the work itself.",
+      "translation": "另一方面，即使有一大堆相关信息，威姆斯特和比尔斯雷相信这些信息会让我们这些观赏者分心 ——无法专注于作品本质。"
+    },
+    {
+      "id": 14,
+      "start": 109.087,
+      "end": 117.287,
+      "text": "They compared art to a dessert: When you taste a pudding, the chef's intentions don't affect whether you enjoy its flavor or texture.",
+      "translation": "他们将艺术比作甜点：当你品尝布丁时，你是否喜欢其味道和质感 并不取决于厨师的意图。"
+    },
+    {
+      "id": 15,
+      "start": 117.337,
+      "end": 121.547,
+      "text": "All that matters, they said, is that the pudding \"works.\"",
+      "translation": "关键是布丁对胃口。"
+    },
+    {
+      "id": 16,
+      "start": 121.597,
+      "end": 125.627,
+      "text": "Of course, what \"works\" for one person might not \"work\" for another.",
+      "translation": "当然，一个人觉得好吃， 另一个人也许觉得不好吃。"
+    },
+    {
+      "id": 17,
+      "start": 125.677,
+      "end": 135.46,
+      "text": "And since different interpretations appeal to different people, the silver dots in our painting could be reasonably interpreted as fairies, stars, or pollutants.",
+      "translation": "既然不同的人有不同的鉴赏理解，画作中的银点 当然可以被理解成精灵、星星，或者 污染物。"
+    },
+    {
+      "id": 18,
+      "start": 135.51,
+      "end": 144.5,
+      "text": "By Wimsatt and Beardsley's logic, the artist's interpretation of her own work would just be one among many equally acceptable possibilities.",
+      "translation": "以威姆斯特和比尔斯雷的逻辑， 艺术家对其作品的诠释只是众多平等的可接受的 可能的诠释之一。"
+    },
+    {
+      "id": 19,
+      "start": 144.55,
+      "end": 154.022,
+      "text": "If you find this problematic, you might be more in line with Steven Knapp and Walter Benn Michaels, two literary theorists who rejected the Intentional Fallacy.",
+      "translation": "如果你对这种观点存疑，你也许更支持史蒂文·萘普 和怀特·本·迈克尔，这两位文艺理论家反对 “意图谬误”。"
+    },
+    {
+      "id": 20,
+      "start": 154.072,
+      "end": 161.752,
+      "text": "They argued that an artist's intended meaning was not just one possible interpretation, but the only possible interpretation.",
+      "translation": "他们认为艺术家的创作意图并不是 可能的含义之一，而是唯一可能的含义。"
+    },
+    {
+      "id": 21,
+      "start": 161.802,
+      "end": 168.962,
+      "text": "For example, suppose you're walking along a beach and come across a series of marks in the sand that spell out a verse of poetry.",
+      "translation": "比方说，想象你正在沿着海边散步，偶然看见沙子上有诗文的痕迹。"
+    },
+    {
+      "id": 22,
+      "start": 169.012,
+      "end": 178.421,
+      "text": "Knapp and Michaels believed the poem would lose all meaning if you discovered these marks were not the work of a human being, but an odd coincidence produced by the waves.",
+      "translation": "萘普和迈克尔认为 如果你发现这些痕迹并不是出自什么作家的诗篇 那这首诗就毫无意义了，只不过是浪花造成的奇怪巧合而已。"
+    },
+    {
+      "id": 23,
+      "start": 178.471,
+      "end": 184.541,
+      "text": "They believed an intentional creator is what makes the poem subject to understanding at all.",
+      "translation": "他们认为有意图的创作者才是赋予诗篇以内涵的关键。"
+    },
+    {
+      "id": 24,
+      "start": 184.591,
+      "end": 191.768,
+      "text": "Other thinkers advocate for a middle ground, suggesting that intention is just one piece in a larger puzzle.",
+      "translation": "其他思想家倡导折中,即：意图只是一个更大的 难题中的一个小问题。"
+    },
+    {
+      "id": 25,
+      "start": 191.818,
+      "end": 204.108,
+      "text": "Contemporary philosopher Noel Carroll took this stance, arguing that an artist's intentions are relevant to their audience the same way a speaker's intentions are relevant to the person they’re engaging in conversation.",
+      "translation": "当代哲学家诺儿·卡罗尔 持这个立场，他认为艺术家的意图与观众有关联,道理如同说者的意图与对话中的另一方是有关联的。"
+    },
+    {
+      "id": 26,
+      "start": 204.158,
+      "end": 211.158,
+      "text": "To understand how intentions function in conversation, Carroll said to imagine someone holding a cigarette and asking for a match.",
+      "translation": "想要理解意图是如何 在对话中起作用的，卡罗尔认为——想象某人 拿着一根烟要借根火柴。"
+    },
+    {
+      "id": 27,
+      "start": 211.208,
+      "end": 216.201,
+      "text": "You respond by handing them a lighter, gathering that their motivation is to light their cigarette.",
+      "translation": "你递给对方一个打火机，因为你认为对方的动机就是点烟。"
+    },
+    {
+      "id": 28,
+      "start": 216.251,
+      "end": 225.442,
+      "text": "The words they used to ask the question are important, but the intentions behind the question dictate your understanding and ultimately, your response.",
+      "translation": "对方问问题的用词的确重要，但是影响你去领会的 是问题背后的意图，最终，你做出反馈。"
+    },
+    {
+      "id": 29,
+      "start": 225.492,
+      "end": 228.468,
+      "text": "So which end of this spectrum do you lean towards?",
+      "translation": "那么，你对这一系列的观点 倾向哪一个？"
+    },
+    {
+      "id": 30,
+      "start": 228.518,
+      "end": 233.948,
+      "text": "Do you, like Wimsatt and Beardsley, believe that when it comes to art, the proof should be in the pudding?",
+      "translation": "你是倾向威姆斯特和比尔斯雷 认为有关艺术创作意图可以用布丁的例子来证明？"
+    },
+    {
+      "id": 31,
+      "start": 233.998,
+      "end": 239.298,
+      "text": "Or do you think that an artist's plans and motivations for their work affect its meaning?",
+      "translation": "抑或，你认为艺术家的创作动机影响着其作品的含义？"
+    },
+    {
+      "id": 32,
+      "start": 239.348,
+      "end": 260.95,
+      "text": "Artistic interpretation is a complex web that will probably never offer a definitive answer.",
+      "translation": "艺术解读 是个错综复杂的网，很可能永远不会有明确答案。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 13.005,
+      "text": "Imagine you and a friend are strolling through an art exhibit",
+      "end": 15.995000000000001
+    },
+    {
+      "start": 16.045,
+      "text": "and a striking painting catches your eye.",
+      "end": 18.605
+    },
+    {
+      "start": 18.655,
+      "text": "The vibrant red appears to you as a symbol of love,",
+      "end": 22.035
+    },
+    {
+      "start": 22.085,
+      "text": "but your friend is convinced it's a symbol of war.",
+      "end": 25.395
+    },
+    {
+      "start": 25.445,
+      "text": "And where you see stars in a romantic sky,",
+      "end": 28.904999999999998
+    },
+    {
+      "start": 28.955,
+      "text": "your friend interprets global warming-inducing pollutants.",
+      "end": 33.737
+    },
+    {
+      "start": 33.787,
+      "text": "To settle the debate, you turn to the internet, where you read",
+      "end": 37.357
+    },
+    {
+      "start": 37.407,
+      "text": "that the painting is a replica of the artist's first-grade art project:",
+      "end": 41.857
+    },
+    {
+      "start": 41.907,
+      "text": "Red was her favorite color and the silver dots are fairies.",
+      "end": 46.696000000000005
+    },
+    {
+      "start": 46.746,
+      "text": "You now know the exact intentions that led to the creation of this work.",
+      "end": 51.278000000000006
+    },
+    {
+      "start": 51.328,
+      "text": "Are you wrong to have enjoyed it as something the artist didn’t intend?",
+      "end": 55.348000000000006
+    },
+    {
+      "start": 55.398,
+      "text": "Do you enjoy it less now that you know the truth?",
+      "end": 58.868
+    },
+    {
+      "start": 58.918,
+      "text": "Just how much should the artist's intention",
+      "end": 60.988
+    },
+    {
+      "start": 61.038,
+      "text": "affect your interpretation of the painting?",
+      "end": 64.278
+    },
+    {
+      "start": 64.328,
+      "text": "It's a question that's been tossed around",
+      "end": 66.22800000000001
+    },
+    {
+      "start": 66.278,
+      "text": "by philosophers and art critics for decades, with no consensus in sight.",
+      "end": 71.72800000000001
+    },
+    {
+      "start": 71.778,
+      "text": "In the mid-20th century,",
+      "end": 73.429
+    },
+    {
+      "start": 73.479,
+      "text": "literary critic W.K. Wimsatt and philosopher Monroe Beardsley",
+      "end": 77.93900000000001
+    },
+    {
+      "start": 77.989,
+      "text": "argued that artistic intention was irrelevant.",
+      "end": 81.309
+    },
+    {
+      "start": 81.359,
+      "text": "They called this the Intentional Fallacy:",
+      "end": 83.779
+    },
+    {
+      "start": 83.829,
+      "text": "the belief that valuing an artist's intentions was misguided.",
+      "end": 88.099
+    },
+    {
+      "start": 88.149,
+      "text": "Their argument was twofold:",
+      "end": 90.21900000000001
+    },
+    {
+      "start": 90.269,
+      "text": "First, the artists we study are no longer living,",
+      "end": 93.49900000000001
+    },
+    {
+      "start": 93.549,
+      "text": "never recorded their intentions,",
+      "end": 95.399
+    },
+    {
+      "start": 95.449,
+      "text": "or are simply unavailable to answer questions about their work.",
+      "end": 99.557
+    },
+    {
+      "start": 99.607,
+      "text": "Second, even if there were a bounty of relevant information,",
+      "end": 104.107
+    },
+    {
+      "start": 104.157,
+      "text": "Wimsatt and Beardsley believed",
+      "end": 105.547
+    },
+    {
+      "start": 105.597,
+      "text": "it would distract us from the qualities of the work itself.",
+      "end": 109.037
+    },
+    {
+      "start": 109.087,
+      "text": "They compared art to a dessert:",
+      "end": 111.177
+    },
+    {
+      "start": 111.227,
+      "text": "When you taste a pudding,",
+      "end": 112.717
+    },
+    {
+      "start": 112.767,
+      "text": "the chef's intentions don't affect whether you enjoy its flavor or texture.",
+      "end": 117.287
+    },
+    {
+      "start": 117.337,
+      "text": "All that matters, they said, is that the pudding \"works.\"",
+      "end": 121.547
+    },
+    {
+      "start": 121.597,
+      "text": "Of course, what \"works\" for one person might not \"work\" for another.",
+      "end": 125.62700000000001
+    },
+    {
+      "start": 125.677,
+      "text": "And since different interpretations appeal to different people,",
+      "end": 128.968
+    },
+    {
+      "start": 129.018,
+      "text": "the silver dots in our painting could be reasonably interpreted as fairies,",
+      "end": 133.218
+    },
+    {
+      "start": 133.268,
+      "text": "stars, or pollutants.",
+      "end": 135.45999999999998
+    },
+    {
+      "start": 135.51,
+      "text": "By Wimsatt and Beardsley's logic, the artist's interpretation of her own work",
+      "end": 139.60999999999999
+    },
+    {
+      "start": 139.66,
+      "text": "would just be one among many equally acceptable possibilities.",
+      "end": 144.5
+    },
+    {
+      "start": 144.55,
+      "text": "If you find this problematic,",
+      "end": 146.152
+    },
+    {
+      "start": 146.202,
+      "text": "you might be more in line with Steven Knapp and Walter Benn Michaels,",
+      "end": 150.242
+    },
+    {
+      "start": 150.292,
+      "text": "two literary theorists who rejected the Intentional Fallacy.",
+      "end": 154.022
+    },
+    {
+      "start": 154.072,
+      "text": "They argued that an artist's intended meaning",
+      "end": 156.41199999999998
+    },
+    {
+      "start": 156.462,
+      "text": "was not just one possible interpretation,",
+      "end": 159.00199999999998
+    },
+    {
+      "start": 159.052,
+      "text": "but the only possible interpretation.",
+      "end": 161.75199999999998
+    },
+    {
+      "start": 161.802,
+      "text": "For example, suppose you're walking along a beach",
+      "end": 164.44199999999998
+    },
+    {
+      "start": 164.492,
+      "text": "and come across a series of marks in the sand that spell out a verse of poetry.",
+      "end": 168.962
+    },
+    {
+      "start": 169.012,
+      "text": "Knapp and Michaels believed the poem would lose all meaning",
+      "end": 172.171
+    },
+    {
+      "start": 172.221,
+      "text": "if you discovered these marks were not the work of a human being,",
+      "end": 175.641
+    },
+    {
+      "start": 175.691,
+      "text": "but an odd coincidence produced by the waves.",
+      "end": 178.421
+    },
+    {
+      "start": 178.471,
+      "text": "They believed an intentional creator",
+      "end": 180.37099999999998
+    },
+    {
+      "start": 180.421,
+      "text": "is what makes the poem subject to understanding at all.",
+      "end": 184.541
+    },
+    {
+      "start": 184.591,
+      "text": "Other thinkers advocate for a middle ground,",
+      "end": 186.878
+    },
+    {
+      "start": 186.928,
+      "text": "suggesting that intention is just one piece in a larger puzzle.",
+      "end": 191.768
+    },
+    {
+      "start": 191.818,
+      "text": "Contemporary philosopher Noel Carroll took this stance,",
+      "end": 195.208
+    },
+    {
+      "start": 195.258,
+      "text": "arguing that an artist's intentions are relevant to their audience",
+      "end": 198.878
+    },
+    {
+      "start": 198.928,
+      "text": "the same way a speaker's intentions",
+      "end": 200.60799999999998
+    },
+    {
+      "start": 200.658,
+      "text": "are relevant to the person they’re engaging in conversation.",
+      "end": 204.10799999999998
+    },
+    {
+      "start": 204.158,
+      "text": "To understand how intentions function in conversation,",
+      "end": 207.048
+    },
+    {
+      "start": 207.098,
+      "text": "Carroll said to imagine someone holding a cigarette and asking for a match.",
+      "end": 211.158
+    },
+    {
+      "start": 211.208,
+      "text": "You respond by handing them a lighter,",
+      "end": 213.15099999999998
+    },
+    {
+      "start": 213.201,
+      "text": "gathering that their motivation is to light their cigarette.",
+      "end": 216.201
+    },
+    {
+      "start": 216.251,
+      "text": "The words they used to ask the question are important,",
+      "end": 219.052
+    },
+    {
+      "start": 219.102,
+      "text": "but the intentions behind the question dictate your understanding and ultimately,",
+      "end": 223.422
+    },
+    {
+      "start": 223.472,
+      "text": "your response.",
+      "end": 225.44199999999998
+    },
+    {
+      "start": 225.492,
+      "text": "So which end of this spectrum do you lean towards?",
+      "end": 228.468
+    },
+    {
+      "start": 228.518,
+      "text": "Do you, like Wimsatt and Beardsley, believe that when it comes to art,",
+      "end": 232.208
+    },
+    {
+      "start": 232.258,
+      "text": "the proof should be in the pudding?",
+      "end": 233.94799999999998
+    },
+    {
+      "start": 233.998,
+      "text": "Or do you think that an artist's plans and motivations for their work",
+      "end": 237.63799999999998
+    },
+    {
+      "start": 237.688,
+      "text": "affect its meaning?",
+      "end": 239.298
+    },
+    {
+      "start": 239.348,
+      "text": "Artistic interpretation is a complex web",
+      "end": 242.058
+    },
+    {
+      "start": 242.108,
+      "text": "that will probably never offer a definitive answer.",
+      "end": 260.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 13.005,
+      "text": "想象你和一位朋友正漫步观赏 一个艺术作品展览，",
+      "end": 15.995000000000001
+    },
+    {
+      "start": 16.045,
+      "text": "你被一幅引人注目的画作所吸引。",
+      "end": 18.605
+    },
+    {
+      "start": 18.655,
+      "text": "醒目的红色在你看来象征着爱，",
+      "end": 22.035
+    },
+    {
+      "start": 22.085,
+      "text": "但你的朋友坚持认为 这红色象征着战争。",
+      "end": 25.395
+    },
+    {
+      "start": 25.445,
+      "text": "你看到星星在浪漫的天空下，",
+      "end": 28.904999999999998
+    },
+    {
+      "start": 28.955,
+      "text": "而你的朋友将此理解为 全球变暖引发的污染物。",
+      "end": 33.737
+    },
+    {
+      "start": 33.787,
+      "text": "为了解决争议，你上网查到 如下解读——",
+      "end": 37.357
+    },
+    {
+      "start": 37.407,
+      "text": "此画是艺术家复制自己 小学一年级时在美术课上的画作：",
+      "end": 41.857
+    },
+    {
+      "start": 41.907,
+      "text": "红色是她当时最喜欢的颜色 那些银色的点是小精灵。",
+      "end": 46.696000000000005
+    },
+    {
+      "start": 46.746,
+      "text": "你此时明白了这幅画的 确切创作意图。",
+      "end": 51.278000000000006
+    },
+    {
+      "start": 51.328,
+      "text": "你对这幅画的解读 与其作者的创作意图不符，你欣赏错了吗？",
+      "end": 55.348000000000006
+    },
+    {
+      "start": 55.398,
+      "text": "你知道了这一点，此时 你对此画作的欣赏减少了吗？",
+      "end": 58.868
+    },
+    {
+      "start": 58.918,
+      "text": "艺术家的创作意图到底能影响多少",
+      "end": 60.988
+    },
+    {
+      "start": 61.038,
+      "text": "你对其作品的解读？",
+      "end": 64.278
+    },
+    {
+      "start": 64.328,
+      "text": "这个问题已经被",
+      "end": 66.22800000000001
+    },
+    {
+      "start": 66.278,
+      "text": "哲学家们和艺术评论家们 争论了几十年，仍未达成一致。",
+      "end": 71.72800000000001
+    },
+    {
+      "start": 71.778,
+      "text": "在二十世纪中叶，",
+      "end": 73.429
+    },
+    {
+      "start": 73.479,
+      "text": "文学评论家W·K·威姆斯特 与哲学家曼诺·比尔斯雷",
+      "end": 77.93900000000001
+    },
+    {
+      "start": 77.989,
+      "text": "认为艺术家的创作意图 无关其作品的含义。",
+      "end": 81.309
+    },
+    {
+      "start": 81.359,
+      "text": "他们称之为意图谬误：",
+      "end": 83.779
+    },
+    {
+      "start": 83.829,
+      "text": "倚重于艺术创作者的意图—— 这种看法是一种误导。",
+      "end": 88.099
+    },
+    {
+      "start": 88.149,
+      "text": "他们的论点分为两部分：",
+      "end": 90.21900000000001
+    },
+    {
+      "start": 90.269,
+      "text": "一方面，我们研究的 艺术创作者已不在世，",
+      "end": 93.49900000000001
+    },
+    {
+      "start": 93.549,
+      "text": "这些艺术家从未留下 关于自己的创作意图的记录，",
+      "end": 95.399
+    },
+    {
+      "start": 95.449,
+      "text": "即：他们的作品创作意图 根本没有考据。",
+      "end": 99.557
+    },
+    {
+      "start": 99.607,
+      "text": "另一方面，即使有一大堆相关信息，",
+      "end": 104.107
+    },
+    {
+      "start": 104.157,
+      "text": "威姆斯特和比尔斯雷相信",
+      "end": 105.547
+    },
+    {
+      "start": 105.597,
+      "text": "这些信息会让我们这些观赏者分心 ——无法专注于作品本质。",
+      "end": 109.037
+    },
+    {
+      "start": 109.087,
+      "text": "他们将艺术比作甜点：",
+      "end": 111.177
+    },
+    {
+      "start": 111.227,
+      "text": "当你品尝布丁时，",
+      "end": 112.717
+    },
+    {
+      "start": 112.767,
+      "text": "你是否喜欢其味道和质感 并不取决于厨师的意图。",
+      "end": 117.287
+    },
+    {
+      "start": 117.337,
+      "text": "关键是布丁对胃口。",
+      "end": 121.547
+    },
+    {
+      "start": 121.597,
+      "text": "当然，一个人觉得好吃， 另一个人也许觉得不好吃。",
+      "end": 125.62700000000001
+    },
+    {
+      "start": 125.677,
+      "text": "既然不同的人有不同的鉴赏理解，",
+      "end": 128.968
+    },
+    {
+      "start": 129.018,
+      "text": "画作中的银点 当然可以被理解成精灵、",
+      "end": 133.218
+    },
+    {
+      "start": 133.268,
+      "text": "星星，或者 污染物。",
+      "end": 135.45999999999998
+    },
+    {
+      "start": 135.51,
+      "text": "以威姆斯特和比尔斯雷的逻辑， 艺术家对其作品的诠释",
+      "end": 139.60999999999999
+    },
+    {
+      "start": 139.66,
+      "text": "只是众多平等的可接受的 可能的诠释之一。",
+      "end": 144.5
+    },
+    {
+      "start": 144.55,
+      "text": "如果你对这种观点存疑，",
+      "end": 146.152
+    },
+    {
+      "start": 146.202,
+      "text": "你也许更支持史蒂文·萘普 和怀特·本·迈克尔，",
+      "end": 150.242
+    },
+    {
+      "start": 150.292,
+      "text": "这两位文艺理论家反对 “意图谬误”。",
+      "end": 154.022
+    },
+    {
+      "start": 154.072,
+      "text": "他们认为艺术家的创作意图",
+      "end": 156.41199999999998
+    },
+    {
+      "start": 156.462,
+      "text": "并不是 可能的含义之一，",
+      "end": 159.00199999999998
+    },
+    {
+      "start": 159.052,
+      "text": "而是唯一可能的含义。",
+      "end": 161.75199999999998
+    },
+    {
+      "start": 161.802,
+      "text": "比方说，想象你正在沿着海边散步，",
+      "end": 164.44199999999998
+    },
+    {
+      "start": 164.492,
+      "text": "偶然看见沙子上有诗文的痕迹。",
+      "end": 168.962
+    },
+    {
+      "start": 169.012,
+      "text": "萘普和迈克尔认为 如果你发现这些痕迹",
+      "end": 172.171
+    },
+    {
+      "start": 172.221,
+      "text": "并不是出自什么作家的诗篇 那这首诗就毫无意义了，",
+      "end": 175.641
+    },
+    {
+      "start": 175.691,
+      "text": "只不过是浪花造成的奇怪巧合而已。",
+      "end": 178.421
+    },
+    {
+      "start": 178.471,
+      "text": "他们认为有意图的创作者",
+      "end": 180.37099999999998
+    },
+    {
+      "start": 180.421,
+      "text": "才是赋予诗篇以内涵的关键。",
+      "end": 184.541
+    },
+    {
+      "start": 184.591,
+      "text": "其他思想家倡导折中,",
+      "end": 186.878
+    },
+    {
+      "start": 186.928,
+      "text": "即：意图只是一个更大的 难题中的一个小问题。",
+      "end": 191.768
+    },
+    {
+      "start": 191.818,
+      "text": "当代哲学家诺儿·卡罗尔 持这个立场，",
+      "end": 195.208
+    },
+    {
+      "start": 195.258,
+      "text": "他认为艺术家的意图与观众有关联,",
+      "end": 198.878
+    },
+    {
+      "start": 198.928,
+      "text": "道理如同说者的意图",
+      "end": 200.60799999999998
+    },
+    {
+      "start": 200.658,
+      "text": "与对话中的另一方是有关联的。",
+      "end": 204.10799999999998
+    },
+    {
+      "start": 204.158,
+      "text": "想要理解意图是如何 在对话中起作用的，",
+      "end": 207.048
+    },
+    {
+      "start": 207.098,
+      "text": "卡罗尔认为——想象某人 拿着一根烟要借根火柴。",
+      "end": 211.158
+    },
+    {
+      "start": 211.208,
+      "text": "你递给对方一个打火机，",
+      "end": 213.15099999999998
+    },
+    {
+      "start": 213.201,
+      "text": "因为你认为对方的动机就是点烟。",
+      "end": 216.201
+    },
+    {
+      "start": 216.251,
+      "text": "对方问问题的用词的确重要，",
+      "end": 219.052
+    },
+    {
+      "start": 219.102,
+      "text": "但是影响你去领会的 是问题背后的意图，最终，",
+      "end": 223.422
+    },
+    {
+      "start": 223.472,
+      "text": "你做出反馈。",
+      "end": 225.44199999999998
+    },
+    {
+      "start": 225.492,
+      "text": "那么，你对这一系列的观点 倾向哪一个？",
+      "end": 228.468
+    },
+    {
+      "start": 228.518,
+      "text": "你是倾向威姆斯特和比尔斯雷 认为有关艺术创作意图",
+      "end": 232.208
+    },
+    {
+      "start": 232.258,
+      "text": "可以用布丁的例子来证明？",
+      "end": 233.94799999999998
+    },
+    {
+      "start": 233.998,
+      "text": "抑或，你认为艺术家的创作动机",
+      "end": 237.63799999999998
+    },
+    {
+      "start": 237.688,
+      "text": "影响着其作品的含义？",
+      "end": 239.298
+    },
+    {
+      "start": 239.348,
+      "text": "艺术解读 是个错综复杂的网，",
+      "end": 242.058
+    },
+    {
+      "start": 242.108,
+      "text": "很可能永远不会有明确答案。",
+      "end": 260.95
+    }
+  ]
+}

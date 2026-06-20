@@ -1,0 +1,1029 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Why should you read \"Moby Dick\"?",
+    "speaker": "Sascha Morrell",
+    "duration": 336,
+    "slug": "sascha_morrell_why_should_you_read_moby_dick",
+    "sourcePage": "https://www.ted.com/talks/sascha_morrell_why_should_you_read_moby_dick",
+    "translationSourcePage": "https://www.ted.com/talks/sascha_morrell_why_should_you_read_moby_dick?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/46/87/002/products/2020e-sascha-morrell-moby-dick-002-fallback-1b4d6d31b779660f54e003477ffbe13a-1200k.mp4",
+    "youtubeId": "mmoFxVqZ9z4",
+    "youtubeTitle": "Why should you read “Moby Dick”? - Sascha Morrell"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.654,
+      "end": 10.094,
+      "text": "A mountain separating two lakes.",
+      "translation": "分隔两湖的一座山。"
+    },
+    {
+      "id": 2,
+      "start": 10.144,
+      "end": 15.07,
+      "text": "A room papered floor to ceiling with bridal satins.",
+      "translation": "整屋贴满婚服缎的房间。"
+    },
+    {
+      "id": 3,
+      "start": 15.12,
+      "end": 19.036,
+      "text": "The lid of an immense snuffbox.",
+      "translation": "一个巨大鼻烟盒的盖子。"
+    },
+    {
+      "id": 4,
+      "start": 19.086,
+      "end": 27.872,
+      "text": "These seemingly unrelated images take us on a tour of a sperm whale’s head in Herman Melville’s \"Moby Dick.\"",
+      "translation": "在赫尔曼·麦尔维尔的《白鲸记》中， 这些看起来无关的画面带我们探索了一只抹香鲸的头部。"
+    },
+    {
+      "id": 5,
+      "start": 27.922,
+      "end": 37.168,
+      "text": "On the surface, the book is the story of Captain Ahab’s hunt for revenge against Moby Dick, the white whale who bit off his leg.",
+      "translation": "表面上，本书讲述的是船长亚哈（Ahab）为了复仇 而追猎莫比·迪克（Moby Dick）——咬掉了他一条腿的白鲸——的故事。"
+    },
+    {
+      "id": 6,
+      "start": 37.218,
+      "end": 48.424,
+      "text": "But though the book features pirates, typhoons, high-speed chases, and giant squid, you shouldn’t expect a conventional seafaring adventure.",
+      "translation": "尽管这本书中有海盗、 台风、高速追逐和巨型乌贼，但这绝不是一段 传统的航海冒险经历。"
+    },
+    {
+      "id": 7,
+      "start": 48.474,
+      "end": 66.375,
+      "text": "Instead, it’s a multilayered exploration of not only the intimate details of life aboard a whaling ship, but also subjects from across human and natural history, by turns playful and tragic, humorous, and urgent.",
+      "translation": "相反，这是一番多层次的探索，不仅描述了 捕鲸船上生活的细枝末节，而且包含了从人类历史 到自然历史的主题——有好玩的、悲剧的、 幽默的和紧急的。"
+    },
+    {
+      "id": 8,
+      "start": 66.425,
+      "end": 72.715,
+      "text": "The narrator guiding us through these explorations is a common sailor called Ishmael.",
+      "translation": "在这些探索中引导我们的是一个普通水手 以实玛利（Ishmael）。"
+    },
+    {
+      "id": 9,
+      "start": 72.765,
+      "end": 82.807,
+      "text": "Ishmael starts out telling his own story as he prepares to escape the “damp and drizzly November in [his] soul” by going to sea.",
+      "translation": "以实玛利从他准备出海来逃离“（他的）灵魂中 潮湿而多雨的十一月”，开始了他的故事叙述。"
+    },
+    {
+      "id": 10,
+      "start": 82.857,
+      "end": 95.857,
+      "text": "But after he befriends the Pacific Islander Queequeg and joins Ahab’s crew aboard the Pequod, Ishmael becomes more of an omniscient guide for the reader than a traditional character.",
+      "translation": "但在他和太平洋岛民 魁魁格（Queequeg）成为朋友，并加入亚哈（Ahab）的团队 上了裴廓德号（Pequod）后，以实玛利更像是 读者无所不在的向导，而不是一个常规的人物。"
+    },
+    {
+      "id": 11,
+      "start": 95.907,
+      "end": 109.465,
+      "text": "While Ahab obsesses over revenge and first mate Starbuck tries to reason with him, Ishmael takes us on his own quest for meaning throughout “the whole universe, not excluding its suburbs.”",
+      "translation": "当亚哈沉迷于复仇，大副斯达巴克（Starbuck） 尝试和他讲道理时，以实玛利带领我们在 “整个宇宙，包括边缘地带”寻求着自己的价值。"
+    },
+    {
+      "id": 12,
+      "start": 109.515,
+      "end": 116.178,
+      "text": "In his telling, life’s biggest questions loom large, even in the smallest details.",
+      "translation": "在他的叙述中，人生中最大的问题 显得很突出，即使是在最微小的细节中。"
+    },
+    {
+      "id": 13,
+      "start": 116.228,
+      "end": 128.121,
+      "text": "Like his narrator, Melville was a restless and curious spirit, who gained an unorthodox education working as a sailor on a series of grueling voyages around the world in his youth.",
+      "translation": "像他的叙述者一样，梅尔维尔（Melville） 也有一种永不停歇、充满好奇心的精神。年轻时，他作为一名海员 接受了非正统的教育，进行了一系列艰苦的环球航行。"
+    },
+    {
+      "id": 14,
+      "start": 128.171,
+      "end": 134.931,
+      "text": "He published \"Moby Dick\" in 1851, when the United States’ whaling industry was at its height.",
+      "translation": "他在 1851 年出版了《白鲸记》，当时美国捕鲸业正处于鼎盛时期。"
+    },
+    {
+      "id": 15,
+      "start": 134.981,
+      "end": 145.954,
+      "text": "Nantucket, where the Pequod sets sail, was the epicenter of this lucrative and bloody global industry which decimated the world’s whale populations.",
+      "translation": "裴廓德号起航的 南塔开特（Nantucket）是这种有利可图、 血腥的全球捕鲸业的中心｡这种捕鲸业大量捕杀了 世界上的鲸鱼。"
+    },
+    {
+      "id": 16,
+      "start": 146.004,
+      "end": 163.18,
+      "text": "Unusually for his time, Melville doesn’t shy away from the ugly side of this industry, even taking the whale’s perspective at one point, when he speculates on how terrifying the huge shadows of the ships must be to the creature swimming below.",
+      "translation": "在他的时代很不寻常的是,梅尔维尔并不隐藏 这个行业丑陋的一面。有一次，他甚至 从鲸鱼的角度来推测，船的巨大阴影 对下面游动的生物来说一定非常可怕。"
+    },
+    {
+      "id": 17,
+      "start": 163.23,
+      "end": 171.533,
+      "text": "The author’s first-hand familiarity with whaling is evident over and over again in Ishmael’s vivid descriptions.",
+      "translation": "在以实玛利生动的描写中，作者对捕鲸经历的描述 逐渐生动起来。"
+    },
+    {
+      "id": 18,
+      "start": 171.583,
+      "end": 177.933,
+      "text": "In one chapter, the skin of a whale’s penis becomes protective clothing for a crewman.",
+      "translation": "在其中一章里，鲸鱼阴茎的皮肤变成了一名船员的防护服。"
+    },
+    {
+      "id": 19,
+      "start": 177.983,
+      "end": 193.905,
+      "text": "Chapters with titles as unpromising as “Cistern and Buckets” become some of the novel’s most rewarding as Ishmael compares bailing out a sperm-whale’s head to midwifery, which leads to reflections on Plato.",
+      "translation": "标题不起眼的章节， 例如《水池和水桶》，成为了小说中最有价值的部分，正如以实玛利 把拉出抹香鲸的头比作接生，这引起了对柏拉图的思考。"
+    },
+    {
+      "id": 20,
+      "start": 193.955,
+      "end": 202.781,
+      "text": "Tangling whale-lines provoke witty reflections on the “ever-present perils” entangling all mortals.",
+      "translation": "纠缠在一起的捕鲸叉激起了人们对“无时无刻不困扰着 人类的危险”的诙谐思考。"
+    },
+    {
+      "id": 21,
+      "start": 202.831,
+      "end": 217.056,
+      "text": "He draws on diverse branches of knowledge, like zoology, gastronomy, law, economics, mythology, and teachings from a range of religious and cultural traditions.",
+      "translation": "他借鉴了不同的知识分支， 如动物学、烹饪学、法律、经济学、神话，以及来自各类宗教 和文化传统的教诲。"
+    },
+    {
+      "id": 22,
+      "start": 217.106,
+      "end": 222.099,
+      "text": "The book experiments with writing style as much as subject matter.",
+      "translation": "这本书在写作风格和主题上 都进行了实验。"
+    },
+    {
+      "id": 23,
+      "start": 222.149,
+      "end": 245.819,
+      "text": "In one monologue, Ahab challenges Moby Dick in Shakespearean style: “Towards thee I roll, thou all-destroying but unconquering whale; to the last I grapple with thee; from hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee.”",
+      "translation": "在一段独白中， 亚哈以莎士比亚的风格挑战莫比·迪克:“我向你翻滚过去，你这毁灭一切 却无法征服的大鲸;我和你搏斗到最后; 我从地狱之心向你刺去;为了仇恨，我把最后一口气 吐在你身上。”"
+    },
+    {
+      "id": 24,
+      "start": 245.869,
+      "end": 255.041,
+      "text": "One chapter is written as a playscript, where members of the Pequod’s multi-ethnic crew chime in individually and in chorus.",
+      "translation": "有一章写得像剧本，裴廓德号上的多民族船员们 时而独自，时而齐声唱歌。"
+    },
+    {
+      "id": 25,
+      "start": 255.091,
+      "end": 269.28,
+      "text": "African and Spanish sailors trade insults while a Tahitian seaman longs for home, Chinese and Portuguese crewmembers call for a dance, and one young boy prophesies disaster.",
+      "translation": "非洲和西班牙水手互相侮辱， 而塔希提的一位水手只渴望回家｡中国和葡萄牙的船员要求跳舞，一个年轻男孩在预言灾难。"
+    },
+    {
+      "id": 26,
+      "start": 269.33,
+      "end": 284.327,
+      "text": "In another chapter, Ishmael sings the process of decanting whale oil in epic style, as the ship pitches and rolls in the midnight sea and the casks rumble like landslides.",
+      "translation": "在另一章中，当船在午夜的海面上不停颠簸，木桶如山崩一般隆隆作响，以实玛利以史诗般的风格 唱出了倒鲸油的过程。"
+    },
+    {
+      "id": 27,
+      "start": 284.377,
+      "end": 288.75,
+      "text": "A book so wide-ranging has something for everyone.",
+      "translation": "一本内容如此广泛的书 让每个人都开卷有益。"
+    },
+    {
+      "id": 28,
+      "start": 288.8,
+      "end": 304.801,
+      "text": "Readers have found religious and political allegory, existential enquiry, social satire, economic analysis, and representations of American imperialism, industrial relations and racial conflict.",
+      "translation": "读者在书中找到了 宗教和政治寓言、存在主义询问、 社会讽刺、经济分析以及对美帝国主义、劳资关系和种族冲突的描述。"
+    },
+    {
+      "id": 29,
+      "start": 304.851,
+      "end": 322.915,
+      "text": "As Ishmael chases meaning and Ahab chases the white whale, the book explores the opposing forces of optimism and uncertainty, curiosity and fear that characterize human existence no matter what it is we’re chasing.",
+      "translation": "在以实玛利追逐意义、 亚哈追逐白鲸的过程中，这本书探索了 乐观主义与不确定性、好奇与恐惧这两种对立的力量，而不管我们追逐的是什么， 它们都是人类生存的特征。"
+    },
+    {
+      "id": 30,
+      "start": 322.965,
+      "end": 335.95,
+      "text": "Through \"Moby Dick’s\" many pages, Melville invites his readers to leap into the unknown, to join him on the hunt for the “ungraspable phantom of life.”",
+      "translation": "在《白鲸记》的众多篇章中，梅尔维尔邀请 他的读者跳入未知的世界，与他一起寻找 “难以捉摸的生命幽灵”。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.654,
+      "text": "A mountain separating two lakes.",
+      "end": 10.094
+    },
+    {
+      "start": 10.144,
+      "text": "A room papered floor to ceiling with bridal satins.",
+      "end": 15.069999999999999
+    },
+    {
+      "start": 15.12,
+      "text": "The lid of an immense snuffbox.",
+      "end": 19.035999999999998
+    },
+    {
+      "start": 19.086,
+      "text": "These seemingly unrelated images take us on a tour of a sperm whale’s head",
+      "end": 24.767
+    },
+    {
+      "start": 24.817,
+      "text": "in Herman Melville’s \"Moby Dick.\"",
+      "end": 27.872
+    },
+    {
+      "start": 27.922,
+      "text": "On the surface,",
+      "end": 28.971999999999998
+    },
+    {
+      "start": 29.022,
+      "text": "the book is the story of Captain Ahab’s hunt for revenge against Moby Dick,",
+      "end": 34.168000000000006
+    },
+    {
+      "start": 34.218,
+      "text": "the white whale who bit off his leg.",
+      "end": 37.168000000000006
+    },
+    {
+      "start": 37.218,
+      "text": "But though the book features pirates, typhoons, high-speed chases,",
+      "end": 42.274
+    },
+    {
+      "start": 42.324,
+      "text": "and giant squid,",
+      "end": 44.044000000000004
+    },
+    {
+      "start": 44.094,
+      "text": "you shouldn’t expect a conventional seafaring adventure.",
+      "end": 48.424
+    },
+    {
+      "start": 48.474,
+      "text": "Instead, it’s a multilayered exploration of not only the intimate details",
+      "end": 53.842000000000006
+    },
+    {
+      "start": 53.892,
+      "text": "of life aboard a whaling ship,",
+      "end": 56.062000000000005
+    },
+    {
+      "start": 56.112,
+      "text": "but also subjects from across human and natural history,",
+      "end": 60.237
+    },
+    {
+      "start": 60.287,
+      "text": "by turns playful and tragic, humorous, and urgent.",
+      "end": 66.375
+    },
+    {
+      "start": 66.425,
+      "text": "The narrator guiding us through these explorations",
+      "end": 69.565
+    },
+    {
+      "start": 69.615,
+      "text": "is a common sailor called Ishmael.",
+      "end": 72.715
+    },
+    {
+      "start": 72.765,
+      "text": "Ishmael starts out telling his own story",
+      "end": 75.675
+    },
+    {
+      "start": 75.725,
+      "text": "as he prepares to escape the “damp and drizzly November in [his] soul”",
+      "end": 80.363
+    },
+    {
+      "start": 80.413,
+      "text": "by going to sea.",
+      "end": 82.807
+    },
+    {
+      "start": 82.857,
+      "text": "But after he befriends the Pacific Islander Queequeg",
+      "end": 86.807
+    },
+    {
+      "start": 86.857,
+      "text": "and joins Ahab’s crew aboard the Pequod,",
+      "end": 90.297
+    },
+    {
+      "start": 90.347,
+      "text": "Ishmael becomes more of an omniscient guide for the reader",
+      "end": 93.59700000000001
+    },
+    {
+      "start": 93.647,
+      "text": "than a traditional character.",
+      "end": 95.857
+    },
+    {
+      "start": 95.907,
+      "text": "While Ahab obsesses over revenge",
+      "end": 98.477
+    },
+    {
+      "start": 98.527,
+      "text": "and first mate Starbuck tries to reason with him,",
+      "end": 101.767
+    },
+    {
+      "start": 101.817,
+      "text": "Ishmael takes us on his own quest for meaning",
+      "end": 104.967
+    },
+    {
+      "start": 105.017,
+      "text": "throughout “the whole universe, not excluding its suburbs.”",
+      "end": 109.465
+    },
+    {
+      "start": 109.515,
+      "text": "In his telling, life’s biggest questions loom large, even in the smallest details.",
+      "end": 116.178
+    },
+    {
+      "start": 116.228,
+      "text": "Like his narrator, Melville was a restless and curious spirit,",
+      "end": 120.531
+    },
+    {
+      "start": 120.581,
+      "text": "who gained an unorthodox education working as a sailor",
+      "end": 124.071
+    },
+    {
+      "start": 124.121,
+      "text": "on a series of grueling voyages around the world in his youth.",
+      "end": 128.12099999999998
+    },
+    {
+      "start": 128.171,
+      "text": "He published \"Moby Dick\" in 1851,",
+      "end": 131.131
+    },
+    {
+      "start": 131.181,
+      "text": "when the United States’ whaling industry was at its height.",
+      "end": 134.93099999999998
+    },
+    {
+      "start": 134.981,
+      "text": "Nantucket, where the Pequod sets sail,",
+      "end": 137.96099999999998
+    },
+    {
+      "start": 138.011,
+      "text": "was the epicenter of this lucrative and bloody global industry",
+      "end": 142.20399999999998
+    },
+    {
+      "start": 142.254,
+      "text": "which decimated the world’s whale populations.",
+      "end": 145.95399999999998
+    },
+    {
+      "start": 146.004,
+      "text": "Unusually for his time,",
+      "end": 147.92399999999998
+    },
+    {
+      "start": 147.974,
+      "text": "Melville doesn’t shy away from the ugly side of this industry,",
+      "end": 151.744
+    },
+    {
+      "start": 151.794,
+      "text": "even taking the whale’s perspective at one point,",
+      "end": 154.884
+    },
+    {
+      "start": 154.934,
+      "text": "when he speculates on how terrifying the huge shadows of the ships must be",
+      "end": 159.85999999999999
+    },
+    {
+      "start": 159.91,
+      "text": "to the creature swimming below.",
+      "end": 163.17999999999998
+    },
+    {
+      "start": 163.23,
+      "text": "The author’s first-hand familiarity with whaling is evident",
+      "end": 166.97299999999998
+    },
+    {
+      "start": 167.023,
+      "text": "over and over again in Ishmael’s vivid descriptions.",
+      "end": 171.533
+    },
+    {
+      "start": 171.583,
+      "text": "In one chapter, the skin of a whale’s penis",
+      "end": 174.70299999999997
+    },
+    {
+      "start": 174.753,
+      "text": "becomes protective clothing for a crewman.",
+      "end": 177.933
+    },
+    {
+      "start": 177.983,
+      "text": "Chapters with titles as unpromising as “Cistern and Buckets”",
+      "end": 183.147
+    },
+    {
+      "start": 183.197,
+      "text": "become some of the novel’s most rewarding",
+      "end": 185.797
+    },
+    {
+      "start": 185.847,
+      "text": "as Ishmael compares bailing out a sperm-whale’s head to midwifery,",
+      "end": 190.95499999999998
+    },
+    {
+      "start": 191.005,
+      "text": "which leads to reflections on Plato.",
+      "end": 193.905
+    },
+    {
+      "start": 193.955,
+      "text": "Tangling whale-lines provoke witty reflections",
+      "end": 197.635
+    },
+    {
+      "start": 197.685,
+      "text": "on the “ever-present perils” entangling all mortals.",
+      "end": 202.78099999999998
+    },
+    {
+      "start": 202.831,
+      "text": "He draws on diverse branches of knowledge, like zoology, gastronomy, law, economics,",
+      "end": 210.125
+    },
+    {
+      "start": 210.175,
+      "text": "mythology, and teachings from a range of religious and cultural traditions.",
+      "end": 217.05599999999998
+    },
+    {
+      "start": 217.106,
+      "text": "The book experiments with writing style as much as subject matter.",
+      "end": 222.099
+    },
+    {
+      "start": 222.149,
+      "text": "In one monologue, Ahab challenges Moby Dick in Shakespearean style:",
+      "end": 228.071
+    },
+    {
+      "start": 228.121,
+      "text": "“Towards thee I roll, thou all-destroying but unconquering whale;",
+      "end": 234.521
+    },
+    {
+      "start": 234.571,
+      "text": "to the last I grapple with thee; from hell’s heart I stab at thee;",
+      "end": 241.057
+    },
+    {
+      "start": 241.107,
+      "text": "for hate’s sake I spit my last breath at thee.”",
+      "end": 245.819
+    },
+    {
+      "start": 245.869,
+      "text": "One chapter is written as a playscript,",
+      "end": 248.619
+    },
+    {
+      "start": 248.669,
+      "text": "where members of the Pequod’s multi-ethnic crew chime in individually and in chorus.",
+      "end": 255.041
+    },
+    {
+      "start": 255.091,
+      "text": "African and Spanish sailors trade insults while a Tahitian seaman longs for home,",
+      "end": 261.88
+    },
+    {
+      "start": 261.93,
+      "text": "Chinese and Portuguese crewmembers call for a dance,",
+      "end": 265.59999999999997
+    },
+    {
+      "start": 265.65,
+      "text": "and one young boy prophesies disaster.",
+      "end": 269.28
+    },
+    {
+      "start": 269.33,
+      "text": "In another chapter,",
+      "end": 270.9
+    },
+    {
+      "start": 270.95,
+      "text": "Ishmael sings the process of decanting whale oil in epic style,",
+      "end": 276.15
+    },
+    {
+      "start": 276.2,
+      "text": "as the ship pitches and rolls in the midnight sea",
+      "end": 280.09499999999997
+    },
+    {
+      "start": 280.145,
+      "text": "and the casks rumble like landslides.",
+      "end": 284.327
+    },
+    {
+      "start": 284.377,
+      "text": "A book so wide-ranging has something for everyone.",
+      "end": 288.75
+    },
+    {
+      "start": 288.8,
+      "text": "Readers have found religious and political allegory,",
+      "end": 292.561
+    },
+    {
+      "start": 292.611,
+      "text": "existential enquiry, social satire, economic analysis,",
+      "end": 297.751
+    },
+    {
+      "start": 297.801,
+      "text": "and representations of American imperialism,",
+      "end": 300.801
+    },
+    {
+      "start": 300.851,
+      "text": "industrial relations and racial conflict.",
+      "end": 304.801
+    },
+    {
+      "start": 304.851,
+      "text": "As Ishmael chases meaning and Ahab chases the white whale,",
+      "end": 309.474
+    },
+    {
+      "start": 309.524,
+      "text": "the book explores the opposing forces of optimism and uncertainty,",
+      "end": 314.682
+    },
+    {
+      "start": 314.732,
+      "text": "curiosity and fear that characterize human existence",
+      "end": 319.525
+    },
+    {
+      "start": 319.575,
+      "text": "no matter what it is we’re chasing.",
+      "end": 322.91499999999996
+    },
+    {
+      "start": 322.965,
+      "text": "Through \"Moby Dick’s\" many pages,",
+      "end": 325.09499999999997
+    },
+    {
+      "start": 325.145,
+      "text": "Melville invites his readers to leap into the unknown,",
+      "end": 328.91499999999996
+    },
+    {
+      "start": 328.965,
+      "text": "to join him on the hunt for the “ungraspable phantom of life.”",
+      "end": 335.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.654,
+      "text": "分隔两湖的一座山。",
+      "end": 10.094
+    },
+    {
+      "start": 10.144,
+      "text": "整屋贴满婚服缎的房间。",
+      "end": 15.069999999999999
+    },
+    {
+      "start": 15.12,
+      "text": "一个巨大鼻烟盒的盖子。",
+      "end": 19.035999999999998
+    },
+    {
+      "start": 19.086,
+      "text": "在赫尔曼·麦尔维尔的《白鲸记》中， 这些看起来无关的画面",
+      "end": 24.767
+    },
+    {
+      "start": 24.817,
+      "text": "带我们探索了一只抹香鲸的头部。",
+      "end": 27.872
+    },
+    {
+      "start": 27.922,
+      "text": "表面上，",
+      "end": 28.971999999999998
+    },
+    {
+      "start": 29.022,
+      "text": "本书讲述的是船长亚哈（Ahab）为了复仇 而追猎莫比·迪克（Moby Dick）——",
+      "end": 34.168000000000006
+    },
+    {
+      "start": 34.218,
+      "text": "咬掉了他一条腿的白鲸——的故事。",
+      "end": 37.168000000000006
+    },
+    {
+      "start": 37.218,
+      "text": "尽管这本书中有海盗、 台风、高速追逐",
+      "end": 42.274
+    },
+    {
+      "start": 42.324,
+      "text": "和巨型乌贼，",
+      "end": 44.044000000000004
+    },
+    {
+      "start": 44.094,
+      "text": "但这绝不是一段 传统的航海冒险经历。",
+      "end": 48.424
+    },
+    {
+      "start": 48.474,
+      "text": "相反，这是一番多层次的探索，",
+      "end": 53.842000000000006
+    },
+    {
+      "start": 53.892,
+      "text": "不仅描述了 捕鲸船上生活的细枝末节，",
+      "end": 56.062000000000005
+    },
+    {
+      "start": 56.112,
+      "text": "而且包含了从人类历史 到自然历史的主题——",
+      "end": 60.237
+    },
+    {
+      "start": 60.287,
+      "text": "有好玩的、悲剧的、 幽默的和紧急的。",
+      "end": 66.375
+    },
+    {
+      "start": 66.425,
+      "text": "在这些探索中引导我们的",
+      "end": 69.565
+    },
+    {
+      "start": 69.615,
+      "text": "是一个普通水手 以实玛利（Ishmael）。",
+      "end": 72.715
+    },
+    {
+      "start": 72.765,
+      "text": "以实玛利从他准备出海",
+      "end": 75.675
+    },
+    {
+      "start": 75.725,
+      "text": "来逃离“（他的）灵魂中 潮湿而多雨的十一月”，",
+      "end": 80.363
+    },
+    {
+      "start": 80.413,
+      "text": "开始了他的故事叙述。",
+      "end": 82.807
+    },
+    {
+      "start": 82.857,
+      "text": "但在他和太平洋岛民 魁魁格（Queequeg）成为朋友，",
+      "end": 86.807
+    },
+    {
+      "start": 86.857,
+      "text": "并加入亚哈（Ahab）的团队 上了裴廓德号（Pequod）后，",
+      "end": 90.297
+    },
+    {
+      "start": 90.347,
+      "text": "以实玛利更像是 读者无所不在的向导，",
+      "end": 93.59700000000001
+    },
+    {
+      "start": 93.647,
+      "text": "而不是一个常规的人物。",
+      "end": 95.857
+    },
+    {
+      "start": 95.907,
+      "text": "当亚哈沉迷于复仇，",
+      "end": 98.477
+    },
+    {
+      "start": 98.527,
+      "text": "大副斯达巴克（Starbuck） 尝试和他讲道理时，",
+      "end": 101.767
+    },
+    {
+      "start": 101.817,
+      "text": "以实玛利带领我们在 “整个宇宙，包括边缘地带”",
+      "end": 104.967
+    },
+    {
+      "start": 105.017,
+      "text": "寻求着自己的价值。",
+      "end": 109.465
+    },
+    {
+      "start": 109.515,
+      "text": "在他的叙述中，人生中最大的问题 显得很突出，即使是在最微小的细节中。",
+      "end": 116.178
+    },
+    {
+      "start": 116.228,
+      "text": "像他的叙述者一样，梅尔维尔（Melville） 也有一种永不停歇、充满好奇心的精神。",
+      "end": 120.531
+    },
+    {
+      "start": 120.581,
+      "text": "年轻时，他作为一名海员 接受了非正统的教育，",
+      "end": 124.071
+    },
+    {
+      "start": 124.121,
+      "text": "进行了一系列艰苦的环球航行。",
+      "end": 128.12099999999998
+    },
+    {
+      "start": 128.171,
+      "text": "他在 1851 年出版了《白鲸记》，",
+      "end": 131.131
+    },
+    {
+      "start": 131.181,
+      "text": "当时美国捕鲸业正处于鼎盛时期。",
+      "end": 134.93099999999998
+    },
+    {
+      "start": 134.981,
+      "text": "裴廓德号起航的 南塔开特（Nantucket）",
+      "end": 137.96099999999998
+    },
+    {
+      "start": 138.011,
+      "text": "是这种有利可图、 血腥的全球捕鲸业的中心｡",
+      "end": 142.20399999999998
+    },
+    {
+      "start": 142.254,
+      "text": "这种捕鲸业大量捕杀了 世界上的鲸鱼。",
+      "end": 145.95399999999998
+    },
+    {
+      "start": 146.004,
+      "text": "在他的时代很不寻常的是,",
+      "end": 147.92399999999998
+    },
+    {
+      "start": 147.974,
+      "text": "梅尔维尔并不隐藏 这个行业丑陋的一面。",
+      "end": 151.744
+    },
+    {
+      "start": 151.794,
+      "text": "有一次，他甚至 从鲸鱼的角度来推测，",
+      "end": 154.884
+    },
+    {
+      "start": 154.934,
+      "text": "船的巨大阴影 对下面游动的生物来说",
+      "end": 159.85999999999999
+    },
+    {
+      "start": 159.91,
+      "text": "一定非常可怕。",
+      "end": 163.17999999999998
+    },
+    {
+      "start": 163.23,
+      "text": "在以实玛利生动的描写中，",
+      "end": 166.97299999999998
+    },
+    {
+      "start": 167.023,
+      "text": "作者对捕鲸经历的描述 逐渐生动起来。",
+      "end": 171.533
+    },
+    {
+      "start": 171.583,
+      "text": "在其中一章里，鲸鱼阴茎的皮肤",
+      "end": 174.70299999999997
+    },
+    {
+      "start": 174.753,
+      "text": "变成了一名船员的防护服。",
+      "end": 177.933
+    },
+    {
+      "start": 177.983,
+      "text": "标题不起眼的章节， 例如《水池和水桶》，",
+      "end": 183.147
+    },
+    {
+      "start": 183.197,
+      "text": "成为了小说中最有价值的部分，",
+      "end": 185.797
+    },
+    {
+      "start": 185.847,
+      "text": "正如以实玛利 把拉出抹香鲸的头比作接生，",
+      "end": 190.95499999999998
+    },
+    {
+      "start": 191.005,
+      "text": "这引起了对柏拉图的思考。",
+      "end": 193.905
+    },
+    {
+      "start": 193.955,
+      "text": "纠缠在一起的捕鲸叉激起了",
+      "end": 197.635
+    },
+    {
+      "start": 197.685,
+      "text": "人们对“无时无刻不困扰着 人类的危险”的诙谐思考。",
+      "end": 202.78099999999998
+    },
+    {
+      "start": 202.831,
+      "text": "他借鉴了不同的知识分支， 如动物学、烹饪学、法律、经济学、",
+      "end": 210.125
+    },
+    {
+      "start": 210.175,
+      "text": "神话，以及来自各类宗教 和文化传统的教诲。",
+      "end": 216.896
+    },
+    {
+      "start": 216.946,
+      "text": "这本书在写作风格和主题上 都进行了实验。",
+      "end": 222.099
+    },
+    {
+      "start": 222.149,
+      "text": "在一段独白中， 亚哈以莎士比亚的风格挑战莫比·迪克:",
+      "end": 228.071
+    },
+    {
+      "start": 228.121,
+      "text": "“我向你翻滚过去，你这毁灭一切 却无法征服的大鲸;",
+      "end": 234.521
+    },
+    {
+      "start": 234.571,
+      "text": "我和你搏斗到最后; 我从地狱之心向你刺去;",
+      "end": 241.057
+    },
+    {
+      "start": 241.107,
+      "text": "为了仇恨，我把最后一口气 吐在你身上。”",
+      "end": 245.819
+    },
+    {
+      "start": 245.869,
+      "text": "有一章写得像剧本，",
+      "end": 248.619
+    },
+    {
+      "start": 248.669,
+      "text": "裴廓德号上的多民族船员们 时而独自，时而齐声唱歌。",
+      "end": 255.041
+    },
+    {
+      "start": 255.091,
+      "text": "非洲和西班牙水手互相侮辱， 而塔希提的一位水手只渴望回家｡",
+      "end": 261.88
+    },
+    {
+      "start": 261.93,
+      "text": "中国和葡萄牙的船员要求跳舞，",
+      "end": 265.59999999999997
+    },
+    {
+      "start": 265.65,
+      "text": "一个年轻男孩在预言灾难。",
+      "end": 269.28
+    },
+    {
+      "start": 269.33,
+      "text": "在另一章中，",
+      "end": 270.9
+    },
+    {
+      "start": 270.95,
+      "text": "当船在午夜的海面上不停颠簸，",
+      "end": 276.15
+    },
+    {
+      "start": 276.2,
+      "text": "木桶如山崩一般隆隆作响，",
+      "end": 280.09499999999997
+    },
+    {
+      "start": 280.145,
+      "text": "以实玛利以史诗般的风格 唱出了倒鲸油的过程。",
+      "end": 284.327
+    },
+    {
+      "start": 284.377,
+      "text": "一本内容如此广泛的书 让每个人都开卷有益。",
+      "end": 288.75
+    },
+    {
+      "start": 288.8,
+      "text": "读者在书中找到了 宗教和政治寓言、",
+      "end": 292.561
+    },
+    {
+      "start": 292.611,
+      "text": "存在主义询问、 社会讽刺、经济分析",
+      "end": 297.751
+    },
+    {
+      "start": 297.801,
+      "text": "以及对美帝国主义、",
+      "end": 300.801
+    },
+    {
+      "start": 300.851,
+      "text": "劳资关系和种族冲突的描述。",
+      "end": 304.801
+    },
+    {
+      "start": 304.851,
+      "text": "在以实玛利追逐意义、 亚哈追逐白鲸的过程中，",
+      "end": 309.474
+    },
+    {
+      "start": 309.524,
+      "text": "这本书探索了 乐观主义与不确定性、",
+      "end": 314.682
+    },
+    {
+      "start": 314.732,
+      "text": "好奇与恐惧这两种对立的力量，",
+      "end": 319.525
+    },
+    {
+      "start": 319.575,
+      "text": "而不管我们追逐的是什么， 它们都是人类生存的特征。",
+      "end": 322.91499999999996
+    },
+    {
+      "start": 322.965,
+      "text": "在《白鲸记》的众多篇章中，",
+      "end": 325.09499999999997
+    },
+    {
+      "start": 325.145,
+      "text": "梅尔维尔邀请 他的读者跳入未知的世界，",
+      "end": 328.91499999999996
+    },
+    {
+      "start": 328.965,
+      "text": "与他一起寻找 “难以捉摸的生命幽灵”。",
+      "end": 335.95
+    }
+  ]
+};

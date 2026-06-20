@@ -1,0 +1,1084 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The surprising origins of the word “lesbian”",
+    "speaker": "Diane J. Rayor",
+    "duration": 306,
+    "slug": "diane_j_rayor_the_surprising_origins_of_the_word_lesbian",
+    "sourcePage": "https://www.ted.com/talks/diane_j_rayor_the_surprising_origins_of_the_word_lesbian",
+    "translationSourcePage": "https://www.ted.com/talks/diane_j_rayor_the_surprising_origins_of_the_word_lesbian?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/56/13/001/products/2021-diane-j-rayor-sappho-001-fallback-2f12f552c1de491cbe1b2ac8b2692066-1200k.mp4",
+    "youtubeId": "EFcftfqpxK4",
+    "youtubeTitle": "The surprising origins of the word “lesbian” - Diane J. Rayor"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.746,
+      "end": 16.488,
+      "text": "More than 2,500 years ago, one of ancient Greece’s most celebrated popstars and erotic poets enraptured listeners.",
+      "translation": "在距今2500多年前一位希腊最出名的流行歌星和情色诗人使听众心醉神迷"
+    },
+    {
+      "id": 2,
+      "start": 16.538,
+      "end": 29.279,
+      "text": "In one legend, a prominent Athenian heard his nephew singing one of their songs and enjoyed it so much that he asked the boy to teach it to him— “So that I may learn it and die,” he said.",
+      "translation": "有则传说提到，一位雅典名人 听见其侄子唱着其中一首歌他非常陶醉，便问侄子 能不能教他唱这首歌他说：“我学了这首歌便能死而无憾了。”"
+    },
+    {
+      "id": 3,
+      "start": 29.329,
+      "end": 32.071,
+      "text": "So, who was this revered figure?",
+      "translation": "那么，这位备受尊敬的大人物是谁呢？"
+    },
+    {
+      "id": 4,
+      "start": 32.121,
+      "end": 34.071,
+      "text": "Her name was Sappho.",
+      "translation": "她便是萨福"
+    },
+    {
+      "id": 5,
+      "start": 34.121,
+      "end": 39.487,
+      "text": "She lived on the Greek island of Lesbos around 600 BCE.",
+      "translation": "公元前600年左右 她生活在希腊莱斯波斯岛"
+    },
+    {
+      "id": 6,
+      "start": 39.537,
+      "end": 49.029,
+      "text": "Like other singer-songwriters of the time, she sang while playing the lyre, a stringed instrument from which the term “lyrics” is derived.",
+      "translation": "她如同那个时代其他创作歌手一样她边唱边弹着竖琴歌词（lyrics）一词就来自竖琴（lyre）"
+    },
+    {
+      "id": 7,
+      "start": 49.079,
+      "end": 56.362,
+      "text": "But Sappho lyrics offered a uniquely intimate perspective on love, passion, and longing.",
+      "translation": "但萨福的歌词带给人 与众不同的亲密视角她歌颂爱、热情和渴望"
+    },
+    {
+      "id": 8,
+      "start": 56.412,
+      "end": 67.904,
+      "text": "She’s the first on record to combine the words “bitter” and “sweet,” for instance, to describe at once the thrills and devastations of romance.",
+      "translation": "例如，她是记载里首个 把“苦”和“甜”合成一个词来描绘在浪漫关系中 同时存在的震颤与毁灭的人"
+    },
+    {
+      "id": 9,
+      "start": 67.954,
+      "end": 74.321,
+      "text": "Sappho was an aristocrat thought to have married a man, though none of her surviving work mentions him.",
+      "translation": "萨福是一个贵族 后世认为她嫁了一个男人尽管她现存的所有作品中从未提到过他"
+    },
+    {
+      "id": 10,
+      "start": 74.371,
+      "end": 80.613,
+      "text": "It does reference other family as well as festivals, colorful clothing, and growing old.",
+      "translation": "她的作品里提到过其他家人、节日多彩的服饰，以及衰老"
+    },
+    {
+      "id": 11,
+      "start": 80.663,
+      "end": 86.238,
+      "text": "But Sappho is best known for her lyrics about homoerotic desire for women.",
+      "translation": "但萨福最著名的是 歌词里对女性的同性欲望"
+    },
+    {
+      "id": 12,
+      "start": 86.288,
+      "end": 95.029,
+      "text": "In one song, as her female companion departs tearfully, Sappho says, “let me remind you / ... the lovely times we shared.”",
+      "translation": "在一首歌里，与她的女性爱人 挥泪而别时，她说道“就让我来提醒你... 我们消磨过的美好光阴。”"
+    },
+    {
+      "id": 13,
+      "start": 95.079,
+      "end": 103.488,
+      "text": "She describes flower garlands, perfumes, “and,” she says, “on soft beds / ... you quenched your desire.”",
+      "translation": "她描绘花环、香水，还说“在柔软的床上...你释出欲望。”"
+    },
+    {
+      "id": 14,
+      "start": 103.538,
+      "end": 117.238,
+      "text": "In another, she describes a friend in a distant city, “Pacing far away, her gentle heart devoured by powerful desire, she remembers slender Atthis.”",
+      "translation": "在另一首诗里，她这样描写 一位千里之外的朋友“踱步远行，她温柔的心 被强烈的欲望吞噬，”“她无法忘记身段苗条的阿特斯。”"
+    },
+    {
+      "id": 15,
+      "start": 117.288,
+      "end": 125.988,
+      "text": "The word “Lesbian” means someone from Lesbos, but, because of Sappho, it now also describes a woman who’s gay.",
+      "translation": "“蕾丝边（Lesbian)”一词原指 来自莱斯波斯岛（Lesbos）的人但因为萨福，现在这个词 也被用来形容女同性恋者"
+    },
+    {
+      "id": 16,
+      "start": 126.038,
+      "end": 130.946,
+      "text": "In ancient Greece, the norm was for everyone to marry and have children.",
+      "translation": "古希腊的社会规范是 每个人都得结婚生子"
+    },
+    {
+      "id": 17,
+      "start": 130.996,
+      "end": 138.238,
+      "text": "While men were usually permitted to have homosexual relationships based on their status, women weren’t.",
+      "translation": "尽管男性通常会被允许有同性恋关系根据他们的地位而定，女性却不能"
+    },
+    {
+      "id": 18,
+      "start": 138.288,
+      "end": 145.029,
+      "text": "But it appears that, on Lesbos at this time, aristocratic women generally had more freedom.",
+      "translation": "但好像在那时的莱斯波斯岛上贵族女性通常拥有更多的自由"
+    },
+    {
+      "id": 19,
+      "start": 145.079,
+      "end": 152.488,
+      "text": "Yet the details of Sappho’s life remain mysterious, partially because only fragments of her poetry survive.",
+      "translation": "但萨福的生活细节仍不为人知一部分是因为她的现存诗歌仅剩片段"
+    },
+    {
+      "id": 20,
+      "start": 152.538,
+      "end": 158.863,
+      "text": "In ancient times, however, so much of it persisted that it seemed it would last forever.",
+      "translation": "但古时萨福有非常多的诗歌就像这些诗歌会永远流传"
+    },
+    {
+      "id": 21,
+      "start": 158.913,
+      "end": 166.904,
+      "text": "Admirers performed Sappho cover songs and committed her poetry to papyrus, parchment, and pottery.",
+      "translation": "仰慕者表演萨福的诗歌 并把她的诗歌留存在莎草纸、羊皮纸和陶器上"
+    },
+    {
+      "id": 22,
+      "start": 166.954,
+      "end": 176.029,
+      "text": "Three centuries after Sappho’s death, a Greek author declared that her words would endure “as long as ships sail from the Nile.”",
+      "translation": "萨福去世三个世纪后一位希腊作家声称她的作品会恒久流传“只要船只还会从尼罗河上扬帆起航。”"
+    },
+    {
+      "id": 23,
+      "start": 176.079,
+      "end": 185.196,
+      "text": "Another century later, the Library of Alexandria housed nine scrolls of her work, numbering over 10,000 lines.",
+      "translation": "又过去一个世纪之后亚历山大图书馆里 存放了九大卷轴她的作品总共有超过五万行"
+    },
+    {
+      "id": 24,
+      "start": 185.246,
+      "end": 188.446,
+      "text": "But natural forces eroded the collection.",
+      "translation": "但这些收藏遭到了自然力量的侵蚀"
+    },
+    {
+      "id": 25,
+      "start": 188.496,
+      "end": 195.529,
+      "text": "And monks, tasked with preserving ancient writing, likely neglected or destroyed her work.",
+      "translation": "而负责保护古代著作的僧侣则很可能无视或摧毁了她的作品"
+    },
+    {
+      "id": 26,
+      "start": 195.579,
+      "end": 202.779,
+      "text": "One 2nd century Christian leader called Sappho “a whore who sang about her own licentiousness.”",
+      "translation": "公元2世纪，一位基督教领袖称萨福是“歌颂自身放荡的妓女。”"
+    },
+    {
+      "id": 27,
+      "start": 202.829,
+      "end": 207.696,
+      "text": "Later, a Pope and Archbishop ordered her poetry burned.",
+      "translation": "之后，有位教皇和大主教 下令烧掉她的诗歌"
+    },
+    {
+      "id": 28,
+      "start": 207.746,
+      "end": 211.529,
+      "text": "Almost all of it had vanished by the Middle Ages.",
+      "translation": "她的作品在中世纪前几乎全被销毁了"
+    },
+    {
+      "id": 29,
+      "start": 211.579,
+      "end": 220.488,
+      "text": "Then, about a century ago, people began rediscovering Sappho’s poetry— in locations like an ancient Egyptian garbage dump.",
+      "translation": "此后，大约在一个世纪前人们在一个像古埃及垃圾场的地方 重新发现了萨福的诗歌现在我们还有大概700行她的诗歌"
+    },
+    {
+      "id": 30,
+      "start": 220.538,
+      "end": 228.488,
+      "text": "Now, we have around 700 lines, representing less than 10% of Sappho’s total known work.",
+      "translation": "仅是萨福所有已知作品的不到10%我们仅有一首完整的萨福的诗歌"
+    },
+    {
+      "id": 31,
+      "start": 228.538,
+      "end": 231.571,
+      "text": "We only have one complete poem of hers.",
+      "translation": "大约十几首诗歌有较为完整 但绝大多数都仅有片段"
+    },
+    {
+      "id": 32,
+      "start": 231.621,
+      "end": 236.863,
+      "text": "About a dozen others are substantial, but most are mere fragments.",
+      "translation": "我们可能还会找到 萨福诗歌的一些新片段"
+    },
+    {
+      "id": 33,
+      "start": 236.913,
+      "end": 240.196,
+      "text": "New pieces of Sappho’s songs probably will be found.",
+      "translation": "有些片段可能已在博物馆档案室里"
+    },
+    {
+      "id": 34,
+      "start": 240.246,
+      "end": 250.238,
+      "text": "Some may already be sitting in museum archives, to be revealed when technology allows scholars to read through scrolls too fragile to unroll.",
+      "translation": "一旦科技能让学者翻动 过于脆弱的卷轴阅读，就能被揭晓我们现在仅有的是不完整的记录以及许多历史上的传闻"
+    },
+    {
+      "id": 35,
+      "start": 250.288,
+      "end": 256.279,
+      "text": "What we are currently left with is an incomplete record— and many historical rumors.",
+      "translation": "奥维德坚称萨福曾与一名船夫相爱但遭到了拒绝后，坠崖而亡"
+    },
+    {
+      "id": 36,
+      "start": 256.329,
+      "end": 264.654,
+      "text": "Ovid insisted that Sappho fell in love with a ferryman and, upon being rejected, leapt from a cliff to her death.",
+      "translation": "另一则传闻则说她办了一所女子学校那些她诗中提到的人 只不过是让她有着柏拉图式喜爱的学生"
+    },
+    {
+      "id": 37,
+      "start": 264.704,
+      "end": 273.446,
+      "text": "Another tale asserts that she ran a girls’ school and those mentioned in her poems were merely students for whom she felt platonic affection.",
+      "translation": "目前的共识则是，这些奚落萨福或否认其同性恋的故事可能都是出于厌女症 和恐同症而捏造的谣言"
+    },
+    {
+      "id": 38,
+      "start": 273.496,
+      "end": 285.863,
+      "text": "Current consensus is that these stories, which ridicule Sappho or deny her work’s homoeroticism, are probably all untrue artifacts of misogyny and homophobia.",
+      "translation": "尽管几千年中遭遇了各种扭曲萨福的词句仍穿越时间 使今天的人产生共鸣在两千多年前，她写道："
+    },
+    {
+      "id": 39,
+      "start": 285.913,
+      "end": 294.113,
+      "text": "Despite the distortions of the intervening millennia, Sappho’s words reach across time and resonate today.",
+      "translation": "“我相信其他時代的某人会记得我们”幸好，我们现在记得"
+    },
+    {
+      "id": 40,
+      "start": 294.163,
+      "end": 305.95,
+      "text": "More than 2,000 years ago, she wrote: “I say someone in another time will remember us” And, thankfully, we do.",
+      "translation": "萨福的词句仍穿越时间 使今天的人产生共鸣在两千多年前，她写道：“我相信其他時代的某人会记得我们”幸好，我们现在记得"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.746,
+      "text": "More than 2,500 years ago,",
+      "end": 9.446
+    },
+    {
+      "start": 9.496,
+      "text": "one of ancient Greece’s most celebrated popstars and erotic poets",
+      "end": 14.321
+    },
+    {
+      "start": 14.371,
+      "text": "enraptured listeners.",
+      "end": 16.488
+    },
+    {
+      "start": 16.538,
+      "text": "In one legend, a prominent Athenian heard his nephew singing one of their songs",
+      "end": 21.613
+    },
+    {
+      "start": 21.663,
+      "text": "and enjoyed it so much that he asked the boy to teach it to him—",
+      "end": 25.820999999999998
+    },
+    {
+      "start": 25.871,
+      "text": "“So that I may learn it and die,” he said.",
+      "end": 29.279
+    },
+    {
+      "start": 29.329,
+      "text": "So, who was this revered figure?",
+      "end": 32.071000000000005
+    },
+    {
+      "start": 32.121,
+      "text": "Her name was Sappho.",
+      "end": 34.071000000000005
+    },
+    {
+      "start": 34.121,
+      "text": "She lived on the Greek island of Lesbos around 600 BCE.",
+      "end": 39.487
+    },
+    {
+      "start": 39.537,
+      "text": "Like other singer-songwriters of the time,",
+      "end": 41.862
+    },
+    {
+      "start": 41.912,
+      "text": "she sang while playing the lyre,",
+      "end": 44.362
+    },
+    {
+      "start": 44.412,
+      "text": "a stringed instrument from which the term “lyrics” is derived.",
+      "end": 49.029
+    },
+    {
+      "start": 49.079,
+      "text": "But Sappho lyrics offered a uniquely intimate perspective",
+      "end": 53.029
+    },
+    {
+      "start": 53.079,
+      "text": "on love, passion, and longing.",
+      "end": 56.362
+    },
+    {
+      "start": 56.412,
+      "text": "She’s the first on record to combine the words “bitter” and “sweet,” for instance,",
+      "end": 62.279
+    },
+    {
+      "start": 62.329,
+      "text": "to describe at once the thrills and devastations of romance.",
+      "end": 67.904
+    },
+    {
+      "start": 67.954,
+      "text": "Sappho was an aristocrat thought to have married a man,",
+      "end": 71.446
+    },
+    {
+      "start": 71.496,
+      "text": "though none of her surviving work mentions him.",
+      "end": 74.321
+    },
+    {
+      "start": 74.371,
+      "text": "It does reference other family as well as festivals,",
+      "end": 77.529
+    },
+    {
+      "start": 77.579,
+      "text": "colorful clothing, and growing old.",
+      "end": 80.613
+    },
+    {
+      "start": 80.663,
+      "text": "But Sappho is best known for her lyrics about homoerotic desire for women.",
+      "end": 86.238
+    },
+    {
+      "start": 86.288,
+      "text": "In one song, as her female companion departs tearfully, Sappho says,",
+      "end": 91.529
+    },
+    {
+      "start": 91.579,
+      "text": "“let me remind you / ... the lovely times we shared.”",
+      "end": 95.029
+    },
+    {
+      "start": 95.079,
+      "text": "She describes flower garlands, perfumes, “and,” she says,",
+      "end": 99.571
+    },
+    {
+      "start": 99.621,
+      "text": "“on soft beds / ... you quenched your desire.”",
+      "end": 103.488
+    },
+    {
+      "start": 103.538,
+      "text": "In another, she describes a friend in a distant city,",
+      "end": 107.654
+    },
+    {
+      "start": 107.704,
+      "text": "“Pacing far away, her gentle heart devoured by powerful desire,",
+      "end": 113.779
+    },
+    {
+      "start": 113.829,
+      "text": "she remembers slender Atthis.”",
+      "end": 117.238
+    },
+    {
+      "start": 117.288,
+      "text": "The word “Lesbian” means someone from Lesbos,",
+      "end": 120.529
+    },
+    {
+      "start": 120.579,
+      "text": "but, because of Sappho, it now also describes a woman who’s gay.",
+      "end": 125.988
+    },
+    {
+      "start": 126.038,
+      "text": "In ancient Greece, the norm was for everyone to marry and have children.",
+      "end": 130.946
+    },
+    {
+      "start": 130.996,
+      "text": "While men were usually permitted to have homosexual relationships",
+      "end": 134.488
+    },
+    {
+      "start": 134.538,
+      "text": "based on their status, women weren’t.",
+      "end": 138.238
+    },
+    {
+      "start": 138.288,
+      "text": "But it appears that, on Lesbos at this time,",
+      "end": 141.404
+    },
+    {
+      "start": 141.454,
+      "text": "aristocratic women generally had more freedom.",
+      "end": 145.029
+    },
+    {
+      "start": 145.079,
+      "text": "Yet the details of Sappho’s life remain mysterious,",
+      "end": 148.863
+    },
+    {
+      "start": 148.913,
+      "text": "partially because only fragments of her poetry survive.",
+      "end": 152.488
+    },
+    {
+      "start": 152.538,
+      "text": "In ancient times, however, so much of it persisted",
+      "end": 155.904
+    },
+    {
+      "start": 155.954,
+      "text": "that it seemed it would last forever.",
+      "end": 158.863
+    },
+    {
+      "start": 158.913,
+      "text": "Admirers performed Sappho cover songs and committed her poetry",
+      "end": 163.529
+    },
+    {
+      "start": 163.579,
+      "text": "to papyrus, parchment, and pottery.",
+      "end": 166.904
+    },
+    {
+      "start": 166.954,
+      "text": "Three centuries after Sappho’s death,",
+      "end": 169.113
+    },
+    {
+      "start": 169.163,
+      "text": "a Greek author declared that her words would endure",
+      "end": 172.404
+    },
+    {
+      "start": 172.454,
+      "text": "“as long as ships sail from the Nile.”",
+      "end": 176.029
+    },
+    {
+      "start": 176.079,
+      "text": "Another century later,",
+      "end": 177.529
+    },
+    {
+      "start": 177.579,
+      "text": "the Library of Alexandria housed nine scrolls of her work,",
+      "end": 181.779
+    },
+    {
+      "start": 181.829,
+      "text": "numbering over 10,000 lines.",
+      "end": 185.196
+    },
+    {
+      "start": 185.246,
+      "text": "But natural forces eroded the collection.",
+      "end": 188.446
+    },
+    {
+      "start": 188.496,
+      "text": "And monks, tasked with preserving ancient writing,",
+      "end": 191.904
+    },
+    {
+      "start": 191.954,
+      "text": "likely neglected or destroyed her work.",
+      "end": 195.529
+    },
+    {
+      "start": 195.579,
+      "text": "One 2nd century Christian leader called Sappho",
+      "end": 199.196
+    },
+    {
+      "start": 199.246,
+      "text": "“a whore who sang about her own licentiousness.”",
+      "end": 202.779
+    },
+    {
+      "start": 202.829,
+      "text": "Later, a Pope and Archbishop ordered her poetry burned.",
+      "end": 207.696
+    },
+    {
+      "start": 207.746,
+      "text": "Almost all of it had vanished by the Middle Ages.",
+      "end": 211.529
+    },
+    {
+      "start": 211.579,
+      "text": "Then, about a century ago,",
+      "end": 213.613
+    },
+    {
+      "start": 213.663,
+      "text": "people began rediscovering Sappho’s poetry—",
+      "end": 216.571
+    },
+    {
+      "start": 216.621,
+      "text": "in locations like an ancient Egyptian garbage dump.",
+      "end": 220.488
+    },
+    {
+      "start": 220.538,
+      "text": "Now, we have around 700 lines,",
+      "end": 223.404
+    },
+    {
+      "start": 223.454,
+      "text": "representing less than 10% of Sappho’s total known work.",
+      "end": 228.488
+    },
+    {
+      "start": 228.538,
+      "text": "We only have one complete poem of hers.",
+      "end": 231.571
+    },
+    {
+      "start": 231.621,
+      "text": "About a dozen others are substantial, but most are mere fragments.",
+      "end": 236.863
+    },
+    {
+      "start": 236.913,
+      "text": "New pieces of Sappho’s songs probably will be found.",
+      "end": 240.196
+    },
+    {
+      "start": 240.246,
+      "text": "Some may already be sitting in museum archives,",
+      "end": 243.446
+    },
+    {
+      "start": 243.496,
+      "text": "to be revealed when technology allows scholars",
+      "end": 246.446
+    },
+    {
+      "start": 246.496,
+      "text": "to read through scrolls too fragile to unroll.",
+      "end": 250.238
+    },
+    {
+      "start": 250.288,
+      "text": "What we are currently left with is an incomplete record—",
+      "end": 253.571
+    },
+    {
+      "start": 253.621,
+      "text": "and many historical rumors.",
+      "end": 256.279
+    },
+    {
+      "start": 256.329,
+      "text": "Ovid insisted that Sappho fell in love with a ferryman",
+      "end": 259.404
+    },
+    {
+      "start": 259.454,
+      "text": "and, upon being rejected, leapt from a cliff to her death.",
+      "end": 264.654
+    },
+    {
+      "start": 264.704,
+      "text": "Another tale asserts that she ran a girls’ school",
+      "end": 267.44599999999997
+    },
+    {
+      "start": 267.496,
+      "text": "and those mentioned in her poems were merely students",
+      "end": 270.69599999999997
+    },
+    {
+      "start": 270.746,
+      "text": "for whom she felt platonic affection.",
+      "end": 273.44599999999997
+    },
+    {
+      "start": 273.496,
+      "text": "Current consensus is that these stories,",
+      "end": 276.154
+    },
+    {
+      "start": 276.204,
+      "text": "which ridicule Sappho or deny her work’s homoeroticism,",
+      "end": 280.19599999999997
+    },
+    {
+      "start": 280.246,
+      "text": "are probably all untrue artifacts of misogyny and homophobia.",
+      "end": 285.863
+    },
+    {
+      "start": 285.913,
+      "text": "Despite the distortions of the intervening millennia,",
+      "end": 288.94599999999997
+    },
+    {
+      "start": 288.996,
+      "text": "Sappho’s words reach across time and resonate today.",
+      "end": 294.113
+    },
+    {
+      "start": 294.163,
+      "text": "More than 2,000 years ago, she wrote:",
+      "end": 297.738
+    },
+    {
+      "start": 297.788,
+      "text": "“I say someone in another time will remember us”",
+      "end": 302.44599999999997
+    },
+    {
+      "start": 302.496,
+      "text": "And, thankfully, we do.",
+      "end": 305.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.746,
+      "text": "在距今2500多年前",
+      "end": 9.446
+    },
+    {
+      "start": 9.496,
+      "text": "一位希腊最出名的流行歌星和情色诗人",
+      "end": 14.321
+    },
+    {
+      "start": 14.371,
+      "text": "使听众心醉神迷",
+      "end": 16.488
+    },
+    {
+      "start": 16.538,
+      "text": "有则传说提到，一位雅典名人 听见其侄子唱着其中一首歌",
+      "end": 21.613
+    },
+    {
+      "start": 21.663,
+      "text": "他非常陶醉，便问侄子 能不能教他唱这首歌",
+      "end": 25.820999999999998
+    },
+    {
+      "start": 25.871,
+      "text": "他说：“我学了这首歌便能死而无憾了。”",
+      "end": 29.279
+    },
+    {
+      "start": 29.329,
+      "text": "那么，这位备受尊敬的大人物是谁呢？",
+      "end": 32.071000000000005
+    },
+    {
+      "start": 32.121,
+      "text": "她便是萨福",
+      "end": 34.071000000000005
+    },
+    {
+      "start": 34.121,
+      "text": "公元前600年左右 她生活在希腊莱斯波斯岛",
+      "end": 39.487
+    },
+    {
+      "start": 39.537,
+      "text": "她如同那个时代其他创作歌手一样",
+      "end": 41.862
+    },
+    {
+      "start": 41.912,
+      "text": "她边唱边弹着竖琴",
+      "end": 44.362
+    },
+    {
+      "start": 44.412,
+      "text": "歌词（lyrics）一词就来自竖琴（lyre）",
+      "end": 49.029
+    },
+    {
+      "start": 49.079,
+      "text": "但萨福的歌词带给人 与众不同的亲密视角",
+      "end": 53.029
+    },
+    {
+      "start": 53.079,
+      "text": "她歌颂爱、热情和渴望",
+      "end": 56.362
+    },
+    {
+      "start": 56.412,
+      "text": "例如，她是记载里首个 把“苦”和“甜”合成一个词",
+      "end": 62.279
+    },
+    {
+      "start": 62.329,
+      "text": "来描绘在浪漫关系中 同时存在的震颤与毁灭的人",
+      "end": 67.904
+    },
+    {
+      "start": 67.954,
+      "text": "萨福是一个贵族 后世认为她嫁了一个男人",
+      "end": 71.446
+    },
+    {
+      "start": 71.496,
+      "text": "尽管她现存的所有作品中从未提到过他",
+      "end": 74.321
+    },
+    {
+      "start": 74.371,
+      "text": "她的作品里提到过其他家人、节日",
+      "end": 77.404
+    },
+    {
+      "start": 77.454,
+      "text": "多彩的服饰，以及衰老",
+      "end": 80.613
+    },
+    {
+      "start": 80.663,
+      "text": "但萨福最著名的是 歌词里对女性的同性欲望",
+      "end": 86.238
+    },
+    {
+      "start": 86.288,
+      "text": "在一首歌里，与她的女性爱人 挥泪而别时，她说道",
+      "end": 91.529
+    },
+    {
+      "start": 91.579,
+      "text": "“就让我来提醒你... 我们消磨过的美好光阴。”",
+      "end": 95.029
+    },
+    {
+      "start": 95.079,
+      "text": "她描绘花环、香水，还说",
+      "end": 99.571
+    },
+    {
+      "start": 99.621,
+      "text": "“在柔软的床上...你释出欲望。”",
+      "end": 103.488
+    },
+    {
+      "start": 103.538,
+      "text": "在另一首诗里，她这样描写 一位千里之外的朋友",
+      "end": 107.654
+    },
+    {
+      "start": 107.704,
+      "text": "“踱步远行，她温柔的心 被强烈的欲望吞噬，”",
+      "end": 113.779
+    },
+    {
+      "start": 113.829,
+      "text": "“她无法忘记身段苗条的阿特斯。”",
+      "end": 117.238
+    },
+    {
+      "start": 117.288,
+      "text": "“蕾丝边（Lesbian)”一词原指 来自莱斯波斯岛（Lesbos）的人",
+      "end": 120.529
+    },
+    {
+      "start": 120.579,
+      "text": "但因为萨福，现在这个词 也被用来形容女同性恋者",
+      "end": 125.988
+    },
+    {
+      "start": 126.038,
+      "text": "古希腊的社会规范是 每个人都得结婚生子",
+      "end": 130.946
+    },
+    {
+      "start": 130.996,
+      "text": "尽管男性通常会被允许有同性恋关系",
+      "end": 134.488
+    },
+    {
+      "start": 134.538,
+      "text": "根据他们的地位而定，女性却不能",
+      "end": 138.238
+    },
+    {
+      "start": 138.288,
+      "text": "但好像在那时的莱斯波斯岛上",
+      "end": 141.404
+    },
+    {
+      "start": 141.454,
+      "text": "贵族女性通常拥有更多的自由",
+      "end": 145.029
+    },
+    {
+      "start": 145.079,
+      "text": "但萨福的生活细节仍不为人知",
+      "end": 148.863
+    },
+    {
+      "start": 148.913,
+      "text": "一部分是因为她的现存诗歌仅剩片段",
+      "end": 152.488
+    },
+    {
+      "start": 152.538,
+      "text": "但古时萨福有非常多的诗歌",
+      "end": 155.904
+    },
+    {
+      "start": 155.954,
+      "text": "就像这些诗歌会永远流传",
+      "end": 158.863
+    },
+    {
+      "start": 158.913,
+      "text": "仰慕者表演萨福的诗歌 并把她的诗歌留存在",
+      "end": 163.529
+    },
+    {
+      "start": 163.579,
+      "text": "莎草纸、羊皮纸和陶器上",
+      "end": 166.904
+    },
+    {
+      "start": 166.954,
+      "text": "萨福去世三个世纪后",
+      "end": 169.113
+    },
+    {
+      "start": 169.163,
+      "text": "一位希腊作家声称她的作品会恒久流传",
+      "end": 172.404
+    },
+    {
+      "start": 172.454,
+      "text": "“只要船只还会从尼罗河上扬帆起航。”",
+      "end": 176.029
+    },
+    {
+      "start": 176.079,
+      "text": "又过去一个世纪之后",
+      "end": 177.529
+    },
+    {
+      "start": 177.579,
+      "text": "亚历山大图书馆里 存放了九大卷轴她的作品",
+      "end": 181.779
+    },
+    {
+      "start": 181.829,
+      "text": "总共有超过五万行",
+      "end": 185.196
+    },
+    {
+      "start": 185.246,
+      "text": "但这些收藏遭到了自然力量的侵蚀",
+      "end": 188.446
+    },
+    {
+      "start": 188.496,
+      "text": "而负责保护古代著作的僧侣",
+      "end": 191.904
+    },
+    {
+      "start": 191.954,
+      "text": "则很可能无视或摧毁了她的作品",
+      "end": 195.529
+    },
+    {
+      "start": 195.579,
+      "text": "公元2世纪，一位基督教领袖称萨福是",
+      "end": 199.196
+    },
+    {
+      "start": 199.246,
+      "text": "“歌颂自身放荡的妓女。”",
+      "end": 202.779
+    },
+    {
+      "start": 202.829,
+      "text": "之后，有位教皇和大主教 下令烧掉她的诗歌",
+      "end": 207.696
+    },
+    {
+      "start": 207.746,
+      "text": "她的作品在中世纪前几乎全被销毁了",
+      "end": 211.529
+    },
+    {
+      "start": 211.579,
+      "text": "此后，大约在一个世纪前",
+      "end": 213.613
+    },
+    {
+      "start": 213.663,
+      "text": "人们在一个像古埃及垃圾场的地方 重新发现了萨福的诗歌",
+      "end": 220.488
+    },
+    {
+      "start": 220.538,
+      "text": "现在我们还有大概700行她的诗歌",
+      "end": 223.404
+    },
+    {
+      "start": 223.454,
+      "text": "仅是萨福所有已知作品的不到10%",
+      "end": 228.488
+    },
+    {
+      "start": 228.538,
+      "text": "我们仅有一首完整的萨福的诗歌",
+      "end": 231.571
+    },
+    {
+      "start": 231.621,
+      "text": "大约十几首诗歌有较为完整 但绝大多数都仅有片段",
+      "end": 236.863
+    },
+    {
+      "start": 236.913,
+      "text": "我们可能还会找到 萨福诗歌的一些新片段",
+      "end": 240.196
+    },
+    {
+      "start": 240.246,
+      "text": "有些片段可能已在博物馆档案室里",
+      "end": 243.446
+    },
+    {
+      "start": 243.496,
+      "text": "一旦科技能让学者翻动 过于脆弱的卷轴阅读，就能被揭晓",
+      "end": 250.238
+    },
+    {
+      "start": 250.288,
+      "text": "我们现在仅有的是不完整的记录",
+      "end": 253.571
+    },
+    {
+      "start": 253.621,
+      "text": "以及许多历史上的传闻",
+      "end": 256.279
+    },
+    {
+      "start": 256.329,
+      "text": "奥维德坚称萨福曾与一名船夫相爱",
+      "end": 259.404
+    },
+    {
+      "start": 259.454,
+      "text": "但遭到了拒绝后，坠崖而亡",
+      "end": 264.654
+    },
+    {
+      "start": 264.704,
+      "text": "另一则传闻则说她办了一所女子学校",
+      "end": 267.44599999999997
+    },
+    {
+      "start": 267.496,
+      "text": "那些她诗中提到的人 只不过是让她有着柏拉图式喜爱的学生",
+      "end": 273.44599999999997
+    },
+    {
+      "start": 273.496,
+      "text": "目前的共识则是，",
+      "end": 274.738
+    },
+    {
+      "start": 274.788,
+      "text": "这些奚落萨福或否认其同性恋的故事",
+      "end": 280.19599999999997
+    },
+    {
+      "start": 280.246,
+      "text": "可能都是出于厌女症 和恐同症而捏造的谣言",
+      "end": 285.863
+    },
+    {
+      "start": 285.913,
+      "text": "尽管几千年中遭遇了各种扭曲",
+      "end": 288.94599999999997
+    },
+    {
+      "start": 288.996,
+      "text": "萨福的词句仍穿越时间 使今天的人产生共鸣",
+      "end": 294.113
+    },
+    {
+      "start": 294.163,
+      "text": "在两千多年前，她写道：",
+      "end": 297.738
+    },
+    {
+      "start": 297.788,
+      "text": "“我相信其他時代的某人会记得我们”",
+      "end": 302.44599999999997
+    },
+    {
+      "start": 302.496,
+      "text": "幸好，我们现在记得",
+      "end": 305.95
+    }
+  ]
+};

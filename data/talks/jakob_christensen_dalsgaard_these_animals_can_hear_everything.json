@@ -1,0 +1,1097 @@
+{
+  "meta": {
+    "title": "These animals can hear everything",
+    "speaker": "Jakob Christensen-Dalsgaard",
+    "duration": 305,
+    "slug": "jakob_christensen_dalsgaard_these_animals_can_hear_everything",
+    "sourcePage": "https://www.ted.com/talks/jakob_christensen_dalsgaard_these_animals_can_hear_everything",
+    "translationSourcePage": "https://www.ted.com/talks/jakob_christensen_dalsgaard_these_animals_can_hear_everything?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/71/16/001/products/2023e-jakob-christensen-dalsgaard-best-hearing-animals-001-fallback-ea067f54-be88-425d-816c-6dbb6bcd2079-1200k.mp4",
+    "youtubeId": "VElc-9Xa1f0",
+    "youtubeTitle": "These animals can hear everything - Jakob Christensen-Dalsgaard"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.961,
+      "end": 13.251,
+      "text": "The world is always abuzz with sounds, many of which human ears simply can't hear.",
+      "translation": "世界充斥着各种声音，其中许多声音人耳根本听不见。"
+    },
+    {
+      "id": 2,
+      "start": 13.301,
+      "end": 20.967,
+      "text": "However, other species have extraordinary adaptations that grant them access to realms of sonic extremes.",
+      "translation": "但是，其他物种具有 非凡的适应能力，这使它们能够听到极限声波。"
+    },
+    {
+      "id": 3,
+      "start": 21.017,
+      "end": 27.265,
+      "text": "And some of them don’t even have ears— at least, not like we typically imagine.",
+      "translation": "而且它们中有些甚至没有耳朵—— 至少耳朵长得和我们所想的不一样。"
+    },
+    {
+      "id": 4,
+      "start": 27.315,
+      "end": 34.397,
+      "text": "To understand how the animal kingdom’s best listeners do it, we need to know the rules of their game.",
+      "translation": "要弄清楚那些动物的听力 为什么那么好，我们需要先了解声音传播的原理。"
+    },
+    {
+      "id": 5,
+      "start": 34.447,
+      "end": 41.404,
+      "text": "When an object in a medium like air or water moves, it sends out physical waves.",
+      "translation": "当物体在空气或水等介质中移动时，它会发出物理波。"
+    },
+    {
+      "id": 6,
+      "start": 41.454,
+      "end": 53.207,
+      "text": "The basics of hearing involve structures that vibrate in response to these waves and excite sensory cells, generating signals that nerves transmit to the brain, where they’re processed.",
+      "translation": "听觉的基本原理是， 听觉结构会随着这些波而振动，并刺激感觉细胞，产生信号的由神经传递到大脑，再由大脑进行处理。"
+    },
+    {
+      "id": 7,
+      "start": 53.257,
+      "end": 62.842,
+      "text": "But despite the assemblage of sound-absorbing and -amplifying structures in our ears, many noises are too quiet for us to detect.",
+      "translation": "尽管我们的耳朵里有吸音和扩音的结构许多声音对我们而言 还是轻得无法察觉。"
+    },
+    {
+      "id": 8,
+      "start": 62.892,
+      "end": 66.22,
+      "text": "Owls, however, have some workarounds.",
+      "translation": "不过，猫头鹰可不一样。"
+    },
+    {
+      "id": 9,
+      "start": 66.27,
+      "end": 73.519,
+      "text": "Our external ears funnel sounds inward— but many owls use their whole faces to do this.",
+      "translation": "我们的外耳似漏斗，向内聚集声音，而许多猫头鹰用整张脸来聚集声音。"
+    },
+    {
+      "id": 10,
+      "start": 73.569,
+      "end": 80.818,
+      "text": "Their ears, hidden beneath a flap of feathers, have eardrums proportionally much larger and more sensitive than humans’.",
+      "translation": "它们的耳朵隐藏在羽毛之下，耳膜比人类的大得多，也灵敏得多。"
+    },
+    {
+      "id": 11,
+      "start": 80.868,
+      "end": 87.2,
+      "text": "And because many owls ears are positioned asymmetrically, sound waves reach them at different times.",
+      "translation": "而且许多猫头鹰的耳朵位置不对称，因此两只耳朵收到声波的时间不同。"
+    },
+    {
+      "id": 12,
+      "start": 87.25,
+      "end": 92.455,
+      "text": "This slight delay helps their brains determine the direction of the sound’s source.",
+      "translation": "这种轻微的延迟有助于它们的大脑确定声源的方向。"
+    },
+    {
+      "id": 13,
+      "start": 92.505,
+      "end": 102.423,
+      "text": "And great grey owl wings have especially thick velvety coatings and long feather combs and fringes, which are thought to help reduce their flight sounds.",
+      "translation": "大灰林鸮翅膀上覆盖着特别厚的、 天鹅绒般柔软的绒羽以及长长的飞羽和羽缘，据说有助于降低它们飞行的声音。"
+    },
+    {
+      "id": 14,
+      "start": 102.473,
+      "end": 110.014,
+      "text": "So, while hovering, they can go undetected and concentrate on the subtle sounds of their prey.",
+      "translation": "因此，在天空盘旋时， 它们可以不被发现，只专注于猎物的细微动静。"
+    },
+    {
+      "id": 15,
+      "start": 110.064,
+      "end": 119.732,
+      "text": "All these adaptations enable a great grey owl to hear a vole tunneling under 18 inches of snow— and make a fatal strike.",
+      "translation": "这些适应性变化使大灰林鸮能够听到田鼠在 18 英寸的积雪下 挖地道的声音——然后进行致命一击。"
+    },
+    {
+      "id": 16,
+      "start": 119.782,
+      "end": 129.742,
+      "text": "Other animals are almost all ears, like the aptly named long-eared jerboa, which is the animal kingdom’s largest ears in proportion to body length.",
+      "translation": "有些动物几乎全身都是耳朵，比如名字很贴切的长耳跳鼠，相对于身长而言， 它是动物界耳朵最大的。"
+    },
+    {
+      "id": 17,
+      "start": 129.792,
+      "end": 137.667,
+      "text": "These sizable sound-collectors help the jerboas sense low frequency noises— and keep cool by radiating heat.",
+      "translation": "这对大耳朵帮跳鼠感知低频声音——并通过散热保持凉爽。"
+    },
+    {
+      "id": 18,
+      "start": 137.717,
+      "end": 151.389,
+      "text": "Fennec foxes use their large, swiveling ears to rapidly home in on activity beneath Sahara sands, while bat-eared foxes can pick up savanna sounds as slight as termites crawling and munching on grasses.",
+      "translation": "耳廓狐靠它们摇摇摆摆的大耳朵快速地捕捉撒哈拉沙漠下的动静，而蝠耳狐则能捕捉到草原上白蚁爬行和啃食青草的轻微声音。"
+    },
+    {
+      "id": 19,
+      "start": 151.439,
+      "end": 164.402,
+      "text": "Ogre-faced spiders, meanwhile, might not have ears in the traditional vertebrate sense, but their legs are covered by receptors sensitive to sound waves as soft as those generated by mosquito flight.",
+      "translation": "与此同时，食人魔脸蜘蛛或许没有传统脊椎动物意义上的耳朵，但它们的腿上布满了感受器，对轻如蚊子飞行产生的声波都很敏感。"
+    },
+    {
+      "id": 20,
+      "start": 164.452,
+      "end": 170.783,
+      "text": "This allows them to catch airborne prey— even after being blindfolded by scientists.",
+      "translation": "这使它们能够捕捉空中的猎物——即使被科学家蒙住眼睛。"
+    },
+    {
+      "id": 21,
+      "start": 170.833,
+      "end": 185.756,
+      "text": "Lots of different features also help animal ears hit especially high notes, like the extra hard, stiff middle ear bones of toothed whales; like dolphins and sperm whales, which efficiently propagate high-frequency vibrations.",
+      "translation": "许多不同的特征还可以帮助 动物的耳朵听到特别高的音调，例如齿鲸类动物格外坚硬的中耳骨；像海豚和抹香鲸的中耳骨就可以有效地传播高频振动。"
+    },
+    {
+      "id": 22,
+      "start": 185.806,
+      "end": 194.307,
+      "text": "Indeed, some toothed whales and bats emit sound pulses around 200,000 hertz and listen for the reflections.",
+      "translation": "事实上，一些齿鲸和蝙蝠会发出 高达 20 万赫兹左右的声脉冲，然后倾听回声。"
+    },
+    {
+      "id": 23,
+      "start": 194.357,
+      "end": 209.071,
+      "text": "These high-frequency wavelengths— more than 10 times higher than what we can hear— are small enough to generate strong reflections from objects as tiny as the insects many bats are after, which would be missed altogether by lower ones.",
+      "translation": "这些高频波长——比我们能听到的波长 高出 10 多倍——小到足以使许多微小物体，比如蝙蝠正在捕食的昆虫等 产生强烈的反射，而低频波长则会完全错过这些反射。"
+    },
+    {
+      "id": 24,
+      "start": 209.121,
+      "end": 215.369,
+      "text": "But many insects are also in on the conversation— and vigilant to ultrasonic onslaughts.",
+      "translation": "但是许多昆虫也能捕获高频声波，并对超声波攻击保持警惕。"
+    },
+    {
+      "id": 25,
+      "start": 215.419,
+      "end": 228.674,
+      "text": "The greater wax moth can register the highest frequencies of any animal recorded— up to 300,000 hertz, thanks to thin, vibration-sensitive, eardrum-like membranes on their abdomens.",
+      "translation": "在有记录的动物中， 大蜡蛾能听到最高的频率——高达 30 万赫兹，这归功于它们腹部有一层薄薄的、 对振动敏感的、像耳膜一样的薄膜。"
+    },
+    {
+      "id": 26,
+      "start": 228.724,
+      "end": 235.473,
+      "text": "In fact, hearing organs have evolved independently more than 20 times among insects.",
+      "translation": "实际上，昆虫的听觉器官已经独立进化了 20 多次。"
+    },
+    {
+      "id": 27,
+      "start": 235.523,
+      "end": 254.325,
+      "text": "Katydids sense ultrasonic sounds with their front legs; certain hawkmoths can hear with their mouthparts; a parasitic fly registers cricket chirps from organs behind its head; and the praying mantis has just one hearing organ, which sits smack in the midline of its thorax.",
+      "translation": "蝈蝈儿用前腿感知超声波；某些天蛾可以用口器听声音；寄生蝇用头后面的器官 听到蟋蟀唧唧叫；螳螂只有一个听觉器官，就在它胸部的中线上。"
+    },
+    {
+      "id": 28,
+      "start": 254.375,
+      "end": 257.411,
+      "text": "But how low can animals go?",
+      "translation": "但是动物能发出多低的声音呢？"
+    },
+    {
+      "id": 29,
+      "start": 257.461,
+      "end": 264.168,
+      "text": "Well, baleen whales emit sounds around 14 hertz, the deepest among mammals.",
+      "translation": "须鲸发出的声音约为 14 赫兹，是哺乳动物中最低沉的。"
+    },
+    {
+      "id": 30,
+      "start": 264.218,
+      "end": 267.63,
+      "text": "These vibrations can travel thousands of kilometers.",
+      "translation": "这些振动可以传播数千公里。"
+    },
+    {
+      "id": 31,
+      "start": 267.68,
+      "end": 275.846,
+      "text": "And they get picked up by other baleen whales— possibly via their skulls, which conduct the vibrations along to their ear bones.",
+      "translation": "然后被其它须鲸捕捉到——可能是通过它们的头骨，将振动传到耳骨。"
+    },
+    {
+      "id": 32,
+      "start": 275.896,
+      "end": 282.52,
+      "text": "Snakes pick up ground vibrations by way of their jawbones, which connect directly to their middle ear bones.",
+      "translation": "蛇类通过颌骨接收地面振动，颌骨直接与中耳骨相连。"
+    },
+    {
+      "id": 33,
+      "start": 282.57,
+      "end": 297.243,
+      "text": "And Namib Desert golden moles regularly stick their heads into the sand, which likely helps them use their large, club-like middle ear bones to sense low frequency activity in mounds more than 20 meters away.",
+      "translation": "纳米布沙漠的金鼹鼠 经常把头埋到沙子里，这很可能有助于它们 用巨大的棍棒状中耳骨来感知 20 多米外 沙堆中的低频活动。"
+    },
+    {
+      "id": 34,
+      "start": 297.293,
+      "end": 304.95,
+      "text": "So, odds are: if a tree falls in a forest, someone’s bound to hear it.",
+      "translation": "因此，如果森林里有树倒下， 一定会有人听到。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.961,
+      "text": "The world is always abuzz with sounds,",
+      "end": 10.123
+    },
+    {
+      "start": 10.173,
+      "text": "many of which human ears simply can't hear.",
+      "end": 13.251
+    },
+    {
+      "start": 13.301,
+      "text": "However, other species have extraordinary adaptations",
+      "end": 16.878999999999998
+    },
+    {
+      "start": 16.929,
+      "text": "that grant them access to realms of sonic extremes.",
+      "end": 20.967
+    },
+    {
+      "start": 21.017,
+      "text": "And some of them don’t even have ears— at least, not like we typically imagine.",
+      "end": 27.265
+    },
+    {
+      "start": 27.315,
+      "text": "To understand how the animal kingdom’s best listeners do it,",
+      "end": 31.227
+    },
+    {
+      "start": 31.277,
+      "text": "we need to know the rules of their game.",
+      "end": 34.397000000000006
+    },
+    {
+      "start": 34.447,
+      "text": "When an object in a medium like air or water moves,",
+      "end": 38.609
+    },
+    {
+      "start": 38.659,
+      "text": "it sends out physical waves.",
+      "end": 41.404
+    },
+    {
+      "start": 41.454,
+      "text": "The basics of hearing involve structures that vibrate in response to these waves",
+      "end": 46.075
+    },
+    {
+      "start": 46.125,
+      "text": "and excite sensory cells,",
+      "end": 48.077000000000005
+    },
+    {
+      "start": 48.127,
+      "text": "generating signals that nerves transmit to the brain,",
+      "end": 51.748000000000005
+    },
+    {
+      "start": 51.798,
+      "text": "where they’re processed.",
+      "end": 53.207
+    },
+    {
+      "start": 53.257,
+      "text": "But despite the assemblage of sound-absorbing and -amplifying",
+      "end": 57.003
+    },
+    {
+      "start": 57.053,
+      "text": "structures in our ears,",
+      "end": 59.13
+    },
+    {
+      "start": 59.18,
+      "text": "many noises are too quiet for us to detect.",
+      "end": 62.842000000000006
+    },
+    {
+      "start": 62.892,
+      "text": "Owls, however, have some workarounds.",
+      "end": 66.22
+    },
+    {
+      "start": 66.27,
+      "text": "Our external ears funnel sounds inward—",
+      "end": 69.515
+    },
+    {
+      "start": 69.565,
+      "text": "but many owls use their whole faces to do this.",
+      "end": 73.519
+    },
+    {
+      "start": 73.569,
+      "text": "Their ears, hidden beneath a flap of feathers,",
+      "end": 76.06400000000001
+    },
+    {
+      "start": 76.114,
+      "text": "have eardrums proportionally much larger and more sensitive than humans’.",
+      "end": 80.818
+    },
+    {
+      "start": 80.868,
+      "text": "And because many owls ears are positioned asymmetrically,",
+      "end": 84.322
+    },
+    {
+      "start": 84.372,
+      "text": "sound waves reach them at different times.",
+      "end": 87.2
+    },
+    {
+      "start": 87.25,
+      "text": "This slight delay helps their brains determine the direction",
+      "end": 90.703
+    },
+    {
+      "start": 90.753,
+      "text": "of the sound’s source.",
+      "end": 92.455
+    },
+    {
+      "start": 92.505,
+      "text": "And great grey owl wings have especially thick velvety coatings",
+      "end": 96.876
+    },
+    {
+      "start": 96.926,
+      "text": "and long feather combs and fringes,",
+      "end": 99.378
+    },
+    {
+      "start": 99.428,
+      "text": "which are thought to help reduce their flight sounds.",
+      "end": 102.423
+    },
+    {
+      "start": 102.473,
+      "text": "So, while hovering, they can go undetected",
+      "end": 106.135
+    },
+    {
+      "start": 106.185,
+      "text": "and concentrate on the subtle sounds of their prey.",
+      "end": 110.014
+    },
+    {
+      "start": 110.064,
+      "text": "All these adaptations enable a great grey owl to hear a vole",
+      "end": 114.56
+    },
+    {
+      "start": 114.61,
+      "text": "tunneling under 18 inches of snow—",
+      "end": 117.146
+    },
+    {
+      "start": 117.196,
+      "text": "and make a fatal strike.",
+      "end": 119.732
+    },
+    {
+      "start": 119.782,
+      "text": "Other animals are almost all ears,",
+      "end": 122.443
+    },
+    {
+      "start": 122.493,
+      "text": "like the aptly named long-eared jerboa,",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "which is the animal kingdom’s largest ears in proportion to body length.",
+      "end": 129.742
+    },
+    {
+      "start": 129.792,
+      "text": "These sizable sound-collectors help the jerboas sense low frequency noises—",
+      "end": 134.664
+    },
+    {
+      "start": 134.714,
+      "text": "and keep cool by radiating heat.",
+      "end": 137.667
+    },
+    {
+      "start": 137.717,
+      "text": "Fennec foxes use their large, swiveling ears",
+      "end": 140.58599999999998
+    },
+    {
+      "start": 140.636,
+      "text": "to rapidly home in on activity beneath Sahara sands,",
+      "end": 144.173
+    },
+    {
+      "start": 144.223,
+      "text": "while bat-eared foxes can pick up savanna sounds",
+      "end": 147.26
+    },
+    {
+      "start": 147.31,
+      "text": "as slight as termites crawling and munching on grasses.",
+      "end": 151.38899999999998
+    },
+    {
+      "start": 151.439,
+      "text": "Ogre-faced spiders, meanwhile,",
+      "end": 153.724
+    },
+    {
+      "start": 153.774,
+      "text": "might not have ears in the traditional vertebrate sense,",
+      "end": 156.81099999999998
+    },
+    {
+      "start": 156.861,
+      "text": "but their legs are covered by receptors sensitive to sound waves",
+      "end": 160.69
+    },
+    {
+      "start": 160.74,
+      "text": "as soft as those generated by mosquito flight.",
+      "end": 164.402
+    },
+    {
+      "start": 164.452,
+      "text": "This allows them to catch airborne prey—",
+      "end": 167.071
+    },
+    {
+      "start": 167.121,
+      "text": "even after being blindfolded by scientists.",
+      "end": 170.783
+    },
+    {
+      "start": 170.833,
+      "text": "Lots of different features also help animal ears hit especially high notes,",
+      "end": 175.62099999999998
+    },
+    {
+      "start": 175.671,
+      "text": "like the extra hard, stiff middle ear bones of toothed whales;",
+      "end": 179.87599999999998
+    },
+    {
+      "start": 179.926,
+      "text": "like dolphins and sperm whales,",
+      "end": 181.878
+    },
+    {
+      "start": 181.928,
+      "text": "which efficiently propagate high-frequency vibrations.",
+      "end": 185.756
+    },
+    {
+      "start": 185.806,
+      "text": "Indeed, some toothed whales and bats emit sound pulses around 200,000 hertz",
+      "end": 192.054
+    },
+    {
+      "start": 192.104,
+      "text": "and listen for the reflections.",
+      "end": 194.307
+    },
+    {
+      "start": 194.357,
+      "text": "These high-frequency wavelengths—",
+      "end": 196.225
+    },
+    {
+      "start": 196.275,
+      "text": "more than 10 times higher than what we can hear—",
+      "end": 198.97799999999998
+    },
+    {
+      "start": 199.028,
+      "text": "are small enough to generate strong reflections from objects",
+      "end": 202.398
+    },
+    {
+      "start": 202.448,
+      "text": "as tiny as the insects many bats are after,",
+      "end": 205.94299999999998
+    },
+    {
+      "start": 205.993,
+      "text": "which would be missed altogether by lower ones.",
+      "end": 209.071
+    },
+    {
+      "start": 209.121,
+      "text": "But many insects are also in on the conversation—",
+      "end": 212.24099999999999
+    },
+    {
+      "start": 212.291,
+      "text": "and vigilant to ultrasonic onslaughts.",
+      "end": 215.369
+    },
+    {
+      "start": 215.419,
+      "text": "The greater wax moth can register the highest frequencies",
+      "end": 218.581
+    },
+    {
+      "start": 218.631,
+      "text": "of any animal recorded— up to 300,000 hertz,",
+      "end": 223.12699999999998
+    },
+    {
+      "start": 223.177,
+      "text": "thanks to thin, vibration-sensitive, eardrum-like membranes on their abdomens.",
+      "end": 228.67399999999998
+    },
+    {
+      "start": 228.724,
+      "text": "In fact, hearing organs have evolved independently",
+      "end": 232.136
+    },
+    {
+      "start": 232.186,
+      "text": "more than 20 times among insects.",
+      "end": 235.47299999999998
+    },
+    {
+      "start": 235.523,
+      "text": "Katydids sense ultrasonic sounds with their front legs;",
+      "end": 239.60199999999998
+    },
+    {
+      "start": 239.652,
+      "text": "certain hawkmoths can hear with their mouthparts;",
+      "end": 242.897
+    },
+    {
+      "start": 242.947,
+      "text": "a parasitic fly registers cricket chirps from organs behind its head;",
+      "end": 247.44299999999998
+    },
+    {
+      "start": 247.493,
+      "text": "and the praying mantis has just one hearing organ,",
+      "end": 250.488
+    },
+    {
+      "start": 250.538,
+      "text": "which sits smack in the midline of its thorax.",
+      "end": 254.325
+    },
+    {
+      "start": 254.375,
+      "text": "But how low can animals go?",
+      "end": 257.411
+    },
+    {
+      "start": 257.461,
+      "text": "Well, baleen whales emit sounds around 14 hertz,",
+      "end": 261.95799999999997
+    },
+    {
+      "start": 262.008,
+      "text": "the deepest among mammals.",
+      "end": 264.168
+    },
+    {
+      "start": 264.218,
+      "text": "These vibrations can travel thousands of kilometers.",
+      "end": 267.63
+    },
+    {
+      "start": 267.68,
+      "text": "And they get picked up by other baleen whales—",
+      "end": 270.549
+    },
+    {
+      "start": 270.599,
+      "text": "possibly via their skulls,",
+      "end": 272.551
+    },
+    {
+      "start": 272.601,
+      "text": "which conduct the vibrations along to their ear bones.",
+      "end": 275.846
+    },
+    {
+      "start": 275.896,
+      "text": "Snakes pick up ground vibrations by way of their jawbones,",
+      "end": 279.68399999999997
+    },
+    {
+      "start": 279.734,
+      "text": "which connect directly to their middle ear bones.",
+      "end": 282.52
+    },
+    {
+      "start": 282.57,
+      "text": "And Namib Desert golden moles regularly stick their heads into the sand,",
+      "end": 288.025
+    },
+    {
+      "start": 288.075,
+      "text": "which likely helps them use their large, club-like middle ear bones",
+      "end": 292.113
+    },
+    {
+      "start": 292.163,
+      "text": "to sense low frequency activity in mounds more than 20 meters away.",
+      "end": 297.243
+    },
+    {
+      "start": 297.293,
+      "text": "So, odds are: if a tree falls in a forest, someone’s bound to hear it.",
+      "end": 304.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.961,
+      "text": "世界充斥着各种声音，",
+      "end": 10.123
+    },
+    {
+      "start": 10.173,
+      "text": "其中许多声音人耳根本听不见。",
+      "end": 13.251
+    },
+    {
+      "start": 13.301,
+      "text": "但是，其他物种具有 非凡的适应能力，",
+      "end": 16.878999999999998
+    },
+    {
+      "start": 16.929,
+      "text": "这使它们能够听到极限声波。",
+      "end": 20.967
+    },
+    {
+      "start": 21.017,
+      "text": "而且它们中有些甚至没有耳朵—— 至少耳朵长得和我们所想的不一样。",
+      "end": 27.265
+    },
+    {
+      "start": 27.315,
+      "text": "要弄清楚那些动物的听力 为什么那么好，",
+      "end": 31.227
+    },
+    {
+      "start": 31.277,
+      "text": "我们需要先了解声音传播的原理。",
+      "end": 34.397000000000006
+    },
+    {
+      "start": 34.447,
+      "text": "当物体在空气或水等介质中移动时，",
+      "end": 38.609
+    },
+    {
+      "start": 38.659,
+      "text": "它会发出物理波。",
+      "end": 41.404
+    },
+    {
+      "start": 41.454,
+      "text": "听觉的基本原理是， 听觉结构会随着这些波而振动，",
+      "end": 46.075
+    },
+    {
+      "start": 46.125,
+      "text": "并刺激感觉细胞，",
+      "end": 48.077000000000005
+    },
+    {
+      "start": 48.127,
+      "text": "产生信号的由神经传递到大脑，",
+      "end": 51.748000000000005
+    },
+    {
+      "start": 51.798,
+      "text": "再由大脑进行处理。",
+      "end": 53.207
+    },
+    {
+      "start": 53.257,
+      "text": "尽管我们的耳朵里",
+      "end": 57.003
+    },
+    {
+      "start": 57.053,
+      "text": "有吸音和扩音的结构",
+      "end": 59.13
+    },
+    {
+      "start": 59.18,
+      "text": "许多声音对我们而言 还是轻得无法察觉。",
+      "end": 62.842000000000006
+    },
+    {
+      "start": 62.892,
+      "text": "不过，猫头鹰可不一样。",
+      "end": 66.22
+    },
+    {
+      "start": 66.27,
+      "text": "我们的外耳似漏斗，向内聚集声音，",
+      "end": 69.515
+    },
+    {
+      "start": 69.565,
+      "text": "而许多猫头鹰用整张脸来聚集声音。",
+      "end": 73.519
+    },
+    {
+      "start": 73.569,
+      "text": "它们的耳朵隐藏在羽毛之下，",
+      "end": 76.06400000000001
+    },
+    {
+      "start": 76.114,
+      "text": "耳膜比人类的大得多，也灵敏得多。",
+      "end": 80.818
+    },
+    {
+      "start": 80.868,
+      "text": "而且许多猫头鹰的耳朵位置不对称，",
+      "end": 84.322
+    },
+    {
+      "start": 84.372,
+      "text": "因此两只耳朵收到声波的时间不同。",
+      "end": 87.2
+    },
+    {
+      "start": 87.25,
+      "text": "这种轻微的延迟有助于它们的大脑",
+      "end": 90.703
+    },
+    {
+      "start": 90.753,
+      "text": "确定声源的方向。",
+      "end": 92.455
+    },
+    {
+      "start": 92.505,
+      "text": "大灰林鸮翅膀上覆盖着特别厚的、 天鹅绒般柔软的绒羽",
+      "end": 96.876
+    },
+    {
+      "start": 96.926,
+      "text": "以及长长的飞羽和羽缘，",
+      "end": 99.378
+    },
+    {
+      "start": 99.428,
+      "text": "据说有助于降低它们飞行的声音。",
+      "end": 102.423
+    },
+    {
+      "start": 102.473,
+      "text": "因此，在天空盘旋时， 它们可以不被发现，",
+      "end": 106.135
+    },
+    {
+      "start": 106.185,
+      "text": "只专注于猎物的细微动静。",
+      "end": 110.014
+    },
+    {
+      "start": 110.064,
+      "text": "这些适应性变化使大灰林鸮能够听到",
+      "end": 114.56
+    },
+    {
+      "start": 114.61,
+      "text": "田鼠在 18 英寸的积雪下 挖地道的声音——",
+      "end": 117.146
+    },
+    {
+      "start": 117.196,
+      "text": "然后进行致命一击。",
+      "end": 119.732
+    },
+    {
+      "start": 119.782,
+      "text": "有些动物几乎全身都是耳朵，",
+      "end": 122.443
+    },
+    {
+      "start": 122.493,
+      "text": "比如名字很贴切的长耳跳鼠，",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "相对于身长而言， 它是动物界耳朵最大的。",
+      "end": 129.742
+    },
+    {
+      "start": 129.792,
+      "text": "这对大耳朵帮跳鼠感知低频声音——",
+      "end": 134.664
+    },
+    {
+      "start": 134.714,
+      "text": "并通过散热保持凉爽。",
+      "end": 137.667
+    },
+    {
+      "start": 137.717,
+      "text": "耳廓狐靠它们摇摇摆摆的大耳朵",
+      "end": 140.58599999999998
+    },
+    {
+      "start": 140.636,
+      "text": "快速地捕捉撒哈拉沙漠下的动静，",
+      "end": 144.173
+    },
+    {
+      "start": 144.223,
+      "text": "而蝠耳狐则能捕捉到草原上",
+      "end": 147.26
+    },
+    {
+      "start": 147.31,
+      "text": "白蚁爬行和啃食青草的轻微声音。",
+      "end": 151.38899999999998
+    },
+    {
+      "start": 151.439,
+      "text": "与此同时，食人魔脸蜘蛛",
+      "end": 153.724
+    },
+    {
+      "start": 153.774,
+      "text": "或许没有传统脊椎动物意义上的耳朵，",
+      "end": 156.81099999999998
+    },
+    {
+      "start": 156.861,
+      "text": "但它们的腿上布满了感受器，",
+      "end": 160.69
+    },
+    {
+      "start": 160.74,
+      "text": "对轻如蚊子飞行产生的声波都很敏感。",
+      "end": 164.402
+    },
+    {
+      "start": 164.452,
+      "text": "这使它们能够捕捉空中的猎物——",
+      "end": 167.071
+    },
+    {
+      "start": 167.121,
+      "text": "即使被科学家蒙住眼睛。",
+      "end": 170.783
+    },
+    {
+      "start": 170.833,
+      "text": "许多不同的特征还可以帮助 动物的耳朵听到特别高的音调，",
+      "end": 175.62099999999998
+    },
+    {
+      "start": 175.671,
+      "text": "例如齿鲸类动物格外坚硬的中耳骨；",
+      "end": 179.87599999999998
+    },
+    {
+      "start": 179.926,
+      "text": "像海豚和抹香鲸的中耳骨",
+      "end": 181.878
+    },
+    {
+      "start": 181.928,
+      "text": "就可以有效地传播高频振动。",
+      "end": 185.756
+    },
+    {
+      "start": 185.806,
+      "text": "事实上，一些齿鲸和蝙蝠会发出 高达 20 万赫兹左右的声脉冲，",
+      "end": 192.054
+    },
+    {
+      "start": 192.104,
+      "text": "然后倾听回声。",
+      "end": 194.307
+    },
+    {
+      "start": 194.357,
+      "text": "这些高频波长——",
+      "end": 196.225
+    },
+    {
+      "start": 196.275,
+      "text": "比我们能听到的波长 高出 10 多倍——",
+      "end": 198.97799999999998
+    },
+    {
+      "start": 199.028,
+      "text": "小到足以使许多微小物体，",
+      "end": 202.398
+    },
+    {
+      "start": 202.448,
+      "text": "比如蝙蝠正在捕食的昆虫等 产生强烈的反射，",
+      "end": 205.94299999999998
+    },
+    {
+      "start": 205.993,
+      "text": "而低频波长则会完全错过这些反射。",
+      "end": 209.071
+    },
+    {
+      "start": 209.121,
+      "text": "但是许多昆虫也能捕获高频声波，",
+      "end": 212.24099999999999
+    },
+    {
+      "start": 212.291,
+      "text": "并对超声波攻击保持警惕。",
+      "end": 215.369
+    },
+    {
+      "start": 215.419,
+      "text": "在有记录的动物中， 大蜡蛾能听到最高的频率——",
+      "end": 218.581
+    },
+    {
+      "start": 218.631,
+      "text": "高达 30 万赫兹，",
+      "end": 223.12699999999998
+    },
+    {
+      "start": 223.177,
+      "text": "这归功于它们腹部有一层薄薄的、 对振动敏感的、像耳膜一样的薄膜。",
+      "end": 228.67399999999998
+    },
+    {
+      "start": 228.724,
+      "text": "实际上，昆虫的听觉器官",
+      "end": 232.136
+    },
+    {
+      "start": 232.186,
+      "text": "已经独立进化了 20 多次。",
+      "end": 235.47299999999998
+    },
+    {
+      "start": 235.523,
+      "text": "蝈蝈儿用前腿感知超声波；",
+      "end": 239.60199999999998
+    },
+    {
+      "start": 239.652,
+      "text": "某些天蛾可以用口器听声音；",
+      "end": 242.897
+    },
+    {
+      "start": 242.947,
+      "text": "寄生蝇用头后面的器官 听到蟋蟀唧唧叫；",
+      "end": 247.44299999999998
+    },
+    {
+      "start": 247.493,
+      "text": "螳螂只有一个听觉器官，",
+      "end": 250.488
+    },
+    {
+      "start": 250.538,
+      "text": "就在它胸部的中线上。",
+      "end": 254.325
+    },
+    {
+      "start": 254.375,
+      "text": "但是动物能发出多低的声音呢？",
+      "end": 257.411
+    },
+    {
+      "start": 257.461,
+      "text": "须鲸发出的声音约为 14 赫兹，",
+      "end": 261.95799999999997
+    },
+    {
+      "start": 262.008,
+      "text": "是哺乳动物中最低沉的。",
+      "end": 264.168
+    },
+    {
+      "start": 264.218,
+      "text": "这些振动可以传播数千公里。",
+      "end": 267.63
+    },
+    {
+      "start": 267.68,
+      "text": "然后被其它须鲸捕捉到——",
+      "end": 270.549
+    },
+    {
+      "start": 270.599,
+      "text": "可能是通过它们的头骨，",
+      "end": 272.551
+    },
+    {
+      "start": 272.601,
+      "text": "将振动传到耳骨。",
+      "end": 275.846
+    },
+    {
+      "start": 275.896,
+      "text": "蛇类通过颌骨接收地面振动，",
+      "end": 279.68399999999997
+    },
+    {
+      "start": 279.734,
+      "text": "颌骨直接与中耳骨相连。",
+      "end": 282.52
+    },
+    {
+      "start": 282.57,
+      "text": "纳米布沙漠的金鼹鼠 经常把头埋到沙子里，",
+      "end": 288.025
+    },
+    {
+      "start": 288.075,
+      "text": "这很可能有助于它们 用巨大的棍棒状中耳骨",
+      "end": 292.113
+    },
+    {
+      "start": 292.163,
+      "text": "来感知 20 多米外 沙堆中的低频活动。",
+      "end": 297.243
+    },
+    {
+      "start": 297.293,
+      "text": "因此，如果森林里有树倒下， 一定会有人听到。",
+      "end": 304.95
+    }
+  ]
+}

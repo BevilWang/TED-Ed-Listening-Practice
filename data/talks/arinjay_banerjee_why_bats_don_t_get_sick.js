@@ -1,0 +1,1075 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Why bats don't get sick",
+    "speaker": "Arinjay Banerjee",
+    "duration": 330,
+    "slug": "arinjay_banerjee_why_bats_don_t_get_sick",
+    "sourcePage": "https://www.ted.com/talks/arinjay_banerjee_why_bats_don_t_get_sick",
+    "translationSourcePage": "https://www.ted.com/talks/arinjay_banerjee_why_bats_don_t_get_sick?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/53/08/002/products/2020e-arinjay-banerjee-bat-adaptations-002-fallback-5ed7ace1404b2406da40fb2358fce63c-1200k.mp4",
+    "youtubeId": "XiBXhCr_Jpw",
+    "youtubeTitle": "Why bats don't get sick - Arinjay Banerjee"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.746,
+      "end": 12.279,
+      "text": "If this bat were a human, she'd be in deep trouble.",
+      "translation": "如果这只蝙蝠是人类，她就糟糕了。"
+    },
+    {
+      "id": 2,
+      "start": 12.329,
+      "end": 20.404,
+      "text": "She’s infected with several deadly viruses, including ones that cause rabies, SARS, and Ebola.",
+      "translation": "她感染了好几个致命的病毒，包括了那些会引起狂犬病、非典， 和埃博拉的病毒。"
+    },
+    {
+      "id": 3,
+      "start": 20.454,
+      "end": 27.779,
+      "text": "But while her diagnosis would be lethal for other mammals, this winged wonder is totally unfazed.",
+      "translation": "虽然她的诊断对 其他哺乳动物来说是致命的，但对于这个神奇的物种来说 完全没有受到影响。"
+    },
+    {
+      "id": 4,
+      "start": 27.829,
+      "end": 36.112,
+      "text": "In fact, she may even spend the next 30 years living as if this were totally normal– because for bats, it is.",
+      "translation": "事实上，她甚至可能会在 接下来的30年里继续活着，仿佛完全正常， 因为对于蝙蝠来说，确实如此。"
+    },
+    {
+      "id": 5,
+      "start": 36.162,
+      "end": 40.987,
+      "text": "So what’s protecting her from these dangerous infections?",
+      "translation": "所以是什么在保护着她， 从而让她免受这些危险的感染呢？"
+    },
+    {
+      "id": 6,
+      "start": 41.037,
+      "end": 47.321,
+      "text": "To answer this question, we first need to understand the relationship between viruses and their hosts.",
+      "translation": "为了回答这个问题，我们首先需要明白病毒及其宿主之间的关联。"
+    },
+    {
+      "id": 7,
+      "start": 47.371,
+      "end": 53.362,
+      "text": "Every virus has evolved to infect specific species within a class of creatures.",
+      "translation": "（生物学分类）每一种病毒 都进化成感染"
+    },
+    {
+      "id": 8,
+      "start": 53.412,
+      "end": 61.321,
+      "text": "This is why humans are unlikely to be infected by plant viruses, and why bees don’t catch the flu.",
+      "translation": "某一纲（Class）中的 特定一种（Species)。这就是为什么人类 不太可能被植物病毒感染，"
+    },
+    {
+      "id": 9,
+      "start": 61.371,
+      "end": 75.404,
+      "text": "However, viruses do sometimes jump across closely related species And because the new host has no established immune defenses, the unknown virus presents a potentially lethal challenge.",
+      "translation": "和为什么蜜蜂不会感染流感。但是，病毒有时候会跨越 密切相关的物种。由于新的宿主没有建立免疫防御系统，"
+    },
+    {
+      "id": 10,
+      "start": 75.454,
+      "end": 79.238,
+      "text": "This is actually bad news for the virus as well.",
+      "translation": "未知名的病毒就显现出了 潜在的致命挑战。"
+    },
+    {
+      "id": 11,
+      "start": 79.288,
+      "end": 90.529,
+      "text": "Their ideal host provides a steady stream of resources and comes into contact with new parties to infect— two criteria that are best met by living hosts.",
+      "translation": "这对病毒来说实际上也是个坏消息。理想的宿主提供源源不断的资源 和接触新宿主的机会，"
+    },
+    {
+      "id": 12,
+      "start": 90.579,
+      "end": 101.946,
+      "text": "All this to say that successful viruses don’t typically evolve adaptations that kill their hosts— including the viruses that have infected our flying friend.",
+      "translation": "活宿主恰恰提供这两个机会。也就是说，成功的病毒通常都不会进化到杀死它们的宿主，"
+    },
+    {
+      "id": 13,
+      "start": 101.996,
+      "end": 111.779,
+      "text": "The deadly effects of these viruses aren’t caused by the pathogens directly, but rather, by their host’s uncontrolled immune response.",
+      "translation": "包括感染了我们飞行朋友的病毒。这些病毒的致命影响 并不是由病原体直接引起的，"
+    },
+    {
+      "id": 14,
+      "start": 111.829,
+      "end": 121.779,
+      "text": "Infections like Ebola or certain types of flu have evolved to strain the immune system of their mammalian host by sending it into overdrive.",
+      "translation": "而是，由它们的宿主 不受控制的免疫反应。埃博拉病毒或某些类型的感染已经进化成过度劳损 哺乳动物寄主的免疫系统，"
+    },
+    {
+      "id": 15,
+      "start": 121.829,
+      "end": 129.196,
+      "text": "The body sends hordes of white blood cells, antibodies and inflammatory molecules to kill the foreign invader.",
+      "translation": "使其变得超负荷。身体发送成群的白细胞，"
+    },
+    {
+      "id": 16,
+      "start": 129.246,
+      "end": 137.071,
+      "text": "But if the infection has progressed to high enough levels, an assault by the immune system can lead to serious tissue damage.",
+      "translation": "抗体和炎症分子来杀死外侵者。但如果感染已经进化到够高的级别，"
+    },
+    {
+      "id": 17,
+      "start": 137.121,
+      "end": 141.071,
+      "text": "In particularly virulent cases, this damage can be lethal.",
+      "translation": "免疫系统的攻击 会导致自身组织的严重损伤。"
+    },
+    {
+      "id": 18,
+      "start": 141.121,
+      "end": 146.946,
+      "text": "And even when it’s not, the site is left vulnerable to secondary infection.",
+      "translation": "在特别严重的情况下， 这种损害可能致死。即使未致死，"
+    },
+    {
+      "id": 19,
+      "start": 146.996,
+      "end": 157.154,
+      "text": "But unlike other mammals, bats have been in an evolutionary arms race with these viruses for millennia, and they’ve adapted to limit this kind of self-damage.",
+      "translation": "该处也会很容易受到二次感染。但与其他哺乳动物不同的是，蝙蝠一直在与这些病毒 进行军备竞赛有几千年了，"
+    },
+    {
+      "id": 20,
+      "start": 157.204,
+      "end": 169.196,
+      "text": "Their immune system has a very low inflammatory response; an adaptation likely developed alongside the other trait that sets them apart from other mammals: self-powered flight.",
+      "translation": "而且它们已经适应了 限制这种自我伤害。它们的免疫系统 具有非常低的炎症反应；一种适应能力可能 与其他特征并列发展的"
+    },
+    {
+      "id": 21,
+      "start": 169.246,
+      "end": 176.154,
+      "text": "This energy-intensive process can raise a bat’s body temperature to over 40ºC.",
+      "translation": "从而使它们与其他哺乳动物区分开来："
+    },
+    {
+      "id": 22,
+      "start": 176.204,
+      "end": 188.363,
+      "text": "Such a high metabolic rate comes at a cost; flight produces waste molecules called Reactive Oxygen Species that damage and break off fragments of DNA.",
+      "translation": "自立飞行。这种能量密集型过程可以将蝙蝠的 体温升高到 40ºC 以上。如此高的代谢率是有代价的；"
+    },
+    {
+      "id": 23,
+      "start": 188.413,
+      "end": 194.404,
+      "text": "In other mammals, this loose DNA would be attacked by the immune system as a foreign invader.",
+      "translation": "飞行产生称为活性氧物种的废物分子会损坏和断裂DNA的片段。"
+    },
+    {
+      "id": 24,
+      "start": 194.454,
+      "end": 203.946,
+      "text": "But if bats produce these molecules as often as researchers believe, they may have evolved a dampened immune response to their own damaged DNA.",
+      "translation": "在其他哺乳动动中，这个松散的DNA会像外来入侵者一样 受到免疫系统的攻击。但如果蝙蝠经常产生这些分子 就像研究人员想的那样，"
+    },
+    {
+      "id": 25,
+      "start": 203.996,
+      "end": 213.988,
+      "text": "In fact, certain genes associated with sensing broken DNA and deploying inflammatory molecules are absent from the bat genome.",
+      "translation": "它们可能已经减弱了免疫系统的反应来损坏它们自己的DNA。"
+    },
+    {
+      "id": 26,
+      "start": 214.038,
+      "end": 224.154,
+      "text": "The result is a controlled low-level inflammatory response that allows bats to coexist with the viruses in their systems.",
+      "translation": "事实上，某些与断裂DNA相关的基因和部署炎症分子 是不存在蝙蝠基因组中的。"
+    },
+    {
+      "id": 27,
+      "start": 224.204,
+      "end": 232.571,
+      "text": "Even more impressive, bats are able to host these viruses for decades without any negative health consequences.",
+      "translation": "这个结果是一个受约束的 低水平炎症反应，允许蝙蝠与它们系统中的病毒共存。更令人惊讶的是，"
+    },
+    {
+      "id": 28,
+      "start": 232.621,
+      "end": 241.571,
+      "text": "According to a 2013 study, bats have evolved efficient repair genes to counteract the frequent DNA damage they sustain.",
+      "translation": "蝙蝠能够携带这些病毒数十年而不会对健康造成任何负面影响。"
+    },
+    {
+      "id": 29,
+      "start": 241.621,
+      "end": 246.446,
+      "text": "These repair genes may also contribute to their long lives.",
+      "translation": "根据2013年的一项研究， 蝙蝠已经进化出有效的修复基因"
+    },
+    {
+      "id": 30,
+      "start": 246.496,
+      "end": 251.696,
+      "text": "Animal chromosomes end with a DNA sequence called a telomere.",
+      "translation": "来抵消它们所承受的频繁的DNA损伤。"
+    },
+    {
+      "id": 31,
+      "start": 251.746,
+      "end": 257.946,
+      "text": "These sequences shorten over time in a process that many believe contributes to cell aging.",
+      "translation": "这些修复基因可能也会 延长它们的寿命。动物染色体已一个DNA序列 结束的被称为端粒。"
+    },
+    {
+      "id": 32,
+      "start": 257.996,
+      "end": 268.654,
+      "text": "But bat telomeres shorten much more slowly than their mammalian cousins— granting them lifespans as long as 41 years.",
+      "translation": "这些序列在一个过程中 随着时间的推移而缩短许多人认为这会导致细胞老化。"
+    },
+    {
+      "id": 33,
+      "start": 268.704,
+      "end": 278.613,
+      "text": "Of course, bats aren’t totally invincible to disease, whether caused by bacteria, unfamiliar viruses, or even fungi.",
+      "translation": "但是蝙蝠端粒的缩短速度要比 它们的哺乳动物表亲慢得多—赋予它们长达41年的寿命。"
+    },
+    {
+      "id": 34,
+      "start": 278.663,
+      "end": 290.404,
+      "text": "Bat populations have been ravaged by a fungal infection called white-nose syndrome, which can fatally disrupt hibernation and deteriorate wing tissue.",
+      "translation": "当然了，蝙蝠并不能 完全战胜所有的疾病，无论是由细菌、不熟悉的病毒， 还是真菌引起的。蝙蝠种群受到过真菌感染的摧残"
+    },
+    {
+      "id": 35,
+      "start": 290.454,
+      "end": 302.654,
+      "text": "These conditions prevent bats from performing critical roles in their ecosystems, like helping with pollination and seed dispersal, and consuming pests and insects.",
+      "translation": "被称为白鼻综合征，就会致命地破坏冬眠系统 并致命地破坏其翅膀的组织。这些状况阻止蝙蝠发挥关键作用，"
+    },
+    {
+      "id": 36,
+      "start": 302.704,
+      "end": 312.821,
+      "text": "To protect these animals from harm, and ourselves from infection, humans need to stop encroaching on bat habitats and ecosystems.",
+      "translation": "在它们的生态系统中， 例如帮助授粉和种子传播，以及食用害虫和昆虫。"
+    },
+    {
+      "id": 37,
+      "start": 312.871,
+      "end": 322.029,
+      "text": "Hopefully, preserving these populations will allow scientists to better understand bats’ unique antiviral defense systems.",
+      "translation": "为了保护这些动物免受伤害， 和我们自己免受感染，人类需要停止侵占蝙蝠的 栖息地和生态系统。"
+    },
+    {
+      "id": 38,
+      "start": 322.079,
+      "end": 329.95,
+      "text": "And maybe one day, this research will help our own viral immunity take flight.",
+      "translation": "希望，保护这些群体"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.746,
+      "text": "If this bat were a human, she'd be in deep trouble.",
+      "end": 12.279
+    },
+    {
+      "start": 12.329,
+      "text": "She’s infected with several deadly viruses,",
+      "end": 14.863
+    },
+    {
+      "start": 14.913,
+      "text": "including ones that cause rabies, SARS, and Ebola.",
+      "end": 20.404
+    },
+    {
+      "start": 20.454,
+      "text": "But while her diagnosis would be lethal for other mammals,",
+      "end": 24.113
+    },
+    {
+      "start": 24.163,
+      "text": "this winged wonder is totally unfazed.",
+      "end": 27.779
+    },
+    {
+      "start": 27.829,
+      "text": "In fact, she may even spend the next 30 years living",
+      "end": 31.654
+    },
+    {
+      "start": 31.704,
+      "text": "as if this were totally normal– because for bats, it is.",
+      "end": 36.112
+    },
+    {
+      "start": 36.162,
+      "text": "So what’s protecting her from these dangerous infections?",
+      "end": 40.987
+    },
+    {
+      "start": 41.037,
+      "text": "To answer this question, we first need to understand",
+      "end": 43.571000000000005
+    },
+    {
+      "start": 43.621,
+      "text": "the relationship between viruses and their hosts.",
+      "end": 47.321000000000005
+    },
+    {
+      "start": 47.371,
+      "text": "Every virus has evolved to infect specific species within a class of creatures.",
+      "end": 53.362
+    },
+    {
+      "start": 53.412,
+      "text": "This is why humans are unlikely to be infected by plant viruses,",
+      "end": 57.779
+    },
+    {
+      "start": 57.829,
+      "text": "and why bees don’t catch the flu.",
+      "end": 61.321000000000005
+    },
+    {
+      "start": 61.371,
+      "text": "However, viruses do sometimes jump across closely related species",
+      "end": 67.238
+    },
+    {
+      "start": 67.288,
+      "text": "And because the new host has no established immune defenses,",
+      "end": 70.988
+    },
+    {
+      "start": 71.038,
+      "text": "the unknown virus presents a potentially lethal challenge.",
+      "end": 75.404
+    },
+    {
+      "start": 75.454,
+      "text": "This is actually bad news for the virus as well.",
+      "end": 79.238
+    },
+    {
+      "start": 79.288,
+      "text": "Their ideal host provides a steady stream of resources",
+      "end": 82.946
+    },
+    {
+      "start": 82.996,
+      "text": "and comes into contact with new parties to infect—",
+      "end": 86.071
+    },
+    {
+      "start": 86.121,
+      "text": "two criteria that are best met by living hosts.",
+      "end": 90.529
+    },
+    {
+      "start": 90.579,
+      "text": "All this to say that successful viruses",
+      "end": 93.446
+    },
+    {
+      "start": 93.496,
+      "text": "don’t typically evolve adaptations that kill their hosts—",
+      "end": 97.821
+    },
+    {
+      "start": 97.871,
+      "text": "including the viruses that have infected our flying friend.",
+      "end": 101.946
+    },
+    {
+      "start": 101.996,
+      "text": "The deadly effects of these viruses aren’t caused by the pathogens directly,",
+      "end": 107.154
+    },
+    {
+      "start": 107.204,
+      "text": "but rather, by their host’s uncontrolled immune response.",
+      "end": 111.779
+    },
+    {
+      "start": 111.829,
+      "text": "Infections like Ebola or certain types of flu have evolved",
+      "end": 116.071
+    },
+    {
+      "start": 116.121,
+      "text": "to strain the immune system of their mammalian host",
+      "end": 119.321
+    },
+    {
+      "start": 119.371,
+      "text": "by sending it into overdrive.",
+      "end": 121.779
+    },
+    {
+      "start": 121.829,
+      "text": "The body sends hordes of white blood cells,",
+      "end": 124.529
+    },
+    {
+      "start": 124.579,
+      "text": "antibodies and inflammatory molecules to kill the foreign invader.",
+      "end": 129.196
+    },
+    {
+      "start": 129.246,
+      "text": "But if the infection has progressed to high enough levels,",
+      "end": 132.363
+    },
+    {
+      "start": 132.413,
+      "text": "an assault by the immune system can lead to serious tissue damage.",
+      "end": 137.071
+    },
+    {
+      "start": 137.121,
+      "text": "In particularly virulent cases, this damage can be lethal.",
+      "end": 141.071
+    },
+    {
+      "start": 141.121,
+      "text": "And even when it’s not,",
+      "end": 142.863
+    },
+    {
+      "start": 142.913,
+      "text": "the site is left vulnerable to secondary infection.",
+      "end": 146.946
+    },
+    {
+      "start": 146.996,
+      "text": "But unlike other mammals,",
+      "end": 148.779
+    },
+    {
+      "start": 148.829,
+      "text": "bats have been in an evolutionary arms race with these viruses for millennia,",
+      "end": 153.904
+    },
+    {
+      "start": 153.954,
+      "text": "and they’ve adapted to limit this kind of self-damage.",
+      "end": 157.154
+    },
+    {
+      "start": 157.204,
+      "text": "Their immune system has a very low inflammatory response;",
+      "end": 161.238
+    },
+    {
+      "start": 161.288,
+      "text": "an adaptation likely developed alongside the other trait",
+      "end": 164.654
+    },
+    {
+      "start": 164.704,
+      "text": "that sets them apart from other mammals: self-powered flight.",
+      "end": 169.196
+    },
+    {
+      "start": 169.246,
+      "text": "This energy-intensive process can raise a bat’s body temperature to over 40ºC.",
+      "end": 176.154
+    },
+    {
+      "start": 176.204,
+      "text": "Such a high metabolic rate comes at a cost;",
+      "end": 179.529
+    },
+    {
+      "start": 179.579,
+      "text": "flight produces waste molecules called Reactive Oxygen Species",
+      "end": 184.738
+    },
+    {
+      "start": 184.788,
+      "text": "that damage and break off fragments of DNA.",
+      "end": 188.363
+    },
+    {
+      "start": 188.413,
+      "text": "In other mammals, this loose DNA",
+      "end": 190.779
+    },
+    {
+      "start": 190.829,
+      "text": "would be attacked by the immune system as a foreign invader.",
+      "end": 194.404
+    },
+    {
+      "start": 194.454,
+      "text": "But if bats produce these molecules as often as researchers believe,",
+      "end": 198.613
+    },
+    {
+      "start": 198.663,
+      "text": "they may have evolved a dampened immune response",
+      "end": 201.279
+    },
+    {
+      "start": 201.329,
+      "text": "to their own damaged DNA.",
+      "end": 203.946
+    },
+    {
+      "start": 203.996,
+      "text": "In fact, certain genes associated with sensing broken DNA",
+      "end": 208.613
+    },
+    {
+      "start": 208.663,
+      "text": "and deploying inflammatory molecules are absent from the bat genome.",
+      "end": 213.988
+    },
+    {
+      "start": 214.038,
+      "text": "The result is a controlled low-level inflammatory response",
+      "end": 219.071
+    },
+    {
+      "start": 219.121,
+      "text": "that allows bats to coexist with the viruses in their systems.",
+      "end": 224.154
+    },
+    {
+      "start": 224.204,
+      "text": "Even more impressive,",
+      "end": 225.779
+    },
+    {
+      "start": 225.829,
+      "text": "bats are able to host these viruses for decades",
+      "end": 229.238
+    },
+    {
+      "start": 229.288,
+      "text": "without any negative health consequences.",
+      "end": 232.571
+    },
+    {
+      "start": 232.621,
+      "text": "According to a 2013 study, bats have evolved efficient repair genes",
+      "end": 237.571
+    },
+    {
+      "start": 237.621,
+      "text": "to counteract the frequent DNA damage they sustain.",
+      "end": 241.571
+    },
+    {
+      "start": 241.621,
+      "text": "These repair genes may also contribute to their long lives.",
+      "end": 246.446
+    },
+    {
+      "start": 246.496,
+      "text": "Animal chromosomes end with a DNA sequence called a telomere.",
+      "end": 251.696
+    },
+    {
+      "start": 251.746,
+      "text": "These sequences shorten over time in a process",
+      "end": 254.654
+    },
+    {
+      "start": 254.704,
+      "text": "that many believe contributes to cell aging.",
+      "end": 257.94599999999997
+    },
+    {
+      "start": 257.996,
+      "text": "But bat telomeres shorten much more slowly than their mammalian cousins—",
+      "end": 263.82099999999997
+    },
+    {
+      "start": 263.871,
+      "text": "granting them lifespans as long as 41 years.",
+      "end": 268.654
+    },
+    {
+      "start": 268.704,
+      "text": "Of course, bats aren’t totally invincible to disease,",
+      "end": 272.779
+    },
+    {
+      "start": 272.829,
+      "text": "whether caused by bacteria, unfamiliar viruses, or even fungi.",
+      "end": 278.613
+    },
+    {
+      "start": 278.663,
+      "text": "Bat populations have been ravaged by a fungal infection",
+      "end": 282.613
+    },
+    {
+      "start": 282.663,
+      "text": "called white-nose syndrome,",
+      "end": 285.32099999999997
+    },
+    {
+      "start": 285.371,
+      "text": "which can fatally disrupt hibernation and deteriorate wing tissue.",
+      "end": 290.404
+    },
+    {
+      "start": 290.454,
+      "text": "These conditions prevent bats from performing critical roles",
+      "end": 294.154
+    },
+    {
+      "start": 294.204,
+      "text": "in their ecosystems, like helping with pollination and seed dispersal,",
+      "end": 299.238
+    },
+    {
+      "start": 299.288,
+      "text": "and consuming pests and insects.",
+      "end": 302.654
+    },
+    {
+      "start": 302.704,
+      "text": "To protect these animals from harm, and ourselves from infection,",
+      "end": 307.154
+    },
+    {
+      "start": 307.204,
+      "text": "humans need to stop encroaching on bat habitats and ecosystems.",
+      "end": 312.82099999999997
+    },
+    {
+      "start": 312.871,
+      "text": "Hopefully, preserving these populations",
+      "end": 315.529
+    },
+    {
+      "start": 315.579,
+      "text": "will allow scientists to better understand bats’ unique antiviral defense systems.",
+      "end": 322.029
+    },
+    {
+      "start": 322.079,
+      "text": "And maybe one day, this research will help our own viral immunity take flight.",
+      "end": 329.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.454,
+      "text": "如果这只蝙蝠是人类，她就糟糕了。",
+      "end": 12.279
+    },
+    {
+      "start": 12.329,
+      "text": "她感染了好几个致命的病毒，",
+      "end": 14.863
+    },
+    {
+      "start": 14.913,
+      "text": "包括了那些会引起狂犬病、非典， 和埃博拉的病毒。",
+      "end": 20.404
+    },
+    {
+      "start": 20.454,
+      "text": "虽然她的诊断对 其他哺乳动物来说是致命的，",
+      "end": 24.113
+    },
+    {
+      "start": 24.163,
+      "text": "但对于这个神奇的物种来说 完全没有受到影响。",
+      "end": 27.779
+    },
+    {
+      "start": 27.829,
+      "text": "事实上，她甚至可能会在 接下来的30年里继续活着，",
+      "end": 31.654
+    },
+    {
+      "start": 31.704,
+      "text": "仿佛完全正常， 因为对于蝙蝠来说，确实如此。",
+      "end": 36.112
+    },
+    {
+      "start": 36.162,
+      "text": "所以是什么在保护着她， 从而让她免受这些危险的感染呢？",
+      "end": 40.987
+    },
+    {
+      "start": 41.037,
+      "text": "为了回答这个问题，我们首先需要明白",
+      "end": 43.571000000000005
+    },
+    {
+      "start": 43.621,
+      "text": "病毒及其宿主之间的关联。",
+      "end": 47.321000000000005
+    },
+    {
+      "start": 47.371,
+      "text": "（生物学分类）每一种病毒 都进化成感染",
+      "end": 49.654
+    },
+    {
+      "start": 49.704,
+      "text": "某一纲（Class）中的 特定一种（Species)。",
+      "end": 53.362
+    },
+    {
+      "start": 53.412,
+      "text": "这就是为什么人类 不太可能被植物病毒感染，",
+      "end": 57.779
+    },
+    {
+      "start": 57.829,
+      "text": "和为什么蜜蜂不会感染流感。",
+      "end": 61.321000000000005
+    },
+    {
+      "start": 61.371,
+      "text": "但是，病毒有时候会跨越 密切相关的物种。",
+      "end": 67.238
+    },
+    {
+      "start": 67.288,
+      "text": "由于新的宿主没有建立免疫防御系统，",
+      "end": 70.988
+    },
+    {
+      "start": 71.038,
+      "text": "未知名的病毒就显现出了 潜在的致命挑战。",
+      "end": 75.404
+    },
+    {
+      "start": 75.454,
+      "text": "这对病毒来说实际上也是个坏消息。",
+      "end": 79.238
+    },
+    {
+      "start": 79.288,
+      "text": "理想的宿主提供",
+      "end": 81.113
+    },
+    {
+      "start": 81.163,
+      "text": "源源不断的资源 和接触新宿主的机会，",
+      "end": 86.071
+    },
+    {
+      "start": 86.121,
+      "text": "活宿主恰恰提供这两个机会。",
+      "end": 90.529
+    },
+    {
+      "start": 90.579,
+      "text": "也就是说，成功的病毒",
+      "end": 93.446
+    },
+    {
+      "start": 93.496,
+      "text": "通常都不会进化到杀死它们的宿主，",
+      "end": 97.821
+    },
+    {
+      "start": 97.871,
+      "text": "包括感染了我们飞行朋友的病毒。",
+      "end": 101.946
+    },
+    {
+      "start": 101.996,
+      "text": "这些病毒的致命影响 并不是由病原体直接引起的，",
+      "end": 107.154
+    },
+    {
+      "start": 107.204,
+      "text": "而是，由它们的宿主 不受控制的免疫反应。",
+      "end": 111.779
+    },
+    {
+      "start": 111.829,
+      "text": "埃博拉病毒或某些类型的感染",
+      "end": 115.154
+    },
+    {
+      "start": 115.204,
+      "text": "已经进化成过度劳损 哺乳动物寄主的免疫系统，",
+      "end": 119.321
+    },
+    {
+      "start": 119.371,
+      "text": "使其变得超负荷。",
+      "end": 121.779
+    },
+    {
+      "start": 121.829,
+      "text": "身体发送成群的白细胞，",
+      "end": 124.529
+    },
+    {
+      "start": 124.579,
+      "text": "抗体和炎症分子来杀死外侵者。",
+      "end": 129.196
+    },
+    {
+      "start": 129.246,
+      "text": "但如果感染已经进化到够高的级别，",
+      "end": 132.363
+    },
+    {
+      "start": 132.413,
+      "text": "免疫系统的攻击 会导致自身组织的严重损伤。",
+      "end": 137.071
+    },
+    {
+      "start": 137.121,
+      "text": "在特别严重的情况下， 这种损害可能致死。",
+      "end": 141.071
+    },
+    {
+      "start": 141.121,
+      "text": "即使未致死，",
+      "end": 142.863
+    },
+    {
+      "start": 142.913,
+      "text": "该处也会很容易受到二次感染。",
+      "end": 146.946
+    },
+    {
+      "start": 146.996,
+      "text": "但与其他哺乳动物不同的是，",
+      "end": 148.779
+    },
+    {
+      "start": 148.829,
+      "text": "蝙蝠一直在与这些病毒 进行军备竞赛有几千年了，",
+      "end": 153.904
+    },
+    {
+      "start": 153.954,
+      "text": "而且它们已经适应了 限制这种自我伤害。",
+      "end": 157.154
+    },
+    {
+      "start": 157.204,
+      "text": "它们的免疫系统 具有非常低的炎症反应；",
+      "end": 161.238
+    },
+    {
+      "start": 161.288,
+      "text": "一种适应能力可能 与其他特征并列发展的",
+      "end": 164.654
+    },
+    {
+      "start": 164.704,
+      "text": "从而使它们与其他哺乳动物区分开来：",
+      "end": 166.946
+    },
+    {
+      "start": 166.996,
+      "text": "自立飞行。",
+      "end": 169.196
+    },
+    {
+      "start": 169.246,
+      "text": "这种能量密集型过程可以将蝙蝠的 体温升高到 40ºC 以上。",
+      "end": 176.154
+    },
+    {
+      "start": 176.204,
+      "text": "如此高的代谢率是有代价的；",
+      "end": 179.529
+    },
+    {
+      "start": 179.579,
+      "text": "飞行产生称为活性氧物种的废物分子",
+      "end": 184.738
+    },
+    {
+      "start": 184.788,
+      "text": "会损坏和断裂DNA的片段。",
+      "end": 188.363
+    },
+    {
+      "start": 188.413,
+      "text": "在其他哺乳动动中，这个松散的DNA",
+      "end": 190.779
+    },
+    {
+      "start": 190.829,
+      "text": "会像外来入侵者一样 受到免疫系统的攻击。",
+      "end": 194.404
+    },
+    {
+      "start": 194.454,
+      "text": "但如果蝙蝠经常产生这些分子 就像研究人员想的那样，",
+      "end": 198.613
+    },
+    {
+      "start": 198.663,
+      "text": "它们可能已经减弱了免疫系统的反应",
+      "end": 201.279
+    },
+    {
+      "start": 201.329,
+      "text": "来损坏它们自己的DNA。",
+      "end": 203.946
+    },
+    {
+      "start": 203.996,
+      "text": "事实上，某些与断裂DNA相关的基因",
+      "end": 208.613
+    },
+    {
+      "start": 208.663,
+      "text": "和部署炎症分子 是不存在蝙蝠基因组中的。",
+      "end": 213.988
+    },
+    {
+      "start": 214.038,
+      "text": "这个结果是一个受约束的 低水平炎症反应，",
+      "end": 219.071
+    },
+    {
+      "start": 219.121,
+      "text": "允许蝙蝠与它们系统中的病毒共存。",
+      "end": 224.154
+    },
+    {
+      "start": 224.204,
+      "text": "更令人惊讶的是，",
+      "end": 225.779
+    },
+    {
+      "start": 225.829,
+      "text": "蝙蝠能够携带这些病毒数十年",
+      "end": 229.238
+    },
+    {
+      "start": 229.288,
+      "text": "而不会对健康造成任何负面影响。",
+      "end": 232.571
+    },
+    {
+      "start": 232.621,
+      "text": "根据2013年的一项研究， 蝙蝠已经进化出有效的修复基因",
+      "end": 237.571
+    },
+    {
+      "start": 237.621,
+      "text": "来抵消它们所承受的频繁的DNA损伤。",
+      "end": 241.571
+    },
+    {
+      "start": 241.621,
+      "text": "这些修复基因可能也会 延长它们的寿命。",
+      "end": 246.446
+    },
+    {
+      "start": 246.496,
+      "text": "动物染色体已一个DNA序列 结束的被称为端粒。",
+      "end": 251.696
+    },
+    {
+      "start": 251.746,
+      "text": "这些序列在一个过程中 随着时间的推移而缩短",
+      "end": 254.654
+    },
+    {
+      "start": 254.704,
+      "text": "许多人认为这会导致细胞老化。",
+      "end": 257.94599999999997
+    },
+    {
+      "start": 257.996,
+      "text": "但是蝙蝠端粒的缩短速度要比 它们的哺乳动物表亲慢得多—",
+      "end": 263.82099999999997
+    },
+    {
+      "start": 263.871,
+      "text": "赋予它们长达41年的寿命。",
+      "end": 268.654
+    },
+    {
+      "start": 268.704,
+      "text": "当然了，蝙蝠并不能 完全战胜所有的疾病，",
+      "end": 272.779
+    },
+    {
+      "start": 272.829,
+      "text": "无论是由细菌、不熟悉的病毒， 还是真菌引起的。",
+      "end": 278.613
+    },
+    {
+      "start": 278.663,
+      "text": "蝙蝠种群受到过真菌感染的摧残",
+      "end": 282.613
+    },
+    {
+      "start": 282.663,
+      "text": "被称为白鼻综合征，",
+      "end": 285.32099999999997
+    },
+    {
+      "start": 285.371,
+      "text": "就会致命地破坏冬眠系统 并致命地破坏其翅膀的组织。",
+      "end": 290.404
+    },
+    {
+      "start": 290.454,
+      "text": "这些状况阻止蝙蝠发挥关键作用，",
+      "end": 294.154
+    },
+    {
+      "start": 294.204,
+      "text": "在它们的生态系统中， 例如帮助授粉和种子传播，",
+      "end": 299.238
+    },
+    {
+      "start": 299.288,
+      "text": "以及食用害虫和昆虫。",
+      "end": 302.654
+    },
+    {
+      "start": 302.704,
+      "text": "为了保护这些动物免受伤害， 和我们自己免受感染，",
+      "end": 307.154
+    },
+    {
+      "start": 307.204,
+      "text": "人类需要停止侵占蝙蝠的 栖息地和生态系统。",
+      "end": 312.82099999999997
+    },
+    {
+      "start": 312.871,
+      "text": "希望，保护这些群体",
+      "end": 315.529
+    },
+    {
+      "start": 315.579,
+      "text": "将使科学家更好地了解 蝙蝠独特的抗病毒防御系统。",
+      "end": 322.029
+    },
+    {
+      "start": 322.079,
+      "text": "也许有一天，这项研究将会帮助我们 提高自己的病毒免疫力。",
+      "end": 329.95
+    }
+  ]
+};

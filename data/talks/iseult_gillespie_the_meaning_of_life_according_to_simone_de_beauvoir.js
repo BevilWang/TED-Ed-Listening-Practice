@@ -1,0 +1,1128 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The meaning of life according to Simone de Beauvoir",
+    "speaker": "Iseult Gillespie",
+    "duration": 290,
+    "slug": "iseult_gillespie_the_meaning_of_life_according_to_simone_de_beauvoir",
+    "sourcePage": "https://www.ted.com/talks/iseult_gillespie_the_meaning_of_life_according_to_simone_de_beauvoir",
+    "translationSourcePage": "https://www.ted.com/talks/iseult_gillespie_the_meaning_of_life_according_to_simone_de_beauvoir?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/46/30/002/products/2019e-iseult-gillespie-the-second-sex-002-fallback-11e282eefa9ef663ea9dd8e6d44eee56-1200k.mp4",
+    "youtubeId": "Ws2Y2cWme8c",
+    "youtubeTitle": "The meaning of life according to Simone de Beauvoir - Iseult Gillespie"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.688,
+      "end": 14.988,
+      "text": "At the age of 21, Simone de Beauvoir became the youngest person to take the philosophy exams at France’s most esteemed university.",
+      "translation": "在 21 岁时，西蒙娜 · 德 · 波伏娃 （Simone de Beauvoir）成为法国最权威大学的 哲学考试中最年轻的考生。"
+    },
+    {
+      "id": 2,
+      "start": 15.038,
+      "end": 16.998,
+      "text": "She passed with flying colors.",
+      "translation": "她出色地通过了考试。"
+    },
+    {
+      "id": 3,
+      "start": 17.048,
+      "end": 21.3,
+      "text": "But as soon as she mastered the rules of philosophy, she wanted to break them.",
+      "translation": "但是随着她逐步掌握哲学的原则，她想要打破他们。"
+    },
+    {
+      "id": 4,
+      "start": 21.35,
+      "end": 30.17,
+      "text": "She’d been schooled on Plato’s Theory of Forms, which dismissed the physical world as a flawed reflection of higher truths and unchanging ideals.",
+      "translation": "她一直被灌输着柏拉图的理型论，它忽视了物质世界 实为非理型的反映，展示着更高的真理和不变的理念。"
+    },
+    {
+      "id": 5,
+      "start": 30.22,
+      "end": 35.97,
+      "text": "But for de Beauvoir, earthly life was enthralling, sensual, and anything but static.",
+      "translation": "但是对于波伏娃而言， 世俗生活是迷人、感性等，但是波澜不惊。"
+    },
+    {
+      "id": 6,
+      "start": 36.02,
+      "end": 44.606,
+      "text": "Her desire to explore the physical world to its fullest would shape her life, and eventually, inspire a radical new philosophy.",
+      "translation": "她对现实世界探索的渴望 影响了她的生活，最终，激发出革命性的新哲学观。"
+    },
+    {
+      "id": 7,
+      "start": 44.656,
+      "end": 56.055,
+      "text": "Endlessly debating with her romantic and intellectual partner Jean Paul Sartre, de Beauvoir explored free will, desire, rights and responsibilities, and the value of personal experience.",
+      "translation": "在与她的亲密爱人， 同时也是聪慧的伴侣让 · 保罗 · 萨特（Jean Paul Sartre） 无止尽的辩论中，德·波伏娃探索着 自由意志、渴望、权利和责任，"
+    },
+    {
+      "id": 8,
+      "start": 56.105,
+      "end": 65.415,
+      "text": "In the years following WWII, these ideas would converge into the school of thought most closely associated with their work: existentialism.",
+      "translation": "以及个人经验的价值。在接下来的二战期间， 这些想法融合成为与他们的作品关系最密切的思想流派：存在主义。"
+    },
+    {
+      "id": 9,
+      "start": 65.465,
+      "end": 74.055,
+      "text": "Where Judeo-Christian traditions taught that humans are born with preordained purpose, de Beauvoir and Sartre proposed a revolutionary alternative.",
+      "translation": "犹太教和基督教的传统都宣扬人类天生带有命中注定的目的，德 · 波伏娃和萨特提出 另一个革命性的观点。"
+    },
+    {
+      "id": 10,
+      "start": 74.105,
+      "end": 79.495,
+      "text": "They argued that humans are born free, and thrown into existence without a divine plan.",
+      "translation": "他们认为人类生而自由，并不是为了实现神圣计划而存在。"
+    },
+    {
+      "id": 11,
+      "start": 79.545,
+      "end": 84.285,
+      "text": "As de Beauvoir acknowledged, this freedom is both a blessing and a burden.",
+      "translation": "正如德·波伏娃所承认， 这种自由既是福赐也是负担。"
+    },
+    {
+      "id": 12,
+      "start": 84.335,
+      "end": 94.396,
+      "text": "In \"The Ethics of Ambiguity\" she argued that our greatest ethical imperative is to create our own life’s meaning, while protecting the freedom of others to do the same.",
+      "translation": "在《模糊性的道德》一书中， 她认为我们最大的道德使命在于创造我们自己生命的意义，同时也要守护他人如此做的自由。"
+    },
+    {
+      "id": 13,
+      "start": 94.446,
+      "end": 101.474,
+      "text": "As de Beauvoir wrote, “A freedom which is interested only in denying freedom must be denied.”",
+      "translation": "正如德·波伏娃所写，“仅仅为了否定自由 本身的自由必须被摈弃。”"
+    },
+    {
+      "id": 14,
+      "start": 101.524,
+      "end": 109.504,
+      "text": "This philosophy challenged its students to navigate the ambiguities and conflicts our desires produce, both internally and externally.",
+      "translation": "这种哲学挑战了学生探究欲望所产生内外部的模糊性和冲突。"
+    },
+    {
+      "id": 15,
+      "start": 109.554,
+      "end": 121.536,
+      "text": "And as de Beauvoir sought to find her own purpose, she began to question: if everyone deserves to freely pursue meaning, why was she restricted by society’s ideals of womanhood?",
+      "translation": "正如德 · 波伏娃探索她自己的目的，她开始质疑：如果人人都有权自由追求人生的意义，那为什么她受到社会 对女性理想的束缚呢？"
+    },
+    {
+      "id": 16,
+      "start": 121.586,
+      "end": 128.356,
+      "text": "Despite her prolific writing, teaching and activism, de Beauvoir struggled to be taken seriously by her male peers.",
+      "translation": "尽管她在写作、教学 和行动主义上都很活跃，德 · 波伏娃仍然很难 被同业男性的认真对待。"
+    },
+    {
+      "id": 17,
+      "start": 128.406,
+      "end": 136.11,
+      "text": "She’d rejected her Catholic upbringing and marital expectations to study at university, and write memoirs, fiction and philosophy.",
+      "translation": "她背离了天主教家庭的束缚 以及他人对她婚姻的期待，进入大学学习，开始写 自传、小说和哲学论文。"
+    },
+    {
+      "id": 18,
+      "start": 136.16,
+      "end": 143.45,
+      "text": "But the risks she was taking by embracing this lifestyle were lost on many of her male counterparts, who took these freedoms for granted.",
+      "translation": "但这样的生活方式也让她失去了很多男性同行，他们视这些自由为理所当然。"
+    },
+    {
+      "id": 19,
+      "start": 143.5,
+      "end": 152.75,
+      "text": "They had no intellectual interest in de Beauvoir’s work, which explored women’s inner lives, as well the author’s open relationship and bisexuality.",
+      "translation": "在学术上，他们对于 德·波伏娃的作品毫无兴趣因为这些作品探索的是 女性的内心活动，以及作者的开放式关系和双性恋。"
+    },
+    {
+      "id": 20,
+      "start": 152.8,
+      "end": 158.55,
+      "text": "To convey the importance of her perspective, de Beauvoir embarked on her most challenging book yet.",
+      "translation": "为了表明她观点的重要性，德·波伏娃在她最具 挑战性的著作里做了阐释。"
+    },
+    {
+      "id": 21,
+      "start": 158.6,
+      "end": 165.32,
+      "text": "Just as she’d created the foundations of existentialism, she’d now redefine the limits of gender.",
+      "translation": "正如她曾创造了存在主义的基石，现在她要重新定义性别的边界。"
+    },
+    {
+      "id": 22,
+      "start": 165.37,
+      "end": 172.644,
+      "text": "Published in 1949, \"The Second Sex\" argues that, like our life’s meaning, gender is not predestined.",
+      "translation": "1949 年出版的《第二性》认为， 正如生命的意义，性别也不是事先决定的。"
+    },
+    {
+      "id": 23,
+      "start": 172.694,
+      "end": 178.356,
+      "text": "As de Beauvoir famously wrote, “one is not born, but rather becomes, woman.”",
+      "translation": "正如德·波伏娃名言，“女人不是天生的，而是后天形成的。”"
+    },
+    {
+      "id": 24,
+      "start": 178.406,
+      "end": 182.616,
+      "text": "And to “become” a woman, she argued, was to become the Other.",
+      "translation": "关于“后天形成”的女性， 她论证为，是成为“她者”。"
+    },
+    {
+      "id": 25,
+      "start": 182.666,
+      "end": 192.961,
+      "text": "De Beauvoir defined Othering as the process of labeling women as less than the men who’d historically defined, and been defined as, the ideal human subjects.",
+      "translation": "德·波伏娃定义“她者”是 女性标签化的过程，将女性标识为不如男性，而在历史上一直由男性自己 来把男性定义为理想的人类。"
+    },
+    {
+      "id": 26,
+      "start": 193.011,
+      "end": 201.496,
+      "text": "As the Other, she argued that women were considered second to men, and therefore systematically restricted from pursuing freedom.",
+      "translation": "身为 “她者” ，她认为 女性被认为次于男性，因此在追求自由时， 便会受到体制上的限制。"
+    },
+    {
+      "id": 27,
+      "start": 201.546,
+      "end": 209.948,
+      "text": "\"The Second Sex\" became an essential feminist treatise, offering a detailed history of women’s oppression and a wealth of anecdotal testimony.",
+      "translation": "《第二性》成为了 女权主义里程碑式的著作，提供了关于女性受压迫的详细历史，和大量的传闻证实。"
+    },
+    {
+      "id": 28,
+      "start": 209.998,
+      "end": 218.318,
+      "text": "\"The Second Sex\"’s combination of personal experience and philosophical intervention provided a new language to discuss feminist theory.",
+      "translation": "《第二性》融合了个人经历和哲学思想产生了谈论女权主义理论的全新语言。"
+    },
+    {
+      "id": 29,
+      "start": 218.368,
+      "end": 228.658,
+      "text": "Today, those conversations are still informed by de Beauvoir’s insistence that in the pursuit of equality, “there is no divorce between philosophy and life.”",
+      "translation": "今天，这些谈话仍然深受德·波伏娃对追求平等的坚持，“哲学和生活息息相关。”"
+    },
+    {
+      "id": 30,
+      "start": 228.708,
+      "end": 235.448,
+      "text": "Of course, like any foundational work, the ideas in \"The Second Sex\" have been expanded upon since its publication.",
+      "translation": "当然，如任何基础原理著作，《第二性》的观点自从出版后， 就开始被拓展开来。"
+    },
+    {
+      "id": 31,
+      "start": 235.498,
+      "end": 240.928,
+      "text": "Many modern thinkers have explored additional ways people are Othered that de Beauvoir doesn’t acknowledge.",
+      "translation": "许多当代思想家都探究了 德·波伏娃尚未认知到的人类被区别对待的其他形式。"
+    },
+    {
+      "id": 32,
+      "start": 240.978,
+      "end": 249.008,
+      "text": "These include racial and economic identities, as well as the broader spectrum of gender and sexual identities we understand today.",
+      "translation": "这些包括种族和经济的认同感，以及我们如今 对性别和性有更广泛认知。"
+    },
+    {
+      "id": 33,
+      "start": 249.058,
+      "end": 255.952,
+      "text": "De Beauvoir’s legacy is further complicated by accusations of sexual misconduct by two of her university students.",
+      "translation": "德·波伏娃对后世的影响也是褒贬不一，她被所执教大学的两个学生 以不当性行为所指控。"
+    },
+    {
+      "id": 34,
+      "start": 256.002,
+      "end": 261.922,
+      "text": "In the face of these accusations, she had her teaching license revoked for abusing her position.",
+      "translation": "面对这些指控，她因滥用职权被吊销了教师证。"
+    },
+    {
+      "id": 35,
+      "start": 261.972,
+      "end": 271.292,
+      "text": "In this aspect and others, de Beauvoir’s life remains controversial— and her work represents a contentious moment in the emergence of early feminism.",
+      "translation": "或多或少， 德·波伏娃的一生是富有争议的她的作品也代表了 富有争议的早期女权主义。"
+    },
+    {
+      "id": 36,
+      "start": 271.342,
+      "end": 279.738,
+      "text": "She participated in those conversations for the rest of her life; writing fiction, philosophy, and memoirs until her death in 1986.",
+      "translation": "她一生都处于这些争论之中，写小说，哲学著作和自传 直到 1986 年与世长辞。"
+    },
+    {
+      "id": 37,
+      "start": 279.788,
+      "end": 289.95,
+      "text": "Today, her work offers a philosophical language to be reimagined, revisited and rebelled against— a response this revolutionary thinker might have welcomed.",
+      "translation": "如今，她的著作 提供了一种哲学表达方式，让大家可以重新想象， 重新审视，以及反对驳斥——这位革命性的思想者若尚在世， 或许会很欢迎这样的反应。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.688,
+      "text": "At the age of 21, Simone de Beauvoir became the youngest person",
+      "end": 10.517999999999999
+    },
+    {
+      "start": 10.568,
+      "text": "to take the philosophy exams at France’s most esteemed university.",
+      "end": 14.988
+    },
+    {
+      "start": 15.038,
+      "text": "She passed with flying colors.",
+      "end": 16.997999999999998
+    },
+    {
+      "start": 17.048,
+      "text": "But as soon as she mastered the rules of philosophy,",
+      "end": 19.529999999999998
+    },
+    {
+      "start": 19.58,
+      "text": "she wanted to break them.",
+      "end": 21.3
+    },
+    {
+      "start": 21.35,
+      "text": "She’d been schooled on Plato’s Theory of Forms,",
+      "end": 24.33
+    },
+    {
+      "start": 24.38,
+      "text": "which dismissed the physical world as a flawed reflection",
+      "end": 27.23
+    },
+    {
+      "start": 27.28,
+      "text": "of higher truths and unchanging ideals.",
+      "end": 30.169999999999998
+    },
+    {
+      "start": 30.22,
+      "text": "But for de Beauvoir, earthly life was enthralling, sensual,",
+      "end": 34.02
+    },
+    {
+      "start": 34.07,
+      "text": "and anything but static.",
+      "end": 35.970000000000006
+    },
+    {
+      "start": 36.02,
+      "text": "Her desire to explore the physical world to its fullest would shape her life,",
+      "end": 40.31
+    },
+    {
+      "start": 40.36,
+      "text": "and eventually, inspire a radical new philosophy.",
+      "end": 44.606
+    },
+    {
+      "start": 44.656,
+      "text": "Endlessly debating with her romantic and intellectual partner Jean Paul Sartre,",
+      "end": 48.995000000000005
+    },
+    {
+      "start": 49.045,
+      "text": "de Beauvoir explored free will, desire, rights and responsibilities,",
+      "end": 53.225
+    },
+    {
+      "start": 53.275,
+      "text": "and the value of personal experience.",
+      "end": 56.055
+    },
+    {
+      "start": 56.105,
+      "text": "In the years following WWII,",
+      "end": 58.165000000000006
+    },
+    {
+      "start": 58.215,
+      "text": "these ideas would converge into the school of thought",
+      "end": 60.775000000000006
+    },
+    {
+      "start": 60.825,
+      "text": "most closely associated with their work: existentialism.",
+      "end": 65.415
+    },
+    {
+      "start": 65.465,
+      "text": "Where Judeo-Christian traditions taught that",
+      "end": 67.57600000000001
+    },
+    {
+      "start": 67.626,
+      "text": "humans are born with preordained purpose,",
+      "end": 70.135
+    },
+    {
+      "start": 70.185,
+      "text": "de Beauvoir and Sartre proposed a revolutionary alternative.",
+      "end": 74.055
+    },
+    {
+      "start": 74.105,
+      "text": "They argued that humans are born free,",
+      "end": 76.265
+    },
+    {
+      "start": 76.315,
+      "text": "and thrown into existence without a divine plan.",
+      "end": 79.495
+    },
+    {
+      "start": 79.545,
+      "text": "As de Beauvoir acknowledged, this freedom is both a blessing and a burden.",
+      "end": 84.285
+    },
+    {
+      "start": 84.335,
+      "text": "In \"The Ethics of Ambiguity\" she argued that our greatest ethical imperative",
+      "end": 88.94200000000001
+    },
+    {
+      "start": 88.992,
+      "text": "is to create our own life’s meaning,",
+      "end": 91.36200000000001
+    },
+    {
+      "start": 91.412,
+      "text": "while protecting the freedom of others to do the same.",
+      "end": 94.396
+    },
+    {
+      "start": 94.446,
+      "text": "As de Beauvoir wrote,",
+      "end": 96.086
+    },
+    {
+      "start": 96.136,
+      "text": "“A freedom which is interested only in denying freedom must be denied.”",
+      "end": 101.474
+    },
+    {
+      "start": 101.524,
+      "text": "This philosophy challenged its students to navigate the ambiguities and conflicts",
+      "end": 105.70400000000001
+    },
+    {
+      "start": 105.754,
+      "text": "our desires produce, both internally and externally.",
+      "end": 109.504
+    },
+    {
+      "start": 109.554,
+      "text": "And as de Beauvoir sought to find her own purpose,",
+      "end": 112.436
+    },
+    {
+      "start": 112.486,
+      "text": "she began to question:",
+      "end": 113.96600000000001
+    },
+    {
+      "start": 114.016,
+      "text": "if everyone deserves to freely pursue meaning,",
+      "end": 116.946
+    },
+    {
+      "start": 116.996,
+      "text": "why was she restricted by society’s ideals of womanhood?",
+      "end": 121.536
+    },
+    {
+      "start": 121.586,
+      "text": "Despite her prolific writing, teaching and activism,",
+      "end": 124.787
+    },
+    {
+      "start": 124.837,
+      "text": "de Beauvoir struggled to be taken seriously by her male peers.",
+      "end": 128.356
+    },
+    {
+      "start": 128.406,
+      "text": "She’d rejected her Catholic upbringing and marital expectations",
+      "end": 131.796
+    },
+    {
+      "start": 131.846,
+      "text": "to study at university, and write memoirs, fiction and philosophy.",
+      "end": 136.10999999999999
+    },
+    {
+      "start": 136.16,
+      "text": "But the risks she was taking by embracing this lifestyle",
+      "end": 138.82999999999998
+    },
+    {
+      "start": 138.88,
+      "text": "were lost on many of her male counterparts,",
+      "end": 141.25
+    },
+    {
+      "start": 141.3,
+      "text": "who took these freedoms for granted.",
+      "end": 143.45
+    },
+    {
+      "start": 143.5,
+      "text": "They had no intellectual interest in de Beauvoir’s work,",
+      "end": 146.51999999999998
+    },
+    {
+      "start": 146.57,
+      "text": "which explored women’s inner lives,",
+      "end": 148.73
+    },
+    {
+      "start": 148.78,
+      "text": "as well the author’s open relationship and bisexuality.",
+      "end": 152.75
+    },
+    {
+      "start": 152.8,
+      "text": "To convey the importance of her perspective,",
+      "end": 155.01999999999998
+    },
+    {
+      "start": 155.07,
+      "text": "de Beauvoir embarked on her most challenging book yet.",
+      "end": 158.54999999999998
+    },
+    {
+      "start": 158.6,
+      "text": "Just as she’d created the foundations of existentialism,",
+      "end": 161.85999999999999
+    },
+    {
+      "start": 161.91,
+      "text": "she’d now redefine the limits of gender.",
+      "end": 165.32
+    },
+    {
+      "start": 165.37,
+      "text": "Published in 1949, \"The Second Sex\" argues that, like our life’s meaning,",
+      "end": 170.624
+    },
+    {
+      "start": 170.674,
+      "text": "gender is not predestined.",
+      "end": 172.64399999999998
+    },
+    {
+      "start": 172.694,
+      "text": "As de Beauvoir famously wrote,",
+      "end": 174.736
+    },
+    {
+      "start": 174.786,
+      "text": "“one is not born, but rather becomes, woman.”",
+      "end": 178.356
+    },
+    {
+      "start": 178.406,
+      "text": "And to “become” a woman, she argued, was to become the Other.",
+      "end": 182.61599999999999
+    },
+    {
+      "start": 182.666,
+      "text": "De Beauvoir defined Othering as the process of labeling women",
+      "end": 186.339
+    },
+    {
+      "start": 186.389,
+      "text": "as less than the men who’d historically defined, and been defined as,",
+      "end": 190.476
+    },
+    {
+      "start": 190.526,
+      "text": "the ideal human subjects.",
+      "end": 192.96099999999998
+    },
+    {
+      "start": 193.011,
+      "text": "As the Other, she argued that women were considered second to men,",
+      "end": 197.12599999999998
+    },
+    {
+      "start": 197.176,
+      "text": "and therefore systematically restricted from pursuing freedom.",
+      "end": 201.49599999999998
+    },
+    {
+      "start": 201.546,
+      "text": "\"The Second Sex\" became an essential feminist treatise,",
+      "end": 204.89399999999998
+    },
+    {
+      "start": 204.944,
+      "text": "offering a detailed history of women’s oppression",
+      "end": 207.506
+    },
+    {
+      "start": 207.556,
+      "text": "and a wealth of anecdotal testimony.",
+      "end": 209.94799999999998
+    },
+    {
+      "start": 209.998,
+      "text": "\"The Second Sex\"’s combination of personal experience",
+      "end": 213.018
+    },
+    {
+      "start": 213.068,
+      "text": "and philosophical intervention",
+      "end": 214.838
+    },
+    {
+      "start": 214.888,
+      "text": "provided a new language to discuss feminist theory.",
+      "end": 218.31799999999998
+    },
+    {
+      "start": 218.368,
+      "text": "Today, those conversations are still informed by de Beauvoir’s insistence",
+      "end": 222.86999999999998
+    },
+    {
+      "start": 222.92,
+      "text": "that in the pursuit of equality,",
+      "end": 224.73
+    },
+    {
+      "start": 224.78,
+      "text": "“there is no divorce between philosophy and life.”",
+      "end": 228.658
+    },
+    {
+      "start": 228.708,
+      "text": "Of course, like any foundational work,",
+      "end": 231.468
+    },
+    {
+      "start": 231.518,
+      "text": "the ideas in \"The Second Sex\" have been expanded upon since its publication.",
+      "end": 235.44799999999998
+    },
+    {
+      "start": 235.498,
+      "text": "Many modern thinkers have explored additional ways people are Othered",
+      "end": 238.838
+    },
+    {
+      "start": 238.888,
+      "text": "that de Beauvoir doesn’t acknowledge.",
+      "end": 240.928
+    },
+    {
+      "start": 240.978,
+      "text": "These include racial and economic identities,",
+      "end": 243.718
+    },
+    {
+      "start": 243.768,
+      "text": "as well as the broader spectrum of gender and sexual identities we understand today.",
+      "end": 249.00799999999998
+    },
+    {
+      "start": 249.058,
+      "text": "De Beauvoir’s legacy is further complicated",
+      "end": 251.278
+    },
+    {
+      "start": 251.328,
+      "text": "by accusations of sexual misconduct by two of her university students.",
+      "end": 255.952
+    },
+    {
+      "start": 256.002,
+      "text": "In the face of these accusations,",
+      "end": 257.822
+    },
+    {
+      "start": 257.872,
+      "text": "she had her teaching license revoked for abusing her position.",
+      "end": 261.92199999999997
+    },
+    {
+      "start": 261.972,
+      "text": "In this aspect and others, de Beauvoir’s life remains controversial—",
+      "end": 266.24199999999996
+    },
+    {
+      "start": 266.292,
+      "text": "and her work represents a contentious moment in the emergence of early feminism.",
+      "end": 271.292
+    },
+    {
+      "start": 271.342,
+      "text": "She participated in those conversations for the rest of her life;",
+      "end": 274.812
+    },
+    {
+      "start": 274.862,
+      "text": "writing fiction, philosophy, and memoirs until her death in 1986.",
+      "end": 279.738
+    },
+    {
+      "start": 279.788,
+      "text": "Today, her work offers a philosophical language",
+      "end": 282.568
+    },
+    {
+      "start": 282.618,
+      "text": "to be reimagined, revisited and rebelled against—",
+      "end": 286.132
+    },
+    {
+      "start": 286.182,
+      "text": "a response this revolutionary thinker might have welcomed.",
+      "end": 289.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.688,
+      "text": "在 21 岁时，西蒙娜 · 德 · 波伏娃 （Simone de Beauvoir）成为",
+      "end": 10.517999999999999
+    },
+    {
+      "start": 10.568,
+      "text": "法国最权威大学的 哲学考试中最年轻的考生。",
+      "end": 14.988
+    },
+    {
+      "start": 15.038,
+      "text": "她出色地通过了考试。",
+      "end": 16.997999999999998
+    },
+    {
+      "start": 17.048,
+      "text": "但是随着她逐步掌握哲学的原则，",
+      "end": 19.529999999999998
+    },
+    {
+      "start": 19.58,
+      "text": "她想要打破他们。",
+      "end": 21.3
+    },
+    {
+      "start": 21.35,
+      "text": "她一直被灌输着柏拉图的理型论，",
+      "end": 24.33
+    },
+    {
+      "start": 24.38,
+      "text": "它忽视了物质世界 实为非理型的反映，",
+      "end": 27.23
+    },
+    {
+      "start": 27.28,
+      "text": "展示着更高的真理和不变的理念。",
+      "end": 30.169999999999998
+    },
+    {
+      "start": 30.22,
+      "text": "但是对于波伏娃而言， 世俗生活是迷人、",
+      "end": 34.02
+    },
+    {
+      "start": 34.07,
+      "text": "感性等，但是波澜不惊。",
+      "end": 35.970000000000006
+    },
+    {
+      "start": 36.02,
+      "text": "她对现实世界探索的渴望 影响了她的生活，",
+      "end": 40.31
+    },
+    {
+      "start": 40.36,
+      "text": "最终，激发出革命性的新哲学观。",
+      "end": 44.606
+    },
+    {
+      "start": 44.656,
+      "text": "在与她的亲密爱人， 同时也是聪慧的伴侣",
+      "end": 46.635000000000005
+    },
+    {
+      "start": 46.685,
+      "text": "让 · 保罗 · 萨特（Jean Paul Sartre） 无止尽的辩论中，",
+      "end": 48.995000000000005
+    },
+    {
+      "start": 49.045,
+      "text": "德·波伏娃探索着 自由意志、渴望、权利和责任，",
+      "end": 53.225
+    },
+    {
+      "start": 53.275,
+      "text": "以及个人经验的价值。",
+      "end": 56.055
+    },
+    {
+      "start": 56.105,
+      "text": "在接下来的二战期间， 这些想法融合成为与他们的作品",
+      "end": 60.775000000000006
+    },
+    {
+      "start": 60.825,
+      "text": "关系最密切的思想流派：存在主义。",
+      "end": 65.415
+    },
+    {
+      "start": 65.465,
+      "text": "犹太教和基督教的传统都宣扬",
+      "end": 67.57600000000001
+    },
+    {
+      "start": 67.626,
+      "text": "人类天生带有命中注定的目的，",
+      "end": 70.135
+    },
+    {
+      "start": 70.185,
+      "text": "德 · 波伏娃和萨特提出 另一个革命性的观点。",
+      "end": 74.055
+    },
+    {
+      "start": 74.105,
+      "text": "他们认为人类生而自由，",
+      "end": 76.265
+    },
+    {
+      "start": 76.315,
+      "text": "并不是为了实现神圣计划而存在。",
+      "end": 79.495
+    },
+    {
+      "start": 79.545,
+      "text": "正如德·波伏娃所承认， 这种自由既是福赐也是负担。",
+      "end": 84.285
+    },
+    {
+      "start": 84.335,
+      "text": "在《模糊性的道德》一书中， 她认为我们最大的道德使命在于",
+      "end": 88.94200000000001
+    },
+    {
+      "start": 88.992,
+      "text": "创造我们自己生命的意义，",
+      "end": 91.36200000000001
+    },
+    {
+      "start": 91.412,
+      "text": "同时也要守护他人如此做的自由。",
+      "end": 94.486
+    },
+    {
+      "start": 94.536,
+      "text": "正如德·波伏娃所写，",
+      "end": 96.144
+    },
+    {
+      "start": 96.194,
+      "text": "“仅仅为了否定自由 本身的自由必须被摈弃。”",
+      "end": 101.37400000000001
+    },
+    {
+      "start": 101.424,
+      "text": "这种哲学挑战了学生探究欲望所产生",
+      "end": 104.31400000000001
+    },
+    {
+      "start": 104.364,
+      "text": "内外部的模糊性和冲突。",
+      "end": 109.696
+    },
+    {
+      "start": 109.746,
+      "text": "正如德 · 波伏娃探索她自己的目的，",
+      "end": 112.46600000000001
+    },
+    {
+      "start": 112.516,
+      "text": "她开始质疑：",
+      "end": 114.446
+    },
+    {
+      "start": 114.496,
+      "text": "如果人人都有权自由追求人生的意义，",
+      "end": 116.49600000000001
+    },
+    {
+      "start": 116.546,
+      "text": "那为什么她受到社会 对女性理想的束缚呢？",
+      "end": 121.517
+    },
+    {
+      "start": 121.567,
+      "text": "尽管她在写作、教学 和行动主义上都很活跃，",
+      "end": 124.846
+    },
+    {
+      "start": 124.896,
+      "text": "德 · 波伏娃仍然很难 被同业男性的认真对待。",
+      "end": 128.416
+    },
+    {
+      "start": 128.466,
+      "text": "她背离了天主教家庭的束缚 以及他人对她婚姻的期待，",
+      "end": 131.95
+    },
+    {
+      "start": 132.0,
+      "text": "进入大学学习，开始写 自传、小说和哲学论文。",
+      "end": 136.29
+    },
+    {
+      "start": 136.34,
+      "text": "但这样的生活方式也",
+      "end": 139.63
+    },
+    {
+      "start": 139.68,
+      "text": "让她失去了很多男性同行，",
+      "end": 141.51999999999998
+    },
+    {
+      "start": 141.57,
+      "text": "他们视这些自由为理所当然。",
+      "end": 143.45999999999998
+    },
+    {
+      "start": 143.51,
+      "text": "在学术上，他们对于 德·波伏娃的作品毫无兴趣",
+      "end": 146.67
+    },
+    {
+      "start": 146.72,
+      "text": "因为这些作品探索的是 女性的内心活动，",
+      "end": 149.48999999999998
+    },
+    {
+      "start": 149.54,
+      "text": "以及作者的开放式关系和双性恋。",
+      "end": 152.70999999999998
+    },
+    {
+      "start": 152.76,
+      "text": "为了表明她观点的重要性，",
+      "end": 155.48
+    },
+    {
+      "start": 155.53,
+      "text": "德·波伏娃在她最具 挑战性的著作里做了阐释。",
+      "end": 158.72
+    },
+    {
+      "start": 158.77,
+      "text": "正如她曾创造了存在主义的基石，",
+      "end": 161.79999999999998
+    },
+    {
+      "start": 161.85,
+      "text": "现在她要重新定义性别的边界。",
+      "end": 165.214
+    },
+    {
+      "start": 165.264,
+      "text": "1949 年出版的《第二性》认为， 正如生命的意义，",
+      "end": 170.76399999999998
+    },
+    {
+      "start": 170.814,
+      "text": "性别也不是事先决定的。",
+      "end": 172.816
+    },
+    {
+      "start": 172.866,
+      "text": "正如德·波伏娃名言，",
+      "end": 174.756
+    },
+    {
+      "start": 174.806,
+      "text": "“女人不是天生的，而是后天形成的。”",
+      "end": 178.486
+    },
+    {
+      "start": 178.536,
+      "text": "关于“后天形成”的女性， 她论证为，是成为“她者”。",
+      "end": 182.70899999999997
+    },
+    {
+      "start": 182.759,
+      "text": "德·波伏娃定义“她者”是 女性标签化的过程，",
+      "end": 186.286
+    },
+    {
+      "start": 186.336,
+      "text": "将女性标识为不如男性，",
+      "end": 189.051
+    },
+    {
+      "start": 189.101,
+      "text": "而在历史上一直由男性自己 来把男性定义为理想的人类。",
+      "end": 192.62599999999998
+    },
+    {
+      "start": 192.676,
+      "text": "身为 “她者” ，她认为 女性被认为次于男性，",
+      "end": 197.33599999999998
+    },
+    {
+      "start": 197.386,
+      "text": "因此在追求自由时， 便会受到体制上的限制。",
+      "end": 201.304
+    },
+    {
+      "start": 201.354,
+      "text": "《第二性》成为了 女权主义里程碑式的著作，",
+      "end": 204.986
+    },
+    {
+      "start": 205.036,
+      "text": "提供了关于女性受压迫的详细历史，",
+      "end": 207.725
+    },
+    {
+      "start": 207.775,
+      "text": "和大量的传闻证实。",
+      "end": 210.19799999999998
+    },
+    {
+      "start": 210.248,
+      "text": "《第二性》融合了个人经历",
+      "end": 213.148
+    },
+    {
+      "start": 213.198,
+      "text": "和哲学思想",
+      "end": 215.118
+    },
+    {
+      "start": 215.168,
+      "text": "产生了谈论女权主义理论的全新语言。",
+      "end": 218.22
+    },
+    {
+      "start": 218.27,
+      "text": "今天，这些谈话仍然深受德·波伏娃",
+      "end": 222.08999999999997
+    },
+    {
+      "start": 222.14,
+      "text": "对追求平等的坚持，",
+      "end": 225.338
+    },
+    {
+      "start": 225.388,
+      "text": "“哲学和生活息息相关。”",
+      "end": 228.81799999999998
+    },
+    {
+      "start": 228.868,
+      "text": "当然，如任何基础原理著作，",
+      "end": 231.748
+    },
+    {
+      "start": 231.798,
+      "text": "《第二性》的观点自从出版后， 就开始被拓展开来。",
+      "end": 235.248
+    },
+    {
+      "start": 235.298,
+      "text": "许多当代思想家都探究了 德·波伏娃尚未认知到的",
+      "end": 237.938
+    },
+    {
+      "start": 237.988,
+      "text": "人类被区别对待的其他形式。",
+      "end": 241.158
+    },
+    {
+      "start": 241.208,
+      "text": "这些包括种族和经济的认同感，",
+      "end": 243.808
+    },
+    {
+      "start": 243.858,
+      "text": "以及我们如今 对性别和性有更广泛认知。",
+      "end": 249.03799999999998
+    },
+    {
+      "start": 249.088,
+      "text": "德·波伏娃对后世的影响也是褒贬不一，",
+      "end": 251.612
+    },
+    {
+      "start": 251.662,
+      "text": "她被所执教大学的两个学生 以不当性行为所指控。",
+      "end": 256.142
+    },
+    {
+      "start": 256.192,
+      "text": "面对这些指控，",
+      "end": 258.212
+    },
+    {
+      "start": 258.262,
+      "text": "她因滥用职权被吊销了教师证。",
+      "end": 261.962
+    },
+    {
+      "start": 262.012,
+      "text": "或多或少， 德·波伏娃的一生是富有争议的",
+      "end": 266.382
+    },
+    {
+      "start": 266.432,
+      "text": "她的作品也代表了 富有争议的早期女权主义。",
+      "end": 271.162
+    },
+    {
+      "start": 271.212,
+      "text": "她一生都处于这些争论之中，",
+      "end": 274.788
+    },
+    {
+      "start": 274.838,
+      "text": "写小说，哲学著作和自传 直到 1986 年与世长辞。",
+      "end": 279.96799999999996
+    },
+    {
+      "start": 280.018,
+      "text": "如今，她的著作 提供了一种哲学表达方式，",
+      "end": 282.782
+    },
+    {
+      "start": 282.832,
+      "text": "让大家可以重新想象， 重新审视，以及反对驳斥——",
+      "end": 286.163
+    },
+    {
+      "start": 286.213,
+      "text": "这位革命性的思想者若尚在世， 或许会很欢迎这样的反应。",
+      "end": 289.95
+    }
+  ]
+};

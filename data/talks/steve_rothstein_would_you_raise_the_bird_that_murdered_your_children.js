@@ -1,0 +1,1094 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Would you raise the bird that murdered your children?",
+    "speaker": "Steve Rothstein",
+    "duration": 304,
+    "slug": "steve_rothstein_would_you_raise_the_bird_that_murdered_your_children",
+    "sourcePage": "https://www.ted.com/talks/steve_rothstein_would_you_raise_the_bird_that_murdered_your_children",
+    "translationSourcePage": "https://www.ted.com/talks/steve_rothstein_would_you_raise_the_bird_that_murdered_your_children?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/57/51/001/products/2021e-steve-rothstein-brood-parasitism-001-fallback-5d1a021830ceb692c06aeb554b730321-1200k.mp4",
+    "youtubeId": "RAPPT7gcl5s",
+    "youtubeTitle": "Would you raise the bird that murdered your children? - Steve Rothstein"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.837,
+      "end": 10.54,
+      "text": "This is a little bee-eater’s nest.",
+      "translation": "这是一个食蜂鸟巢。"
+    },
+    {
+      "id": 2,
+      "start": 10.59,
+      "end": 13.793,
+      "text": "But this is not a little bee-eater chick.",
+      "translation": "但这并不是一只小食蜂鸟。"
+    },
+    {
+      "id": 3,
+      "start": 13.843,
+      "end": 18.423,
+      "text": "It’s a newly hatched honeyguide— and it’s much more lethal.",
+      "translation": "这是一只刚孵出的蜜鴷， 它的致命性要高得多。"
+    },
+    {
+      "id": 4,
+      "start": 18.473,
+      "end": 22.885,
+      "text": "When its mother placed it here, she punctured all the other eggs in the nest.",
+      "translation": "母亲把它放在这里时， 刺穿了巢里所有的蛋。"
+    },
+    {
+      "id": 5,
+      "start": 22.935,
+      "end": 28.933,
+      "text": "However, one little bee-eater chick survived the attack and is now hatching.",
+      "translation": "然而，一只小食蜂鸟在这次袭击中 幸存下来，现在正在孵化。"
+    },
+    {
+      "id": 6,
+      "start": 28.983,
+      "end": 38.026,
+      "text": "Although the honeyguide nestling is still completely blind, it instinctively stabs the little bee-eater chick with its sharp, hooked beak.",
+      "translation": "虽然蜜鴷仍然完全看不见，它还是本能地用它锋利的钩状喙 刺死了小食蜂鸟。在接下来的几周里，"
+    },
+    {
+      "id": 7,
+      "start": 38.076,
+      "end": 45.7,
+      "text": "And over the following weeks, the host parents devotedly care for the hatchling that murdered their offspring.",
+      "translation": "宿主父母全心全意地照顾着 将它们的孩子杀死的小蜜鴷。这只是巢寄生的其中一个例子，它是一种动物欺骗另一种动物 为自己养育后代的进化策略，"
+    },
+    {
+      "id": 8,
+      "start": 45.75,
+      "end": 54.042,
+      "text": "This is but one example of brood parasitism, an evolutionary strategy in which one animal tricks another into rearing its young.",
+      "translation": "在鸟类中尤其常见。通过把蛋放在宿主的巢里，寄主能够将养育子女的主要成本 转移到宿主身上。"
+    },
+    {
+      "id": 9,
+      "start": 54.092,
+      "end": 56.919,
+      "text": "It’s especially well-known among birds.",
+      "translation": "寄生的幼雏通常很早孵化,"
+    },
+    {
+      "id": 10,
+      "start": 56.969,
+      "end": 65.928,
+      "text": "By depositing their eggs into a stranger’s nest, brood parasites are able to shift the major costs of parenting onto others.",
+      "translation": "之后就独占宿主的照料。有些会刺死其它的雏鸟，"
+    },
+    {
+      "id": 11,
+      "start": 65.978,
+      "end": 71.726,
+      "text": "Brood parasite chicks usually hatch early, then monopolize their host parents’ attention.",
+      "translation": "有些则会将剩下的居住者挤出巢。与此同时，其它寄主 对宿主的危害较小。"
+    },
+    {
+      "id": 12,
+      "start": 71.776,
+      "end": 78.107,
+      "text": "Some stab their fellow nestlings to death, while others shove the remaining occupants out of the nest.",
+      "translation": "并不是所有的寄主 都会杀死宿主的所有后代。褐头牛鹂选择用自己的大嘴竞争，"
+    },
+    {
+      "id": 13,
+      "start": 78.157,
+      "end": 81.903,
+      "text": "Meanwhile, others are less harmful to their hosts.",
+      "translation": "通过更大声、 频繁地乞讨食物来战胜对手。"
+    },
+    {
+      "id": 14,
+      "start": 81.953,
+      "end": 86.574,
+      "text": "Not all brood parasites kill all of their host’s offspring outright.",
+      "translation": "其中最温和的，莫过于"
+    },
+    {
+      "id": 15,
+      "start": 86.624,
+      "end": 95.041,
+      "text": "Brown-headed Cowbirds usually outcompete them by begging for food louder, more frequently, and with a wider mouth.",
+      "translation": "黑头鸭把蛋产在其它巢里孵化，然而，孵化几个小时后， 它们只是溜达着离开。"
+    },
+    {
+      "id": 16,
+      "start": 95.091,
+      "end": 100.963,
+      "text": "Among the most benign, black-headed ducks lay their eggs in other nests to be incubated.",
+      "translation": "但是在巢寄生最恶劣的情况下,为什么宿主不表态？"
+    },
+    {
+      "id": 17,
+      "start": 101.013,
+      "end": 105.802,
+      "text": "However, a few hours after hatching, they simply saunter off.",
+      "translation": "事实上，它们通常会将 成年的寄主驱赶出巢，"
+    },
+    {
+      "id": 18,
+      "start": 105.852,
+      "end": 112.1,
+      "text": "But in the most egregious cases of brood parasitism, why don’t host parents take a stand?",
+      "translation": "许多宿主还会 采取进一步的防御措施。但是它们能否识别 并拒收寄主的蛋和雏鸟"
+    },
+    {
+      "id": 19,
+      "start": 112.15,
+      "end": 120.358,
+      "text": "In fact, hosts will often drive adult brood parasites away from their nests, and many take their defenses further.",
+      "translation": "似乎取决于几个因素。东菲比霸鹟会收容 褐头牛鹂的斑点蛋，"
+    },
+    {
+      "id": 20,
+      "start": 120.408,
+      "end": 128.741,
+      "text": "But whether a hosts can recognize and reject parasitic eggs and nestlings seems to depend on a few factors.",
+      "translation": "虽然它们自己的蛋是纯白色的。另一方面，灰猫嘲鸫"
+    },
+    {
+      "id": 21,
+      "start": 128.791,
+      "end": 136.499,
+      "text": "Eastern phoebes will accept a Brown-headed Cowbird’s speckled egg into their nest, though theirs are pure white.",
+      "translation": "是铲除同一类寄主的专家。它会记住巢中第一个蛋的样子,通常是它自己的蛋， 并抛出任何异常的蛋。"
+    },
+    {
+      "id": 22,
+      "start": 136.549,
+      "end": 142.588,
+      "text": "The gray catbird, on the other hand, is an expert at rooting out the very same parasites.",
+      "translation": "这种报复性的适应 助长了进化的“军备竞赛”，寄主进化出了与宿主非常相似的蛋。"
+    },
+    {
+      "id": 23,
+      "start": 142.638,
+      "end": 150.471,
+      "text": "It memorizes what the first egg in its nest looks like, which is usually its own, and tosses any aberrations.",
+      "translation": "有趣的是，那些会排斥寄主的鸟类通常对寄生的雏鸟一无所知。"
+    },
+    {
+      "id": 24,
+      "start": 150.521,
+      "end": 160.481,
+      "text": "This retaliatory adaptation can fuel an evolutionary arms race where brood parasites evolve eggs that closely mimic their host’s.",
+      "translation": "芦苇莺擅长逐出品相异常的杜鹃蛋。但如果有一只杜鹃在巢中孵化，"
+    },
+    {
+      "id": 25,
+      "start": 160.531,
+      "end": 168.114,
+      "text": "Interestingly, birds that do reject parasitic eggs are usually clueless when it comes to parasitic chicks.",
+      "translation": "即使它长到了自己的六倍大， 芦苇莺还是会照顾它。虽然拒收雏鸟是很罕见的现象，"
+    },
+    {
+      "id": 26,
+      "start": 168.164,
+      "end": 172.493,
+      "text": "Reed warblers are good at ejecting poorly matching cuckoo eggs.",
+      "translation": "还是有一些值得我们注意的例子。"
+    },
+    {
+      "id": 27,
+      "start": 172.543,
+      "end": 179.125,
+      "text": "But if one hatches in their nest, they’ll care for it even after it’s grown six times their size.",
+      "translation": "在孵蛋的时候，澳大利亚的 壮丽细尾鹩莺会为雏鸟唱歌,赋予它们一种独特的音符密码。"
+    },
+    {
+      "id": 28,
+      "start": 179.175,
+      "end": 184.714,
+      "text": "Though chick rejection is a rarer phenomenon, there are some noteworthy examples.",
+      "translation": "杜鹃在鹩莺的巢中时，会先孵化， 然后将其它的鹩莺挤出去。但也许是因为它孵化得更快，"
+    },
+    {
+      "id": 29,
+      "start": 184.764,
+      "end": 195.016,
+      "text": "While incubating its eggs, the Australian superb fairy-wren sings to them, imparting a unique note that its chicks use as a kind of password.",
+      "translation": "杜鹃雏鸟没有学会密码,因此它不会哼唱正确的音符。"
+    },
+    {
+      "id": 30,
+      "start": 195.066,
+      "end": 200.313,
+      "text": "When a cuckoo is in the wren’s nest, it hatches first and pushes the others out.",
+      "translation": "在这种时候，成鸟通常会离开鸟巢， 并建立一个新巢。"
+    },
+    {
+      "id": 31,
+      "start": 200.363,
+      "end": 209.864,
+      "text": "But, perhaps because it hatched sooner, the cuckoo chick wasn't able to learn the password, and so it doesn’t croon the right begging call.",
+      "translation": "总之，宿主们表现出了 非常多样化的反应。这在一定程度上似乎是取决于 巢寄生进入它们生活环境的时间，即意味着它们有多少时间进化出 适应的能力。"
+    },
+    {
+      "id": 32,
+      "start": 209.914,
+      "end": 215.328,
+      "text": "At this point, the adults usually abandon their nest and start another.",
+      "translation": "事实上，研究已经表明， 那些能够拒收寄主的蛋的宿主，"
+    },
+    {
+      "id": 33,
+      "start": 215.378,
+      "end": 220.291,
+      "text": "Altogether, host species show a remarkable variety of responses.",
+      "translation": "很少能从视觉上区分两者。"
+    },
+    {
+      "id": 34,
+      "start": 220.341,
+      "end": 230.092,
+      "text": "This seems to partially be a result of how long brood parasitism has been in their environment, and thus how much time they've had to evolve suitable adaptations.",
+      "translation": "它们只是对视觉信息缺乏反应。这可能是因为在巢寄生出现之前,反应没有适应性价值。"
+    },
+    {
+      "id": 35,
+      "start": 230.142,
+      "end": 240.019,
+      "text": "In fact, studies have shown that those hosts that reject parasitic eggs less frequently can visually distinguish between their eggs and a brood parasite’s.",
+      "translation": "即使宿主能够识别寄生者，处理掉也可能不是最好的选择。"
+    },
+    {
+      "id": 36,
+      "start": 240.069,
+      "end": 243.689,
+      "text": "They simply lack a response to the visual information.",
+      "translation": "宿主，特别是小型宿主， 可能无法杀死寄生者—"
+    },
+    {
+      "id": 37,
+      "start": 243.739,
+      "end": 251.113,
+      "text": "This is probably because, before brood parasitism appeared, responding would have likely had no adaptive value.",
+      "translation": "或者在这个过程中 有打破自己的蛋的风险。除非所有雏鸟都被寄生者杀死，"
+    },
+    {
+      "id": 38,
+      "start": 251.163,
+      "end": 257.37,
+      "text": "And even when hosts do recognise a parasite, getting rid of it may not be the best option.",
+      "translation": "最好的方法还是抚养这个冒牌货。巢寄生往往会引起 人们的恐惧和鄙夷。"
+    },
+    {
+      "id": 39,
+      "start": 257.42,
+      "end": 265.544,
+      "text": "The host, especially if it’s small, might not be able to kill the parasite— or could risk breaking its own eggs in the process.",
+      "translation": "但是，为什么它就应该 比捕食者与猎物的关系更令人反感呢？把人类的道德观强加于 其它动物身上，有什么好处吗？"
+    },
+    {
+      "id": 40,
+      "start": 265.594,
+      "end": 273.636,
+      "text": "Unless the brood parasite kills all of the host’s young, it may be best to simply foster the imposter.",
+      "translation": "还是它最终描述的 其实更多是我们自己？不管你怎么想，"
+    },
+    {
+      "id": 41,
+      "start": 273.686,
+      "end": 277.306,
+      "text": "Brood parasitism tends to evoke horror and disdain.",
+      "translation": "巢寄生都是一例令人着迷的 进化的转折。"
+    },
+    {
+      "id": 42,
+      "start": 277.356,
+      "end": 282.645,
+      "text": "But why should it be thought of as any more objectionable than predator-prey relationships?",
+      "translation": "巢寄生往往会引起 人们的恐惧和鄙夷。但是，为什么它就应该 比捕食者与猎物的关系更令人反感呢？把人类的道德观强加于 其它动物身上，有什么好处吗？"
+    },
+    {
+      "id": 43,
+      "start": 282.695,
+      "end": 287.65,
+      "text": "And is it ever productive to impose human morals onto other animals?",
+      "translation": "但是，为什么它就应该 比捕食者与猎物的关系更令人反感呢？把人类的道德观强加于 其它动物身上，有什么好处吗？还是它最终描述的 其实更多是我们自己？"
+    },
+    {
+      "id": 44,
+      "start": 287.7,
+      "end": 291.696,
+      "text": "Or does it end up saying more about us than it does them?",
+      "translation": "把人类的道德观强加于 其它动物身上，有什么好处吗？还是它最终描述的 其实更多是我们自己？不管你怎么想，"
+    },
+    {
+      "id": 45,
+      "start": 291.746,
+      "end": 303.95,
+      "text": "Whichever way you swing it, brood parasitism is yet another example of the fascinating turns evolution has taken.",
+      "translation": "还是它最终描述的 其实更多是我们自己？不管你怎么想，巢寄生都是一例令人着迷的 进化的转折。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.837,
+      "text": "This is a little bee-eater’s nest.",
+      "end": 10.54
+    },
+    {
+      "start": 10.59,
+      "text": "But this is not a little bee-eater chick.",
+      "end": 13.793
+    },
+    {
+      "start": 13.843,
+      "text": "It’s a newly hatched honeyguide— and it’s much more lethal.",
+      "end": 18.423
+    },
+    {
+      "start": 18.473,
+      "text": "When its mother placed it here, she punctured all the other eggs in the nest.",
+      "end": 22.884999999999998
+    },
+    {
+      "start": 22.935,
+      "text": "However, one little bee-eater chick survived the attack and is now hatching.",
+      "end": 28.933
+    },
+    {
+      "start": 28.983,
+      "text": "Although the honeyguide nestling is still completely blind,",
+      "end": 32.603
+    },
+    {
+      "start": 32.653,
+      "text": "it instinctively stabs the little bee-eater chick",
+      "end": 35.898
+    },
+    {
+      "start": 35.948,
+      "text": "with its sharp, hooked beak.",
+      "end": 38.026
+    },
+    {
+      "start": 38.076,
+      "text": "And over the following weeks,",
+      "end": 39.652
+    },
+    {
+      "start": 39.702,
+      "text": "the host parents devotedly care for the hatchling",
+      "end": 42.989000000000004
+    },
+    {
+      "start": 43.039,
+      "text": "that murdered their offspring.",
+      "end": 45.7
+    },
+    {
+      "start": 45.75,
+      "text": "This is but one example of brood parasitism,",
+      "end": 48.703
+    },
+    {
+      "start": 48.753,
+      "text": "an evolutionary strategy in which one animal tricks another",
+      "end": 52.498000000000005
+    },
+    {
+      "start": 52.548,
+      "text": "into rearing its young.",
+      "end": 54.042
+    },
+    {
+      "start": 54.092,
+      "text": "It’s especially well-known among birds.",
+      "end": 56.919000000000004
+    },
+    {
+      "start": 56.969,
+      "text": "By depositing their eggs into a stranger’s nest,",
+      "end": 59.839000000000006
+    },
+    {
+      "start": 59.889,
+      "text": "brood parasites are able to shift the major costs of parenting onto others.",
+      "end": 65.928
+    },
+    {
+      "start": 65.978,
+      "text": "Brood parasite chicks usually hatch early,",
+      "end": 68.765
+    },
+    {
+      "start": 68.815,
+      "text": "then monopolize their host parents’ attention.",
+      "end": 71.726
+    },
+    {
+      "start": 71.776,
+      "text": "Some stab their fellow nestlings to death,",
+      "end": 74.35300000000001
+    },
+    {
+      "start": 74.403,
+      "text": "while others shove the remaining occupants out of the nest.",
+      "end": 78.107
+    },
+    {
+      "start": 78.157,
+      "text": "Meanwhile, others are less harmful to their hosts.",
+      "end": 81.903
+    },
+    {
+      "start": 81.953,
+      "text": "Not all brood parasites kill all of their host’s offspring outright.",
+      "end": 86.574
+    },
+    {
+      "start": 86.624,
+      "text": "Brown-headed Cowbirds usually outcompete them",
+      "end": 89.952
+    },
+    {
+      "start": 90.002,
+      "text": "by begging for food louder, more frequently, and with a wider mouth.",
+      "end": 95.041
+    },
+    {
+      "start": 95.091,
+      "text": "Among the most benign,",
+      "end": 96.626
+    },
+    {
+      "start": 96.676,
+      "text": "black-headed ducks lay their eggs in other nests to be incubated.",
+      "end": 100.96300000000001
+    },
+    {
+      "start": 101.013,
+      "text": "However, a few hours after hatching, they simply saunter off.",
+      "end": 105.802
+    },
+    {
+      "start": 105.852,
+      "text": "But in the most egregious cases of brood parasitism,",
+      "end": 109.305
+    },
+    {
+      "start": 109.355,
+      "text": "why don’t host parents take a stand?",
+      "end": 112.10000000000001
+    },
+    {
+      "start": 112.15,
+      "text": "In fact, hosts will often drive adult brood parasites away from their nests,",
+      "end": 117.605
+    },
+    {
+      "start": 117.655,
+      "text": "and many take their defenses further.",
+      "end": 120.358
+    },
+    {
+      "start": 120.408,
+      "text": "But whether a hosts can recognize and reject parasitic eggs and nestlings",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "seems to depend on a few factors.",
+      "end": 128.74099999999999
+    },
+    {
+      "start": 128.791,
+      "text": "Eastern phoebes will accept",
+      "end": 130.451
+    },
+    {
+      "start": 130.501,
+      "text": "a Brown-headed Cowbird’s speckled egg into their nest,",
+      "end": 134.20499999999998
+    },
+    {
+      "start": 134.255,
+      "text": "though theirs are pure white.",
+      "end": 136.499
+    },
+    {
+      "start": 136.549,
+      "text": "The gray catbird, on the other hand,",
+      "end": 138.62599999999998
+    },
+    {
+      "start": 138.676,
+      "text": "is an expert at rooting out the very same parasites.",
+      "end": 142.588
+    },
+    {
+      "start": 142.638,
+      "text": "It memorizes what the first egg in its nest looks like,",
+      "end": 146.09199999999998
+    },
+    {
+      "start": 146.142,
+      "text": "which is usually its own, and tosses any aberrations.",
+      "end": 150.47099999999998
+    },
+    {
+      "start": 150.521,
+      "text": "This retaliatory adaptation can fuel an evolutionary arms race",
+      "end": 155.184
+    },
+    {
+      "start": 155.234,
+      "text": "where brood parasites evolve eggs that closely mimic their host’s.",
+      "end": 160.481
+    },
+    {
+      "start": 160.531,
+      "text": "Interestingly, birds that do reject parasitic eggs",
+      "end": 163.94299999999998
+    },
+    {
+      "start": 163.993,
+      "text": "are usually clueless when it comes to parasitic chicks.",
+      "end": 168.11399999999998
+    },
+    {
+      "start": 168.164,
+      "text": "Reed warblers are good at ejecting poorly matching cuckoo eggs.",
+      "end": 172.493
+    },
+    {
+      "start": 172.543,
+      "text": "But if one hatches in their nest,",
+      "end": 174.45299999999997
+    },
+    {
+      "start": 174.503,
+      "text": "they’ll care for it even after it’s grown six times their size.",
+      "end": 179.125
+    },
+    {
+      "start": 179.175,
+      "text": "Though chick rejection is a rarer phenomenon,",
+      "end": 182.04399999999998
+    },
+    {
+      "start": 182.094,
+      "text": "there are some noteworthy examples.",
+      "end": 184.714
+    },
+    {
+      "start": 184.764,
+      "text": "While incubating its eggs, the Australian superb fairy-wren sings to them,",
+      "end": 190.011
+    },
+    {
+      "start": 190.061,
+      "text": "imparting a unique note that its chicks use as a kind of password.",
+      "end": 195.016
+    },
+    {
+      "start": 195.066,
+      "text": "When a cuckoo is in the wren’s nest, it hatches first and pushes the others out.",
+      "end": 200.313
+    },
+    {
+      "start": 200.363,
+      "text": "But, perhaps because it hatched sooner,",
+      "end": 203.107
+    },
+    {
+      "start": 203.157,
+      "text": "the cuckoo chick wasn't able to learn the password,",
+      "end": 206.444
+    },
+    {
+      "start": 206.494,
+      "text": "and so it doesn’t croon the right begging call.",
+      "end": 209.86399999999998
+    },
+    {
+      "start": 209.914,
+      "text": "At this point, the adults usually abandon their nest and start another.",
+      "end": 215.32799999999997
+    },
+    {
+      "start": 215.378,
+      "text": "Altogether, host species show a remarkable variety of responses.",
+      "end": 220.291
+    },
+    {
+      "start": 220.341,
+      "text": "This seems to partially be a result of how long",
+      "end": 222.87699999999998
+    },
+    {
+      "start": 222.927,
+      "text": "brood parasitism has been in their environment,",
+      "end": 225.713
+    },
+    {
+      "start": 225.763,
+      "text": "and thus how much time they've had to evolve suitable adaptations.",
+      "end": 230.09199999999998
+    },
+    {
+      "start": 230.142,
+      "text": "In fact, studies have shown that those hosts that reject parasitic eggs",
+      "end": 234.42999999999998
+    },
+    {
+      "start": 234.48,
+      "text": "less frequently can visually distinguish between their eggs and a brood parasite’s.",
+      "end": 240.01899999999998
+    },
+    {
+      "start": 240.069,
+      "text": "They simply lack a response to the visual information.",
+      "end": 243.689
+    },
+    {
+      "start": 243.739,
+      "text": "This is probably because, before brood parasitism appeared,",
+      "end": 247.23499999999999
+    },
+    {
+      "start": 247.285,
+      "text": "responding would have likely had no adaptive value.",
+      "end": 251.113
+    },
+    {
+      "start": 251.163,
+      "text": "And even when hosts do recognise a parasite,",
+      "end": 254.45
+    },
+    {
+      "start": 254.5,
+      "text": "getting rid of it may not be the best option.",
+      "end": 257.37
+    },
+    {
+      "start": 257.42,
+      "text": "The host, especially if it’s small, might not be able to kill the parasite—",
+      "end": 262.291
+    },
+    {
+      "start": 262.341,
+      "text": "or could risk breaking its own eggs in the process.",
+      "end": 265.544
+    },
+    {
+      "start": 265.594,
+      "text": "Unless the brood parasite kills all of the host’s young,",
+      "end": 269.507
+    },
+    {
+      "start": 269.557,
+      "text": "it may be best to simply foster the imposter.",
+      "end": 273.63599999999997
+    },
+    {
+      "start": 273.686,
+      "text": "Brood parasitism tends to evoke horror and disdain.",
+      "end": 277.306
+    },
+    {
+      "start": 277.356,
+      "text": "But why should it be thought of as any more objectionable",
+      "end": 280.226
+    },
+    {
+      "start": 280.276,
+      "text": "than predator-prey relationships?",
+      "end": 282.645
+    },
+    {
+      "start": 282.695,
+      "text": "And is it ever productive to impose human morals onto other animals?",
+      "end": 287.65
+    },
+    {
+      "start": 287.7,
+      "text": "Or does it end up saying more about us than it does them?",
+      "end": 291.69599999999997
+    },
+    {
+      "start": 291.746,
+      "text": "Whichever way you swing it,",
+      "end": 293.281
+    },
+    {
+      "start": 293.331,
+      "text": "brood parasitism is yet another example of the fascinating turns evolution has taken.",
+      "end": 303.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.837,
+      "text": "这是一个食蜂鸟巢。",
+      "end": 10.54
+    },
+    {
+      "start": 10.59,
+      "text": "但这并不是一只小食蜂鸟。",
+      "end": 13.793
+    },
+    {
+      "start": 13.843,
+      "text": "这是一只刚孵出的蜜鴷， 它的致命性要高得多。",
+      "end": 18.423
+    },
+    {
+      "start": 18.473,
+      "text": "母亲把它放在这里时， 刺穿了巢里所有的蛋。",
+      "end": 22.884999999999998
+    },
+    {
+      "start": 22.935,
+      "text": "然而，一只小食蜂鸟在这次袭击中 幸存下来，现在正在孵化。",
+      "end": 28.933
+    },
+    {
+      "start": 28.983,
+      "text": "虽然蜜鴷仍然完全看不见，",
+      "end": 32.603
+    },
+    {
+      "start": 32.653,
+      "text": "它还是本能地用它锋利的钩状喙 刺死了小食蜂鸟。",
+      "end": 38.026
+    },
+    {
+      "start": 38.076,
+      "text": "在接下来的几周里，",
+      "end": 39.652
+    },
+    {
+      "start": 39.702,
+      "text": "宿主父母全心全意地照顾着 将它们的孩子杀死的小蜜鴷。",
+      "end": 45.7
+    },
+    {
+      "start": 45.75,
+      "text": "这只是巢寄生的其中一个例子，",
+      "end": 48.703
+    },
+    {
+      "start": 48.753,
+      "text": "它是一种动物欺骗另一种动物 为自己养育后代的进化策略，",
+      "end": 54.042
+    },
+    {
+      "start": 54.092,
+      "text": "在鸟类中尤其常见。",
+      "end": 56.919000000000004
+    },
+    {
+      "start": 56.969,
+      "text": "通过把蛋放在宿主的巢里，",
+      "end": 59.839000000000006
+    },
+    {
+      "start": 59.889,
+      "text": "寄主能够将养育子女的主要成本 转移到宿主身上。",
+      "end": 65.928
+    },
+    {
+      "start": 65.978,
+      "text": "寄生的幼雏通常很早孵化,",
+      "end": 68.765
+    },
+    {
+      "start": 68.815,
+      "text": "之后就独占宿主的照料。",
+      "end": 71.726
+    },
+    {
+      "start": 71.776,
+      "text": "有些会刺死其它的雏鸟，",
+      "end": 74.35300000000001
+    },
+    {
+      "start": 74.403,
+      "text": "有些则会将剩下的居住者挤出巢。",
+      "end": 78.107
+    },
+    {
+      "start": 78.157,
+      "text": "与此同时，其它寄主 对宿主的危害较小。",
+      "end": 81.903
+    },
+    {
+      "start": 81.953,
+      "text": "并不是所有的寄主 都会杀死宿主的所有后代。",
+      "end": 86.574
+    },
+    {
+      "start": 86.624,
+      "text": "褐头牛鹂选择用自己的大嘴竞争，",
+      "end": 89.952
+    },
+    {
+      "start": 90.002,
+      "text": "通过更大声、 频繁地乞讨食物来战胜对手。",
+      "end": 95.041
+    },
+    {
+      "start": 95.091,
+      "text": "其中最温和的，莫过于",
+      "end": 96.626
+    },
+    {
+      "start": 96.676,
+      "text": "黑头鸭把蛋产在其它巢里孵化，",
+      "end": 100.96300000000001
+    },
+    {
+      "start": 101.013,
+      "text": "然而，孵化几个小时后， 它们只是溜达着离开。",
+      "end": 105.802
+    },
+    {
+      "start": 105.852,
+      "text": "但是在巢寄生最恶劣的情况下,",
+      "end": 109.305
+    },
+    {
+      "start": 109.355,
+      "text": "为什么宿主不表态？",
+      "end": 112.10000000000001
+    },
+    {
+      "start": 112.15,
+      "text": "事实上，它们通常会将 成年的寄主驱赶出巢，",
+      "end": 117.605
+    },
+    {
+      "start": 117.655,
+      "text": "许多宿主还会 采取进一步的防御措施。",
+      "end": 120.358
+    },
+    {
+      "start": 120.408,
+      "text": "但是它们能否识别 并拒收寄主的蛋和雏鸟",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "似乎取决于几个因素。",
+      "end": 128.74099999999999
+    },
+    {
+      "start": 128.791,
+      "text": "东菲比霸鹟会收容 褐头牛鹂的斑点蛋，",
+      "end": 134.20499999999998
+    },
+    {
+      "start": 134.255,
+      "text": "虽然它们自己的蛋是纯白色的。",
+      "end": 136.499
+    },
+    {
+      "start": 136.549,
+      "text": "另一方面，灰猫嘲鸫",
+      "end": 138.62599999999998
+    },
+    {
+      "start": 138.676,
+      "text": "是铲除同一类寄主的专家。",
+      "end": 142.588
+    },
+    {
+      "start": 142.638,
+      "text": "它会记住巢中第一个蛋的样子,",
+      "end": 146.09199999999998
+    },
+    {
+      "start": 146.142,
+      "text": "通常是它自己的蛋， 并抛出任何异常的蛋。",
+      "end": 150.47099999999998
+    },
+    {
+      "start": 150.521,
+      "text": "这种报复性的适应 助长了进化的“军备竞赛”，",
+      "end": 155.184
+    },
+    {
+      "start": 155.234,
+      "text": "寄主进化出了与宿主非常相似的蛋。",
+      "end": 160.481
+    },
+    {
+      "start": 160.531,
+      "text": "有趣的是，那些会排斥寄主的鸟类",
+      "end": 163.94299999999998
+    },
+    {
+      "start": 163.993,
+      "text": "通常对寄生的雏鸟一无所知。",
+      "end": 168.11399999999998
+    },
+    {
+      "start": 168.164,
+      "text": "芦苇莺擅长逐出品相异常的杜鹃蛋。",
+      "end": 172.493
+    },
+    {
+      "start": 172.543,
+      "text": "但如果有一只杜鹃在巢中孵化，",
+      "end": 174.45299999999997
+    },
+    {
+      "start": 174.503,
+      "text": "即使它长到了自己的六倍大， 芦苇莺还是会照顾它。",
+      "end": 179.125
+    },
+    {
+      "start": 179.175,
+      "text": "虽然拒收雏鸟是很罕见的现象，",
+      "end": 182.04399999999998
+    },
+    {
+      "start": 182.094,
+      "text": "还是有一些值得我们注意的例子。",
+      "end": 184.714
+    },
+    {
+      "start": 184.764,
+      "text": "在孵蛋的时候，澳大利亚的 壮丽细尾鹩莺会为雏鸟唱歌,",
+      "end": 190.011
+    },
+    {
+      "start": 190.061,
+      "text": "赋予它们一种独特的音符密码。",
+      "end": 195.016
+    },
+    {
+      "start": 195.066,
+      "text": "杜鹃在鹩莺的巢中时，会先孵化， 然后将其它的鹩莺挤出去。",
+      "end": 200.313
+    },
+    {
+      "start": 200.363,
+      "text": "但也许是因为它孵化得更快，",
+      "end": 203.107
+    },
+    {
+      "start": 203.157,
+      "text": "杜鹃雏鸟没有学会密码,",
+      "end": 206.444
+    },
+    {
+      "start": 206.494,
+      "text": "因此它不会哼唱正确的音符。",
+      "end": 209.86399999999998
+    },
+    {
+      "start": 209.914,
+      "text": "在这种时候，成鸟通常会离开鸟巢， 并建立一个新巢。",
+      "end": 215.32799999999997
+    },
+    {
+      "start": 215.378,
+      "text": "总之，宿主们表现出了 非常多样化的反应。",
+      "end": 220.291
+    },
+    {
+      "start": 220.341,
+      "text": "这在一定程度上似乎是取决于 巢寄生进入它们生活环境的时间，",
+      "end": 225.713
+    },
+    {
+      "start": 225.763,
+      "text": "即意味着它们有多少时间进化出 适应的能力。",
+      "end": 230.09199999999998
+    },
+    {
+      "start": 230.142,
+      "text": "事实上，研究已经表明， 那些能够拒收寄主的蛋的宿主，",
+      "end": 234.42999999999998
+    },
+    {
+      "start": 234.48,
+      "text": "很少能从视觉上区分两者。",
+      "end": 240.01899999999998
+    },
+    {
+      "start": 240.069,
+      "text": "它们只是对视觉信息缺乏反应。",
+      "end": 243.689
+    },
+    {
+      "start": 243.739,
+      "text": "这可能是因为在巢寄生出现之前,",
+      "end": 247.23499999999999
+    },
+    {
+      "start": 247.285,
+      "text": "反应没有适应性价值。",
+      "end": 251.113
+    },
+    {
+      "start": 251.163,
+      "text": "即使宿主能够识别寄生者，",
+      "end": 254.45
+    },
+    {
+      "start": 254.5,
+      "text": "处理掉也可能不是最好的选择。",
+      "end": 257.37
+    },
+    {
+      "start": 257.42,
+      "text": "宿主，特别是小型宿主， 可能无法杀死寄生者—",
+      "end": 262.291
+    },
+    {
+      "start": 262.341,
+      "text": "或者在这个过程中 有打破自己的蛋的风险。",
+      "end": 265.544
+    },
+    {
+      "start": 265.594,
+      "text": "除非所有雏鸟都被寄生者杀死，",
+      "end": 269.507
+    },
+    {
+      "start": 269.557,
+      "text": "最好的方法还是抚养这个冒牌货。",
+      "end": 273.63599999999997
+    },
+    {
+      "start": 273.686,
+      "text": "巢寄生往往会引起 人们的恐惧和鄙夷。",
+      "end": 277.306
+    },
+    {
+      "start": 277.356,
+      "text": "但是，为什么它就应该 比捕食者与猎物的关系更令人反感呢？",
+      "end": 282.645
+    },
+    {
+      "start": 282.695,
+      "text": "把人类的道德观强加于 其它动物身上，有什么好处吗？",
+      "end": 287.65
+    },
+    {
+      "start": 287.7,
+      "text": "还是它最终描述的 其实更多是我们自己？",
+      "end": 291.69599999999997
+    },
+    {
+      "start": 291.746,
+      "text": "不管你怎么想，",
+      "end": 293.281
+    },
+    {
+      "start": 293.331,
+      "text": "巢寄生都是一例令人着迷的 进化的转折。",
+      "end": 303.95
+    }
+  ]
+};

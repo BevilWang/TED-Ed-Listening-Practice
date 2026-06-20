@@ -1,0 +1,1125 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The hidden treasures of Timbuktu",
+    "speaker": "Elizabeth Cox",
+    "duration": 315,
+    "slug": "elizabeth_cox_the_hidden_treasures_of_timbuktu",
+    "sourcePage": "https://www.ted.com/talks/elizabeth_cox_the_hidden_treasures_of_timbuktu",
+    "translationSourcePage": "https://www.ted.com/talks/elizabeth_cox_the_hidden_treasures_of_timbuktu?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/51/26/001/products/2020e-elizabeth-cox-timbuktu-001-fallback-39f6f656f4ed8607f327e382a42036f7-1200k.mp4",
+    "youtubeId": "40ehHbdi95o",
+    "youtubeTitle": "The hidden treasures of Timbuktu - Elizabeth Cox"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.996,
+      "end": 15.404,
+      "text": "On the edge of the vast Sahara desert, citizens snuck out of the city of Timbuktu and took to the wilderness.",
+      "translation": "在广阔的撒哈拉沙漠边缘，市民们溜出廷巴克图城，逃向荒野。"
+    },
+    {
+      "id": 2,
+      "start": 15.454,
+      "end": 22.529,
+      "text": "They buried chests in the desert sand, hid them in caves, and sealed them in secret rooms.",
+      "translation": "他们把箱子埋藏在沙漠里， 藏在洞窟中，封在密室里。"
+    },
+    {
+      "id": 3,
+      "start": 22.579,
+      "end": 30.154,
+      "text": "Inside these chests was a treasure more valuable than gold: the city’s ancient books.",
+      "translation": "这些箱子里装着 比黄金更珍贵的宝藏：这座城市的古老书籍。"
+    },
+    {
+      "id": 4,
+      "start": 30.204,
+      "end": 38.821,
+      "text": "Founded around 1100 CE in what is now Mali, the city of Timbuktu started out as an unremarkable trading post.",
+      "translation": "廷巴克图城起初作为 一个普通的贸易站，于约公元 1100 年 出现于如今的马里。"
+    },
+    {
+      "id": 5,
+      "start": 38.871,
+      "end": 42.362,
+      "text": "But its unique location soon changed that.",
+      "translation": "但独特的地理位置 很快改变了它的作用。"
+    },
+    {
+      "id": 6,
+      "start": 42.412,
+      "end": 53.529,
+      "text": "Timbuktu marked the intersection of two essential trade routes, where caravans bringing salt across the Sahara met with traders bringing gold from the African interior.",
+      "translation": "廷巴克图是两条重要 贸易线的交汇点。在此，穿越撒哈拉的运盐车队与从非洲腹地 运来黄金的商人会合。"
+    },
+    {
+      "id": 7,
+      "start": 53.579,
+      "end": 67.738,
+      "text": "By the late 1300s, these trade routes made Timbuktu rich, and the city’s rulers, the kings of the Mali Empire, built monuments and academies that drew scholars from Egypt, Spain, and Morocco.",
+      "translation": "到 1300 年代末， 这些贸易线使廷巴克图富裕起来。城市的统治者， 马里帝国的国王，建立了纪念碑和学院来吸引来自埃及、西班牙 和摩洛哥的学者们。"
+    },
+    {
+      "id": 8,
+      "start": 67.788,
+      "end": 72.821,
+      "text": "The city’s prime location also made it a target for warlords and conquerors.",
+      "translation": "该城市的绝佳位置也使其 成为了军阀和征服者的目标。"
+    },
+    {
+      "id": 9,
+      "start": 72.871,
+      "end": 78.529,
+      "text": "As the Mali Empire declined, one of its domains, Songhai, began to gain power.",
+      "translation": "当马里帝国日渐衰落， 它的领地之一，桑海，开始获得权势。"
+    },
+    {
+      "id": 10,
+      "start": 78.579,
+      "end": 86.863,
+      "text": "In 1468, the Songhai king conquered Timbuktu, burning buildings and murdering scholars.",
+      "translation": "在 1468 年， 桑海国王征服了廷巴克图，烧毁建筑，谋杀学者。"
+    },
+    {
+      "id": 11,
+      "start": 86.913,
+      "end": 91.071,
+      "text": "But in time, intellectual life in the city flourished again.",
+      "translation": "但后来，城市的知识生活 再次兴盛了起来。"
+    },
+    {
+      "id": 12,
+      "start": 91.121,
+      "end": 100.488,
+      "text": "The reign of the second king of the Songhai Empire, Askia Mohammed Toure, marked the beginning of a golden age in Timbuktu.",
+      "translation": "桑海帝国的第二个皇帝——阿斯基亚·穆罕默德 （Askia Mohammed Toure）一世的统治标志着廷巴克图黄金时代的起点。"
+    },
+    {
+      "id": 13,
+      "start": 100.538,
+      "end": 105.654,
+      "text": "He reversed his predecessor’s regressive policies and encouraged learning.",
+      "translation": "他颠覆了前人的落后政策，并鼓励学习。"
+    },
+    {
+      "id": 14,
+      "start": 105.704,
+      "end": 117.113,
+      "text": "The Songhai rulers and most of Timbuktu’s population were Muslim, and the scholars of Timbuktu studied Islam alongside secular topics like mathematics and philosophy.",
+      "translation": "桑海的统治者和 廷巴克图的大多数居民是穆斯林，廷巴克图的学者会学习伊斯兰教以及一些非宗教学科， 比如数学和哲学。"
+    },
+    {
+      "id": 15,
+      "start": 117.163,
+      "end": 126.654,
+      "text": "In the libraries of Timbuktu, tracts of Greek philosophy stood alongside the writings of local historians, scientists, and poets.",
+      "translation": "在廷巴克图的图书馆，希腊哲学的书册和 当地历史学家、科学家及诗人的著作放在一起。"
+    },
+    {
+      "id": 16,
+      "start": 126.704,
+      "end": 135.113,
+      "text": "The city’s most prominent scholar, Ahmed Baba, challenged prevailing opinions on subjects ranging from smoking to slavery.",
+      "translation": "这个城市最知名的学者 艾哈迈德·巴巴（Ahmed Baba），挑战了各种主流思想，从吸烟到奴隶制。"
+    },
+    {
+      "id": 17,
+      "start": 135.163,
+      "end": 141.571,
+      "text": "Gold and salt trade had funded the city’s transformation into a center of learning.",
+      "translation": "黄金和盐巴贸易 奠定了这个城市转型为学习中心的基础。"
+    },
+    {
+      "id": 18,
+      "start": 141.621,
+      "end": 147.488,
+      "text": "Now, the products of that intellectual culture became the most sought-after commodity.",
+      "translation": "知识文化的产物成为了最受欢迎的商品。"
+    },
+    {
+      "id": 19,
+      "start": 147.538,
+      "end": 158.321,
+      "text": "With paper from faraway Venice and vibrant ink from local plants and minerals, the scribes of Timbuktu produced texts in both Arabic and local languages.",
+      "translation": "用来自遥远威尼斯的纸张和用当地植物 和矿物制成的鲜艳墨水，廷巴克图的抄写员 会用阿拉伯文和当地语言抄写文本。"
+    },
+    {
+      "id": 20,
+      "start": 158.371,
+      "end": 169.029,
+      "text": "Written in calligraphy and decorated with intricate geometric designs, the books of Timbuktu were in demand among the wealthiest members of society.",
+      "translation": "廷巴克图的书籍都由书法撰写， 并配上了精美的几何设计，社会上富有的人对它们有很大需求。"
+    },
+    {
+      "id": 21,
+      "start": 169.079,
+      "end": 176.821,
+      "text": "In 1591, the golden age came to an abrupt end when the Moroccan king captured Timbuktu.",
+      "translation": "在 1591 年， 黄金年代戛然而止。摩洛哥国王占领了廷巴克图。"
+    },
+    {
+      "id": 22,
+      "start": 176.871,
+      "end": 183.779,
+      "text": "Moroccan forces imprisoned Ahmed Baba and other prominent scholars and confiscated their libraries.",
+      "translation": "摩洛哥军力监禁了 艾哈迈德·巴巴和其他的著名学者，并封锁了他们的图书馆。"
+    },
+    {
+      "id": 23,
+      "start": 183.829,
+      "end": 189.029,
+      "text": "In the centuries that followed, the city weathered a succession of conquests.",
+      "translation": "在接下来的几个世纪， 这座城市经历了数次征战。"
+    },
+    {
+      "id": 24,
+      "start": 189.079,
+      "end": 196.613,
+      "text": "In the mid-1800s, Sufi Jihadists occupied Timbuktu and destroyed many non-religious manuscripts.",
+      "translation": "在 1800 年代中期， 苏菲的圣战士占领了廷巴克图，并摧毁了很多非宗教的手稿。"
+    },
+    {
+      "id": 25,
+      "start": 196.663,
+      "end": 205.279,
+      "text": "1894, French colonial forces seized control of the city, stealing even more manuscripts and sending them to Europe.",
+      "translation": "1894 年，法国殖民军队 掌控了城市的控制权，偷走了更多的手稿， 并将它们送到了欧洲。"
+    },
+    {
+      "id": 26,
+      "start": 205.329,
+      "end": 214.738,
+      "text": "French became the official language taught in schools, and new generations in Timbuktu couldn’t read the Arabic manuscripts that remained.",
+      "translation": "法语成为了学校教授的官方语言，廷巴克图的新一代无法阅读留存下来的 阿拉伯语手稿。"
+    },
+    {
+      "id": 27,
+      "start": 214.788,
+      "end": 222.238,
+      "text": "Through it all, the literary tradition of Timbuktu didn’t die— it went underground.",
+      "translation": "经历了这一切，廷巴克图的 文学传统并没有消亡——而是转入了地下。"
+    },
+    {
+      "id": 28,
+      "start": 222.288,
+      "end": 228.071,
+      "text": "Some families built secret libraries in their homes, or buried the books in their gardens.",
+      "translation": "有些家庭在家中 建造了隐密的图书馆，或者把书埋在他们的花园里。"
+    },
+    {
+      "id": 29,
+      "start": 228.121,
+      "end": 232.488,
+      "text": "Others stashed them in abandoned caves or holes in the desert.",
+      "translation": "还有人把书藏在废弃的洞穴， 或者沙漠的空洞中。"
+    },
+    {
+      "id": 30,
+      "start": 232.538,
+      "end": 243.696,
+      "text": "The priceless manuscripts of Timbuktu dispersed to villages throughout the surrounding area, where regular citizens guarded them for hundreds of years.",
+      "translation": "这些无价的廷巴克图手稿散布在周围地区的村庄里，在这里，平民百姓 守护了它们数百年。"
+    },
+    {
+      "id": 31,
+      "start": 243.746,
+      "end": 254.154,
+      "text": "As desertification and war impoverished the region, families held on to the ancient books even as they faced desperate poverty and near-starvation.",
+      "translation": "随着荒漠化和战争 使该地区日渐贫困，许多家庭在极度贫困 和几乎无法维持温饱情况下仍守护着古书。"
+    },
+    {
+      "id": 32,
+      "start": 254.204,
+      "end": 258.946,
+      "text": "Even today, the struggle to protect the books continues.",
+      "translation": "即使在今天，保护书籍的 斗争仍在继续。"
+    },
+    {
+      "id": 33,
+      "start": 258.996,
+      "end": 272.404,
+      "text": "From the 1980s to the early 2000s, Timbuktu scholar Abdel Kader Haidara painstakingly retrieved hidden manuscripts from all over northern Mali and brought them back to Timbuktu.",
+      "translation": "从 1980 年代到 2000 年代早期，廷巴克图的学者 阿巴杜·卡德·海德拉（Abdel Kader Haidara）辛苦地从马里北部各地取回了 藏匿的手稿，并将它们带回了廷巴克图。"
+    },
+    {
+      "id": 34,
+      "start": 272.454,
+      "end": 281.363,
+      "text": "But in 2012, civil war in Mali once again threatened the manuscripts, most of which were evacuated to nearby Bamako.",
+      "translation": "但在 2012 年，马里内战 再次让这些手稿面临威胁。很多手稿都被转移到了 附近的巴马科。"
+    },
+    {
+      "id": 35,
+      "start": 281.413,
+      "end": 287.613,
+      "text": "Their future remains uncertain, as they face both human and environmental threats.",
+      "translation": "面临着来自人类和自然的威胁，这些手稿的未来仍是未知数。"
+    },
+    {
+      "id": 36,
+      "start": 287.663,
+      "end": 294.946,
+      "text": "These books represent our best— and often only— sources on the pre-colonial history of the region.",
+      "translation": "要想了解该地区的殖民前历史。 这些古书是我们最好的，可能也是唯一的来源。"
+    },
+    {
+      "id": 37,
+      "start": 294.996,
+      "end": 302.154,
+      "text": "Many of them have never been read by modern scholars, and still more remain lost or hidden in the desert.",
+      "translation": "很多手稿从未被现代学者研读过，还有更多已经遗失 或者隐藏在沙漠中。"
+    },
+    {
+      "id": 38,
+      "start": 302.204,
+      "end": 314.95,
+      "text": "At stake in the efforts to protect them is the history they contain— and the efforts of countless generations to protect that history from being lost.",
+      "translation": "保护它们，就意味着 守护它们所承载的历史——以及数代人不让 这段历史失传的不懈努力。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.996,
+      "text": "On the edge of the vast Sahara desert,",
+      "end": 9.404
+    },
+    {
+      "start": 9.454,
+      "text": "citizens snuck out of the city of Timbuktu",
+      "end": 12.988
+    },
+    {
+      "start": 13.038,
+      "text": "and took to the wilderness.",
+      "end": 15.404
+    },
+    {
+      "start": 15.454,
+      "text": "They buried chests in the desert sand, hid them in caves,",
+      "end": 19.695999999999998
+    },
+    {
+      "start": 19.746,
+      "text": "and sealed them in secret rooms.",
+      "end": 22.529
+    },
+    {
+      "start": 22.579,
+      "text": "Inside these chests was a treasure more valuable than gold:",
+      "end": 27.238
+    },
+    {
+      "start": 27.288,
+      "text": "the city’s ancient books.",
+      "end": 30.154
+    },
+    {
+      "start": 30.204,
+      "text": "Founded around 1100 CE in what is now Mali,",
+      "end": 34.154
+    },
+    {
+      "start": 34.204,
+      "text": "the city of Timbuktu started out as an unremarkable trading post.",
+      "end": 38.821000000000005
+    },
+    {
+      "start": 38.871,
+      "text": "But its unique location soon changed that.",
+      "end": 42.362
+    },
+    {
+      "start": 42.412,
+      "text": "Timbuktu marked the intersection of two essential trade routes,",
+      "end": 46.821000000000005
+    },
+    {
+      "start": 46.871,
+      "text": "where caravans bringing salt across the Sahara",
+      "end": 49.696000000000005
+    },
+    {
+      "start": 49.746,
+      "text": "met with traders bringing gold from the African interior.",
+      "end": 53.529
+    },
+    {
+      "start": 53.579,
+      "text": "By the late 1300s, these trade routes made Timbuktu rich,",
+      "end": 58.237
+    },
+    {
+      "start": 58.287,
+      "text": "and the city’s rulers, the kings of the Mali Empire,",
+      "end": 61.362
+    },
+    {
+      "start": 61.412,
+      "text": "built monuments and academies that drew scholars",
+      "end": 64.571
+    },
+    {
+      "start": 64.621,
+      "text": "from Egypt, Spain, and Morocco.",
+      "end": 67.738
+    },
+    {
+      "start": 67.788,
+      "text": "The city’s prime location also made it a target for warlords and conquerors.",
+      "end": 72.821
+    },
+    {
+      "start": 72.871,
+      "text": "As the Mali Empire declined, one of its domains, Songhai,",
+      "end": 76.821
+    },
+    {
+      "start": 76.871,
+      "text": "began to gain power.",
+      "end": 78.529
+    },
+    {
+      "start": 78.579,
+      "text": "In 1468, the Songhai king conquered Timbuktu,",
+      "end": 82.988
+    },
+    {
+      "start": 83.038,
+      "text": "burning buildings and murdering scholars.",
+      "end": 86.863
+    },
+    {
+      "start": 86.913,
+      "text": "But in time, intellectual life in the city flourished again.",
+      "end": 91.071
+    },
+    {
+      "start": 91.121,
+      "text": "The reign of the second king of the Songhai Empire,",
+      "end": 94.238
+    },
+    {
+      "start": 94.288,
+      "text": "Askia Mohammed Toure,",
+      "end": 96.363
+    },
+    {
+      "start": 96.413,
+      "text": "marked the beginning of a golden age in Timbuktu.",
+      "end": 100.488
+    },
+    {
+      "start": 100.538,
+      "text": "He reversed his predecessor’s regressive policies",
+      "end": 103.404
+    },
+    {
+      "start": 103.454,
+      "text": "and encouraged learning.",
+      "end": 105.654
+    },
+    {
+      "start": 105.704,
+      "text": "The Songhai rulers and most of Timbuktu’s population were Muslim,",
+      "end": 110.238
+    },
+    {
+      "start": 110.288,
+      "text": "and the scholars of Timbuktu studied Islam",
+      "end": 112.821
+    },
+    {
+      "start": 112.871,
+      "text": "alongside secular topics like mathematics and philosophy.",
+      "end": 117.113
+    },
+    {
+      "start": 117.163,
+      "text": "In the libraries of Timbuktu,",
+      "end": 118.946
+    },
+    {
+      "start": 118.996,
+      "text": "tracts of Greek philosophy stood alongside the writings",
+      "end": 122.654
+    },
+    {
+      "start": 122.704,
+      "text": "of local historians, scientists, and poets.",
+      "end": 126.654
+    },
+    {
+      "start": 126.704,
+      "text": "The city’s most prominent scholar, Ahmed Baba,",
+      "end": 129.696
+    },
+    {
+      "start": 129.746,
+      "text": "challenged prevailing opinions on subjects",
+      "end": 132.071
+    },
+    {
+      "start": 132.121,
+      "text": "ranging from smoking to slavery.",
+      "end": 135.113
+    },
+    {
+      "start": 135.163,
+      "text": "Gold and salt trade had funded the city’s transformation",
+      "end": 139.113
+    },
+    {
+      "start": 139.163,
+      "text": "into a center of learning.",
+      "end": 141.571
+    },
+    {
+      "start": 141.621,
+      "text": "Now, the products of that intellectual culture",
+      "end": 144.363
+    },
+    {
+      "start": 144.413,
+      "text": "became the most sought-after commodity.",
+      "end": 147.488
+    },
+    {
+      "start": 147.538,
+      "text": "With paper from faraway Venice",
+      "end": 149.446
+    },
+    {
+      "start": 149.496,
+      "text": "and vibrant ink from local plants and minerals,",
+      "end": 152.446
+    },
+    {
+      "start": 152.496,
+      "text": "the scribes of Timbuktu produced texts in both Arabic",
+      "end": 156.238
+    },
+    {
+      "start": 156.288,
+      "text": "and local languages.",
+      "end": 158.321
+    },
+    {
+      "start": 158.371,
+      "text": "Written in calligraphy and decorated with intricate geometric designs,",
+      "end": 163.071
+    },
+    {
+      "start": 163.121,
+      "text": "the books of Timbuktu were in demand among the wealthiest members of society.",
+      "end": 169.029
+    },
+    {
+      "start": 169.079,
+      "text": "In 1591, the golden age came to an abrupt end",
+      "end": 173.279
+    },
+    {
+      "start": 173.329,
+      "text": "when the Moroccan king captured Timbuktu.",
+      "end": 176.821
+    },
+    {
+      "start": 176.871,
+      "text": "Moroccan forces imprisoned Ahmed Baba and other prominent scholars",
+      "end": 181.071
+    },
+    {
+      "start": 181.121,
+      "text": "and confiscated their libraries.",
+      "end": 183.779
+    },
+    {
+      "start": 183.829,
+      "text": "In the centuries that followed, the city weathered a succession of conquests.",
+      "end": 189.029
+    },
+    {
+      "start": 189.079,
+      "text": "In the mid-1800s, Sufi Jihadists occupied Timbuktu",
+      "end": 193.029
+    },
+    {
+      "start": 193.079,
+      "text": "and destroyed many non-religious manuscripts.",
+      "end": 196.613
+    },
+    {
+      "start": 196.663,
+      "text": "1894, French colonial forces seized control of the city,",
+      "end": 201.279
+    },
+    {
+      "start": 201.329,
+      "text": "stealing even more manuscripts and sending them to Europe.",
+      "end": 205.279
+    },
+    {
+      "start": 205.329,
+      "text": "French became the official language taught in schools,",
+      "end": 208.863
+    },
+    {
+      "start": 208.913,
+      "text": "and new generations in Timbuktu",
+      "end": 210.738
+    },
+    {
+      "start": 210.788,
+      "text": "couldn’t read the Arabic manuscripts that remained.",
+      "end": 214.738
+    },
+    {
+      "start": 214.788,
+      "text": "Through it all, the literary tradition of Timbuktu didn’t die—",
+      "end": 219.571
+    },
+    {
+      "start": 219.621,
+      "text": "it went underground.",
+      "end": 222.238
+    },
+    {
+      "start": 222.288,
+      "text": "Some families built secret libraries in their homes,",
+      "end": 225.279
+    },
+    {
+      "start": 225.329,
+      "text": "or buried the books in their gardens.",
+      "end": 228.071
+    },
+    {
+      "start": 228.121,
+      "text": "Others stashed them in abandoned caves or holes in the desert.",
+      "end": 232.488
+    },
+    {
+      "start": 232.538,
+      "text": "The priceless manuscripts of Timbuktu",
+      "end": 235.238
+    },
+    {
+      "start": 235.288,
+      "text": "dispersed to villages throughout the surrounding area,",
+      "end": 238.654
+    },
+    {
+      "start": 238.704,
+      "text": "where regular citizens guarded them for hundreds of years.",
+      "end": 243.696
+    },
+    {
+      "start": 243.746,
+      "text": "As desertification and war impoverished the region,",
+      "end": 247.071
+    },
+    {
+      "start": 247.121,
+      "text": "families held on to the ancient books",
+      "end": 249.571
+    },
+    {
+      "start": 249.621,
+      "text": "even as they faced desperate poverty and near-starvation.",
+      "end": 254.154
+    },
+    {
+      "start": 254.204,
+      "text": "Even today, the struggle to protect the books continues.",
+      "end": 258.94599999999997
+    },
+    {
+      "start": 258.996,
+      "text": "From the 1980s to the early 2000s,",
+      "end": 262.029
+    },
+    {
+      "start": 262.079,
+      "text": "Timbuktu scholar Abdel Kader Haidara painstakingly retrieved hidden manuscripts",
+      "end": 267.738
+    },
+    {
+      "start": 267.788,
+      "text": "from all over northern Mali and brought them back to Timbuktu.",
+      "end": 272.404
+    },
+    {
+      "start": 272.454,
+      "text": "But in 2012, civil war in Mali once again threatened the manuscripts,",
+      "end": 277.529
+    },
+    {
+      "start": 277.579,
+      "text": "most of which were evacuated to nearby Bamako.",
+      "end": 281.363
+    },
+    {
+      "start": 281.413,
+      "text": "Their future remains uncertain,",
+      "end": 283.32099999999997
+    },
+    {
+      "start": 283.371,
+      "text": "as they face both human and environmental threats.",
+      "end": 287.613
+    },
+    {
+      "start": 287.663,
+      "text": "These books represent our best— and often only—",
+      "end": 291.404
+    },
+    {
+      "start": 291.454,
+      "text": "sources on the pre-colonial history of the region.",
+      "end": 294.94599999999997
+    },
+    {
+      "start": 294.996,
+      "text": "Many of them have never been read by modern scholars,",
+      "end": 298.154
+    },
+    {
+      "start": 298.204,
+      "text": "and still more remain lost or hidden in the desert.",
+      "end": 302.154
+    },
+    {
+      "start": 302.204,
+      "text": "At stake in the efforts to protect them is the history they contain—",
+      "end": 306.529
+    },
+    {
+      "start": 306.579,
+      "text": "and the efforts of countless generations to protect that history from being lost.",
+      "end": 314.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.996,
+      "text": "在广阔的撒哈拉沙漠边缘，",
+      "end": 9.404
+    },
+    {
+      "start": 9.454,
+      "text": "市民们溜出廷巴克图城，",
+      "end": 12.988
+    },
+    {
+      "start": 13.038,
+      "text": "逃向荒野。",
+      "end": 15.404
+    },
+    {
+      "start": 15.454,
+      "text": "他们把箱子埋藏在沙漠里， 藏在洞窟中，",
+      "end": 19.695999999999998
+    },
+    {
+      "start": 19.746,
+      "text": "封在密室里。",
+      "end": 22.529
+    },
+    {
+      "start": 22.579,
+      "text": "这些箱子里装着 比黄金更珍贵的宝藏：",
+      "end": 27.238
+    },
+    {
+      "start": 27.288,
+      "text": "这座城市的古老书籍。",
+      "end": 30.154
+    },
+    {
+      "start": 30.204,
+      "text": "廷巴克图城起初作为 一个普通的贸易站，",
+      "end": 34.154
+    },
+    {
+      "start": 34.204,
+      "text": "于约公元 1100 年 出现于如今的马里。",
+      "end": 38.821000000000005
+    },
+    {
+      "start": 38.871,
+      "text": "但独特的地理位置 很快改变了它的作用。",
+      "end": 42.362
+    },
+    {
+      "start": 42.412,
+      "text": "廷巴克图是两条重要 贸易线的交汇点。",
+      "end": 46.821000000000005
+    },
+    {
+      "start": 46.871,
+      "text": "在此，穿越撒哈拉的运盐车队",
+      "end": 49.696000000000005
+    },
+    {
+      "start": 49.746,
+      "text": "与从非洲腹地 运来黄金的商人会合。",
+      "end": 53.529
+    },
+    {
+      "start": 53.579,
+      "text": "到 1300 年代末， 这些贸易线使廷巴克图富裕起来。",
+      "end": 58.237
+    },
+    {
+      "start": 58.287,
+      "text": "城市的统治者， 马里帝国的国王，",
+      "end": 61.362
+    },
+    {
+      "start": 61.412,
+      "text": "建立了纪念碑和学院来吸引",
+      "end": 64.571
+    },
+    {
+      "start": 64.621,
+      "text": "来自埃及、西班牙 和摩洛哥的学者们。",
+      "end": 67.738
+    },
+    {
+      "start": 67.788,
+      "text": "该城市的绝佳位置也使其 成为了军阀和征服者的目标。",
+      "end": 72.821
+    },
+    {
+      "start": 72.871,
+      "text": "当马里帝国日渐衰落， 它的领地之一，桑海，",
+      "end": 76.821
+    },
+    {
+      "start": 76.871,
+      "text": "开始获得权势。",
+      "end": 78.529
+    },
+    {
+      "start": 78.579,
+      "text": "在 1468 年， 桑海国王征服了廷巴克图，",
+      "end": 82.988
+    },
+    {
+      "start": 83.038,
+      "text": "烧毁建筑，谋杀学者。",
+      "end": 86.863
+    },
+    {
+      "start": 86.913,
+      "text": "但后来，城市的知识生活 再次兴盛了起来。",
+      "end": 91.071
+    },
+    {
+      "start": 91.121,
+      "text": "桑海帝国的第二个皇帝——",
+      "end": 94.238
+    },
+    {
+      "start": 94.288,
+      "text": "阿斯基亚·穆罕默德 （Askia Mohammed Toure）一世的统治",
+      "end": 96.363
+    },
+    {
+      "start": 96.413,
+      "text": "标志着廷巴克图黄金时代的起点。",
+      "end": 100.488
+    },
+    {
+      "start": 100.538,
+      "text": "他颠覆了前人的落后政策，",
+      "end": 103.404
+    },
+    {
+      "start": 103.454,
+      "text": "并鼓励学习。",
+      "end": 105.654
+    },
+    {
+      "start": 105.704,
+      "text": "桑海的统治者和 廷巴克图的大多数居民是穆斯林，",
+      "end": 110.238
+    },
+    {
+      "start": 110.288,
+      "text": "廷巴克图的学者会学习伊斯兰教",
+      "end": 112.821
+    },
+    {
+      "start": 112.871,
+      "text": "以及一些非宗教学科， 比如数学和哲学。",
+      "end": 117.113
+    },
+    {
+      "start": 117.163,
+      "text": "在廷巴克图的图书馆，",
+      "end": 118.946
+    },
+    {
+      "start": 118.996,
+      "text": "希腊哲学的书册和 当地历史学家、",
+      "end": 121.238
+    },
+    {
+      "start": 121.288,
+      "text": "科学家及诗人的著作放在一起。",
+      "end": 126.654
+    },
+    {
+      "start": 126.704,
+      "text": "这个城市最知名的学者 艾哈迈德·巴巴（Ahmed Baba），",
+      "end": 129.696
+    },
+    {
+      "start": 129.746,
+      "text": "挑战了各种主流思想，",
+      "end": 132.071
+    },
+    {
+      "start": 132.121,
+      "text": "从吸烟到奴隶制。",
+      "end": 135.113
+    },
+    {
+      "start": 135.163,
+      "text": "黄金和盐巴贸易 奠定了这个城市转型为",
+      "end": 139.113
+    },
+    {
+      "start": 139.163,
+      "text": "学习中心的基础。",
+      "end": 141.571
+    },
+    {
+      "start": 141.621,
+      "text": "知识文化的产物",
+      "end": 144.363
+    },
+    {
+      "start": 144.413,
+      "text": "成为了最受欢迎的商品。",
+      "end": 147.488
+    },
+    {
+      "start": 147.538,
+      "text": "用来自遥远威尼斯的纸张",
+      "end": 149.446
+    },
+    {
+      "start": 149.496,
+      "text": "和用当地植物 和矿物制成的鲜艳墨水，",
+      "end": 152.446
+    },
+    {
+      "start": 152.496,
+      "text": "廷巴克图的抄写员 会用阿拉伯文",
+      "end": 156.238
+    },
+    {
+      "start": 156.288,
+      "text": "和当地语言抄写文本。",
+      "end": 158.321
+    },
+    {
+      "start": 158.371,
+      "text": "廷巴克图的书籍都由书法撰写， 并配上了精美的几何设计，",
+      "end": 163.071
+    },
+    {
+      "start": 163.121,
+      "text": "社会上富有的人对它们有很大需求。",
+      "end": 169.029
+    },
+    {
+      "start": 169.079,
+      "text": "在 1591 年， 黄金年代戛然而止。",
+      "end": 173.279
+    },
+    {
+      "start": 173.329,
+      "text": "摩洛哥国王占领了廷巴克图。",
+      "end": 176.821
+    },
+    {
+      "start": 176.871,
+      "text": "摩洛哥军力监禁了 艾哈迈德·巴巴和其他的著名学者，",
+      "end": 181.071
+    },
+    {
+      "start": 181.121,
+      "text": "并封锁了他们的图书馆。",
+      "end": 183.779
+    },
+    {
+      "start": 183.829,
+      "text": "在接下来的几个世纪， 这座城市经历了数次征战。",
+      "end": 189.029
+    },
+    {
+      "start": 189.079,
+      "text": "在 1800 年代中期， 苏菲的圣战士占领了廷巴克图，",
+      "end": 193.029
+    },
+    {
+      "start": 193.079,
+      "text": "并摧毁了很多非宗教的手稿。",
+      "end": 196.613
+    },
+    {
+      "start": 196.663,
+      "text": "1894 年，法国殖民军队 掌控了城市的控制权，",
+      "end": 201.279
+    },
+    {
+      "start": 201.329,
+      "text": "偷走了更多的手稿， 并将它们送到了欧洲。",
+      "end": 205.279
+    },
+    {
+      "start": 205.329,
+      "text": "法语成为了学校教授的官方语言，",
+      "end": 208.863
+    },
+    {
+      "start": 208.913,
+      "text": "廷巴克图的新一代",
+      "end": 210.738
+    },
+    {
+      "start": 210.788,
+      "text": "无法阅读留存下来的 阿拉伯语手稿。",
+      "end": 214.738
+    },
+    {
+      "start": 214.788,
+      "text": "经历了这一切，廷巴克图的 文学传统并没有消亡——",
+      "end": 219.571
+    },
+    {
+      "start": 219.621,
+      "text": "而是转入了地下。",
+      "end": 222.238
+    },
+    {
+      "start": 222.288,
+      "text": "有些家庭在家中 建造了隐密的图书馆，",
+      "end": 225.279
+    },
+    {
+      "start": 225.329,
+      "text": "或者把书埋在他们的花园里。",
+      "end": 228.071
+    },
+    {
+      "start": 228.121,
+      "text": "还有人把书藏在废弃的洞穴， 或者沙漠的空洞中。",
+      "end": 232.488
+    },
+    {
+      "start": 232.538,
+      "text": "这些无价的廷巴克图手稿",
+      "end": 235.238
+    },
+    {
+      "start": 235.288,
+      "text": "散布在周围地区的村庄里，",
+      "end": 238.654
+    },
+    {
+      "start": 238.704,
+      "text": "在这里，平民百姓 守护了它们数百年。",
+      "end": 243.696
+    },
+    {
+      "start": 243.746,
+      "text": "随着荒漠化和战争 使该地区日渐贫困，",
+      "end": 247.071
+    },
+    {
+      "start": 247.121,
+      "text": "许多家庭在极度贫困 和几乎无法维持温饱情况下",
+      "end": 249.571
+    },
+    {
+      "start": 249.621,
+      "text": "仍守护着古书。",
+      "end": 254.154
+    },
+    {
+      "start": 254.204,
+      "text": "即使在今天，保护书籍的 斗争仍在继续。",
+      "end": 258.94599999999997
+    },
+    {
+      "start": 258.996,
+      "text": "从 1980 年代到 2000 年代早期，",
+      "end": 262.029
+    },
+    {
+      "start": 262.079,
+      "text": "廷巴克图的学者 阿巴杜·卡德·海德拉（Abdel Kader Haidara）",
+      "end": 267.738
+    },
+    {
+      "start": 267.788,
+      "text": "辛苦地从马里北部各地取回了 藏匿的手稿，并将它们带回了廷巴克图。",
+      "end": 272.404
+    },
+    {
+      "start": 272.454,
+      "text": "但在 2012 年，马里内战 再次让这些手稿面临威胁。",
+      "end": 277.529
+    },
+    {
+      "start": 277.579,
+      "text": "很多手稿都被转移到了 附近的巴马科。",
+      "end": 281.363
+    },
+    {
+      "start": 281.413,
+      "text": "面临着来自人类和自然的威胁，",
+      "end": 283.32099999999997
+    },
+    {
+      "start": 283.371,
+      "text": "这些手稿的未来仍是未知数。",
+      "end": 287.613
+    },
+    {
+      "start": 287.663,
+      "text": "要想了解该地区的殖民前历史。 这些古书是我们最好的，",
+      "end": 291.404
+    },
+    {
+      "start": 291.454,
+      "text": "可能也是唯一的来源。",
+      "end": 294.94599999999997
+    },
+    {
+      "start": 294.996,
+      "text": "很多手稿从未被现代学者研读过，",
+      "end": 298.154
+    },
+    {
+      "start": 298.204,
+      "text": "还有更多已经遗失 或者隐藏在沙漠中。",
+      "end": 302.154
+    },
+    {
+      "start": 302.204,
+      "text": "保护它们，就意味着 守护它们所承载的历史——",
+      "end": 306.529
+    },
+    {
+      "start": 306.579,
+      "text": "以及数代人不让 这段历史失传的不懈努力。",
+      "end": 314.95
+    }
+  ]
+};

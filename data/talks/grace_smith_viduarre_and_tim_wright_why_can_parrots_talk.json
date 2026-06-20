@@ -1,0 +1,1038 @@
+{
+  "meta": {
+    "title": "Why can parrots talk?",
+    "speaker": "Grace Smith-Viduarre and Tim Wright",
+    "duration": 283,
+    "slug": "grace_smith_viduarre_and_tim_wright_why_can_parrots_talk",
+    "sourcePage": "https://www.ted.com/talks/grace_smith_viduarre_and_tim_wright_why_can_parrots_talk",
+    "translationSourcePage": "https://www.ted.com/talks/grace_smith_viduarre_and_tim_wright_why_can_parrots_talk?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/60/68/001/products/2022e-grace-smith-vidaurre-and-tim-wright-why-can-parrots-talk-001-fallback-bf131ffa19dda7b1cd97948827421813-1200k.mp4",
+    "youtubeId": "1EYUhpimyxc",
+    "youtubeTitle": "Why can parrots talk? - Grace Smith-Vidaurre and Tim Wright"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.794,
+      "end": 13.543,
+      "text": "In 2010, a parrot that spoke with the same British accent as his owner went missing.",
+      "translation": "2010 年，一只有着和它主人 一样英国口音的鹦鹉失踪了。"
+    },
+    {
+      "id": 2,
+      "start": 13.593,
+      "end": 26.597,
+      "text": "They were reunited four years later, but the intervening time left a conspicuous mark: the parrot had lost its British accent and was instead chattering away in Spanish.",
+      "translation": "四年后，他们又团聚了，但他们分离的时间给鹦鹉 留下了明显的痕迹，这只鹦鹉失去了它的英国口音，反而会说西班牙语了。"
+    },
+    {
+      "id": 3,
+      "start": 26.647,
+      "end": 32.145,
+      "text": "Parrots and several other birds are the only other animals that produce human speech.",
+      "translation": "鹦鹉和其他一些鸟类是唯一可以像人类一样说话的动物，"
+    },
+    {
+      "id": 4,
+      "start": 32.195,
+      "end": 35.857,
+      "text": "And some parrots do it almost uncannily well.",
+      "translation": "而且有些鹦鹉话说得特别好。"
+    },
+    {
+      "id": 5,
+      "start": 35.907,
+      "end": 37.9,
+      "text": "How is this possible?",
+      "translation": "这怎么可能呢？"
+    },
+    {
+      "id": 6,
+      "start": 37.95,
+      "end": 40.945,
+      "text": "Most wild parrots are highly social.",
+      "translation": "多数野生鹦鹉具有很强的社会性，"
+    },
+    {
+      "id": 7,
+      "start": 40.995,
+      "end": 47.535,
+      "text": "They use vocalizations for mating and territorial displays and to coordinate group movements.",
+      "translation": "它们利用发声来进行 交配和领地捍卫，还有协调群体行动。"
+    },
+    {
+      "id": 8,
+      "start": 47.585,
+      "end": 55.918,
+      "text": "Some species have flocks that continuously split and fuse, meaning individual parrots must be able to communicate with many others.",
+      "translation": "一些品种的鹦鹉群 会不断地分开和融合，这表示个体鹦鹉需要 和许多其他个体沟通。"
+    },
+    {
+      "id": 9,
+      "start": 55.968,
+      "end": 62.383,
+      "text": "Parrots use contact calls to interact and stay in touch when others are out of sight.",
+      "translation": "当其他鹦鹉不在视线范围内时，鹦鹉使用召唤声来互动和联系，"
+    },
+    {
+      "id": 10,
+      "start": 62.433,
+      "end": 68.973,
+      "text": "But how exactly they use these calls depends on the species and the size of their flocks.",
+      "translation": "但它们具体如何使用这些召唤声取决于它们的品种和鸟群的规模。"
+    },
+    {
+      "id": 11,
+      "start": 69.023,
+      "end": 77.106,
+      "text": "Monk parakeets, for example, live in large colonies and have individualized contact calls that help them stand out.",
+      "translation": "例如，和尚鹦鹉生活在大的群体中，其个性化的召唤声令它们脱颖而出。"
+    },
+    {
+      "id": 12,
+      "start": 77.156,
+      "end": 85.198,
+      "text": "Yellow-naped Amazon parrots, on the other hand, forage in smaller groups that learn and share highly similar contact calls.",
+      "translation": "另一方面，黄嘴亚马逊鹦鹉 在较小的群体中觅食，它们拥有高度相似的召唤声。"
+    },
+    {
+      "id": 13,
+      "start": 85.248,
+      "end": 99.045,
+      "text": "This need for sophisticated mimicry may partially explain why yellow-naped Amazons and some other parrots can closely imitate a wide range of sounds— including the human voice.",
+      "translation": "对高超模仿能力的需求 可能部分解释了为何黄嘴亚马逊鹦鹉和其他一些鹦鹉 可以准确模仿各种各样声音，包括人类的声音。"
+    },
+    {
+      "id": 14,
+      "start": 99.095,
+      "end": 104.509,
+      "text": "So, how does a parrot actually declare that “Polly wants a cracker”?",
+      "translation": "那鹦鹉怎么讲 “波莉想吃饼干”？"
+    },
+    {
+      "id": 15,
+      "start": 104.559,
+      "end": 110.139,
+      "text": "A person would string these sounds together using their larynx, the organ at the top of their windpipe.",
+      "translation": "人会用气管顶部的器官，即喉咙，把这些声音连起来，"
+    },
+    {
+      "id": 16,
+      "start": 110.189,
+      "end": 115.895,
+      "text": "It consists of rings of muscles and a vibrating membrane that controls airflow.",
+      "translation": "它由环状的肌肉和控制气流的振动膜组成。"
+    },
+    {
+      "id": 17,
+      "start": 115.945,
+      "end": 121.901,
+      "text": "They’d finely shape the vocalization into enunciated words using their tongue and lips.",
+      "translation": "人使用舌头和嘴唇，将声音精细地塑造成清晰的词。"
+    },
+    {
+      "id": 18,
+      "start": 121.951,
+      "end": 128.741,
+      "text": "For a parrot, however, the sound would originate in its syrinx, located at the base of its windpipe.",
+      "translation": "对鹦鹉来说，声音来自位于其气管底部的鸣管。"
+    },
+    {
+      "id": 19,
+      "start": 128.791,
+      "end": 132.662,
+      "text": "Many other birds have two vibrating membranes within this organ.",
+      "translation": "许多其他鸟类的鸣管有两个振动膜，"
+    },
+    {
+      "id": 20,
+      "start": 132.712,
+      "end": 135.79,
+      "text": "But parrots, like us, have just one.",
+      "translation": "但鹦鹉只有一个振动膜，就像我们。"
+    },
+    {
+      "id": 21,
+      "start": 135.84,
+      "end": 141.087,
+      "text": "As sounds leave the airway, parrots shape them using their tongues and beaks.",
+      "translation": "当声音离开呼吸道时， 鹦鹉用舌头和喙来塑造它们。"
+    },
+    {
+      "id": 22,
+      "start": 141.137,
+      "end": 148.01,
+      "text": "They can do this because they have especially flexible, powerful tongues that help them manipulate seeds and nuts.",
+      "translation": "它们能做到是因为有特别灵活 而强有力的舌头，能帮其处理种子和坚果。"
+    },
+    {
+      "id": 23,
+      "start": 148.06,
+      "end": 157.854,
+      "text": "And while parrots’ beaks are rigid, they have very flexible jaw joints, giving them a lot of control over how wide and how quickly they open their beaks.",
+      "translation": "虽然鹦鹉的喙是僵硬的， 但其下颌关节十分灵活，这让它们可以很好地控制张开喙的宽度和速度。"
+    },
+    {
+      "id": 24,
+      "start": 157.904,
+      "end": 168.99,
+      "text": "Like other animals with learned vocalizations, parrot brains contain interconnected regions that allow them to hear, remember, modify, and produce complex sounds.",
+      "translation": "像其他拥有发声能力的动物一样，鹦鹉的大脑有相互连接的区域，让它们可以听见、记住、 改动和发出复杂的声音。"
+    },
+    {
+      "id": 25,
+      "start": 169.04,
+      "end": 176.581,
+      "text": "But while songbirds have just one song system in their brains, almost all parrots seem to have an additional circuit.",
+      "translation": "虽然鸣鸟的大脑中 只有一个鸣叫系统，但几乎所有的鹦鹉都有 一个额外的脑回路。"
+    },
+    {
+      "id": 26,
+      "start": 176.631,
+      "end": 184.797,
+      "text": "Scientists think that this might give them extra flexibility when it comes to learning the calls of their own species— and ours.",
+      "translation": "科学家认为，在学习本群 和人类声音方面，这可能给了它们更多灵活性。"
+    },
+    {
+      "id": 27,
+      "start": 184.847,
+      "end": 191.179,
+      "text": "With this specialized anatomy, parrots can bark, scream, curse, and recite factoids.",
+      "translation": "有了这种专门的解剖结构，鹦鹉可以吠叫、尖叫、 咒骂和背诵趣闻。"
+    },
+    {
+      "id": 28,
+      "start": 191.229,
+      "end": 199.061,
+      "text": "One intrepid lost parrot managed to get back home after repeating his full name and address to helpful strangers.",
+      "translation": "一只勇敢的迷路鹦鹉向热心陌生人 一遍遍地重复它的全名和地址，终于找到了家。"
+    },
+    {
+      "id": 29,
+      "start": 199.111,
+      "end": 207.028,
+      "text": "But these impressive abilities raise another question: do parrots actually understand what they’re saying?",
+      "translation": "鹦鹉这些令人惊讶的能力 引出了一个问题：鹦鹉真能听得懂自己说的话吗？"
+    },
+    {
+      "id": 30,
+      "start": 207.078,
+      "end": 214.16,
+      "text": "When most captive parrots talk, they’re likely attempting to form social bonds in the absence of their own species.",
+      "translation": "当被圈养的鹦鹉说话时，在没有同类的情况下， 它们可能在尝试建立社会联系。"
+    },
+    {
+      "id": 31,
+      "start": 214.21,
+      "end": 223.044,
+      "text": "Many probably have associations with words and may be drawn to ones that elicit certain responses— hence their capacity for profanity.",
+      "translation": "许多鹦鹉将词语和反应建立关联，并可能被引起某些 反应的词语所吸引，因此它们有说脏话的能力。"
+    },
+    {
+      "id": 32,
+      "start": 223.094,
+      "end": 239.268,
+      "text": "But, especially after training, parrots have been observed to say things in the appropriate contexts and assign meaning to words— saying “goodnight” at the end of the day, asking for certain treats, or counting and picking objects.",
+      "translation": "然而，特别是经过训练后，鹦鹉被观察到能讲出合适语境的话，并赋予词语含义—— 就像是在一天结束时说晚安、索要某些零食、数数和挑选物体。"
+    },
+    {
+      "id": 33,
+      "start": 239.318,
+      "end": 251.239,
+      "text": "One extensively trained African grey parrot named Alex became the first non-human animal to pose an existential question when he asked what color he was.",
+      "translation": "一只名叫亚历克斯的非洲灰鹦鹉 经过大量训练后，问出“我是什么颜色？”的问题时，成为第一个提出 存在性问题的非人类动物。"
+    },
+    {
+      "id": 34,
+      "start": 251.289,
+      "end": 262.708,
+      "text": "Whether they’re belting Beyoncé, head-banging to classic rock, or rattling off cuss words at zoo-goers, parrots are constantly astounding us— as they have been for millennia.",
+      "translation": "无论它们是唱着碧昂斯的歌， 对着经典摇滚摇头晃脑，还是对着动物园的游客说脏话，鹦鹉不断地让我们感到震惊， 正如它们几千年来做到的那样。"
+    },
+    {
+      "id": 35,
+      "start": 262.758,
+      "end": 266.629,
+      "text": "But our fascination with parrots has also made them vulnerable.",
+      "translation": "我们对鹦鹉的喜爱 同时让它们变得脆弱，"
+    },
+    {
+      "id": 36,
+      "start": 266.679,
+      "end": 275.846,
+      "text": "Sought by poachers and pet traders, while losing their habitats to deforestation, wild populations have decreased dramatically.",
+      "translation": "它们被偷猎者和宠物商人追捧，同时因为树林砍伐 而失去它们的栖息地，野生的鹦鹉数量急剧下降。"
+    },
+    {
+      "id": 37,
+      "start": 275.896,
+      "end": 282.95,
+      "text": "To truly understand parrots, we need to preserve and study them in the wild.",
+      "translation": "想要真正了解它们， 我们需要保护和学习野外的鹦鹉。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.794,
+      "text": "In 2010, a parrot that spoke with the same British accent as his owner",
+      "end": 12.0
+    },
+    {
+      "start": 12.05,
+      "text": "went missing.",
+      "end": 13.543
+    },
+    {
+      "start": 13.593,
+      "text": "They were reunited four years later,",
+      "end": 15.712
+    },
+    {
+      "start": 15.762,
+      "text": "but the intervening time left a conspicuous mark:",
+      "end": 19.381999999999998
+    },
+    {
+      "start": 19.432,
+      "text": "the parrot had lost its British accent",
+      "end": 22.384999999999998
+    },
+    {
+      "start": 22.435,
+      "text": "and was instead chattering away in Spanish.",
+      "end": 26.596999999999998
+    },
+    {
+      "start": 26.647,
+      "text": "Parrots and several other birds are the only other animals",
+      "end": 29.976
+    },
+    {
+      "start": 30.026,
+      "text": "that produce human speech.",
+      "end": 32.145
+    },
+    {
+      "start": 32.195,
+      "text": "And some parrots do it almost uncannily well.",
+      "end": 35.857
+    },
+    {
+      "start": 35.907,
+      "text": "How is this possible?",
+      "end": 37.900000000000006
+    },
+    {
+      "start": 37.95,
+      "text": "Most wild parrots are highly social.",
+      "end": 40.945
+    },
+    {
+      "start": 40.995,
+      "text": "They use vocalizations for mating and territorial displays",
+      "end": 44.907000000000004
+    },
+    {
+      "start": 44.957,
+      "text": "and to coordinate group movements.",
+      "end": 47.535000000000004
+    },
+    {
+      "start": 47.585,
+      "text": "Some species have flocks that continuously split and fuse,",
+      "end": 51.372
+    },
+    {
+      "start": 51.422,
+      "text": "meaning individual parrots must be able to communicate with many others.",
+      "end": 55.918000000000006
+    },
+    {
+      "start": 55.968,
+      "text": "Parrots use contact calls to interact",
+      "end": 59.422000000000004
+    },
+    {
+      "start": 59.472,
+      "text": "and stay in touch when others are out of sight.",
+      "end": 62.383
+    },
+    {
+      "start": 62.433,
+      "text": "But how exactly they use these calls depends on the species",
+      "end": 66.512
+    },
+    {
+      "start": 66.562,
+      "text": "and the size of their flocks.",
+      "end": 68.973
+    },
+    {
+      "start": 69.023,
+      "text": "Monk parakeets, for example, live in large colonies",
+      "end": 72.81
+    },
+    {
+      "start": 72.86,
+      "text": "and have individualized contact calls that help them stand out.",
+      "end": 77.10600000000001
+    },
+    {
+      "start": 77.156,
+      "text": "Yellow-naped Amazon parrots, on the other hand,",
+      "end": 79.69200000000001
+    },
+    {
+      "start": 79.742,
+      "text": "forage in smaller groups that learn and share highly similar contact calls.",
+      "end": 85.19800000000001
+    },
+    {
+      "start": 85.248,
+      "text": "This need for sophisticated mimicry may partially explain why yellow-naped Amazons",
+      "end": 90.912
+    },
+    {
+      "start": 90.962,
+      "text": "and some other parrots can closely imitate a wide range of sounds—",
+      "end": 96.0
+    },
+    {
+      "start": 96.05,
+      "text": "including the human voice.",
+      "end": 99.045
+    },
+    {
+      "start": 99.095,
+      "text": "So, how does a parrot actually declare that “Polly wants a cracker”?",
+      "end": 104.509
+    },
+    {
+      "start": 104.559,
+      "text": "A person would string these sounds together using their larynx,",
+      "end": 108.012
+    },
+    {
+      "start": 108.062,
+      "text": "the organ at the top of their windpipe.",
+      "end": 110.139
+    },
+    {
+      "start": 110.189,
+      "text": "It consists of rings of muscles and a vibrating membrane",
+      "end": 114.018
+    },
+    {
+      "start": 114.068,
+      "text": "that controls airflow.",
+      "end": 115.895
+    },
+    {
+      "start": 115.945,
+      "text": "They’d finely shape the vocalization into enunciated words",
+      "end": 119.44
+    },
+    {
+      "start": 119.49,
+      "text": "using their tongue and lips.",
+      "end": 121.901
+    },
+    {
+      "start": 121.951,
+      "text": "For a parrot, however, the sound would originate in its syrinx,",
+      "end": 126.28
+    },
+    {
+      "start": 126.33,
+      "text": "located at the base of its windpipe.",
+      "end": 128.74099999999999
+    },
+    {
+      "start": 128.791,
+      "text": "Many other birds have two vibrating membranes within this organ.",
+      "end": 132.66199999999998
+    },
+    {
+      "start": 132.712,
+      "text": "But parrots, like us, have just one.",
+      "end": 135.79
+    },
+    {
+      "start": 135.84,
+      "text": "As sounds leave the airway, parrots shape them using their tongues and beaks.",
+      "end": 141.087
+    },
+    {
+      "start": 141.137,
+      "text": "They can do this because they have especially flexible, powerful tongues",
+      "end": 145.17399999999998
+    },
+    {
+      "start": 145.224,
+      "text": "that help them manipulate seeds and nuts.",
+      "end": 148.01
+    },
+    {
+      "start": 148.06,
+      "text": "And while parrots’ beaks are rigid, they have very flexible jaw joints,",
+      "end": 152.39
+    },
+    {
+      "start": 152.44,
+      "text": "giving them a lot of control over how wide and how quickly",
+      "end": 155.768
+    },
+    {
+      "start": 155.818,
+      "text": "they open their beaks.",
+      "end": 157.85399999999998
+    },
+    {
+      "start": 157.904,
+      "text": "Like other animals with learned vocalizations,",
+      "end": 160.439
+    },
+    {
+      "start": 160.489,
+      "text": "parrot brains contain interconnected regions that allow them",
+      "end": 163.90099999999998
+    },
+    {
+      "start": 163.951,
+      "text": "to hear, remember, modify, and produce complex sounds.",
+      "end": 168.98999999999998
+    },
+    {
+      "start": 169.04,
+      "text": "But while songbirds have just one song system in their brains,",
+      "end": 172.535
+    },
+    {
+      "start": 172.585,
+      "text": "almost all parrots seem to have an additional circuit.",
+      "end": 176.581
+    },
+    {
+      "start": 176.631,
+      "text": "Scientists think that this might give them extra flexibility",
+      "end": 179.75
+    },
+    {
+      "start": 179.8,
+      "text": "when it comes to learning the calls of their own species— and ours.",
+      "end": 184.797
+    },
+    {
+      "start": 184.847,
+      "text": "With this specialized anatomy,",
+      "end": 186.75699999999998
+    },
+    {
+      "start": 186.807,
+      "text": "parrots can bark, scream, curse, and recite factoids.",
+      "end": 191.179
+    },
+    {
+      "start": 191.229,
+      "text": "One intrepid lost parrot managed to get back home",
+      "end": 194.47299999999998
+    },
+    {
+      "start": 194.523,
+      "text": "after repeating his full name and address to helpful strangers.",
+      "end": 199.06099999999998
+    },
+    {
+      "start": 199.111,
+      "text": "But these impressive abilities raise another question:",
+      "end": 202.815
+    },
+    {
+      "start": 202.865,
+      "text": "do parrots actually understand what they’re saying?",
+      "end": 207.028
+    },
+    {
+      "start": 207.078,
+      "text": "When most captive parrots talk,",
+      "end": 209.113
+    },
+    {
+      "start": 209.163,
+      "text": "they’re likely attempting to form social bonds in the absence of their own species.",
+      "end": 214.16
+    },
+    {
+      "start": 214.21,
+      "text": "Many probably have associations with words",
+      "end": 216.57899999999998
+    },
+    {
+      "start": 216.629,
+      "text": "and may be drawn to ones that elicit certain responses—",
+      "end": 220.541
+    },
+    {
+      "start": 220.591,
+      "text": "hence their capacity for profanity.",
+      "end": 223.04399999999998
+    },
+    {
+      "start": 223.094,
+      "text": "But, especially after training,",
+      "end": 225.254
+    },
+    {
+      "start": 225.304,
+      "text": "parrots have been observed to say things in the appropriate contexts",
+      "end": 229.759
+    },
+    {
+      "start": 229.809,
+      "text": "and assign meaning to words— saying “goodnight” at the end of the day,",
+      "end": 235.05599999999998
+    },
+    {
+      "start": 235.106,
+      "text": "asking for certain treats, or counting and picking objects.",
+      "end": 239.268
+    },
+    {
+      "start": 239.318,
+      "text": "One extensively trained African grey parrot named Alex",
+      "end": 243.397
+    },
+    {
+      "start": 243.447,
+      "text": "became the first non-human animal to pose an existential question",
+      "end": 248.194
+    },
+    {
+      "start": 248.244,
+      "text": "when he asked what color he was.",
+      "end": 251.23899999999998
+    },
+    {
+      "start": 251.289,
+      "text": "Whether they’re belting Beyoncé, head-banging to classic rock,",
+      "end": 254.742
+    },
+    {
+      "start": 254.792,
+      "text": "or rattling off cuss words at zoo-goers,",
+      "end": 257.495
+    },
+    {
+      "start": 257.545,
+      "text": "parrots are constantly astounding us— as they have been for millennia.",
+      "end": 262.70799999999997
+    },
+    {
+      "start": 262.758,
+      "text": "But our fascination with parrots has also made them vulnerable.",
+      "end": 266.62899999999996
+    },
+    {
+      "start": 266.679,
+      "text": "Sought by poachers and pet traders,",
+      "end": 269.048
+    },
+    {
+      "start": 269.098,
+      "text": "while losing their habitats to deforestation,",
+      "end": 271.96799999999996
+    },
+    {
+      "start": 272.018,
+      "text": "wild populations have decreased dramatically.",
+      "end": 275.846
+    },
+    {
+      "start": 275.896,
+      "text": "To truly understand parrots, we need to preserve and study them in the wild.",
+      "end": 282.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.794,
+      "text": "2010 年，一只有着和它主人 一样英国口音的鹦鹉",
+      "end": 12.0
+    },
+    {
+      "start": 12.05,
+      "text": "失踪了。",
+      "end": 13.543
+    },
+    {
+      "start": 13.593,
+      "text": "四年后，他们又团聚了，",
+      "end": 15.712
+    },
+    {
+      "start": 15.762,
+      "text": "但他们分离的时间给鹦鹉 留下了明显的痕迹，",
+      "end": 19.381999999999998
+    },
+    {
+      "start": 19.432,
+      "text": "这只鹦鹉失去了它的英国口音，",
+      "end": 22.384999999999998
+    },
+    {
+      "start": 22.435,
+      "text": "反而会说西班牙语了。",
+      "end": 26.596999999999998
+    },
+    {
+      "start": 26.647,
+      "text": "鹦鹉和其他一些鸟类",
+      "end": 29.976
+    },
+    {
+      "start": 30.026,
+      "text": "是唯一可以像人类一样说话的动物，",
+      "end": 32.145
+    },
+    {
+      "start": 32.195,
+      "text": "而且有些鹦鹉话说得特别好。",
+      "end": 35.857
+    },
+    {
+      "start": 35.907,
+      "text": "这怎么可能呢？",
+      "end": 37.900000000000006
+    },
+    {
+      "start": 37.95,
+      "text": "多数野生鹦鹉具有很强的社会性，",
+      "end": 40.945
+    },
+    {
+      "start": 40.995,
+      "text": "它们利用发声来进行 交配和领地捍卫，",
+      "end": 44.907000000000004
+    },
+    {
+      "start": 44.957,
+      "text": "还有协调群体行动。",
+      "end": 47.535000000000004
+    },
+    {
+      "start": 47.585,
+      "text": "一些品种的鹦鹉群 会不断地分开和融合，",
+      "end": 51.372
+    },
+    {
+      "start": 51.422,
+      "text": "这表示个体鹦鹉需要 和许多其他个体沟通。",
+      "end": 55.918000000000006
+    },
+    {
+      "start": 55.968,
+      "text": "当其他鹦鹉不在视线范围内时，",
+      "end": 59.422000000000004
+    },
+    {
+      "start": 59.472,
+      "text": "鹦鹉使用召唤声来互动和联系，",
+      "end": 62.383
+    },
+    {
+      "start": 62.433,
+      "text": "但它们具体如何使用这些召唤声",
+      "end": 66.512
+    },
+    {
+      "start": 66.562,
+      "text": "取决于它们的品种和鸟群的规模。",
+      "end": 68.973
+    },
+    {
+      "start": 69.023,
+      "text": "例如，和尚鹦鹉生活在大的群体中，",
+      "end": 72.81
+    },
+    {
+      "start": 72.86,
+      "text": "其个性化的召唤声令它们脱颖而出。",
+      "end": 77.10600000000001
+    },
+    {
+      "start": 77.156,
+      "text": "另一方面，黄嘴亚马逊鹦鹉 在较小的群体中觅食，",
+      "end": 79.69200000000001
+    },
+    {
+      "start": 79.742,
+      "text": "它们拥有高度相似的召唤声。",
+      "end": 85.19800000000001
+    },
+    {
+      "start": 85.248,
+      "text": "对高超模仿能力的需求 可能部分解释了",
+      "end": 89.535
+    },
+    {
+      "start": 89.585,
+      "text": "为何黄嘴亚马逊鹦鹉和其他一些鹦鹉 可以准确模仿各种各样声音，",
+      "end": 96.0
+    },
+    {
+      "start": 96.05,
+      "text": "包括人类的声音。",
+      "end": 99.045
+    },
+    {
+      "start": 99.095,
+      "text": "那鹦鹉怎么讲 “波莉想吃饼干”？",
+      "end": 104.509
+    },
+    {
+      "start": 104.559,
+      "text": "人会用气管顶部的器官，即喉咙，",
+      "end": 108.012
+    },
+    {
+      "start": 108.062,
+      "text": "把这些声音连起来，",
+      "end": 110.139
+    },
+    {
+      "start": 110.189,
+      "text": "它由环状的肌肉",
+      "end": 114.018
+    },
+    {
+      "start": 114.068,
+      "text": "和控制气流的振动膜组成。",
+      "end": 115.895
+    },
+    {
+      "start": 115.945,
+      "text": "人使用舌头和嘴唇，",
+      "end": 119.44
+    },
+    {
+      "start": 119.49,
+      "text": "将声音精细地塑造成清晰的词。",
+      "end": 121.901
+    },
+    {
+      "start": 121.951,
+      "text": "对鹦鹉来说，",
+      "end": 123.653
+    },
+    {
+      "start": 123.703,
+      "text": "声音来自位于其气管底部的鸣管。",
+      "end": 128.74099999999999
+    },
+    {
+      "start": 128.791,
+      "text": "许多其他鸟类的鸣管有两个振动膜，",
+      "end": 132.66199999999998
+    },
+    {
+      "start": 132.712,
+      "text": "但鹦鹉只有一个振动膜，就像我们。",
+      "end": 136.04
+    },
+    {
+      "start": 136.09,
+      "text": "当声音离开呼吸道时， 鹦鹉用舌头和喙来塑造它们。",
+      "end": 141.087
+    },
+    {
+      "start": 141.137,
+      "text": "它们能做到是因为有特别灵活 而强有力的舌头，",
+      "end": 145.17399999999998
+    },
+    {
+      "start": 145.224,
+      "text": "能帮其处理种子和坚果。",
+      "end": 148.01
+    },
+    {
+      "start": 148.06,
+      "text": "虽然鹦鹉的喙是僵硬的， 但其下颌关节十分灵活，",
+      "end": 152.39
+    },
+    {
+      "start": 152.44,
+      "text": "这让它们可以很好地控制",
+      "end": 155.768
+    },
+    {
+      "start": 155.818,
+      "text": "张开喙的宽度和速度。",
+      "end": 157.85399999999998
+    },
+    {
+      "start": 157.904,
+      "text": "像其他拥有发声能力的动物一样，",
+      "end": 160.439
+    },
+    {
+      "start": 160.489,
+      "text": "鹦鹉的大脑有相互连接的区域，",
+      "end": 163.90099999999998
+    },
+    {
+      "start": 163.951,
+      "text": "让它们可以听见、记住、 改动和发出复杂的声音。",
+      "end": 168.98999999999998
+    },
+    {
+      "start": 169.04,
+      "text": "虽然鸣鸟的大脑中 只有一个鸣叫系统，",
+      "end": 172.535
+    },
+    {
+      "start": 172.585,
+      "text": "但几乎所有的鹦鹉都有 一个额外的脑回路。",
+      "end": 176.581
+    },
+    {
+      "start": 176.631,
+      "text": "科学家认为，在学习本群 和人类声音方面，",
+      "end": 179.75
+    },
+    {
+      "start": 179.8,
+      "text": "这可能给了它们更多灵活性。",
+      "end": 184.797
+    },
+    {
+      "start": 184.847,
+      "text": "有了这种专门的解剖结构，",
+      "end": 186.75699999999998
+    },
+    {
+      "start": 186.807,
+      "text": "鹦鹉可以吠叫、尖叫、 咒骂和背诵趣闻。",
+      "end": 191.179
+    },
+    {
+      "start": 191.229,
+      "text": "一只勇敢的迷路鹦鹉向热心陌生人 一遍遍地重复它的全名和地址，",
+      "end": 196.559
+    },
+    {
+      "start": 196.609,
+      "text": "终于找到了家。",
+      "end": 199.06099999999998
+    },
+    {
+      "start": 199.111,
+      "text": "鹦鹉这些令人惊讶的能力 引出了一个问题：",
+      "end": 202.815
+    },
+    {
+      "start": 202.865,
+      "text": "鹦鹉真能听得懂自己说的话吗？",
+      "end": 207.028
+    },
+    {
+      "start": 207.078,
+      "text": "当被圈养的鹦鹉说话时，",
+      "end": 209.113
+    },
+    {
+      "start": 209.163,
+      "text": "在没有同类的情况下， 它们可能在尝试建立社会联系。",
+      "end": 214.16
+    },
+    {
+      "start": 214.21,
+      "text": "许多鹦鹉将词语和反应建立关联，",
+      "end": 216.57899999999998
+    },
+    {
+      "start": 216.629,
+      "text": "并可能被引起某些 反应的词语所吸引，",
+      "end": 220.541
+    },
+    {
+      "start": 220.591,
+      "text": "因此它们有说脏话的能力。",
+      "end": 223.04399999999998
+    },
+    {
+      "start": 223.094,
+      "text": "然而，特别是经过训练后，",
+      "end": 225.254
+    },
+    {
+      "start": 225.304,
+      "text": "鹦鹉被观察到能讲出合适语境的话，",
+      "end": 229.759
+    },
+    {
+      "start": 229.809,
+      "text": "并赋予词语含义—— 就像是在一天结束时说晚安、",
+      "end": 235.05599999999998
+    },
+    {
+      "start": 235.106,
+      "text": "索要某些零食、数数和挑选物体。",
+      "end": 239.268
+    },
+    {
+      "start": 239.318,
+      "text": "一只名叫亚历克斯的非洲灰鹦鹉 经过大量训练后，",
+      "end": 243.397
+    },
+    {
+      "start": 243.447,
+      "text": "问出“我是什么颜色？”的问题时，",
+      "end": 248.402
+    },
+    {
+      "start": 248.452,
+      "text": "成为第一个提出 存在性问题的非人类动物。",
+      "end": 251.23899999999998
+    },
+    {
+      "start": 251.289,
+      "text": "无论它们是唱着碧昂斯的歌， 对着经典摇滚摇头晃脑，",
+      "end": 254.742
+    },
+    {
+      "start": 254.792,
+      "text": "还是对着动物园的游客说脏话，",
+      "end": 257.495
+    },
+    {
+      "start": 257.545,
+      "text": "鹦鹉不断地让我们感到震惊， 正如它们几千年来做到的那样。",
+      "end": 262.70799999999997
+    },
+    {
+      "start": 262.758,
+      "text": "我们对鹦鹉的喜爱 同时让它们变得脆弱，",
+      "end": 266.62899999999996
+    },
+    {
+      "start": 266.679,
+      "text": "它们被偷猎者和宠物商人追捧，",
+      "end": 269.048
+    },
+    {
+      "start": 269.098,
+      "text": "同时因为树林砍伐 而失去它们的栖息地，",
+      "end": 271.96799999999996
+    },
+    {
+      "start": 272.018,
+      "text": "野生的鹦鹉数量急剧下降。",
+      "end": 275.846
+    },
+    {
+      "start": 275.896,
+      "text": "想要真正了解它们， 我们需要保护和学习野外的鹦鹉。",
+      "end": 282.95
+    }
+  ]
+}

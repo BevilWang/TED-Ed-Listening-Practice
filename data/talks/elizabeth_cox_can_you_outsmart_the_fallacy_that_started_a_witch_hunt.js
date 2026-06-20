@@ -1,0 +1,892 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Can you outsmart the fallacy that started a witch hunt?",
+    "speaker": "Elizabeth Cox",
+    "duration": 246,
+    "slug": "elizabeth_cox_can_you_outsmart_the_fallacy_that_started_a_witch_hunt",
+    "sourcePage": "https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_started_a_witch_hunt",
+    "translationSourcePage": "https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_started_a_witch_hunt?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/52/76/001/products/2020e-elizabeth-cox-burden-of-proof-fallacy-001-fallback-f5dc67b847a32aaa37ef29f853fab268-1200k.mp4",
+    "youtubeId": "L9rkQJ91VOE",
+    "youtubeTitle": "Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 10.703,
+      "end": 12.789,
+      "text": "Ah, a witch hunt.",
+      "translation": "啊，一场猎巫运动。"
+    },
+    {
+      "id": 2,
+      "start": 12.839,
+      "end": 16.419,
+      "text": "Humans are tireless in their pursuit of reason.",
+      "translation": "人类总是孜孜不倦的找寻 支持猎巫运动的理由。"
+    },
+    {
+      "id": 3,
+      "start": 16.469,
+      "end": 18.23,
+      "text": "\"It’s 1950.",
+      "translation": "“现在是1950年。"
+    },
+    {
+      "id": 4,
+      "start": 18.28,
+      "end": 27.832,
+      "text": "Following threats from the communist governments of the Soviet Union and China, anti-communist sentiment in the United States is at an all-time high.",
+      "translation": "在苏联和中国共产党的威胁下，美国的反共情绪空前高涨。"
+    },
+    {
+      "id": 5,
+      "start": 27.882,
+      "end": 38.284,
+      "text": "Senator Joseph McCarthy claims he has a list of 205 communists in the US who are influencing government policy.\"",
+      "translation": "参议员约瑟夫·麦卡锡 (Joseph McCarthy) 称，他有一份美国 205 名 影响政府政策的共产主义者名单。”"
+    },
+    {
+      "id": 6,
+      "start": 38.334,
+      "end": 41.364,
+      "text": "Didn’t I just change the channel?",
+      "translation": "我不是刚换了频道吗？"
+    },
+    {
+      "id": 7,
+      "start": 41.414,
+      "end": 44.694,
+      "text": "Ah, I see. It’s a different witch hunt.",
+      "translation": "啊，我明白了， 这又是一场猎巫运动。"
+    },
+    {
+      "id": 8,
+      "start": 44.744,
+      "end": 48.314,
+      "text": "\"The senate forms a committee to investigate McCarthy’s claims.",
+      "translation": "参议院组成一个委员会 来调查麦卡锡的说法。"
+    },
+    {
+      "id": 9,
+      "start": 48.364,
+      "end": 55.834,
+      "text": "McCarthy names his first case: against prominent lawyer, judge, and activist Dorothy Kenyon.",
+      "translation": "麦卡锡举出了他的第一个案件：起诉著名律师、法官和活动家 多萝西·肯扬（Dorothy Kenyon）。"
+    },
+    {
+      "id": 10,
+      "start": 55.884,
+      "end": 60.963,
+      "text": "He accuses her of membership to 28 organizations that are communist fronts.",
+      "translation": "麦卡锡指责她是 28 个共产主义战线组织的成员。"
+    },
+    {
+      "id": 11,
+      "start": 61.013,
+      "end": 67.433,
+      "text": "Newspapers around the country rush to her defense, pointing out her vocally anti-communist record.",
+      "translation": "全国各地的报纸争相为她辩护，指出她过去口头的反共纪录。"
+    },
+    {
+      "id": 12,
+      "start": 67.483,
+      "end": 74.073,
+      "text": "The senate committee schedules a hearing anyway, and she has just five days to prepare.\"",
+      "translation": "参议院委员会无论如何 都会安排听证会，她只有五天的时间准备。”"
+    },
+    {
+      "id": 13,
+      "start": 74.123,
+      "end": 76.023,
+      "text": "This is too much.",
+      "translation": "这太过分了。"
+    },
+    {
+      "id": 14,
+      "start": 76.073,
+      "end": 90.018,
+      "text": "If the government won’t be a voice of reason, I’ll have to.",
+      "translation": "如果政府不讲道理， 我就得采取行动了。"
+    },
+    {
+      "id": 15,
+      "start": 90.068,
+      "end": 91.536,
+      "text": "That’s better.",
+      "translation": "这样好多了。"
+    },
+    {
+      "id": 16,
+      "start": 91.586,
+      "end": 96.74,
+      "text": "I’m surprised you good legislators have agreed to move this hearing forward.",
+      "translation": "我很惊讶你们这些优秀的 立法者同意举行听证会。"
+    },
+    {
+      "id": 17,
+      "start": 96.79,
+      "end": 104.265,
+      "text": "You’re falling prey to a type of argument from ignorance: assuming that a claim is true because it hasn’t been proven false.",
+      "translation": "你将成为一种 基于无知论点的牺牲品：仅仅因为一个说法还没有被证明 是假的，就假设它是真的。"
+    },
+    {
+      "id": 18,
+      "start": 104.315,
+      "end": 112.574,
+      "text": "The claim being Senator McCarthy’s accusations against Judge Kenyon, for which he provided no legitimate evidence.",
+      "translation": "这项参议员麦卡锡 对肯扬法官的指控中，参议员麦卡锡并没有提供 任何合理合法的证据。"
+    },
+    {
+      "id": 19,
+      "start": 112.624,
+      "end": 115.804,
+      "text": "Is that right? I thought so.",
+      "translation": "对吗？我想是的。"
+    },
+    {
+      "id": 20,
+      "start": 115.854,
+      "end": 122.814,
+      "text": "Some of the so-called communist organizations he accused her of joining don’t even exist.",
+      "translation": "麦卡锡指控肯扬加入的 一些所谓的共产主义组织根本就不存在。"
+    },
+    {
+      "id": 21,
+      "start": 122.864,
+      "end": 139.428,
+      "text": "To assume a claim is true because it hasn’t been proven false ignores many other possibilities: that it hasn’t been proven false yet, that it can’t be proven true or false, or that it isn’t completely true or completely false, to name a few.",
+      "translation": "要假设一个声明是真的， 因为它还没有被证明是假的，忽略了许多其他潜在的可能性。 让我来举几个例子：它还没有被证明是假的， 也就是说它不能被证明是真是假，或者它并不是完全正确 或完全错误的。"
+    },
+    {
+      "id": 22,
+      "start": 139.478,
+      "end": 145.828,
+      "text": "This leads to a handy rule of thumb: the burden of proof lies with the person making the claim.",
+      "translation": "这就引出了一条简便的经验法则：举证责任在于提出指控的人。"
+    },
+    {
+      "id": 23,
+      "start": 145.878,
+      "end": 150.153,
+      "text": "In other words, you make the claim, you supply the proof.",
+      "translation": "换句话说，谁主张，谁举证。"
+    },
+    {
+      "id": 24,
+      "start": 150.203,
+      "end": 156.513,
+      "text": "If someone told you aliens exist, would you head off to find proof that they don’t exist?",
+      "translation": "如果有人告诉你外星人是存在的，你会去寻找他们不存在的证据吗？"
+    },
+    {
+      "id": 25,
+      "start": 156.563,
+      "end": 157.92,
+      "text": "Of course not.",
+      "translation": "当然不会。"
+    },
+    {
+      "id": 26,
+      "start": 157.97,
+      "end": 162.05,
+      "text": "You’d tell that person to show you the UFO.",
+      "translation": "相反，你会让那个人 提供不明飞行物存在的证据。"
+    },
+    {
+      "id": 27,
+      "start": 162.1,
+      "end": 167.9,
+      "text": "The same applies when someone makes a claim that contradicts an established consensus.",
+      "translation": "这同样适用于当某人提出与既定共识相抵触的指控。"
+    },
+    {
+      "id": 28,
+      "start": 167.95,
+      "end": 183.02,
+      "text": "So when all the available evidence suggests that humans are causing an increase in global temperatures, the burden of proof has been fulfilled— if you disagree, it becomes your responsibility to prove otherwise.",
+      "translation": "因此，当所有可用的证据表明人类导致了全球变暖，证明的责任就已经被履行了 ——如果你不同意，你便有责任 去证明相反的论点。"
+    },
+    {
+      "id": 29,
+      "start": 183.07,
+      "end": 186.038,
+      "text": "Right?",
+      "translation": "对吧？"
+    },
+    {
+      "id": 30,
+      "start": 186.088,
+      "end": 188.508,
+      "text": "Ah, I’ve gotten ahead of myself.",
+      "translation": "啊，我讲的太超前了。"
+    },
+    {
+      "id": 31,
+      "start": 188.558,
+      "end": 191.048,
+      "text": "You’ll see what I mean soon enough.",
+      "translation": "你很快就会明白我的意思了。"
+    },
+    {
+      "id": 32,
+      "start": 191.098,
+      "end": 205.268,
+      "text": "Anyway, your legal system supposedly recognizes this rule— so what are you all doing here?",
+      "translation": "不管怎样，你们的法律制度 都应该承认这条规则——所以，你们还在这里干嘛？"
+    },
+    {
+      "id": 33,
+      "start": 205.318,
+      "end": 213.02,
+      "text": "\"It’s July 17th, 1950, and the senate subcommittee has officially dismissed all charges against Kenyon.\"",
+      "translation": "“现在是 1950 年 7 月 17 日，参议院小组委员会已经正式 驳回对肯扬的所有指控。”"
+    },
+    {
+      "id": 34,
+      "start": 213.07,
+      "end": 214.86,
+      "text": "As they should!",
+      "translation": "这才是他们应该做的！"
+    },
+    {
+      "id": 35,
+      "start": 214.91,
+      "end": 220.191,
+      "text": "\"It’s 1954, and the senate has formally disciplined McCarthy.\"",
+      "translation": "“现在是 1954 年，参议院 已经正式处分了麦卡锡。”"
+    },
+    {
+      "id": 36,
+      "start": 220.241,
+      "end": 221.665,
+      "text": "Took them long enough!",
+      "translation": "他们拖得太久了！"
+    },
+    {
+      "id": 37,
+      "start": 221.715,
+      "end": 226.775,
+      "text": "\"He will serve out the rest of his term, but will never again be elected to a public office.",
+      "translation": "“他将完成余下的任期，但再也没有资格 被选为公职人员。"
+    },
+    {
+      "id": 38,
+      "start": 226.825,
+      "end": 239.658,
+      "text": "Because of his widespread anti-communist influence, hundreds of people have been incarcerated, and thousands have lost their jobs.\"",
+      "translation": "受其反共言论的广泛影响，数百人已经因此被监禁， 数千人失业。”"
+    },
+    {
+      "id": 39,
+      "start": 239.708,
+      "end": 245.95,
+      "text": "Ah! Look what the communists did!",
+      "translation": "啊！看看共产党人都做了些什么！"
+    }
+  ],
+  "cues": [
+    {
+      "start": 10.703,
+      "text": "Ah, a witch hunt.",
+      "end": 12.789
+    },
+    {
+      "start": 12.839,
+      "text": "Humans are tireless in their pursuit of reason.",
+      "end": 16.419
+    },
+    {
+      "start": 16.469,
+      "text": "\"It’s 1950.",
+      "end": 18.23
+    },
+    {
+      "start": 18.28,
+      "text": "Following threats from the communist governments of the Soviet Union and China,",
+      "end": 22.95
+    },
+    {
+      "start": 23.0,
+      "text": "anti-communist sentiment in the United States is at an all-time high.",
+      "end": 27.832
+    },
+    {
+      "start": 27.882,
+      "text": "Senator Joseph McCarthy claims he has a list of 205 communists in the US",
+      "end": 34.384
+    },
+    {
+      "start": 34.434,
+      "text": "who are influencing government policy.\"",
+      "end": 38.284000000000006
+    },
+    {
+      "start": 38.334,
+      "text": "Didn’t I just change the channel?",
+      "end": 41.364000000000004
+    },
+    {
+      "start": 41.414,
+      "text": "Ah, I see. It’s a different witch hunt.",
+      "end": 44.694
+    },
+    {
+      "start": 44.744,
+      "text": "\"The senate forms a committee to investigate McCarthy’s claims.",
+      "end": 48.314
+    },
+    {
+      "start": 48.364,
+      "text": "McCarthy names his first case:",
+      "end": 50.934000000000005
+    },
+    {
+      "start": 50.984,
+      "text": "against prominent lawyer, judge, and activist Dorothy Kenyon.",
+      "end": 55.834
+    },
+    {
+      "start": 55.884,
+      "text": "He accuses her of membership to 28 organizations that are communist fronts.",
+      "end": 60.963
+    },
+    {
+      "start": 61.013,
+      "text": "Newspapers around the country rush to her defense,",
+      "end": 63.803000000000004
+    },
+    {
+      "start": 63.853,
+      "text": "pointing out her vocally anti-communist record.",
+      "end": 67.433
+    },
+    {
+      "start": 67.483,
+      "text": "The senate committee schedules a hearing anyway,",
+      "end": 70.423
+    },
+    {
+      "start": 70.473,
+      "text": "and she has just five days to prepare.\"",
+      "end": 74.07300000000001
+    },
+    {
+      "start": 74.123,
+      "text": "This is too much.",
+      "end": 76.023
+    },
+    {
+      "start": 76.073,
+      "text": "If the government won’t be a voice of reason, I’ll have to.",
+      "end": 90.018
+    },
+    {
+      "start": 90.068,
+      "text": "That’s better.",
+      "end": 91.536
+    },
+    {
+      "start": 91.586,
+      "text": "I’m surprised you good legislators have agreed to move this hearing forward.",
+      "end": 96.74000000000001
+    },
+    {
+      "start": 96.79,
+      "text": "You’re falling prey to a type of argument from ignorance:",
+      "end": 99.85000000000001
+    },
+    {
+      "start": 99.9,
+      "text": "assuming that a claim is true because it hasn’t been proven false.",
+      "end": 104.265
+    },
+    {
+      "start": 104.315,
+      "text": "The claim being Senator McCarthy’s accusations against Judge Kenyon,",
+      "end": 108.653
+    },
+    {
+      "start": 108.703,
+      "text": "for which he provided no legitimate evidence.",
+      "end": 112.574
+    },
+    {
+      "start": 112.624,
+      "text": "Is that right? I thought so.",
+      "end": 115.804
+    },
+    {
+      "start": 115.854,
+      "text": "Some of the so-called communist organizations he accused her of joining",
+      "end": 120.754
+    },
+    {
+      "start": 120.804,
+      "text": "don’t even exist.",
+      "end": 122.81400000000001
+    },
+    {
+      "start": 122.864,
+      "text": "To assume a claim is true because it hasn’t been proven false",
+      "end": 127.479
+    },
+    {
+      "start": 127.529,
+      "text": "ignores many other possibilities:",
+      "end": 130.029
+    },
+    {
+      "start": 130.079,
+      "text": "that it hasn’t been proven false yet, that it can’t be proven true or false,",
+      "end": 134.88799999999998
+    },
+    {
+      "start": 134.938,
+      "text": "or that it isn’t completely true or completely false, to name a few.",
+      "end": 139.428
+    },
+    {
+      "start": 139.478,
+      "text": "This leads to a handy rule of thumb:",
+      "end": 142.238
+    },
+    {
+      "start": 142.288,
+      "text": "the burden of proof lies with the person making the claim.",
+      "end": 145.82799999999997
+    },
+    {
+      "start": 145.878,
+      "text": "In other words, you make the claim, you supply the proof.",
+      "end": 150.153
+    },
+    {
+      "start": 150.203,
+      "text": "If someone told you aliens exist,",
+      "end": 153.04299999999998
+    },
+    {
+      "start": 153.093,
+      "text": "would you head off to find proof that they don’t exist?",
+      "end": 156.51299999999998
+    },
+    {
+      "start": 156.563,
+      "text": "Of course not.",
+      "end": 157.92
+    },
+    {
+      "start": 157.97,
+      "text": "You’d tell that person to show you the UFO.",
+      "end": 162.04999999999998
+    },
+    {
+      "start": 162.1,
+      "text": "The same applies when someone makes a claim",
+      "end": 164.60999999999999
+    },
+    {
+      "start": 164.66,
+      "text": "that contradicts an established consensus.",
+      "end": 167.89999999999998
+    },
+    {
+      "start": 167.95,
+      "text": "So when all the available evidence suggests",
+      "end": 170.39
+    },
+    {
+      "start": 170.44,
+      "text": "that humans are causing an increase in global temperatures,",
+      "end": 174.07
+    },
+    {
+      "start": 174.12,
+      "text": "the burden of proof has been fulfilled—",
+      "end": 176.63
+    },
+    {
+      "start": 176.68,
+      "text": "if you disagree, it becomes your responsibility to prove otherwise.",
+      "end": 183.01999999999998
+    },
+    {
+      "start": 183.07,
+      "text": "Right?",
+      "end": 186.03799999999998
+    },
+    {
+      "start": 186.088,
+      "text": "Ah, I’ve gotten ahead of myself.",
+      "end": 188.50799999999998
+    },
+    {
+      "start": 188.558,
+      "text": "You’ll see what I mean soon enough.",
+      "end": 191.048
+    },
+    {
+      "start": 191.098,
+      "text": "Anyway, your legal system supposedly recognizes this rule—",
+      "end": 195.677
+    },
+    {
+      "start": 195.727,
+      "text": "so what are you all doing here?",
+      "end": 205.268
+    },
+    {
+      "start": 205.318,
+      "text": "\"It’s July 17th, 1950,",
+      "end": 208.248
+    },
+    {
+      "start": 208.298,
+      "text": "and the senate subcommittee has officially dismissed all charges against Kenyon.\"",
+      "end": 213.01999999999998
+    },
+    {
+      "start": 213.07,
+      "text": "As they should!",
+      "end": 214.85999999999999
+    },
+    {
+      "start": 214.91,
+      "text": "\"It’s 1954, and the senate has formally disciplined McCarthy.\"",
+      "end": 220.191
+    },
+    {
+      "start": 220.241,
+      "text": "Took them long enough!",
+      "end": 221.665
+    },
+    {
+      "start": 221.715,
+      "text": "\"He will serve out the rest of his term,",
+      "end": 223.58499999999998
+    },
+    {
+      "start": 223.635,
+      "text": "but will never again be elected to a public office.",
+      "end": 226.77499999999998
+    },
+    {
+      "start": 226.825,
+      "text": "Because of his widespread anti-communist influence,",
+      "end": 230.11499999999998
+    },
+    {
+      "start": 230.165,
+      "text": "hundreds of people have been incarcerated, and thousands have lost their jobs.\"",
+      "end": 239.658
+    },
+    {
+      "start": 239.708,
+      "text": "Ah! Look what the communists did!",
+      "end": 245.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 10.703,
+      "text": "啊，一场猎巫运动。",
+      "end": 12.789
+    },
+    {
+      "start": 12.839,
+      "text": "人类总是孜孜不倦的找寻 支持猎巫运动的理由。",
+      "end": 16.419
+    },
+    {
+      "start": 16.469,
+      "text": "“现在是1950年。",
+      "end": 18.23
+    },
+    {
+      "start": 18.28,
+      "text": "在苏联和中国共产党的威胁下，",
+      "end": 22.826
+    },
+    {
+      "start": 22.876,
+      "text": "美国的反共情绪空前高涨。",
+      "end": 27.832
+    },
+    {
+      "start": 27.882,
+      "text": "参议员约瑟夫·麦卡锡 (Joseph McCarthy) 称，",
+      "end": 30.008
+    },
+    {
+      "start": 30.058,
+      "text": "他有一份美国 205 名 影响政府政策的共产主义者名单。”",
+      "end": 38.284000000000006
+    },
+    {
+      "start": 38.334,
+      "text": "我不是刚换了频道吗？",
+      "end": 41.364000000000004
+    },
+    {
+      "start": 41.414,
+      "text": "啊，我明白了， 这又是一场猎巫运动。",
+      "end": 44.694
+    },
+    {
+      "start": 44.744,
+      "text": "参议院组成一个委员会 来调查麦卡锡的说法。",
+      "end": 48.314
+    },
+    {
+      "start": 48.364,
+      "text": "麦卡锡举出了他的第一个案件：",
+      "end": 50.934000000000005
+    },
+    {
+      "start": 50.984,
+      "text": "起诉著名律师、法官和活动家 多萝西·肯扬（Dorothy Kenyon）。",
+      "end": 55.834
+    },
+    {
+      "start": 55.884,
+      "text": "麦卡锡指责她是 28 个共产主义战线组织的成员。",
+      "end": 60.963
+    },
+    {
+      "start": 61.013,
+      "text": "全国各地的报纸争相为她辩护，",
+      "end": 63.803000000000004
+    },
+    {
+      "start": 63.853,
+      "text": "指出她过去口头的反共纪录。",
+      "end": 67.433
+    },
+    {
+      "start": 67.483,
+      "text": "参议院委员会无论如何 都会安排听证会，",
+      "end": 70.423
+    },
+    {
+      "start": 70.473,
+      "text": "她只有五天的时间准备。”",
+      "end": 74.07300000000001
+    },
+    {
+      "start": 74.123,
+      "text": "这太过分了。",
+      "end": 76.023
+    },
+    {
+      "start": 76.073,
+      "text": "如果政府不讲道理， 我就得采取行动了。",
+      "end": 90.018
+    },
+    {
+      "start": 90.068,
+      "text": "这样好多了。",
+      "end": 91.536
+    },
+    {
+      "start": 91.586,
+      "text": "我很惊讶你们这些优秀的 立法者同意举行听证会。",
+      "end": 96.74000000000001
+    },
+    {
+      "start": 96.79,
+      "text": "你将成为一种 基于无知论点的牺牲品：",
+      "end": 99.85000000000001
+    },
+    {
+      "start": 99.9,
+      "text": "仅仅因为一个说法还没有被证明 是假的，就假设它是真的。",
+      "end": 104.265
+    },
+    {
+      "start": 104.315,
+      "text": "这项参议员麦卡锡 对肯扬法官的指控中，",
+      "end": 108.653
+    },
+    {
+      "start": 108.703,
+      "text": "参议员麦卡锡并没有提供 任何合理合法的证据。",
+      "end": 112.574
+    },
+    {
+      "start": 112.624,
+      "text": "对吗？我想是的。",
+      "end": 115.804
+    },
+    {
+      "start": 115.854,
+      "text": "麦卡锡指控肯扬加入的 一些所谓的共产主义组织",
+      "end": 120.754
+    },
+    {
+      "start": 120.804,
+      "text": "根本就不存在。",
+      "end": 122.81400000000001
+    },
+    {
+      "start": 122.864,
+      "text": "要假设一个声明是真的， 因为它还没有被证明是假的，",
+      "end": 127.479
+    },
+    {
+      "start": 127.529,
+      "text": "忽略了许多其他潜在的可能性。 让我来举几个例子：",
+      "end": 130.029
+    },
+    {
+      "start": 130.079,
+      "text": "它还没有被证明是假的， 也就是说它不能被证明是真是假，",
+      "end": 134.88799999999998
+    },
+    {
+      "start": 134.938,
+      "text": "或者它并不是完全正确 或完全错误的。",
+      "end": 139.428
+    },
+    {
+      "start": 139.478,
+      "text": "这就引出了一条简便的经验法则：",
+      "end": 142.238
+    },
+    {
+      "start": 142.288,
+      "text": "举证责任在于提出指控的人。",
+      "end": 145.82799999999997
+    },
+    {
+      "start": 145.878,
+      "text": "换句话说，谁主张，谁举证。",
+      "end": 150.153
+    },
+    {
+      "start": 150.203,
+      "text": "如果有人告诉你外星人是存在的，",
+      "end": 153.04299999999998
+    },
+    {
+      "start": 153.093,
+      "text": "你会去寻找他们不存在的证据吗？",
+      "end": 156.51299999999998
+    },
+    {
+      "start": 156.563,
+      "text": "当然不会。",
+      "end": 157.92
+    },
+    {
+      "start": 157.97,
+      "text": "相反，你会让那个人 提供不明飞行物存在的证据。",
+      "end": 162.04999999999998
+    },
+    {
+      "start": 162.1,
+      "text": "这同样适用于当某人",
+      "end": 164.60999999999999
+    },
+    {
+      "start": 164.66,
+      "text": "提出与既定共识相抵触的指控。",
+      "end": 167.89999999999998
+    },
+    {
+      "start": 167.95,
+      "text": "因此，当所有可用的证据表明",
+      "end": 170.39
+    },
+    {
+      "start": 170.44,
+      "text": "人类导致了全球变暖，",
+      "end": 174.07
+    },
+    {
+      "start": 174.12,
+      "text": "证明的责任就已经被履行了 ——",
+      "end": 176.63
+    },
+    {
+      "start": 176.68,
+      "text": "如果你不同意，你便有责任 去证明相反的论点。",
+      "end": 183.01999999999998
+    },
+    {
+      "start": 183.07,
+      "text": "对吧？",
+      "end": 186.03799999999998
+    },
+    {
+      "start": 186.088,
+      "text": "啊，我讲的太超前了。",
+      "end": 188.50799999999998
+    },
+    {
+      "start": 188.558,
+      "text": "你很快就会明白我的意思了。",
+      "end": 191.048
+    },
+    {
+      "start": 191.098,
+      "text": "不管怎样，你们的法律制度 都应该承认这条规则——",
+      "end": 195.677
+    },
+    {
+      "start": 195.727,
+      "text": "所以，你们还在这里干嘛？",
+      "end": 205.268
+    },
+    {
+      "start": 205.318,
+      "text": "“现在是 1950 年 7 月 17 日，",
+      "end": 208.248
+    },
+    {
+      "start": 208.298,
+      "text": "参议院小组委员会已经正式 驳回对肯扬的所有指控。”",
+      "end": 213.01999999999998
+    },
+    {
+      "start": 213.07,
+      "text": "这才是他们应该做的！",
+      "end": 214.85999999999999
+    },
+    {
+      "start": 214.91,
+      "text": "“现在是 1954 年，参议院 已经正式处分了麦卡锡。”",
+      "end": 220.191
+    },
+    {
+      "start": 220.241,
+      "text": "他们拖得太久了！",
+      "end": 221.665
+    },
+    {
+      "start": 221.715,
+      "text": "“他将完成余下的任期，",
+      "end": 223.58499999999998
+    },
+    {
+      "start": 223.635,
+      "text": "但再也没有资格 被选为公职人员。",
+      "end": 226.77499999999998
+    },
+    {
+      "start": 226.825,
+      "text": "受其反共言论的广泛影响，",
+      "end": 230.11499999999998
+    },
+    {
+      "start": 230.165,
+      "text": "数百人已经因此被监禁， 数千人失业。”",
+      "end": 239.658
+    },
+    {
+      "start": 239.708,
+      "text": "啊！看看共产党人都做了些什么！",
+      "end": 245.95
+    }
+  ]
+};

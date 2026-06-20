@@ -1,0 +1,1071 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "How do heat waves affect your body?",
+    "speaker": "Carolyn Beans",
+    "duration": 345,
+    "slug": "carolyn_beans_how_do_heat_waves_affect_your_body",
+    "sourcePage": "https://www.ted.com/talks/carolyn_beans_how_do_heat_waves_affect_your_body",
+    "translationSourcePage": "https://www.ted.com/talks/carolyn_beans_how_do_heat_waves_affect_your_body?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/74/08/003/products/2024e-carolyn-beans-heatwaves-003-fallback-5fb00556-6105-4567-adde-a8c691070258-1200k.mp4",
+    "youtubeId": "fLu080UX25o",
+    "youtubeTitle": "How does extreme heat affect your body? - Carolyn Beans"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.211,
+      "end": 14.627,
+      "text": "The year is 2050 and your morning is not off to a good start.",
+      "translation": "这一年是 2050年，而你的早晨 却不是一个很好的开始。"
+    },
+    {
+      "id": 2,
+      "start": 14.677,
+      "end": 24.137,
+      "text": "School is closed for yet another heat day, meaning the kids need to stay home and the AC needs to stay on.",
+      "translation": "学校又因为高温停课，意味着孩子们得待在家里， 空调也要一直开着。"
+    },
+    {
+      "id": 3,
+      "start": 24.187,
+      "end": 31.519,
+      "text": "Your usual babysitter can’t come help because the rails for their commuter train were warped by the heat.",
+      "translation": "你平常的保姆不能来帮忙，因为高温把她通勤火车的铁轨 都烤变形了。"
+    },
+    {
+      "id": 4,
+      "start": 31.569,
+      "end": 43.781,
+      "text": "And to make matters worse, your dog is desperate for a walk, but the pavement is hot enough to give third degree burns to any paw or person that touches it.",
+      "translation": "更糟糕的是， 你的狗迫切希望散步，但地面热得足以让任何 接触到它的爪子或是行人，烫出三度烧伤。"
+    },
+    {
+      "id": 5,
+      "start": 43.831,
+      "end": 49.829,
+      "text": "In many parts of the world, this sweltering future is already here.",
+      "translation": "在世界的许多地方， 这样炎热的未来已经成为现实。"
+    },
+    {
+      "id": 6,
+      "start": 49.879,
+      "end": 57.628,
+      "text": "On average, heat waves are happening more often with greater intensity and for longer durations.",
+      "translation": "平均而言，热浪发生的频率 越来越高，强度越来越大，持续的时间也越来越长。"
+    },
+    {
+      "id": 7,
+      "start": 57.678,
+      "end": 74.729,
+      "text": "But according to a 2022 projection, by 2050, Earth’s mid-latitudes could be experiencing extreme heat between 90 and 180 days a year, with tropical regions enduring even more.",
+      "translation": "但是根据2022年的预测，到2050年，地球中纬度地区 每年可能会经历90到180天的极端高温，热带地区的高温天数甚至更多。"
+    },
+    {
+      "id": 8,
+      "start": 74.779,
+      "end": 80.234,
+      "text": "So, how hot is too hot, and what can people do to handle the heat?",
+      "translation": "那么到底多热才算太热呢？ 人们该如何应对高温呢？"
+    },
+    {
+      "id": 9,
+      "start": 80.284,
+      "end": 88.493,
+      "text": "While human bodies are decent at managing temperature, our cooling mechanisms only work under the right conditions.",
+      "translation": "虽然人体在调节体温方面还算不错，但我们的散热机制只能在 适当的条件下发挥作用。"
+    },
+    {
+      "id": 10,
+      "start": 88.543,
+      "end": 101.839,
+      "text": "When air temperatures climb, the hypothalamus tells blood vessels near the skin to widen, allowing more blood to flow near the body's surface and release heat.",
+      "translation": "当气温升高时，下丘脑会告诉皮肤附近的血管扩张，让更多的血液流向 人体表面附近并释放热量。"
+    },
+    {
+      "id": 11,
+      "start": 101.889,
+      "end": 106.928,
+      "text": "This hormonal cascade also turns on our sweat glands.",
+      "translation": "这种荷尔蒙级联反应也会 激发我们的汗腺。"
+    },
+    {
+      "id": 12,
+      "start": 106.978,
+      "end": 111.224,
+      "text": "As sweat evaporates, it pulls the heat from our skin.",
+      "translation": "当汗水蒸发时， 它会从皮肤带走热量。"
+    },
+    {
+      "id": 13,
+      "start": 111.274,
+      "end": 117.98,
+      "text": "But if humidity is high, the rate of evaporation slows and eventually stops.",
+      "translation": "但是，如果湿度过高， 蒸发的速度会减慢并最终停止。"
+    },
+    {
+      "id": 14,
+      "start": 118.03,
+      "end": 133.371,
+      "text": "Scientists use this principle to track humidity with a metric called wet-bulb temperature, in which they wrap a wet, room temperature cloth around a thermometer to see if evaporation will lower the reading.",
+      "translation": "科学家们利用这一原理， 采用了一种指标来追踪湿度，把它叫做“湿球温度”。他们用一块常温的湿布包裹温度计，"
+    },
+    {
+      "id": 15,
+      "start": 133.421,
+      "end": 138.709,
+      "text": "If it doesn't, it's too humid for sweat to cool us off.",
+      "translation": "看蒸发是否会降低读数。"
+    },
+    {
+      "id": 16,
+      "start": 138.759,
+      "end": 151.973,
+      "text": "A wet-bulb temperature of roughly 35°C is generally considered the limit of human survival, though current temperatures rarely reach this threshold.",
+      "translation": "如果没有降低，说明湿度太高， 汗水无法帮我们降温。湿球温度大约达到35°C时，会普遍被认为是人类生存的极限，"
+    },
+    {
+      "id": 17,
+      "start": 152.023,
+      "end": 160.815,
+      "text": "The US National Weather Service uses the relationship between humidity and air temperature as the basis for their heat index.",
+      "translation": "尽管目前的气温很少达到这一极限。美国国家气象局使用 湿度和气温之间的关系"
+    },
+    {
+      "id": 18,
+      "start": 160.865,
+      "end": 173.035,
+      "text": "As those two metrics rise, so too does the heat index; and heat is considered dangerous if the index climbs above 39.4°C.",
+      "translation": "作为热指数的基础。当这两个指标上升时， 热指数也会上升；如果指数超过 39.4°C，"
+    },
+    {
+      "id": 19,
+      "start": 173.085,
+      "end": 175.997,
+      "text": "That’s 103°F.",
+      "translation": "就被认为是危险高温。"
+    },
+    {
+      "id": 20,
+      "start": 176.047,
+      "end": 181.169,
+      "text": "But even a lower heat index can be hazardous over multiple days.",
+      "translation": "这相当于 103 华氏度。"
+    },
+    {
+      "id": 21,
+      "start": 181.219,
+      "end": 189.051,
+      "text": "A heat wave is a streak of two or more days of unusually hot weather for a place and season.",
+      "translation": "但即便是较低的热指数，持续多天 也可能是有害的。热浪是指在某地某个季节 连续两天或以上"
+    },
+    {
+      "id": 22,
+      "start": 189.101,
+      "end": 199.395,
+      "text": "For example, a string of 32°C days in Houston, Texas, is standard in the summer, but would constitute a heat wave in March.",
+      "translation": "出现异常高温的天气。例如，在德克萨斯州的休斯顿， 32°C的连续高温在夏季很常见，"
+    },
+    {
+      "id": 23,
+      "start": 199.445,
+      "end": 205.067,
+      "text": "And the impact of these events touches nearly every aspect of daily life.",
+      "translation": "但如果出现在三月， 就是热浪的形成。"
+    },
+    {
+      "id": 24,
+      "start": 205.117,
+      "end": 209.697,
+      "text": "Imagine a June heat wave strikes a tropical city.",
+      "translation": "这些事件的影响几乎涉及到 日常生活的方方面面。"
+    },
+    {
+      "id": 25,
+      "start": 209.747,
+      "end": 213.409,
+      "text": "The first to experience effects are outdoor workers.",
+      "translation": "想象一下，一场六月的热浪 袭击了整个热带城市。"
+    },
+    {
+      "id": 26,
+      "start": 213.459,
+      "end": 220.291,
+      "text": "Their excessive sweating leads to dehydration and muscle pain known as heat cramps.",
+      "translation": "首先感受到影响的是户外工作者。他们出汗过多会 导致脱水和肌肉疼痛，"
+    },
+    {
+      "id": 27,
+      "start": 220.341,
+      "end": 233.888,
+      "text": "If they push on, their conditions could worsen to heat exhaustion and even heat stroke— a life-threatening ailment that occurs when a body’s temperature exceeds 40°C.",
+      "translation": "也就是所谓的热痉挛。如果他们继续扛下去， 情况可能会恶化导致中暑，甚至是热射病 --"
+    },
+    {
+      "id": 28,
+      "start": 233.938,
+      "end": 242.605,
+      "text": "Medical emergency calls spike across the city, often for children and people who are pregnant or elderly.",
+      "translation": "这是一种当人体温度超过 40度时发生的危及生命的疾病。整个城市的医疗紧急电话激增，"
+    },
+    {
+      "id": 29,
+      "start": 242.655,
+      "end": 255.493,
+      "text": "The heat also increases hospital visits for heart, kidney, and lung-related conditions, creating an influx of patients that threatens to overwhelm medical providers.",
+      "translation": "通常是为儿童、孕妇或老人拨打的。高温还会增加因心脏、肾脏和肺部疾病而就诊的人数，"
+    },
+    {
+      "id": 30,
+      "start": 255.543,
+      "end": 259.914,
+      "text": "Over the following week, the city slows to a crawl.",
+      "translation": "从而导致患者大量涌入， 让医务人员不堪重负。"
+    },
+    {
+      "id": 31,
+      "start": 259.964,
+      "end": 263.709,
+      "text": "Schools and construction sites close.",
+      "translation": "在接下来的一周里， 整个城市陷入停滞状态。"
+    },
+    {
+      "id": 32,
+      "start": 263.759,
+      "end": 271.676,
+      "text": "Airplanes need to reduce their weight limits to take off, bumping countless travelers from their flights.",
+      "translation": "学校和建筑工地关闭。飞机必须减少起飞时的重量限制，"
+    },
+    {
+      "id": 33,
+      "start": 271.726,
+      "end": 278.182,
+      "text": "Restaurants shut down as overheated kitchens become unbearable.",
+      "translation": "导致无数旅客被迫取消航班。"
+    },
+    {
+      "id": 34,
+      "start": 278.232,
+      "end": 283.271,
+      "text": "Residents who remain inside with air conditioners stay safe.",
+      "translation": "过热的厨房让人难以忍受， 餐馆纷纷停业。"
+    },
+    {
+      "id": 35,
+      "start": 283.321,
+      "end": 291.946,
+      "text": "But blasting AC isn’t cheap, and many families have to choose between keeping cool and staying fed.",
+      "translation": "在室内使用空调的居民 虽能保持安全，但是老吹空调并不便宜，"
+    },
+    {
+      "id": 36,
+      "start": 291.996,
+      "end": 303.04,
+      "text": "Either way, if the heat continues, the stress of these air conditioners could overwhelm the power grid, potentially leading to city-wide outages.",
+      "translation": "许多家庭不得不在保持凉爽 和维持温饱之间做出选择。无论如何，如果高温持续下去，大量使用空调所致的压力 可能会使电网不堪重负，"
+    },
+    {
+      "id": 37,
+      "start": 303.09,
+      "end": 306.711,
+      "text": "These consequences are all very real.",
+      "translation": "甚至导致全城停电。"
+    },
+    {
+      "id": 38,
+      "start": 306.761,
+      "end": 317.013,
+      "text": "Each year, close to 500,000 people die due to excessive heat, and these extreme conditions are only growing more common.",
+      "translation": "这些后果都是非常真实的。每年有近50万人死于过热，"
+    },
+    {
+      "id": 39,
+      "start": 317.063,
+      "end": 330.651,
+      "text": "We can limit medical impacts by seeking help for heat-related illnesses, staying hydrated, and keeping people cool through public access to water and AC.",
+      "translation": "而这些极端情况 正在变得越来越常见。我们可以通过寻求 与过热相关疾病的帮助、保持水分、"
+    },
+    {
+      "id": 40,
+      "start": 330.701,
+      "end": 336.24,
+      "text": "But don’t let anyone tell you 1 to 2 degrees doesn’t matter.",
+      "translation": "以及通过使用公共供水、空调 让人们保持凉爽来控制疾病的影响。"
+    },
+    {
+      "id": 41,
+      "start": 336.29,
+      "end": 344.95,
+      "text": "It will change our very way of life.",
+      "translation": "但不要让任何人告诉你1到2度的 高温变化无关紧要，"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.211,
+      "text": "The year is 2050 and your morning is not off to a good start.",
+      "end": 14.626999999999999
+    },
+    {
+      "start": 14.677,
+      "text": "School is closed for yet another heat day,",
+      "end": 18.006
+    },
+    {
+      "start": 18.056,
+      "text": "meaning the kids need to stay home and the AC needs to stay on.",
+      "end": 24.137
+    },
+    {
+      "start": 24.187,
+      "text": "Your usual babysitter can’t come help",
+      "end": 26.889
+    },
+    {
+      "start": 26.939,
+      "text": "because the rails for their commuter train were warped by the heat.",
+      "end": 31.519
+    },
+    {
+      "start": 31.569,
+      "text": "And to make matters worse, your dog is desperate for a walk,",
+      "end": 35.356
+    },
+    {
+      "start": 35.406,
+      "text": "but the pavement is hot enough to give third degree burns",
+      "end": 39.527
+    },
+    {
+      "start": 39.577,
+      "text": "to any paw or person that touches it.",
+      "end": 43.781000000000006
+    },
+    {
+      "start": 43.831,
+      "text": "In many parts of the world, this sweltering future is already here.",
+      "end": 49.829
+    },
+    {
+      "start": 49.879,
+      "text": "On average, heat waves are happening more often with greater intensity",
+      "end": 55.376000000000005
+    },
+    {
+      "start": 55.426,
+      "text": "and for longer durations.",
+      "end": 57.628
+    },
+    {
+      "start": 57.678,
+      "text": "But according to a 2022 projection,",
+      "end": 60.506
+    },
+    {
+      "start": 60.556,
+      "text": "by 2050, Earth’s mid-latitudes could be experiencing extreme heat",
+      "end": 67.096
+    },
+    {
+      "start": 67.146,
+      "text": "between 90 and 180 days a year,",
+      "end": 70.683
+    },
+    {
+      "start": 70.733,
+      "text": "with tropical regions enduring even more.",
+      "end": 74.729
+    },
+    {
+      "start": 74.779,
+      "text": "So, how hot is too hot, and what can people do to handle the heat?",
+      "end": 80.23400000000001
+    },
+    {
+      "start": 80.284,
+      "text": "While human bodies are decent at managing temperature,",
+      "end": 83.738
+    },
+    {
+      "start": 83.788,
+      "text": "our cooling mechanisms only work under the right conditions.",
+      "end": 88.49300000000001
+    },
+    {
+      "start": 88.543,
+      "text": "When air temperatures climb,",
+      "end": 90.62
+    },
+    {
+      "start": 90.67,
+      "text": "the hypothalamus tells blood vessels near the skin to widen,",
+      "end": 95.917
+    },
+    {
+      "start": 95.967,
+      "text": "allowing more blood to flow near the body's surface and release heat.",
+      "end": 101.839
+    },
+    {
+      "start": 101.889,
+      "text": "This hormonal cascade also turns on our sweat glands.",
+      "end": 106.928
+    },
+    {
+      "start": 106.978,
+      "text": "As sweat evaporates, it pulls the heat from our skin.",
+      "end": 111.224
+    },
+    {
+      "start": 111.274,
+      "text": "But if humidity is high, the rate of evaporation slows and eventually stops.",
+      "end": 117.98
+    },
+    {
+      "start": 118.03,
+      "text": "Scientists use this principle to track humidity with a metric",
+      "end": 122.485
+    },
+    {
+      "start": 122.535,
+      "text": "called wet-bulb temperature,",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "in which they wrap a wet, room temperature cloth around a thermometer",
+      "end": 130.159
+    },
+    {
+      "start": 130.209,
+      "text": "to see if evaporation will lower the reading.",
+      "end": 133.37099999999998
+    },
+    {
+      "start": 133.421,
+      "text": "If it doesn't, it's too humid for sweat to cool us off.",
+      "end": 138.70899999999997
+    },
+    {
+      "start": 138.759,
+      "text": "A wet-bulb temperature of roughly 35°C",
+      "end": 143.506
+    },
+    {
+      "start": 143.556,
+      "text": "is generally considered the limit of human survival,",
+      "end": 147.426
+    },
+    {
+      "start": 147.476,
+      "text": "though current temperatures rarely reach this threshold.",
+      "end": 151.97299999999998
+    },
+    {
+      "start": 152.023,
+      "text": "The US National Weather Service uses the relationship between humidity",
+      "end": 156.68599999999998
+    },
+    {
+      "start": 156.736,
+      "text": "and air temperature as the basis for their heat index.",
+      "end": 160.815
+    },
+    {
+      "start": 160.865,
+      "text": "As those two metrics rise, so too does the heat index;",
+      "end": 165.486
+    },
+    {
+      "start": 165.536,
+      "text": "and heat is considered dangerous",
+      "end": 167.572
+    },
+    {
+      "start": 167.622,
+      "text": "if the index climbs above 39.4°C.",
+      "end": 173.035
+    },
+    {
+      "start": 173.085,
+      "text": "That’s 103°F.",
+      "end": 175.99699999999999
+    },
+    {
+      "start": 176.047,
+      "text": "But even a lower heat index can be hazardous over multiple days.",
+      "end": 181.16899999999998
+    },
+    {
+      "start": 181.219,
+      "text": "A heat wave is a streak of two or more days of unusually hot weather",
+      "end": 186.96599999999998
+    },
+    {
+      "start": 187.016,
+      "text": "for a place and season.",
+      "end": 189.051
+    },
+    {
+      "start": 189.101,
+      "text": "For example, a string of 32°C days in Houston, Texas,",
+      "end": 194.515
+    },
+    {
+      "start": 194.565,
+      "text": "is standard in the summer,",
+      "end": 196.225
+    },
+    {
+      "start": 196.275,
+      "text": "but would constitute a heat wave in March.",
+      "end": 199.39499999999998
+    },
+    {
+      "start": 199.445,
+      "text": "And the impact of these events touches nearly every aspect of daily life.",
+      "end": 205.06699999999998
+    },
+    {
+      "start": 205.117,
+      "text": "Imagine a June heat wave strikes a tropical city.",
+      "end": 209.697
+    },
+    {
+      "start": 209.747,
+      "text": "The first to experience effects are outdoor workers.",
+      "end": 213.409
+    },
+    {
+      "start": 213.459,
+      "text": "Their excessive sweating leads to dehydration and muscle pain",
+      "end": 218.07999999999998
+    },
+    {
+      "start": 218.13,
+      "text": "known as heat cramps.",
+      "end": 220.291
+    },
+    {
+      "start": 220.341,
+      "text": "If they push on, their conditions could worsen",
+      "end": 223.37699999999998
+    },
+    {
+      "start": 223.427,
+      "text": "to heat exhaustion and even heat stroke—",
+      "end": 226.964
+    },
+    {
+      "start": 227.014,
+      "text": "a life-threatening ailment that occurs when a body’s temperature exceeds 40°C.",
+      "end": 233.88799999999998
+    },
+    {
+      "start": 233.938,
+      "text": "Medical emergency calls spike across the city,",
+      "end": 237.934
+    },
+    {
+      "start": 237.984,
+      "text": "often for children and people who are pregnant or elderly.",
+      "end": 242.605
+    },
+    {
+      "start": 242.655,
+      "text": "The heat also increases hospital visits for heart, kidney,",
+      "end": 247.44299999999998
+    },
+    {
+      "start": 247.493,
+      "text": "and lung-related conditions,",
+      "end": 249.57
+    },
+    {
+      "start": 249.62,
+      "text": "creating an influx of patients that threatens to overwhelm medical providers.",
+      "end": 255.493
+    },
+    {
+      "start": 255.543,
+      "text": "Over the following week, the city slows to a crawl.",
+      "end": 259.914
+    },
+    {
+      "start": 259.964,
+      "text": "Schools and construction sites close.",
+      "end": 263.709
+    },
+    {
+      "start": 263.759,
+      "text": "Airplanes need to reduce their weight limits to take off,",
+      "end": 268.005
+    },
+    {
+      "start": 268.055,
+      "text": "bumping countless travelers from their flights.",
+      "end": 271.676
+    },
+    {
+      "start": 271.726,
+      "text": "Restaurants shut down as overheated kitchens become unbearable.",
+      "end": 278.182
+    },
+    {
+      "start": 278.232,
+      "text": "Residents who remain inside with air conditioners stay safe.",
+      "end": 283.271
+    },
+    {
+      "start": 283.321,
+      "text": "But blasting AC isn’t cheap,",
+      "end": 286.48199999999997
+    },
+    {
+      "start": 286.532,
+      "text": "and many families have to choose between keeping cool and staying fed.",
+      "end": 291.94599999999997
+    },
+    {
+      "start": 291.996,
+      "text": "Either way, if the heat continues,",
+      "end": 294.657
+    },
+    {
+      "start": 294.707,
+      "text": "the stress of these air conditioners could overwhelm the power grid,",
+      "end": 299.078
+    },
+    {
+      "start": 299.128,
+      "text": "potentially leading to city-wide outages.",
+      "end": 303.03999999999996
+    },
+    {
+      "start": 303.09,
+      "text": "These consequences are all very real.",
+      "end": 306.711
+    },
+    {
+      "start": 306.761,
+      "text": "Each year, close to 500,000 people die due to excessive heat,",
+      "end": 312.633
+    },
+    {
+      "start": 312.683,
+      "text": "and these extreme conditions are only growing more common.",
+      "end": 317.013
+    },
+    {
+      "start": 317.063,
+      "text": "We can limit medical impacts by seeking help for heat-related illnesses,",
+      "end": 323.185
+    },
+    {
+      "start": 323.235,
+      "text": "staying hydrated,",
+      "end": 324.603
+    },
+    {
+      "start": 324.653,
+      "text": "and keeping people cool through public access to water and AC.",
+      "end": 330.651
+    },
+    {
+      "start": 330.701,
+      "text": "But don’t let anyone tell you 1 to 2 degrees doesn’t matter.",
+      "end": 336.24
+    },
+    {
+      "start": 336.29,
+      "text": "It will change our very way of life.",
+      "end": 344.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.211,
+      "text": "这一年是 2050年，而你的早晨 却不是一个很好的开始。",
+      "end": 14.626999999999999
+    },
+    {
+      "start": 14.677,
+      "text": "学校又因为高温停课，",
+      "end": 18.006
+    },
+    {
+      "start": 18.056,
+      "text": "意味着孩子们得待在家里， 空调也要一直开着。",
+      "end": 24.137
+    },
+    {
+      "start": 24.187,
+      "text": "你平常的保姆不能来帮忙，",
+      "end": 26.889
+    },
+    {
+      "start": 26.939,
+      "text": "因为高温把她通勤火车的铁轨 都烤变形了。",
+      "end": 31.519
+    },
+    {
+      "start": 31.569,
+      "text": "更糟糕的是， 你的狗迫切希望散步，",
+      "end": 35.356
+    },
+    {
+      "start": 35.406,
+      "text": "但地面热得足以让任何 接触到它的爪子",
+      "end": 39.527
+    },
+    {
+      "start": 39.577,
+      "text": "或是行人，烫出三度烧伤。",
+      "end": 43.781000000000006
+    },
+    {
+      "start": 43.831,
+      "text": "在世界的许多地方， 这样炎热的未来已经成为现实。",
+      "end": 49.829
+    },
+    {
+      "start": 49.879,
+      "text": "平均而言，热浪发生的频率 越来越高，强度越来越大，",
+      "end": 55.376000000000005
+    },
+    {
+      "start": 55.426,
+      "text": "持续的时间也越来越长。",
+      "end": 57.628
+    },
+    {
+      "start": 57.678,
+      "text": "但是根据2022年的预测，",
+      "end": 60.506
+    },
+    {
+      "start": 60.556,
+      "text": "到2050年，地球中纬度地区 每年可能会经历",
+      "end": 67.096
+    },
+    {
+      "start": 67.146,
+      "text": "90到180天的极端高温，",
+      "end": 70.683
+    },
+    {
+      "start": 70.733,
+      "text": "热带地区的高温天数甚至更多。",
+      "end": 74.729
+    },
+    {
+      "start": 74.779,
+      "text": "那么到底多热才算太热呢？ 人们该如何应对高温呢？",
+      "end": 80.23400000000001
+    },
+    {
+      "start": 80.284,
+      "text": "虽然人体在调节体温方面还算不错，",
+      "end": 83.738
+    },
+    {
+      "start": 83.788,
+      "text": "但我们的散热机制只能在 适当的条件下发挥作用。",
+      "end": 88.49300000000001
+    },
+    {
+      "start": 88.543,
+      "text": "当气温升高时，",
+      "end": 90.62
+    },
+    {
+      "start": 90.67,
+      "text": "下丘脑会告诉皮肤附近的血管扩张，",
+      "end": 95.917
+    },
+    {
+      "start": 95.967,
+      "text": "让更多的血液流向 人体表面附近并释放热量。",
+      "end": 101.839
+    },
+    {
+      "start": 101.889,
+      "text": "这种荷尔蒙级联反应也会 激发我们的汗腺。",
+      "end": 106.928
+    },
+    {
+      "start": 106.978,
+      "text": "当汗水蒸发时， 它会从皮肤带走热量。",
+      "end": 111.224
+    },
+    {
+      "start": 111.274,
+      "text": "但是，如果湿度过高， 蒸发的速度会减慢并最终停止。",
+      "end": 117.98
+    },
+    {
+      "start": 118.03,
+      "text": "科学家们利用这一原理， 采用了一种指标来追踪湿度，",
+      "end": 122.485
+    },
+    {
+      "start": 122.535,
+      "text": "把它叫做“湿球温度”。",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "他们用一块常温的湿布",
+      "end": 127.782
+    },
+    {
+      "start": 127.832,
+      "text": "包裹温度计，",
+      "end": 130.159
+    },
+    {
+      "start": 130.209,
+      "text": "看蒸发是否会降低读数。",
+      "end": 133.37099999999998
+    },
+    {
+      "start": 133.421,
+      "text": "如果没有降低，说明湿度太高， 汗水无法帮我们降温。",
+      "end": 138.70899999999997
+    },
+    {
+      "start": 138.759,
+      "text": "湿球温度大约达到35°C时，",
+      "end": 143.506
+    },
+    {
+      "start": 143.556,
+      "text": "会普遍被认为是人类生存的极限，",
+      "end": 147.426
+    },
+    {
+      "start": 147.476,
+      "text": "尽管目前的气温很少达到这一极限。",
+      "end": 151.97299999999998
+    },
+    {
+      "start": 152.023,
+      "text": "美国国家气象局使用 湿度和气温之间的关系",
+      "end": 156.68599999999998
+    },
+    {
+      "start": 156.736,
+      "text": "作为热指数的基础。",
+      "end": 160.815
+    },
+    {
+      "start": 160.865,
+      "text": "当这两个指标上升时， 热指数也会上升；",
+      "end": 165.486
+    },
+    {
+      "start": 165.536,
+      "text": "如果指数超过 39.4°C，",
+      "end": 167.572
+    },
+    {
+      "start": 167.622,
+      "text": "就被认为是危险高温。",
+      "end": 173.035
+    },
+    {
+      "start": 173.085,
+      "text": "这相当于 103 华氏度。",
+      "end": 175.99699999999999
+    },
+    {
+      "start": 176.047,
+      "text": "但即便是较低的热指数，持续多天 也可能是有害的。",
+      "end": 181.16899999999998
+    },
+    {
+      "start": 181.219,
+      "text": "热浪是指在某地某个季节 连续两天或以上",
+      "end": 186.96599999999998
+    },
+    {
+      "start": 187.016,
+      "text": "出现异常高温的天气。",
+      "end": 189.051
+    },
+    {
+      "start": 189.101,
+      "text": "例如，在德克萨斯州的休斯顿， 32°C的连续高温",
+      "end": 194.515
+    },
+    {
+      "start": 194.565,
+      "text": "在夏季很常见，",
+      "end": 196.225
+    },
+    {
+      "start": 196.275,
+      "text": "但如果出现在三月， 就是热浪的形成。",
+      "end": 199.39499999999998
+    },
+    {
+      "start": 199.445,
+      "text": "这些事件的影响几乎涉及到 日常生活的方方面面。",
+      "end": 205.06699999999998
+    },
+    {
+      "start": 205.117,
+      "text": "想象一下，一场六月的热浪 袭击了整个热带城市。",
+      "end": 209.697
+    },
+    {
+      "start": 209.747,
+      "text": "首先感受到影响的是户外工作者。",
+      "end": 213.409
+    },
+    {
+      "start": 213.459,
+      "text": "他们出汗过多会 导致脱水和肌肉疼痛，",
+      "end": 218.07999999999998
+    },
+    {
+      "start": 218.13,
+      "text": "也就是所谓的热痉挛。",
+      "end": 220.291
+    },
+    {
+      "start": 220.341,
+      "text": "如果他们继续扛下去， 情况可能会恶化",
+      "end": 223.37699999999998
+    },
+    {
+      "start": 223.427,
+      "text": "导致中暑，甚至是热射病 --",
+      "end": 226.964
+    },
+    {
+      "start": 227.014,
+      "text": "这是一种当人体温度超过 40度时发生的危及生命的疾病。",
+      "end": 233.88799999999998
+    },
+    {
+      "start": 233.938,
+      "text": "整个城市的医疗紧急电话激增，",
+      "end": 237.934
+    },
+    {
+      "start": 237.984,
+      "text": "通常是为儿童、孕妇或老人拨打的。",
+      "end": 242.605
+    },
+    {
+      "start": 242.655,
+      "text": "高温还会增加因心脏、肾脏",
+      "end": 247.44299999999998
+    },
+    {
+      "start": 247.493,
+      "text": "和肺部疾病而就诊的人数，",
+      "end": 249.57
+    },
+    {
+      "start": 249.62,
+      "text": "从而导致患者大量涌入， 让医务人员不堪重负。",
+      "end": 255.493
+    },
+    {
+      "start": 255.543,
+      "text": "在接下来的一周里， 整个城市陷入停滞状态。",
+      "end": 259.914
+    },
+    {
+      "start": 259.964,
+      "text": "学校和建筑工地关闭。",
+      "end": 263.709
+    },
+    {
+      "start": 263.759,
+      "text": "飞机必须减少起飞时的重量限制，",
+      "end": 268.005
+    },
+    {
+      "start": 268.055,
+      "text": "导致无数旅客被迫取消航班。",
+      "end": 271.676
+    },
+    {
+      "start": 271.726,
+      "text": "过热的厨房让人难以忍受， 餐馆纷纷停业。",
+      "end": 278.182
+    },
+    {
+      "start": 278.232,
+      "text": "在室内使用空调的居民 虽能保持安全，",
+      "end": 283.271
+    },
+    {
+      "start": 283.321,
+      "text": "但是老吹空调并不便宜，",
+      "end": 286.48199999999997
+    },
+    {
+      "start": 286.532,
+      "text": "许多家庭不得不在保持凉爽 和维持温饱之间做出选择。",
+      "end": 291.94599999999997
+    },
+    {
+      "start": 291.996,
+      "text": "无论如何，如果高温持续下去，",
+      "end": 294.657
+    },
+    {
+      "start": 294.707,
+      "text": "大量使用空调所致的压力 可能会使电网不堪重负，",
+      "end": 299.078
+    },
+    {
+      "start": 299.128,
+      "text": "甚至导致全城停电。",
+      "end": 303.03999999999996
+    },
+    {
+      "start": 303.09,
+      "text": "这些后果都是非常真实的。",
+      "end": 306.711
+    },
+    {
+      "start": 306.761,
+      "text": "每年有近50万人死于过热，",
+      "end": 312.633
+    },
+    {
+      "start": 312.683,
+      "text": "而这些极端情况 正在变得越来越常见。",
+      "end": 317.013
+    },
+    {
+      "start": 317.063,
+      "text": "我们可以通过寻求 与过热相关疾病的帮助、",
+      "end": 323.185
+    },
+    {
+      "start": 323.235,
+      "text": "保持水分、",
+      "end": 324.603
+    },
+    {
+      "start": 324.653,
+      "text": "以及通过使用公共供水、空调 让人们保持凉爽来控制疾病的影响。",
+      "end": 330.651
+    },
+    {
+      "start": 330.701,
+      "text": "但不要让任何人告诉你1到2度的 高温变化无关紧要，",
+      "end": 336.24
+    },
+    {
+      "start": 336.29,
+      "text": "它会彻底改变我们的生活方式。",
+      "end": 344.95
+    }
+  ]
+};

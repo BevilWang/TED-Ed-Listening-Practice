@@ -1,0 +1,860 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Can you outsmart the fallacy that divided a nation?",
+    "speaker": "Elizabeth Cox",
+    "duration": 261,
+    "slug": "elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation",
+    "sourcePage": "https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation",
+    "translationSourcePage": "https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/58/34/001/products/2020e-elizabeth-cox-middle-ground-fallacy-001-fallback-062b995b5f8265c4d2063320fb2d5dd8-1200k.mp4",
+    "youtubeId": "lmf6bWl-Hco",
+    "youtubeTitle": "Can you outsmart the fallacy that divided a nation? - Elizabeth Cox"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 10.173,
+      "end": 19.841,
+      "text": "What, you want my milkshake? Here.",
+      "translation": "什么，你想要我的奶昔？给。"
+    },
+    {
+      "id": 2,
+      "start": 19.891,
+      "end": 21.759,
+      "text": "“It’s 1819.",
+      "translation": "“1819 年，"
+    },
+    {
+      "id": 3,
+      "start": 21.809,
+      "end": 30.518,
+      "text": "As the United States Congress prepares to make Missouri the 24th state in the Union, Representative James Tallmage Jr. delivers a speech.",
+      "translation": "在美国国会准备让密苏里成为联邦的第 24 个州时，众议员小詹姆斯·塔尔梅格 （James Tallmage Jr.）发表了演讲。"
+    },
+    {
+      "id": 4,
+      "start": 30.568,
+      "end": 37.442,
+      "text": "He says slavery is morally wrong, calling it an ‘abomination’ and a ‘monstrous scourge.’",
+      "translation": "他说奴隶制在道德上是错误的，是‘可憎的东西’， ‘巨大的灾祸’。"
+    },
+    {
+      "id": 5,
+      "start": 37.492,
+      "end": 47.035,
+      "text": "He insists that ‘the extension of the evil must now be prevented,’ and that slavery shouldn’t be allowed in Missouri, or any new state.”",
+      "translation": "他认为‘现在必须 防止邪恶的蔓延，’不能允许密苏里或任何 新加入的州实行奴隶制。”"
+    },
+    {
+      "id": 6,
+      "start": 47.085,
+      "end": 48.995,
+      "text": "Obviously.",
+      "translation": "当然。"
+    },
+    {
+      "id": 7,
+      "start": 49.045,
+      "end": 51.539,
+      "text": "“Representative Tyler disagrees.",
+      "translation": "“众议员泰勒不同意。"
+    },
+    {
+      "id": 8,
+      "start": 51.589,
+      "end": 55.96,
+      "text": "He believes it is a state’s right to choose whether or not to allow slavery.",
+      "translation": "他认为是否允许奴隶制存在 是州政府自己的权利。"
+    },
+    {
+      "id": 9,
+      "start": 56.01,
+      "end": 61.34,
+      "text": "He doesn’t think the federal government can prohibit slavery in any newly added states.”",
+      "translation": "联邦政府不能要求任何新加入的州禁止奴隶制。”"
+    },
+    {
+      "id": 10,
+      "start": 61.39,
+      "end": 62.8,
+      "text": "Whaaaaat?",
+      "translation": "什么？"
+    },
+    {
+      "id": 11,
+      "start": 62.85,
+      "end": 70.516,
+      "text": "“Senator Thomas proposes what he sees as a compromise: Missouri will join the union along with another state, Maine.",
+      "translation": "“参议员托马斯提出了一个 他认为折中的做法：密苏里将和缅因州一同加入联邦。"
+    },
+    {
+      "id": 12,
+      "start": 70.566,
+      "end": 74.02,
+      "text": "Slavery will be allowed in Missouri and prohibited in Maine.",
+      "translation": "在密苏里州允许奴隶制， 而在缅因州则禁止奴隶制。"
+    },
+    {
+      "id": 13,
+      "start": 74.07,
+      "end": 83.404,
+      "text": "He also suggests drawing a line through territories yet to become states: slavery will be prohibited north of the line, and allowed south of it.”",
+      "translation": "他还提议在尚未加入联邦的州 中间画一条分界线：界线以北的地区禁止奴隶制， 界线以南的地区允许奴隶制。”"
+    },
+    {
+      "id": 14,
+      "start": 83.454,
+      "end": 99.128,
+      "text": "And this is where <i>I</i> have to draw the line.",
+      "translation": "我必须得来划清界线了。"
+    },
+    {
+      "id": 15,
+      "start": 99.178,
+      "end": 100.922,
+      "text": "That’s better.",
+      "translation": "这样好多了。"
+    },
+    {
+      "id": 16,
+      "start": 100.972,
+      "end": 110.765,
+      "text": "Now, senators, congressmen, this Missouri compromise you are proposing is fundamentally flawed— flawed is putting it mildly.",
+      "translation": "参议员们，国会议员们。你们提出的密苏里妥协案 本质上存在缺陷，说它有缺陷未免太轻了。"
+    },
+    {
+      "id": 17,
+      "start": 110.815,
+      "end": 114.185,
+      "text": "The compromise is based on the middle ground fallacy.",
+      "translation": "妥协案基于中间立场谬误。"
+    },
+    {
+      "id": 18,
+      "start": 114.235,
+      "end": 127.49,
+      "text": "By saying that half of the new territories should allow slavery while half prohibit it, you position the two viewpoints, pro-slavery and anti-slavery, as equally valid.",
+      "translation": "通过让一半新领地允许奴隶制，另一半禁止奴隶制，你们把支持和反对奴隶制这两种观点定性为同样合理。"
+    },
+    {
+      "id": 19,
+      "start": 127.54,
+      "end": 134.497,
+      "text": "But if one view is wrong, while the other is right, a compromise between them is still wrong.",
+      "translation": "但如果一种观点是错误的， 与之相对的另一种观点是正确的，那么这两种观点的折中还是错误的。"
+    },
+    {
+      "id": 20,
+      "start": 134.547,
+      "end": 140.545,
+      "text": "And one side is definitely wrong here: the pro-slavery side.",
+      "translation": "在这个问题上有一方无疑是错误的： 支持奴隶制的一方。"
+    },
+    {
+      "id": 21,
+      "start": 140.595,
+      "end": 148.01,
+      "text": "The whole reason this government exists, the whole reason states exist at all, is to serve the people.",
+      "translation": "政府和州存在的全部意义就是为人民服务。"
+    },
+    {
+      "id": 22,
+      "start": 148.06,
+      "end": 151.556,
+      "text": "That should include all people.",
+      "translation": "人民应该包括所有的人种。"
+    },
+    {
+      "id": 23,
+      "start": 151.606,
+      "end": 158.771,
+      "text": "Now, I know there are those among you who would argue otherwise, even among those in favor of ending slavery.",
+      "translation": "我知道你们有人持不同看法，甚至支持废除奴隶制的人也是如此。"
+    },
+    {
+      "id": 24,
+      "start": 158.821,
+      "end": 171.659,
+      "text": "In response to your many contorted arguments, all of them wrong, I offer this reminder: the idea that slavery is morally indefensible is not new to you.",
+      "translation": "针对你们许多扭曲的论点， 它们全都大错特错，我提醒你们：奴隶制在道德上是立不住脚的， 这个说法你们不是第一次听说吧。"
+    },
+    {
+      "id": 25,
+      "start": 171.709,
+      "end": 180.042,
+      "text": "The founders of your country knew it and many even acknowledged it publicly, even those of them who enslaved other people themselves.",
+      "translation": "你们国家的创立者们认同， 许多甚至公开承认过。甚至他们中有的人自己就蓄养奴隶。"
+    },
+    {
+      "id": 26,
+      "start": 180.092,
+      "end": 194.599,
+      "text": "It’s clear that the errors and delusions on this subject go far beyond the middle ground fallacy, but I call your attention to this particular fallacy because it can have dire consequences in many situations.",
+      "translation": "很明显，在此问题上的错误和谬见，远远超过了中间立场谬误的界限。但我提醒你们特别注意这个谬误，是因为它在许多情况下 可能导致特别可怕的后果。"
+    },
+    {
+      "id": 27,
+      "start": 194.649,
+      "end": 209.238,
+      "text": "Failure to recognize the fact that a compromise between two positions, one of which is morally indefensible, is also morally indefensible, has helped to perpetuate countless injustices large and small.",
+      "translation": "两种观点之一在道德上立不住脚，那么这两种观点折中后的结果 同样在道德上立不住脚。不能认清这一点助长了 无数大大小小的不公正事件。"
+    },
+    {
+      "id": 28,
+      "start": 209.288,
+      "end": 224.879,
+      "text": "Even well-intentioned people— which rest assured, I don’t mistake you for— fall prey to this fallacy, because you humans tend to view compromise as a virtue unto itself.",
+      "translation": "即使好心的人—— 放心吧，我不会错把你们归入其中—— 也会沦为这种谬误的受害者，这是因为你们人类 将折中本身看作一种美德。"
+    },
+    {
+      "id": 29,
+      "start": 224.929,
+      "end": 226.923,
+      "text": "“It’s March 1861.",
+      "translation": "“1861年3月，"
+    },
+    {
+      "id": 30,
+      "start": 226.973,
+      "end": 231.51,
+      "text": "Seven states have seceded from the Union since Abraham Lincoln was elected president.",
+      "translation": "自从亚伯拉罕·林肯当选总统，已经有七个州脱离了联邦。"
+    },
+    {
+      "id": 31,
+      "start": 231.56,
+      "end": 243.814,
+      "text": "As Lincoln takes office with four more states threatening to leave, he promises not to interfere with slavery in states where it exists, but to prohibit its expansion into new territories and states.”",
+      "translation": "当林肯正式就任， 又有四个州威胁脱离联邦。林肯保证不干涉现存的蓄奴州，但禁止奴隶制扩张到新的州。”"
+    },
+    {
+      "id": 32,
+      "start": 243.864,
+      "end": 249.111,
+      "text": "“It’s April 1861, and a Civil War has broken out over slavery.”",
+      "translation": "“1861年4月，一场由奴隶制 引发的美国内战爆发。”"
+    },
+    {
+      "id": 33,
+      "start": 249.161,
+      "end": 260.95,
+      "text": "Some things can't be resolved with a compromise.",
+      "translation": "有些事情靠妥协折中是不能解决的。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 10.173,
+      "text": "What, you want my milkshake? Here.",
+      "end": 19.840999999999998
+    },
+    {
+      "start": 19.891,
+      "text": "“It’s 1819.",
+      "end": 21.759
+    },
+    {
+      "start": 21.809,
+      "text": "As the United States Congress prepares to make Missouri",
+      "end": 24.637
+    },
+    {
+      "start": 24.687,
+      "text": "the 24th state in the Union,",
+      "end": 26.596999999999998
+    },
+    {
+      "start": 26.647,
+      "text": "Representative James Tallmage Jr. delivers a speech.",
+      "end": 30.518
+    },
+    {
+      "start": 30.568,
+      "text": "He says slavery is morally wrong,",
+      "end": 33.021
+    },
+    {
+      "start": 33.071,
+      "text": "calling it an ‘abomination’ and a ‘monstrous scourge.’",
+      "end": 37.442
+    },
+    {
+      "start": 37.492,
+      "text": "He insists that ‘the extension of the evil must now be prevented,’",
+      "end": 42.03
+    },
+    {
+      "start": 42.08,
+      "text": "and that slavery shouldn’t be allowed in Missouri, or any new state.”",
+      "end": 47.035000000000004
+    },
+    {
+      "start": 47.085,
+      "text": "Obviously.",
+      "end": 48.995000000000005
+    },
+    {
+      "start": 49.045,
+      "text": "“Representative Tyler disagrees.",
+      "end": 51.539
+    },
+    {
+      "start": 51.589,
+      "text": "He believes it is a state’s right to choose whether or not to allow slavery.",
+      "end": 55.96
+    },
+    {
+      "start": 56.01,
+      "text": "He doesn’t think the federal government can prohibit slavery",
+      "end": 58.796
+    },
+    {
+      "start": 58.846,
+      "text": "in any newly added states.”",
+      "end": 61.34
+    },
+    {
+      "start": 61.39,
+      "text": "Whaaaaat?",
+      "end": 62.800000000000004
+    },
+    {
+      "start": 62.85,
+      "text": "“Senator Thomas proposes what he sees as a compromise:",
+      "end": 66.554
+    },
+    {
+      "start": 66.604,
+      "text": "Missouri will join the union along with another state, Maine.",
+      "end": 70.516
+    },
+    {
+      "start": 70.566,
+      "text": "Slavery will be allowed in Missouri and prohibited in Maine.",
+      "end": 74.02
+    },
+    {
+      "start": 74.07,
+      "text": "He also suggests drawing a line through territories yet to become states:",
+      "end": 78.566
+    },
+    {
+      "start": 78.616,
+      "text": "slavery will be prohibited north of the line, and allowed south of it.”",
+      "end": 83.404
+    },
+    {
+      "start": 83.454,
+      "text": "And this is where <i>I</i> have to draw the line.",
+      "end": 99.128
+    },
+    {
+      "start": 99.178,
+      "text": "That’s better.",
+      "end": 100.922
+    },
+    {
+      "start": 100.972,
+      "text": "Now, senators, congressmen,",
+      "end": 103.382
+    },
+    {
+      "start": 103.432,
+      "text": "this Missouri compromise you are proposing is fundamentally flawed—",
+      "end": 108.096
+    },
+    {
+      "start": 108.146,
+      "text": "flawed is putting it mildly.",
+      "end": 110.765
+    },
+    {
+      "start": 110.815,
+      "text": "The compromise is based on the middle ground fallacy.",
+      "end": 114.185
+    },
+    {
+      "start": 114.235,
+      "text": "By saying that half of the new territories should allow slavery",
+      "end": 118.35600000000001
+    },
+    {
+      "start": 118.406,
+      "text": "while half prohibit it,",
+      "end": 120.274
+    },
+    {
+      "start": 120.324,
+      "text": "you position the two viewpoints, pro-slavery and anti-slavery,",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "as equally valid.",
+      "end": 127.49000000000001
+    },
+    {
+      "start": 127.54,
+      "text": "But if one view is wrong, while the other is right,",
+      "end": 130.701
+    },
+    {
+      "start": 130.751,
+      "text": "a compromise between them is still wrong.",
+      "end": 134.49699999999999
+    },
+    {
+      "start": 134.547,
+      "text": "And one side is definitely wrong here: the pro-slavery side.",
+      "end": 140.545
+    },
+    {
+      "start": 140.595,
+      "text": "The whole reason this government exists,",
+      "end": 143.131
+    },
+    {
+      "start": 143.181,
+      "text": "the whole reason states exist at all, is to serve the people.",
+      "end": 148.01
+    },
+    {
+      "start": 148.06,
+      "text": "That should include all people.",
+      "end": 151.55599999999998
+    },
+    {
+      "start": 151.606,
+      "text": "Now, I know there are those among you who would argue otherwise,",
+      "end": 155.601
+    },
+    {
+      "start": 155.651,
+      "text": "even among those in favor of ending slavery.",
+      "end": 158.771
+    },
+    {
+      "start": 158.821,
+      "text": "In response to your many contorted arguments, all of them wrong,",
+      "end": 163.06699999999998
+    },
+    {
+      "start": 163.117,
+      "text": "I offer this reminder:",
+      "end": 165.57
+    },
+    {
+      "start": 165.62,
+      "text": "the idea that slavery is morally indefensible is not new to you.",
+      "end": 171.659
+    },
+    {
+      "start": 171.709,
+      "text": "The founders of your country knew it and many even acknowledged it publicly,",
+      "end": 176.37199999999999
+    },
+    {
+      "start": 176.422,
+      "text": "even those of them who enslaved other people themselves.",
+      "end": 180.042
+    },
+    {
+      "start": 180.092,
+      "text": "It’s clear that the errors and delusions on this subject",
+      "end": 183.337
+    },
+    {
+      "start": 183.387,
+      "text": "go far beyond the middle ground fallacy,",
+      "end": 186.50699999999998
+    },
+    {
+      "start": 186.557,
+      "text": "but I call your attention to this particular fallacy",
+      "end": 190.178
+    },
+    {
+      "start": 190.228,
+      "text": "because it can have dire consequences in many situations.",
+      "end": 194.599
+    },
+    {
+      "start": 194.649,
+      "text": "Failure to recognize the fact that a compromise between two positions,",
+      "end": 199.35299999999998
+    },
+    {
+      "start": 199.403,
+      "text": "one of which is morally indefensible, is also morally indefensible,",
+      "end": 205.19299999999998
+    },
+    {
+      "start": 205.243,
+      "text": "has helped to perpetuate countless injustices large and small.",
+      "end": 209.238
+    },
+    {
+      "start": 209.288,
+      "text": "Even well-intentioned people— which rest assured,",
+      "end": 212.617
+    },
+    {
+      "start": 212.667,
+      "text": "I don’t mistake you for— fall prey to this fallacy,",
+      "end": 217.12099999999998
+    },
+    {
+      "start": 217.171,
+      "text": "because you humans tend to view compromise as a virtue unto itself.",
+      "end": 224.879
+    },
+    {
+      "start": 224.929,
+      "text": "“It’s March 1861.",
+      "end": 226.923
+    },
+    {
+      "start": 226.973,
+      "text": "Seven states have seceded from the Union",
+      "end": 228.84099999999998
+    },
+    {
+      "start": 228.891,
+      "text": "since Abraham Lincoln was elected president.",
+      "end": 231.51
+    },
+    {
+      "start": 231.56,
+      "text": "As Lincoln takes office with four more states threatening to leave,",
+      "end": 235.05599999999998
+    },
+    {
+      "start": 235.106,
+      "text": "he promises not to interfere with slavery in states where it exists,",
+      "end": 239.143
+    },
+    {
+      "start": 239.193,
+      "text": "but to prohibit its expansion into new territories and states.”",
+      "end": 243.814
+    },
+    {
+      "start": 243.864,
+      "text": "“It’s April 1861, and a Civil War has broken out over slavery.”",
+      "end": 249.111
+    },
+    {
+      "start": 249.161,
+      "text": "Some things can't be resolved with a compromise.",
+      "end": 260.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 10.173,
+      "text": "什么，你想要我的奶昔？给。",
+      "end": 19.840999999999998
+    },
+    {
+      "start": 19.891,
+      "text": "“1819 年，",
+      "end": 21.759
+    },
+    {
+      "start": 21.809,
+      "text": "在美国国会准备让密苏里",
+      "end": 24.637
+    },
+    {
+      "start": 24.687,
+      "text": "成为联邦的第 24 个州时，",
+      "end": 26.596999999999998
+    },
+    {
+      "start": 26.647,
+      "text": "众议员小詹姆斯·塔尔梅格 （James Tallmage Jr.）发表了演讲。",
+      "end": 30.518
+    },
+    {
+      "start": 30.568,
+      "text": "他说奴隶制在道德上是错误的，",
+      "end": 33.021
+    },
+    {
+      "start": 33.071,
+      "text": "是‘可憎的东西’， ‘巨大的灾祸’。",
+      "end": 37.442
+    },
+    {
+      "start": 37.492,
+      "text": "他认为‘现在必须 防止邪恶的蔓延，’",
+      "end": 42.03
+    },
+    {
+      "start": 42.08,
+      "text": "不能允许密苏里或任何 新加入的州实行奴隶制。”",
+      "end": 47.035000000000004
+    },
+    {
+      "start": 47.085,
+      "text": "当然。",
+      "end": 48.995000000000005
+    },
+    {
+      "start": 49.045,
+      "text": "“众议员泰勒不同意。",
+      "end": 51.539
+    },
+    {
+      "start": 51.589,
+      "text": "他认为是否允许奴隶制存在 是州政府自己的权利。",
+      "end": 55.96
+    },
+    {
+      "start": 56.01,
+      "text": "联邦政府不能要求任何新加入的州",
+      "end": 58.796
+    },
+    {
+      "start": 58.846,
+      "text": "禁止奴隶制。”",
+      "end": 61.34
+    },
+    {
+      "start": 61.39,
+      "text": "什么？",
+      "end": 62.800000000000004
+    },
+    {
+      "start": 62.85,
+      "text": "“参议员托马斯提出了一个 他认为折中的做法：",
+      "end": 66.554
+    },
+    {
+      "start": 66.604,
+      "text": "密苏里将和缅因州一同加入联邦。",
+      "end": 70.516
+    },
+    {
+      "start": 70.566,
+      "text": "在密苏里州允许奴隶制， 而在缅因州则禁止奴隶制。",
+      "end": 74.02
+    },
+    {
+      "start": 74.07,
+      "text": "他还提议在尚未加入联邦的州 中间画一条分界线：",
+      "end": 78.566
+    },
+    {
+      "start": 78.616,
+      "text": "界线以北的地区禁止奴隶制， 界线以南的地区允许奴隶制。”",
+      "end": 83.404
+    },
+    {
+      "start": 83.454,
+      "text": "我必须得来划清界线了。",
+      "end": 99.128
+    },
+    {
+      "start": 99.178,
+      "text": "这样好多了。",
+      "end": 100.922
+    },
+    {
+      "start": 100.972,
+      "text": "参议员们，国会议员们。",
+      "end": 103.382
+    },
+    {
+      "start": 103.432,
+      "text": "你们提出的密苏里妥协案 本质上存在缺陷，",
+      "end": 108.096
+    },
+    {
+      "start": 108.146,
+      "text": "说它有缺陷未免太轻了。",
+      "end": 110.765
+    },
+    {
+      "start": 110.815,
+      "text": "妥协案基于中间立场谬误。",
+      "end": 114.185
+    },
+    {
+      "start": 114.235,
+      "text": "通过让一半新领地允许奴隶制，",
+      "end": 118.35600000000001
+    },
+    {
+      "start": 118.406,
+      "text": "另一半禁止奴隶制，",
+      "end": 120.274
+    },
+    {
+      "start": 120.324,
+      "text": "你们把支持和反对奴隶制这两种观点",
+      "end": 125.53
+    },
+    {
+      "start": 125.58,
+      "text": "定性为同样合理。",
+      "end": 127.49000000000001
+    },
+    {
+      "start": 127.54,
+      "text": "但如果一种观点是错误的， 与之相对的另一种观点是正确的，",
+      "end": 130.701
+    },
+    {
+      "start": 130.751,
+      "text": "那么这两种观点的折中还是错误的。",
+      "end": 134.49699999999999
+    },
+    {
+      "start": 134.547,
+      "text": "在这个问题上有一方无疑是错误的： 支持奴隶制的一方。",
+      "end": 140.545
+    },
+    {
+      "start": 140.595,
+      "text": "政府和州存在的全部意义",
+      "end": 143.131
+    },
+    {
+      "start": 143.181,
+      "text": "就是为人民服务。",
+      "end": 148.01
+    },
+    {
+      "start": 148.06,
+      "text": "人民应该包括所有的人种。",
+      "end": 151.55599999999998
+    },
+    {
+      "start": 151.606,
+      "text": "我知道你们有人持不同看法，",
+      "end": 155.601
+    },
+    {
+      "start": 155.651,
+      "text": "甚至支持废除奴隶制的人也是如此。",
+      "end": 158.771
+    },
+    {
+      "start": 158.821,
+      "text": "针对你们许多扭曲的论点， 它们全都大错特错，",
+      "end": 163.06699999999998
+    },
+    {
+      "start": 163.117,
+      "text": "我提醒你们：",
+      "end": 165.57
+    },
+    {
+      "start": 165.62,
+      "text": "奴隶制在道德上是立不住脚的， 这个说法你们不是第一次听说吧。",
+      "end": 171.659
+    },
+    {
+      "start": 171.709,
+      "text": "你们国家的创立者们认同， 许多甚至公开承认过。",
+      "end": 176.37199999999999
+    },
+    {
+      "start": 176.422,
+      "text": "甚至他们中有的人自己就蓄养奴隶。",
+      "end": 180.042
+    },
+    {
+      "start": 180.092,
+      "text": "很明显，在此问题上的错误和谬见，",
+      "end": 183.337
+    },
+    {
+      "start": 183.387,
+      "text": "远远超过了中间立场谬误的界限。",
+      "end": 186.50699999999998
+    },
+    {
+      "start": 186.557,
+      "text": "但我提醒你们特别注意这个谬误，",
+      "end": 190.178
+    },
+    {
+      "start": 190.228,
+      "text": "是因为它在许多情况下 可能导致特别可怕的后果。",
+      "end": 194.599
+    },
+    {
+      "start": 194.649,
+      "text": "两种观点之一在道德上立不住脚，",
+      "end": 199.35299999999998
+    },
+    {
+      "start": 199.403,
+      "text": "那么这两种观点折中后的结果 同样在道德上立不住脚。",
+      "end": 205.19299999999998
+    },
+    {
+      "start": 205.243,
+      "text": "不能认清这一点助长了 无数大大小小的不公正事件。",
+      "end": 209.238
+    },
+    {
+      "start": 209.288,
+      "text": "即使好心的人—— 放心吧，",
+      "end": 212.617
+    },
+    {
+      "start": 212.667,
+      "text": "我不会错把你们归入其中—— 也会沦为这种谬误的受害者，",
+      "end": 217.12099999999998
+    },
+    {
+      "start": 217.171,
+      "text": "这是因为你们人类 将折中本身看作一种美德。",
+      "end": 224.879
+    },
+    {
+      "start": 224.929,
+      "text": "“1861年3月，",
+      "end": 226.923
+    },
+    {
+      "start": 226.973,
+      "text": "自从亚伯拉罕·林肯当选总统，",
+      "end": 228.84099999999998
+    },
+    {
+      "start": 228.891,
+      "text": "已经有七个州脱离了联邦。",
+      "end": 231.51
+    },
+    {
+      "start": 231.56,
+      "text": "当林肯正式就任， 又有四个州威胁脱离联邦。",
+      "end": 235.05599999999998
+    },
+    {
+      "start": 235.106,
+      "text": "林肯保证不干涉现存的蓄奴州，",
+      "end": 239.143
+    },
+    {
+      "start": 239.193,
+      "text": "但禁止奴隶制扩张到新的州。”",
+      "end": 243.814
+    },
+    {
+      "start": 243.864,
+      "text": "“1861年4月，一场由奴隶制 引发的美国内战爆发。”",
+      "end": 249.111
+    },
+    {
+      "start": 249.161,
+      "text": "有些事情靠妥协折中是不能解决的。",
+      "end": 260.95
+    }
+  ]
+};

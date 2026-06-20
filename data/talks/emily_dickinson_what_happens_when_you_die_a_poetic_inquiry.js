@@ -1,0 +1,327 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "What happens when you die? A poetic inquiry",
+    "speaker": "Emily Dickinson",
+    "duration": 137,
+    "slug": "emily_dickinson_what_happens_when_you_die_a_poetic_inquiry",
+    "sourcePage": "https://www.ted.com/talks/emily_dickinson_what_happens_when_you_die_a_poetic_inquiry",
+    "translationSourcePage": "https://www.ted.com/talks/emily_dickinson_what_happens_when_you_die_a_poetic_inquiry?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/52/95/003/products/2019e-emily-dickinson-the-chariot-003-fallback-2aaf4fdc35bedb288d68df1b71bcd9e8-1200k.mp4",
+    "youtubeId": "4eGFMw3U1ts",
+    "youtubeTitle": "What happens when you die? A poetic inquiry"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 0.767,
+      "end": 3.646,
+      "text": "Take a ride in Emily Dickinson's chariot.",
+      "translation": "让我们登上埃米莉·狄更生 (Emily Dickinson) 的马车，"
+    },
+    {
+      "id": 2,
+      "start": 3.696,
+      "end": 7.985,
+      "text": "But beware... there's no turning back.",
+      "translation": "不过请当心，"
+    },
+    {
+      "id": 3,
+      "start": 8.035,
+      "end": 49.024,
+      "text": "\"Because I could not stop for Death\" by Emily Dickinson Because I could not stop for Death – He kindly stopped for me – The Carriage held but just Ourselves – And Immortality.",
+      "translation": "此路可一去不返。《因为我不能为死亡停下脚步》作者：埃米莉·狄更生"
+    },
+    {
+      "id": 4,
+      "start": 49.074,
+      "end": 136.95,
+      "text": "We slowly drove – He knew no haste And I had put away My labor and my leisure too, For His Civility – We passed the School, where Children strove At Recess – in the Ring – We passed the Fields of Gazing Grain – We passed the Setting Sun – Or rather – He passed Us – The Dews drew quivering and Chill – For only Gossamer, my Gown – My Tippet – only Tulle – We paused before a House that seemed A Swelling of the Ground – The Roof was scarcely visible – The Cornice – in the Ground – Since then – 'tis Centuries – and yet Feels shorter than the Day I first surmised the Horses' Heads Were toward Eternity –",
+      "translation": "（马蹄声）(马嘶声）因为我不能为死亡停下脚步——他为我停下，友善和气——（关门声）（马嘶声）马车只载着我俩——还有永生。我们驱车慢行——他知道不急；而我已放下工作，也放下了闲暇，"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.767,
+      "text": "Take a ride in Emily Dickinson's chariot.",
+      "end": 3.6460000000000004
+    },
+    {
+      "start": 3.696,
+      "text": "But beware... there's no turning back.",
+      "end": 7.985
+    },
+    {
+      "start": 8.035,
+      "text": "\"Because I could not stop for Death\" by Emily Dickinson",
+      "end": 24.968
+    },
+    {
+      "start": 25.018,
+      "text": "Because I could not stop for Death – He kindly stopped for me –",
+      "end": 43.228
+    },
+    {
+      "start": 43.278,
+      "text": "The Carriage held but just Ourselves – And Immortality.",
+      "end": 49.024
+    },
+    {
+      "start": 49.074,
+      "text": "We slowly drove – He knew no haste And I had put away",
+      "end": 55.120000000000005
+    },
+    {
+      "start": 55.17,
+      "text": "My labor and my leisure too, For His Civility –",
+      "end": 60.823
+    },
+    {
+      "start": 60.873,
+      "text": "We passed the School, where Children strove",
+      "end": 64.523
+    },
+    {
+      "start": 64.573,
+      "text": "At Recess – in the Ring – We passed the Fields of Gazing Grain –",
+      "end": 71.352
+    },
+    {
+      "start": 71.402,
+      "text": "We passed the Setting Sun –",
+      "end": 74.941
+    },
+    {
+      "start": 74.991,
+      "text": "Or rather – He passed Us – The Dews drew quivering and Chill –",
+      "end": 82.501
+    },
+    {
+      "start": 82.551,
+      "text": "For only Gossamer, my Gown – My Tippet – only Tulle –",
+      "end": 89.51
+    },
+    {
+      "start": 89.56,
+      "text": "We paused before a House that seemed A Swelling of the Ground –",
+      "end": 95.554
+    },
+    {
+      "start": 95.604,
+      "text": "The Roof was scarcely visible – The Cornice – in the Ground –",
+      "end": 116.153
+    },
+    {
+      "start": 116.203,
+      "text": "Since then – 'tis Centuries – and yet Feels shorter than the Day",
+      "end": 123.137
+    },
+    {
+      "start": 123.187,
+      "text": "I first surmised the Horses' Heads Were toward Eternity –",
+      "end": 136.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 0.746,
+      "text": "让我们登上埃米莉·狄更生 (Emily Dickinson) 的马车，",
+      "end": 3.821
+    },
+    {
+      "start": 3.871,
+      "text": "不过请当心，",
+      "end": 5.238
+    },
+    {
+      "start": 5.288,
+      "text": "此路可一去不返。",
+      "end": 7.988
+    },
+    {
+      "start": 8.038,
+      "text": "《因为我不能为死亡停下脚步》",
+      "end": 11.071
+    },
+    {
+      "start": 11.121,
+      "text": "作者：埃米莉·狄更生",
+      "end": 15.738
+    },
+    {
+      "start": 15.788,
+      "text": "（马蹄声）",
+      "end": 20.904
+    },
+    {
+      "start": 20.954,
+      "text": "(马嘶声）",
+      "end": 25.029
+    },
+    {
+      "start": 25.079,
+      "text": "因为我不能为死亡停下脚步——",
+      "end": 27.738
+    },
+    {
+      "start": 27.788,
+      "text": "他为我停下，友善和气——",
+      "end": 40.821000000000005
+    },
+    {
+      "start": 40.871,
+      "text": "（关门声）（马嘶声）",
+      "end": 43.321000000000005
+    },
+    {
+      "start": 43.371,
+      "text": "马车只载着我俩——",
+      "end": 46.737
+    },
+    {
+      "start": 46.787,
+      "text": "还有永生。",
+      "end": 49.112
+    },
+    {
+      "start": 49.162,
+      "text": "我们驱车慢行——",
+      "end": 51.112
+    },
+    {
+      "start": 51.162,
+      "text": "他知道不急；",
+      "end": 52.737
+    },
+    {
+      "start": 52.787,
+      "text": "而我已放下工作，",
+      "end": 56.529
+    },
+    {
+      "start": 56.579,
+      "text": "也放下了闲暇，",
+      "end": 58.487
+    },
+    {
+      "start": 58.537,
+      "text": "缘他彬彬有礼——",
+      "end": 60.821000000000005
+    },
+    {
+      "start": 60.871,
+      "text": "我们经过一所学校，",
+      "end": 63.196000000000005
+    },
+    {
+      "start": 63.246,
+      "text": "正值课间休息——",
+      "end": 65.946
+    },
+    {
+      "start": 65.996,
+      "text": "孩子们围圈游戏——",
+      "end": 67.946
+    },
+    {
+      "start": 67.996,
+      "text": "我们经过谷穗闪光的田野——",
+      "end": 71.529
+    },
+    {
+      "start": 71.579,
+      "text": "我们经过徐徐落日——",
+      "end": 74.946
+    },
+    {
+      "start": 74.996,
+      "text": "或者确切地说——",
+      "end": 76.279
+    },
+    {
+      "start": 76.329,
+      "text": "落日路过了我们——",
+      "end": 78.404
+    },
+    {
+      "start": 78.454,
+      "text": "露珠瑟瑟，",
+      "end": 80.613
+    },
+    {
+      "start": 80.663,
+      "text": "寒意来袭——",
+      "end": 82.613
+    },
+    {
+      "start": 82.663,
+      "text": "我的长袍，只是薄纱——",
+      "end": 85.196
+    },
+    {
+      "start": 85.246,
+      "text": "我的披肩，仅是绢网——",
+      "end": 89.613
+    },
+    {
+      "start": 89.663,
+      "text": "我们在一座房前止步，",
+      "end": 91.863
+    },
+    {
+      "start": 91.913,
+      "text": "它像地里凸起的鼓包——",
+      "end": 95.613
+    },
+    {
+      "start": 95.663,
+      "text": "屋顶几乎不可见——",
+      "end": 98.904
+    },
+    {
+      "start": 98.954,
+      "text": "屋檐——埋入土里——",
+      "end": 104.113
+    },
+    {
+      "start": 104.163,
+      "text": "（马嘶声）",
+      "end": 116.154
+    },
+    {
+      "start": 116.204,
+      "text": "自那以后——",
+      "end": 117.863
+    },
+    {
+      "start": 117.913,
+      "text": "多个世纪过去——",
+      "end": 119.613
+    },
+    {
+      "start": 119.663,
+      "text": "却感觉",
+      "end": 120.821
+    },
+    {
+      "start": 120.871,
+      "text": "不及一天漫长，",
+      "end": 123.279
+    },
+    {
+      "start": 123.329,
+      "text": "那天我第一次发现",
+      "end": 125.488
+    },
+    {
+      "start": 125.538,
+      "text": "马车",
+      "end": 127.196
+    },
+    {
+      "start": 127.246,
+      "text": "在驶向永恒——",
+      "end": 136.95
+    }
+  ]
+};

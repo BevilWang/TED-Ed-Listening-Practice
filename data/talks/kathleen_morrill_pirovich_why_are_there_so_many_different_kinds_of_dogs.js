@@ -1,0 +1,950 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Why are there so many different kinds of dogs?",
+    "speaker": "Kathleen Morrill Pirovich",
+    "duration": 284,
+    "slug": "kathleen_morrill_pirovich_why_are_there_so_many_different_kinds_of_dogs",
+    "sourcePage": "https://www.ted.com/talks/kathleen_morrill_pirovich_why_are_there_so_many_different_kinds_of_dogs",
+    "translationSourcePage": "https://www.ted.com/talks/kathleen_morrill_pirovich_why_are_there_so_many_different_kinds_of_dogs?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/82/39/002/products/2024e-kathleen-morrill-pirovich-dog-breeds-002-fallback-d56fecb2-f74a-4c9c-a5e8-ffdcb66c0576-1200k.mp4",
+    "youtubeId": "ikxGwImO5sc",
+    "youtubeTitle": "Why are there so many different kinds of dogs? - Kathleen Morrill Pirovich"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.003,
+      "end": 13.584,
+      "text": "In the 1500s, there was a little dog called turnspit whose job was to roast meat.",
+      "translation": "在十六世纪,有一种叫做转叉犬的小狗，它们的工作是烤肉。"
+    },
+    {
+      "id": 2,
+      "start": 13.634,
+      "end": 20.675,
+      "text": "The dog was a widespread kitchen attendant until the mid-1800s, when new tech took the breed's trade.",
+      "translation": "这种狗曾是常见的厨房帮手， 直到十九世纪中期，新技术取代了它们的工作。"
+    },
+    {
+      "id": 3,
+      "start": 20.725,
+      "end": 26.848,
+      "text": "The turnspit was just one of a vast constellation of dog breeds, past and present.",
+      "translation": "转叉犬只是过去和现在 众多犬种中的一种。狗极多样的形态"
+    },
+    {
+      "id": 4,
+      "start": 26.898,
+      "end": 36.232,
+      "text": "The immense physical variety of dogs makes them among the world’s most diverse species, and likely the one with the greatest range in size.",
+      "translation": "使它们成为世界上最多样化的物种之一，也大概是体型差异最大的物种。比如，一只博美犬可能重两千克，"
+    },
+    {
+      "id": 5,
+      "start": 36.282,
+      "end": 43.865,
+      "text": "A Pomeranian, for example, might weigh two kilograms, while a Mastiff could tip the scale to 100.",
+      "translation": "而一只英国獒犬 可能重达 100 千克。那么，这是为什么呢？ 狗的品种到底意味着什么？"
+    },
+    {
+      "id": 6,
+      "start": 43.915,
+      "end": 45.533,
+      "text": "So, why is this?",
+      "translation": "所有狗都是古狼的后裔，"
+    },
+    {
+      "id": 7,
+      "start": 45.583,
+      "end": 49.62,
+      "text": "And what does a dog’s breed actually say about them?",
+      "translation": "这些狼至少在 15,000 年前 就开始生活在人类周围。"
+    },
+    {
+      "id": 8,
+      "start": 49.67,
+      "end": 56.21,
+      "text": "All dogs descend from ancient wolves that started living around humans at least 15,000 years ago.",
+      "translation": "经过数千年的演变， 狗是第一个被驯化的物种。据信，随着时间的推移， 人类开始依赖狗来完成特定的任务，"
+    },
+    {
+      "id": 9,
+      "start": 56.26,
+      "end": 61.632,
+      "text": "Dogs are the first domesticated species, by a landslide of thousands of years.",
+      "translation": "并为特定的特征有选择地繁殖它们，"
+    },
+    {
+      "id": 10,
+      "start": 61.682,
+      "end": 74.479,
+      "text": "Over time, it's thought that humans began relying on dogs for specific tasks and selectively breeding them for particular traits, fueling the dramatic diversification of dogs planet-wide.",
+      "translation": "这使全球范围内狗的差异更为巨大。到 11,000 年前， 它们已经呈现出各种各样的外貌。最终，在维多利亚时代的英国， 正式的犬种繁殖开始兴起。"
+    },
+    {
+      "id": 11,
+      "start": 74.529,
+      "end": 79.358,
+      "text": "By 11,000 years ago, they’d already assumed an array of appearances.",
+      "translation": "人们不再为了突显功能给狗配种，"
+    },
+    {
+      "id": 12,
+      "start": 79.408,
+      "end": 84.072,
+      "text": "And finally, formalized dog breeding took off in Victorian England.",
+      "translation": "而是选择性地让狗近亲繁殖以获得"
+    },
+    {
+      "id": 13,
+      "start": 84.122,
+      "end": 94.707,
+      "text": "Instead of mating dogs to emphasize their function, people selectively inbred dogs to achieve particular features and established overarching breed standards.",
+      "translation": "特定的特征，达到既定的整体品种标准。尽管保持特定的遗传线和特征 对养犬俱乐部很重要，但品种遗传学是复杂的。"
+    },
+    {
+      "id": 14,
+      "start": 94.757,
+      "end": 102.799,
+      "text": "But while maintaining specific lines of inheritance and characteristics is important to kennel clubs, breed genetics are complex.",
+      "translation": "在一项研究中，科学家测定了 不同犬种的基因序列，发现了 10 个主要的犬类，它们大致 与其世系历史上的工作角色一致——从指示和驱赶到追踪气味和衔回。"
+    },
+    {
+      "id": 15,
+      "start": 102.849,
+      "end": 117.313,
+      "text": "In one study where scientists sequenced the genomes of different dog breeds, 10 major groups emerged that roughly aligned with the lineage’s historic working role— from pointing and flushing to scent-tracking and retrieving.",
+      "translation": "科学家可能能够识别 不同品种显著的基因特征，但很难弄清楚这些基因特征 究竟是如何塑造定义品种的特征的。解析狗的品种在多大程度上 影响了它们的性格尤其如此，因为狗的性格是由它们 在一系列场景中一致的行为所定义的。"
+    },
+    {
+      "id": 16,
+      "start": 117.363,
+      "end": 129.575,
+      "text": "Within different breeds, scientists may be able to identify distinct genetic signatures, but it's difficult to untangle how those genetic signatures actually shape breed-defining traits.",
+      "translation": "在一项研究中，研究人员比较了 许多不同狗的基因数据，他们发现一只狗约 9% 的 性格特征归因于它的品种。该研究中一些最具遗传性的特征似乎源于长期存在的， 也表现在狼身上的掠食行为。"
+    },
+    {
+      "id": 17,
+      "start": 129.625,
+      "end": 142.296,
+      "text": "This is especially true when it comes to parsing how much a dog’s breed informs their personality, as defined by their consistent behaviors across a range of scenarios.",
+      "translation": "这可以从边境牧羊犬如何用眼睛追踪， 金毛寻回犬如何追逐抓咬中看出。其他特征似乎也在这一过程中根深蒂固。例如，像葡萄牙水犬这样的品种 往往感觉把自己弄湿特别舒服；"
+    },
+    {
+      "id": 18,
+      "start": 142.346,
+      "end": 153.766,
+      "text": "When researchers in one study compared the genetic data from many different dogs, they found about 9% of a dog’s personality traits were attributed specifically to its breed.",
+      "translation": "寻回犬有取回物品的天赋；而对于哈士奇、雪橇犬和 猎犬之类的狗，长嚎似乎是一种习惯。狗对人类指令的反应能力是另一个 按品种划分最具遗传性的行为特征，边境牧羊犬表现突出。"
+    },
+    {
+      "id": 19,
+      "start": 153.816,
+      "end": 162.567,
+      "text": "Some of the traits in the study that were most heritable seemed to be derived from long-standing predatory behaviors also exhibited in wolves.",
+      "translation": "其他行为，包括排便前转圈，以及是否容易被激怒或有攻击性，似乎不是非常有品种特异性。"
+    },
+    {
+      "id": 20,
+      "start": 162.617,
+      "end": 169.24,
+      "text": "This is seen in how border collies stalk with their eyes, and how golden retrievers chase and grab-bite.",
+      "translation": "因此，尽管人们普遍认为 斗牛犬更具攻击性，这项研究使人们对这个名声产生了怀疑。"
+    },
+    {
+      "id": 21,
+      "start": 169.29,
+      "end": 172.91,
+      "text": "And other traits also seem to have gotten ingrained along the way.",
+      "translation": "玩具品种的确似乎更加独立， 没那么喜欢与其他狗交往，"
+    },
+    {
+      "id": 22,
+      "start": 172.96,
+      "end": 188.759,
+      "text": "For example, breeds like Portuguese water dogs do tend to be especially comfortable getting wet; retrievers have an aptitude for fetch; and for dogs like huskies, malamutes, and hounds, howling seems habitual.",
+      "translation": "但可能是非遗传因素在起作用。例如，较小的狗可能 不大会主动与其他狗玩耍，因为它们体型小或是如何被社会化的，不一定是因为它们的基因 如何连接它们大脑的。同一项研究发现，除品种外，"
+    },
+    {
+      "id": 23,
+      "start": 188.809,
+      "end": 197.977,
+      "text": "How well a dog responds to human direction was another of the most heritable behavioral traits by breed, with border collies standing out.",
+      "translation": "一只狗的性格由基因决定的不到 25％。因此，遗传有起作用，但绝不是一切。服务犬繁殖项目也说明了这一点，"
+    },
+    {
+      "id": 24,
+      "start": 198.027,
+      "end": 207.403,
+      "text": "Other behaviors— including circling before pooping, and how easily provoked or aggressive a dog is— don’t appear to be super breed-specific.",
+      "translation": "这些项目根据狗的性情来繁殖特定的狗。这产生了很多适合服务的狗，但由于个体差异，有些仍然不符合要求。"
+    },
+    {
+      "id": 25,
+      "start": 207.453,
+      "end": 216.829,
+      "text": "So, while pit bull terriers are widely considered to be more aggressive dogs, this research casts doubt on their reputation.",
+      "translation": "尽管人类对犬类特征进行了大量研究，但狗的行为是由基因和环境 复杂混合塑造的。"
+    },
+    {
+      "id": 26,
+      "start": 216.879,
+      "end": 224.462,
+      "text": "Toy breeds did appear to be more independent and less sociable with other dogs, but non-genetic factors could be at work.",
+      "translation": "这项研究使人们对这个名声产生了怀疑。玩具品种的确似乎更加独立， 没那么喜欢与其他狗交往，但可能是非遗传因素在起作用。例如，较小的狗可能 不大会主动与其他狗玩耍，"
+    },
+    {
+      "id": 27,
+      "start": 224.512,
+      "end": 237.058,
+      "text": "For example, smaller dogs might not initiate much play with other dogs because they're small or how they're socialized, and not necessarily due to how their genes wire their brains.",
+      "translation": "但可能是非遗传因素在起作用。例如，较小的狗可能 不大会主动与其他狗玩耍，因为它们体型小或是如何被社会化的，不一定是因为它们的基因 如何连接它们大脑的。同一项研究发现，除品种外，"
+    },
+    {
+      "id": 28,
+      "start": 237.108,
+      "end": 246.442,
+      "text": "The same study found that, beyond breed, less than 25% of a dog's personality was accounted for by their genes.",
+      "translation": "不一定是因为它们的基因 如何连接它们大脑的。同一项研究发现，除品种外，一只狗的性格由基因决定的不到 25％。因此，遗传有起作用，但绝不是一切。"
+    },
+    {
+      "id": 29,
+      "start": 246.492,
+      "end": 251.155,
+      "text": "So, genetics play a role, but they’re not nearly everything.",
+      "translation": "一只狗的性格由基因决定的不到 25％。因此，遗传有起作用，但绝不是一切。服务犬繁殖项目也说明了这一点，"
+    },
+    {
+      "id": 30,
+      "start": 251.205,
+      "end": 258.704,
+      "text": "This is also illustrated in service dog breeding programs, which deliberately breed certain dogs based on their temperament.",
+      "translation": "因此，遗传有起作用，但绝不是一切。服务犬繁殖项目也说明了这一点，这些项目根据狗的性情来繁殖特定的狗。这产生了很多适合服务的狗，"
+    },
+    {
+      "id": 31,
+      "start": 258.754,
+      "end": 266.587,
+      "text": "This yields lots of dogs suited for service— but because of individual variation, some still don't make the cut.",
+      "translation": "这些项目根据狗的性情来繁殖特定的狗。这产生了很多适合服务的狗，但由于个体差异，有些仍然不符合要求。尽管人类对犬类特征进行了大量研究，"
+    },
+    {
+      "id": 32,
+      "start": 266.637,
+      "end": 276.18,
+      "text": "As much as humans have heavily tinkered with canine characteristics, dog behavior is shaped by a complex mix of their genes and environment.",
+      "translation": "但由于个体差异，有些仍然不符合要求。尽管人类对犬类特征进行了大量研究，但狗的行为是由基因和环境 复杂混合塑造的。"
+    },
+    {
+      "id": 33,
+      "start": 276.23,
+      "end": 283.95,
+      "text": "And breed alone appears to be a pretty poor proxy for all that makes up the personality of a given pup.",
+      "translation": "但狗的行为是由基因和环境 复杂混合塑造的。鉴于所有这些影响因素，仅凭品种 来判定某只小狗的性格似乎很不可靠。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.003,
+      "text": "In the 1500s, there was a little dog called turnspit",
+      "end": 10.956999999999999
+    },
+    {
+      "start": 11.007,
+      "text": "whose job was to roast meat.",
+      "end": 13.584
+    },
+    {
+      "start": 13.634,
+      "text": "The dog was a widespread kitchen attendant until the mid-1800s,",
+      "end": 17.547
+    },
+    {
+      "start": 17.597,
+      "text": "when new tech took the breed's trade.",
+      "end": 20.675
+    },
+    {
+      "start": 20.725,
+      "text": "The turnspit was just one of a vast constellation of dog breeds,",
+      "end": 24.721
+    },
+    {
+      "start": 24.771,
+      "text": "past and present.",
+      "end": 26.848
+    },
+    {
+      "start": 26.898,
+      "text": "The immense physical variety of dogs",
+      "end": 29.017
+    },
+    {
+      "start": 29.067,
+      "text": "makes them among the world’s most diverse species,",
+      "end": 32.645
+    },
+    {
+      "start": 32.695,
+      "text": "and likely the one with the greatest range in size.",
+      "end": 36.232
+    },
+    {
+      "start": 36.282,
+      "text": "A Pomeranian, for example, might weigh two kilograms,",
+      "end": 39.944
+    },
+    {
+      "start": 39.994,
+      "text": "while a Mastiff could tip the scale to 100.",
+      "end": 43.865
+    },
+    {
+      "start": 43.915,
+      "text": "So, why is this?",
+      "end": 45.533
+    },
+    {
+      "start": 45.583,
+      "text": "And what does a dog’s breed actually say about them?",
+      "end": 49.620000000000005
+    },
+    {
+      "start": 49.67,
+      "text": "All dogs descend from ancient wolves",
+      "end": 51.748000000000005
+    },
+    {
+      "start": 51.798,
+      "text": "that started living around humans at least 15,000 years ago.",
+      "end": 56.21
+    },
+    {
+      "start": 56.26,
+      "text": "Dogs are the first domesticated species, by a landslide of thousands of years.",
+      "end": 61.632000000000005
+    },
+    {
+      "start": 61.682,
+      "text": "Over time, it's thought that humans began relying on dogs for specific tasks",
+      "end": 66.596
+    },
+    {
+      "start": 66.646,
+      "text": "and selectively breeding them for particular traits,",
+      "end": 69.891
+    },
+    {
+      "start": 69.941,
+      "text": "fueling the dramatic diversification of dogs planet-wide.",
+      "end": 74.479
+    },
+    {
+      "start": 74.529,
+      "text": "By 11,000 years ago, they’d already assumed an array of appearances.",
+      "end": 79.358
+    },
+    {
+      "start": 79.408,
+      "text": "And finally, formalized dog breeding took off in Victorian England.",
+      "end": 84.072
+    },
+    {
+      "start": 84.122,
+      "text": "Instead of mating dogs to emphasize their function,",
+      "end": 86.949
+    },
+    {
+      "start": 86.999,
+      "text": "people selectively inbred dogs to achieve particular features",
+      "end": 91.287
+    },
+    {
+      "start": 91.337,
+      "text": "and established overarching breed standards.",
+      "end": 94.70700000000001
+    },
+    {
+      "start": 94.757,
+      "text": "But while maintaining specific lines of inheritance and characteristics",
+      "end": 98.294
+    },
+    {
+      "start": 98.344,
+      "text": "is important to kennel clubs,",
+      "end": 100.21300000000001
+    },
+    {
+      "start": 100.263,
+      "text": "breed genetics are complex.",
+      "end": 102.799
+    },
+    {
+      "start": 102.849,
+      "text": "In one study where scientists sequenced the genomes of different dog breeds,",
+      "end": 107.345
+    },
+    {
+      "start": 107.395,
+      "text": "10 major groups emerged that roughly aligned",
+      "end": 110.056
+    },
+    {
+      "start": 110.106,
+      "text": "with the lineage’s historic working role—",
+      "end": 113.226
+    },
+    {
+      "start": 113.276,
+      "text": "from pointing and flushing to scent-tracking and retrieving.",
+      "end": 117.313
+    },
+    {
+      "start": 117.363,
+      "text": "Within different breeds,",
+      "end": 118.523
+    },
+    {
+      "start": 118.573,
+      "text": "scientists may be able to identify distinct genetic signatures,",
+      "end": 122.777
+    },
+    {
+      "start": 122.827,
+      "text": "but it's difficult to untangle how those genetic signatures",
+      "end": 126.614
+    },
+    {
+      "start": 126.664,
+      "text": "actually shape breed-defining traits.",
+      "end": 129.575
+    },
+    {
+      "start": 129.625,
+      "text": "This is especially true",
+      "end": 131.327
+    },
+    {
+      "start": 131.377,
+      "text": "when it comes to parsing how much a dog’s breed informs their personality,",
+      "end": 137.166
+    },
+    {
+      "start": 137.216,
+      "text": "as defined by their consistent behaviors across a range of scenarios.",
+      "end": 142.296
+    },
+    {
+      "start": 142.346,
+      "text": "When researchers in one study compared the genetic data",
+      "end": 145.21599999999998
+    },
+    {
+      "start": 145.266,
+      "text": "from many different dogs,",
+      "end": 146.759
+    },
+    {
+      "start": 146.809,
+      "text": "they found about 9% of a dog’s personality traits",
+      "end": 150.304
+    },
+    {
+      "start": 150.354,
+      "text": "were attributed specifically to its breed.",
+      "end": 153.766
+    },
+    {
+      "start": 153.816,
+      "text": "Some of the traits in the study that were most heritable",
+      "end": 156.64399999999998
+    },
+    {
+      "start": 156.694,
+      "text": "seemed to be derived from long-standing predatory behaviors",
+      "end": 160.022
+    },
+    {
+      "start": 160.072,
+      "text": "also exhibited in wolves.",
+      "end": 162.56699999999998
+    },
+    {
+      "start": 162.617,
+      "text": "This is seen in how border collies stalk with their eyes,",
+      "end": 165.945
+    },
+    {
+      "start": 165.995,
+      "text": "and how golden retrievers chase and grab-bite.",
+      "end": 169.23999999999998
+    },
+    {
+      "start": 169.29,
+      "text": "And other traits also seem to have gotten ingrained along the way.",
+      "end": 172.91
+    },
+    {
+      "start": 172.96,
+      "text": "For example, breeds like Portuguese water dogs",
+      "end": 176.45499999999998
+    },
+    {
+      "start": 176.505,
+      "text": "do tend to be especially comfortable getting wet;",
+      "end": 180.54299999999998
+    },
+    {
+      "start": 180.593,
+      "text": "retrievers have an aptitude for fetch;",
+      "end": 183.129
+    },
+    {
+      "start": 183.179,
+      "text": "and for dogs like huskies, malamutes, and hounds,",
+      "end": 186.50699999999998
+    },
+    {
+      "start": 186.557,
+      "text": "howling seems habitual.",
+      "end": 188.759
+    },
+    {
+      "start": 188.809,
+      "text": "How well a dog responds to human direction",
+      "end": 191.304
+    },
+    {
+      "start": 191.354,
+      "text": "was another of the most heritable behavioral traits by breed,",
+      "end": 194.932
+    },
+    {
+      "start": 194.982,
+      "text": "with border collies standing out.",
+      "end": 197.97699999999998
+    },
+    {
+      "start": 198.027,
+      "text": "Other behaviors— including circling before pooping,",
+      "end": 201.189
+    },
+    {
+      "start": 201.239,
+      "text": "and how easily provoked or aggressive a dog is—",
+      "end": 204.066
+    },
+    {
+      "start": 204.116,
+      "text": "don’t appear to be super breed-specific.",
+      "end": 207.403
+    },
+    {
+      "start": 207.453,
+      "text": "So, while pit bull terriers are widely considered to be more aggressive dogs,",
+      "end": 212.909
+    },
+    {
+      "start": 212.959,
+      "text": "this research casts doubt on their reputation.",
+      "end": 216.82899999999998
+    },
+    {
+      "start": 216.879,
+      "text": "Toy breeds did appear to be more independent",
+      "end": 219.624
+    },
+    {
+      "start": 219.674,
+      "text": "and less sociable with other dogs,",
+      "end": 221.667
+    },
+    {
+      "start": 221.717,
+      "text": "but non-genetic factors could be at work.",
+      "end": 224.462
+    },
+    {
+      "start": 224.512,
+      "text": "For example, smaller dogs might not initiate much play with other dogs",
+      "end": 228.92499999999998
+    },
+    {
+      "start": 228.975,
+      "text": "because they're small or how they're socialized,",
+      "end": 232.386
+    },
+    {
+      "start": 232.436,
+      "text": "and not necessarily due to how their genes wire their brains.",
+      "end": 237.058
+    },
+    {
+      "start": 237.108,
+      "text": "The same study found that, beyond breed,",
+      "end": 240.14399999999998
+    },
+    {
+      "start": 240.194,
+      "text": "less than 25% of a dog's personality was accounted for by their genes.",
+      "end": 246.44199999999998
+    },
+    {
+      "start": 246.492,
+      "text": "So, genetics play a role, but they’re not nearly everything.",
+      "end": 251.155
+    },
+    {
+      "start": 251.205,
+      "text": "This is also illustrated in service dog breeding programs,",
+      "end": 254.992
+    },
+    {
+      "start": 255.042,
+      "text": "which deliberately breed certain dogs based on their temperament.",
+      "end": 258.704
+    },
+    {
+      "start": 258.754,
+      "text": "This yields lots of dogs suited for service—",
+      "end": 261.87399999999997
+    },
+    {
+      "start": 261.924,
+      "text": "but because of individual variation, some still don't make the cut.",
+      "end": 266.587
+    },
+    {
+      "start": 266.637,
+      "text": "As much as humans have heavily tinkered with canine characteristics,",
+      "end": 271.175
+    },
+    {
+      "start": 271.225,
+      "text": "dog behavior is shaped by a complex mix of their genes and environment.",
+      "end": 276.18
+    },
+    {
+      "start": 276.23,
+      "text": "And breed alone appears to be a pretty poor proxy",
+      "end": 279.517
+    },
+    {
+      "start": 279.567,
+      "text": "for all that makes up the personality of a given pup.",
+      "end": 283.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.003,
+      "text": "在十六世纪,有一种叫做转叉犬的小狗，",
+      "end": 10.956999999999999
+    },
+    {
+      "start": 11.007,
+      "text": "它们的工作是烤肉。",
+      "end": 13.584
+    },
+    {
+      "start": 13.634,
+      "text": "这种狗曾是常见的厨房帮手， 直到十九世纪中期，",
+      "end": 17.547
+    },
+    {
+      "start": 17.597,
+      "text": "新技术取代了它们的工作。",
+      "end": 20.675
+    },
+    {
+      "start": 20.725,
+      "text": "转叉犬只是过去和现在 众多犬种中的一种。",
+      "end": 26.848
+    },
+    {
+      "start": 26.898,
+      "text": "狗极多样的形态",
+      "end": 29.017
+    },
+    {
+      "start": 29.067,
+      "text": "使它们成为世界上最多样化的物种之一，",
+      "end": 32.645
+    },
+    {
+      "start": 32.695,
+      "text": "也大概是体型差异最大的物种。",
+      "end": 36.232
+    },
+    {
+      "start": 36.282,
+      "text": "比如，一只博美犬可能重两千克，",
+      "end": 39.944
+    },
+    {
+      "start": 39.994,
+      "text": "而一只英国獒犬 可能重达 100 千克。",
+      "end": 43.865
+    },
+    {
+      "start": 43.915,
+      "text": "那么，这是为什么呢？ 狗的品种到底意味着什么？",
+      "end": 49.620000000000005
+    },
+    {
+      "start": 49.67,
+      "text": "所有狗都是古狼的后裔，",
+      "end": 51.748000000000005
+    },
+    {
+      "start": 51.798,
+      "text": "这些狼至少在 15,000 年前 就开始生活在人类周围。",
+      "end": 56.21
+    },
+    {
+      "start": 56.26,
+      "text": "经过数千年的演变， 狗是第一个被驯化的物种。",
+      "end": 61.632000000000005
+    },
+    {
+      "start": 61.682,
+      "text": "据信，随着时间的推移， 人类开始依赖狗来完成特定的任务，",
+      "end": 66.596
+    },
+    {
+      "start": 66.646,
+      "text": "并为特定的特征有选择地繁殖它们，",
+      "end": 69.891
+    },
+    {
+      "start": 69.941,
+      "text": "这使全球范围内狗的差异更为巨大。",
+      "end": 74.479
+    },
+    {
+      "start": 74.529,
+      "text": "到 11,000 年前， 它们已经呈现出各种各样的外貌。",
+      "end": 79.358
+    },
+    {
+      "start": 79.408,
+      "text": "最终，在维多利亚时代的英国， 正式的犬种繁殖开始兴起。",
+      "end": 84.072
+    },
+    {
+      "start": 84.122,
+      "text": "人们不再为了突显功能给狗配种，",
+      "end": 86.949
+    },
+    {
+      "start": 86.999,
+      "text": "而是选择性地让狗近亲繁殖以获得",
+      "end": 89.36800000000001
+    },
+    {
+      "start": 89.418,
+      "text": "特定的特征，达到既定的整体品种标准。",
+      "end": 94.70700000000001
+    },
+    {
+      "start": 94.757,
+      "text": "尽管保持特定的遗传线和特征 对养犬俱乐部很重要，",
+      "end": 100.21300000000001
+    },
+    {
+      "start": 100.263,
+      "text": "但品种遗传学是复杂的。",
+      "end": 102.799
+    },
+    {
+      "start": 102.849,
+      "text": "在一项研究中，科学家测定了 不同犬种的基因序列，",
+      "end": 107.345
+    },
+    {
+      "start": 107.395,
+      "text": "发现了 10 个主要的犬类，它们大致 与其世系历史上的工作角色一致——",
+      "end": 113.226
+    },
+    {
+      "start": 113.276,
+      "text": "从指示和驱赶到追踪气味和衔回。",
+      "end": 117.313
+    },
+    {
+      "start": 117.363,
+      "text": "科学家可能能够识别 不同品种显著的基因特征，",
+      "end": 122.777
+    },
+    {
+      "start": 122.827,
+      "text": "但很难弄清楚这些基因特征 究竟是如何塑造定义品种的特征的。",
+      "end": 129.617
+    },
+    {
+      "start": 129.667,
+      "text": "解析狗的品种在多大程度上 影响了它们的性格尤其如此，",
+      "end": 137.166
+    },
+    {
+      "start": 137.216,
+      "text": "因为狗的性格是由它们 在一系列场景中一致的行为所定义的。",
+      "end": 142.296
+    },
+    {
+      "start": 142.346,
+      "text": "在一项研究中，研究人员比较了 许多不同狗的基因数据，",
+      "end": 146.759
+    },
+    {
+      "start": 146.809,
+      "text": "他们发现一只狗约 9% 的 性格特征归因于它的品种。",
+      "end": 153.766
+    },
+    {
+      "start": 153.816,
+      "text": "该研究中一些最具遗传性的特征",
+      "end": 156.64399999999998
+    },
+    {
+      "start": 156.694,
+      "text": "似乎源于长期存在的， 也表现在狼身上的掠食行为。",
+      "end": 162.56699999999998
+    },
+    {
+      "start": 162.617,
+      "text": "这可以从边境牧羊犬如何用眼睛追踪， 金毛寻回犬如何追逐抓咬中看出。",
+      "end": 169.23999999999998
+    },
+    {
+      "start": 169.29,
+      "text": "其他特征似乎也在这一过程中根深蒂固。",
+      "end": 172.91
+    },
+    {
+      "start": 172.96,
+      "text": "例如，像葡萄牙水犬这样的品种 往往感觉把自己弄湿特别舒服；",
+      "end": 180.54299999999998
+    },
+    {
+      "start": 180.593,
+      "text": "寻回犬有取回物品的天赋；",
+      "end": 183.129
+    },
+    {
+      "start": 183.179,
+      "text": "而对于哈士奇、雪橇犬和 猎犬之类的狗，长嚎似乎是一种习惯。",
+      "end": 188.759
+    },
+    {
+      "start": 188.809,
+      "text": "狗对人类指令的反应能力是另一个 按品种划分最具遗传性的行为特征，",
+      "end": 194.932
+    },
+    {
+      "start": 194.982,
+      "text": "边境牧羊犬表现突出。",
+      "end": 197.97699999999998
+    },
+    {
+      "start": 198.027,
+      "text": "其他行为，包括排便前转圈，",
+      "end": 201.189
+    },
+    {
+      "start": 201.239,
+      "text": "以及是否容易被激怒或有攻击性，",
+      "end": 204.066
+    },
+    {
+      "start": 204.116,
+      "text": "似乎不是非常有品种特异性。",
+      "end": 207.403
+    },
+    {
+      "start": 207.453,
+      "text": "因此，尽管人们普遍认为 斗牛犬更具攻击性，",
+      "end": 212.909
+    },
+    {
+      "start": 212.959,
+      "text": "这项研究使人们对这个名声产生了怀疑。",
+      "end": 216.82899999999998
+    },
+    {
+      "start": 216.879,
+      "text": "玩具品种的确似乎更加独立， 没那么喜欢与其他狗交往，",
+      "end": 221.5
+    },
+    {
+      "start": 221.55,
+      "text": "但可能是非遗传因素在起作用。",
+      "end": 224.462
+    },
+    {
+      "start": 224.512,
+      "text": "例如，较小的狗可能 不大会主动与其他狗玩耍，",
+      "end": 228.92499999999998
+    },
+    {
+      "start": 228.975,
+      "text": "因为它们体型小或是如何被社会化的，",
+      "end": 232.303
+    },
+    {
+      "start": 232.353,
+      "text": "不一定是因为它们的基因 如何连接它们大脑的。",
+      "end": 237.058
+    },
+    {
+      "start": 237.108,
+      "text": "同一项研究发现，除品种外，",
+      "end": 240.14399999999998
+    },
+    {
+      "start": 240.194,
+      "text": "一只狗的性格由基因决定的不到 25％。",
+      "end": 246.44199999999998
+    },
+    {
+      "start": 246.492,
+      "text": "因此，遗传有起作用，但绝不是一切。",
+      "end": 251.155
+    },
+    {
+      "start": 251.205,
+      "text": "服务犬繁殖项目也说明了这一点，",
+      "end": 254.992
+    },
+    {
+      "start": 255.042,
+      "text": "这些项目根据狗的性情来繁殖特定的狗。",
+      "end": 258.704
+    },
+    {
+      "start": 258.754,
+      "text": "这产生了很多适合服务的狗，",
+      "end": 261.87399999999997
+    },
+    {
+      "start": 261.924,
+      "text": "但由于个体差异，有些仍然不符合要求。",
+      "end": 266.587
+    },
+    {
+      "start": 266.637,
+      "text": "尽管人类对犬类特征进行了大量研究，",
+      "end": 271.175
+    },
+    {
+      "start": 271.225,
+      "text": "但狗的行为是由基因和环境 复杂混合塑造的。",
+      "end": 276.264
+    },
+    {
+      "start": 276.314,
+      "text": "鉴于所有这些影响因素，仅凭品种 来判定某只小狗的性格似乎很不可靠。",
+      "end": 283.95
+    }
+  ]
+};

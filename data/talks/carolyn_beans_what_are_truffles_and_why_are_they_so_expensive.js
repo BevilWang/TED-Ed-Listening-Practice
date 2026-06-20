@@ -1,0 +1,1095 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "What are truffles, and why are they so expensive?",
+    "speaker": "Carolyn Beans",
+    "duration": 368,
+    "slug": "carolyn_beans_what_are_truffles_and_why_are_they_so_expensive",
+    "sourcePage": "https://www.ted.com/talks/carolyn_beans_what_are_truffles_and_why_are_they_so_expensive",
+    "translationSourcePage": "https://www.ted.com/talks/carolyn_beans_what_are_truffles_and_why_are_they_so_expensive?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/82/33/002/products/2025e-carolyn-beans-truffles-002-fallback-cf165b16-a8f9-4823-bf0f-6f8e1cd5a6a6-1200k.mp4",
+    "youtubeId": "7ZCTazqNYMo",
+    "youtubeTitle": "What are truffles, and why are they so expensive? - Carolyn Beans"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.919,
+      "end": 16.421,
+      "text": "In autumn 2007, a Tuscan father and son unearthed one of the largest white truffles ever found.",
+      "translation": "在2007年秋天一对托斯卡纳的父子发掘了 有史以来最大的一块白松露。"
+    },
+    {
+      "id": 2,
+      "start": 16.471,
+      "end": 29.434,
+      "text": "It later sold at auction for a record-breaking $330,000— more than six times the price of its weight in gold at the time.",
+      "translation": "后来，它在拍卖会上 以创纪录的价格售出33万美元——是当时其等重量黄金价格的六倍多。"
+    },
+    {
+      "id": 3,
+      "start": 29.484,
+      "end": 39.36,
+      "text": "Truffles are one of the world’s most expensive foods— in part because global demand often outstrips supply.",
+      "translation": "松露是世界上最昂贵的食品之一 ——部分原因是全球需求往往超过其供应。"
+    },
+    {
+      "id": 4,
+      "start": 39.41,
+      "end": 42.071,
+      "text": "But why are truffles so rare?",
+      "translation": "但为什么松露是如此稀有？"
+    },
+    {
+      "id": 5,
+      "start": 42.121,
+      "end": 45.658,
+      "text": "And why don't we just farm more of them?",
+      "translation": "那为什么我们不多种一些呢？"
+    },
+    {
+      "id": 6,
+      "start": 45.708,
+      "end": 53.082,
+      "text": "The answers lie in the truffle’s unique and somewhat mysterious biology.",
+      "translation": "答案在于松露独特且有些神秘的生物学特性。"
+    },
+    {
+      "id": 7,
+      "start": 53.132,
+      "end": 61.215,
+      "text": "Truffles refer to nearly 200 species of fungi, of which around 30 are used in commercial trade.",
+      "translation": "松露指的是近200种物种真菌，其中约30种用于商业贸易。"
+    },
+    {
+      "id": 8,
+      "start": 61.265,
+      "end": 71.1,
+      "text": "The most sought-after truffles are native to Europe, confined to regions with lime-rich dry soil and light summer rains.",
+      "translation": "最受追捧的松露原产于欧洲，产地仅限于富含石灰的干燥土壤 和有轻微夏季降雨的地区。"
+    },
+    {
+      "id": 9,
+      "start": 71.15,
+      "end": 79.859,
+      "text": "Each species grows under the canopy of specific trees, where they form tight symbiotic relationships.",
+      "translation": "每个物种都生长在特定树木的树冠下，在那里它们形成紧密的共生关系。"
+    },
+    {
+      "id": 10,
+      "start": 79.909,
+      "end": 92.747,
+      "text": "A truffle’s mycelium, the vegetative root-like structure of the fungus, wraps itself around the tree roots and swaps water and nutrients for sugars.",
+      "translation": "松露的菌丝体，是真菌的营养根状结构，它将自己包裹在树根上， 并将水和营养物质换成糖。"
+    },
+    {
+      "id": 11,
+      "start": 92.797,
+      "end": 103.382,
+      "text": "While truffles themselves aren’t mushrooms, the parts of truffles we covet are, like mushrooms, the fruiting body of the fungus.",
+      "translation": "虽然松露本身不是蘑菇，但我们垂涎的松露部分， 像蘑菇一样，是真菌的子实体。"
+    },
+    {
+      "id": 12,
+      "start": 103.432,
+      "end": 115.686,
+      "text": "But while mushrooms grow above ground, allowing their spores to be dispersed by both wind and foraging animals, truffles grow entirely below the soil.",
+      "translation": "但是，当蘑菇生长在地上时，使它们的孢子可以通过风和觅食动物散播，而松露则完全生长在土壤之下。"
+    },
+    {
+      "id": 13,
+      "start": 115.736,
+      "end": 123.861,
+      "text": "So, they release a powerful aroma to lure hungry forest animals to come to do their spreading.",
+      "translation": "因此，它们释放出一种强大的芳香剂， 引诱饥饿的森林动物前来传播（孢子）。"
+    },
+    {
+      "id": 14,
+      "start": 123.911,
+      "end": 136.04,
+      "text": "If these animals happen to drop these spores near the roots of a particular type of tree, only then might a truffle develop, several years later.",
+      "translation": "如果这些动物碰巧将这些孢子落在特定类型树的根部附近，只有在那之后，松露才可能生长出来， 通常是在几年后。"
+    },
+    {
+      "id": 15,
+      "start": 136.09,
+      "end": 142.505,
+      "text": "This pungent aroma is also what’s made truffles alluring to humans.",
+      "translation": "这种强烈的香气也是松露吸引人类的原因。"
+    },
+    {
+      "id": 16,
+      "start": 142.555,
+      "end": 149.137,
+      "text": "In fact, much of what we perceive as truffle flavor comes from its unique scent.",
+      "translation": "实际上，我们所认为的松露味道在很大程度上来自其独特的香味。"
+    },
+    {
+      "id": 17,
+      "start": 149.187,
+      "end": 161.732,
+      "text": "A single species typically emits 30 to 60 different volatile compounds, which are produced by both the truffle and the bacteria and yeast that colonize them.",
+      "translation": "一个物种通常会释放 30 到 60种 不同的挥发性化合物，这些化合物是由松露以及定殖在 其上的细菌和酵母菌共同产生的。"
+    },
+    {
+      "id": 18,
+      "start": 161.782,
+      "end": 169.407,
+      "text": "But despite their scent, finding these subterranean gems within a dense forest is far from easy.",
+      "translation": "但是，尽管它们的气味在茂密的森林中 找到这些地下宝石绝非易事。"
+    },
+    {
+      "id": 19,
+      "start": 169.457,
+      "end": 176.873,
+      "text": "As early as the 1400s, Europeans used pigs as truffle-finding companions.",
+      "translation": "早在 1400 年代，欧洲人就使用猪 作为寻找松露的伙伴。"
+    },
+    {
+      "id": 20,
+      "start": 176.923,
+      "end": 185.923,
+      "text": "Truffles emit dimethyl sulfide, a compound that reeks of cabbage, which helps draw the pigs in.",
+      "translation": "松露会释放二甲基硫化物， 这种化合物会散发像卷心菜的味道，有助于吸引猪。"
+    },
+    {
+      "id": 21,
+      "start": 185.973,
+      "end": 191.053,
+      "text": "But when a pig finds a truffle, they’re apt to take a bite out of the profit.",
+      "translation": "但是，当猪找到松露时，它们很容易从利润中分一杯羹。"
+    },
+    {
+      "id": 22,
+      "start": 191.103,
+      "end": 201.48,
+      "text": "So many truffle hunters began replacing pigs with dogs who, while not natural-born truffle hunters, are more easily trained.",
+      "translation": "许多松露猎人开始用狗代替猪，这些狗虽然不是天生的松露猎手， 但它们更容易训练。"
+    },
+    {
+      "id": 23,
+      "start": 201.53,
+      "end": 211.032,
+      "text": "Meanwhile, others learn to track their prize by following species of flies that are known to lay their eggs near truffles.",
+      "translation": "与此同时，其他人通过跟踪一些已知会 在松露附近产卵的苍蝇种类，来寻找他们的奖励。"
+    },
+    {
+      "id": 24,
+      "start": 211.082,
+      "end": 221.334,
+      "text": "Nevertheless, today, the global market still demands more truffles than any pig, dog, or fly can sniff out.",
+      "translation": "然而，今天，全球市场对松露的需求仍然超过了任何猪、狗或苍蝇能够嗅出的数量。"
+    },
+    {
+      "id": 25,
+      "start": 221.384,
+      "end": 233.137,
+      "text": "And truffles continue to grow even rarer— and more expensive— as deforestation and climate change shrink their suitable terrain.",
+      "translation": "松露持续变得愈加稀有——也愈加昂贵——随着森林砍伐和气候变化缩小了 它们适宜生长的区域"
+    },
+    {
+      "id": 26,
+      "start": 233.187,
+      "end": 235.973,
+      "text": "So why don't we just farm them?",
+      "translation": "那么，为什么我们不直接种植它们呢？"
+    },
+    {
+      "id": 27,
+      "start": 236.023,
+      "end": 238.226,
+      "text": "We do, to some extent.",
+      "translation": "在某种程度上，我们确实如此。"
+    },
+    {
+      "id": 28,
+      "start": 238.276,
+      "end": 255.034,
+      "text": "In 1808, a French farmer became the first to cultivate truffles when he planted acorns under truffle-bearing oaks, and then transplanted the seedlings with— unknowingly at the time— some fungi companions.",
+      "translation": "1808 年，一位法国农民 成为第一个种植松露的人，他在含有松露的橡树下种下橡子，然后将幼苗移植到——当时并不知道——一些真菌伴侣身上。"
+    },
+    {
+      "id": 29,
+      "start": 255.084,
+      "end": 271.259,
+      "text": "By the early 1970s, scientists cracked how to artificially inoculate tree seedlings, which allowed growers to sow certain species of truffles in orchards far outside their native range.",
+      "translation": "到 1970 年代初，科学家们破解了如何人工嫁接树苗，这使得种植者能够在远离原产地的果园里种植某些种类的松露。"
+    },
+    {
+      "id": 30,
+      "start": 271.309,
+      "end": 276.806,
+      "text": "However, truffles are still not considered a domesticated crop.",
+      "translation": "但是，松露仍不被视为一种被驯化的作物。"
+    },
+    {
+      "id": 31,
+      "start": 276.856,
+      "end": 293.823,
+      "text": "There are just too many unknowns, as researchers are still working out the precise temperature, precipitation, elevation, soil pH, and other environmental factors that determine a truffle orchard’s success.",
+      "translation": "因为还有太多未知的因素，因为研究人员仍在努力研究 精确的温度、降水量、海拔、土壤酸碱值及其他环境因素这些都会决定松露果园成功的因素。"
+    },
+    {
+      "id": 32,
+      "start": 293.873,
+      "end": 306.419,
+      "text": "Part of the problem is that truffles need to mate to form that valuable fruiting body, yet truffles sex is still largely a mystery.",
+      "translation": "问题的一部分在于 松露需要交配才能形成宝贵的子实体，但松露的繁殖在很大程度上仍然是个谜。"
+    },
+    {
+      "id": 33,
+      "start": 306.469,
+      "end": 313.134,
+      "text": "Researchers know that these fungi are hermaphrodites that cannot reproduce alone.",
+      "translation": "研究人员知道，这些真菌是无法单独繁殖的雌雄同体。"
+    },
+    {
+      "id": 34,
+      "start": 313.184,
+      "end": 327.064,
+      "text": "So, when a truffle reproduces, one fungus takes on the maternal role and the other the paternal role, each contributing half of the genes that will form the spores.",
+      "translation": "因此，当松露繁殖时，一种真菌承担了母性的角色， 而另一种则承担了父性的角色，每种真菌都贡献了形成孢子的基因的一半。"
+    },
+    {
+      "id": 35,
+      "start": 327.114,
+      "end": 337.033,
+      "text": "However, when researchers search the area near a truffle fruiting body, they only ever find maternal mycelium.",
+      "translation": "但是，当研究人员搜索松露子实体 附近的区域时，他们只能找到母体菌丝体。"
+    },
+    {
+      "id": 36,
+      "start": 337.083,
+      "end": 344.165,
+      "text": "Where the paternal partner lives— or hides— remains unknown.",
+      "translation": "雄性伙伴的栖息地—— 或者说藏身之处——仍然未知。"
+    },
+    {
+      "id": 37,
+      "start": 344.215,
+      "end": 357.553,
+      "text": "So each time a hopeful truffle enthusiast begins a new farm, there’s no guarantee truffles will grow, and they'll have to wait four years or more to find out.",
+      "translation": "因此，每当一个充满希望的 松露爱好者开始经营一个新的农场时，松露是否能够生长并没有保证，而且他们必须等四年或更长时间才能得到结果。"
+    },
+    {
+      "id": 38,
+      "start": 357.603,
+      "end": 367.95,
+      "text": "But many take the gamble, as growers know that if they’re patient and lucky, they might just dig up gold.",
+      "translation": "但是许多人选择了这场赌博，因为种植者知道，如果他们有耐心和幸运的话，他们可能会挖出黄金。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.919,
+      "text": "In autumn 2007,",
+      "end": 9.664
+    },
+    {
+      "start": 9.714,
+      "text": "a Tuscan father and son unearthed one of the largest white truffles ever found.",
+      "end": 16.421
+    },
+    {
+      "start": 16.471,
+      "text": "It later sold at auction for a record-breaking $330,000—",
+      "end": 23.136
+    },
+    {
+      "start": 23.186,
+      "text": "more than six times the price of its weight in gold at the time.",
+      "end": 29.434
+    },
+    {
+      "start": 29.484,
+      "text": "Truffles are one of the world’s most expensive foods—",
+      "end": 33.855000000000004
+    },
+    {
+      "start": 33.905,
+      "text": "in part because global demand often outstrips supply.",
+      "end": 39.36
+    },
+    {
+      "start": 39.41,
+      "text": "But why are truffles so rare?",
+      "end": 42.071000000000005
+    },
+    {
+      "start": 42.121,
+      "text": "And why don't we just farm more of them?",
+      "end": 45.658
+    },
+    {
+      "start": 45.708,
+      "text": "The answers lie in the truffle’s unique and somewhat mysterious biology.",
+      "end": 53.082
+    },
+    {
+      "start": 53.132,
+      "text": "Truffles refer to nearly 200 species of fungi,",
+      "end": 57.211000000000006
+    },
+    {
+      "start": 57.261,
+      "text": "of which around 30 are used in commercial trade.",
+      "end": 61.215
+    },
+    {
+      "start": 61.265,
+      "text": "The most sought-after truffles are native to Europe,",
+      "end": 64.677
+    },
+    {
+      "start": 64.727,
+      "text": "confined to regions with lime-rich dry soil and light summer rains.",
+      "end": 71.10000000000001
+    },
+    {
+      "start": 71.15,
+      "text": "Each species grows under the canopy of specific trees,",
+      "end": 75.646
+    },
+    {
+      "start": 75.696,
+      "text": "where they form tight symbiotic relationships.",
+      "end": 79.85900000000001
+    },
+    {
+      "start": 79.909,
+      "text": "A truffle’s mycelium, the vegetative root-like structure of the fungus,",
+      "end": 85.406
+    },
+    {
+      "start": 85.456,
+      "text": "wraps itself around the tree roots and swaps water and nutrients for sugars.",
+      "end": 92.747
+    },
+    {
+      "start": 92.797,
+      "text": "While truffles themselves aren’t mushrooms,",
+      "end": 95.917
+    },
+    {
+      "start": 95.967,
+      "text": "the parts of truffles we covet are, like mushrooms,",
+      "end": 100.171
+    },
+    {
+      "start": 100.221,
+      "text": "the fruiting body of the fungus.",
+      "end": 103.382
+    },
+    {
+      "start": 103.432,
+      "text": "But while mushrooms grow above ground,",
+      "end": 106.135
+    },
+    {
+      "start": 106.185,
+      "text": "allowing their spores to be dispersed by both wind and foraging animals,",
+      "end": 111.599
+    },
+    {
+      "start": 111.649,
+      "text": "truffles grow entirely below the soil.",
+      "end": 115.686
+    },
+    {
+      "start": 115.736,
+      "text": "So, they release a powerful aroma to lure hungry forest animals",
+      "end": 121.15
+    },
+    {
+      "start": 121.2,
+      "text": "to come to do their spreading.",
+      "end": 123.861
+    },
+    {
+      "start": 123.911,
+      "text": "If these animals happen to drop these spores near the roots",
+      "end": 128.24099999999999
+    },
+    {
+      "start": 128.291,
+      "text": "of a particular type of tree,",
+      "end": 130.785
+    },
+    {
+      "start": 130.835,
+      "text": "only then might a truffle develop, several years later.",
+      "end": 136.04
+    },
+    {
+      "start": 136.09,
+      "text": "This pungent aroma is also what’s made truffles alluring to humans.",
+      "end": 142.505
+    },
+    {
+      "start": 142.555,
+      "text": "In fact, much of what we perceive as truffle flavor",
+      "end": 146.59199999999998
+    },
+    {
+      "start": 146.642,
+      "text": "comes from its unique scent.",
+      "end": 149.137
+    },
+    {
+      "start": 149.187,
+      "text": "A single species typically emits 30 to 60 different volatile compounds,",
+      "end": 155.935
+    },
+    {
+      "start": 155.985,
+      "text": "which are produced by both the truffle and the bacteria and yeast",
+      "end": 159.939
+    },
+    {
+      "start": 159.989,
+      "text": "that colonize them.",
+      "end": 161.732
+    },
+    {
+      "start": 161.782,
+      "text": "But despite their scent,",
+      "end": 163.44199999999998
+    },
+    {
+      "start": 163.492,
+      "text": "finding these subterranean gems within a dense forest is far from easy.",
+      "end": 169.40699999999998
+    },
+    {
+      "start": 169.457,
+      "text": "As early as the 1400s, Europeans used pigs as truffle-finding companions.",
+      "end": 176.873
+    },
+    {
+      "start": 176.923,
+      "text": "Truffles emit dimethyl sulfide, a compound that reeks of cabbage,",
+      "end": 183.337
+    },
+    {
+      "start": 183.387,
+      "text": "which helps draw the pigs in.",
+      "end": 185.923
+    },
+    {
+      "start": 185.973,
+      "text": "But when a pig finds a truffle,",
+      "end": 188.04999999999998
+    },
+    {
+      "start": 188.1,
+      "text": "they’re apt to take a bite out of the profit.",
+      "end": 191.053
+    },
+    {
+      "start": 191.103,
+      "text": "So many truffle hunters began replacing pigs with dogs who,",
+      "end": 196.35
+    },
+    {
+      "start": 196.4,
+      "text": "while not natural-born truffle hunters, are more easily trained.",
+      "end": 201.48
+    },
+    {
+      "start": 201.53,
+      "text": "Meanwhile, others learn to track their prize by following species of flies",
+      "end": 207.278
+    },
+    {
+      "start": 207.328,
+      "text": "that are known to lay their eggs near truffles.",
+      "end": 211.03199999999998
+    },
+    {
+      "start": 211.082,
+      "text": "Nevertheless, today, the global market still demands more truffles",
+      "end": 216.87099999999998
+    },
+    {
+      "start": 216.921,
+      "text": "than any pig, dog, or fly can sniff out.",
+      "end": 221.33399999999997
+    },
+    {
+      "start": 221.384,
+      "text": "And truffles continue to grow even rarer— and more expensive—",
+      "end": 226.756
+    },
+    {
+      "start": 226.806,
+      "text": "as deforestation and climate change shrink their suitable terrain.",
+      "end": 233.137
+    },
+    {
+      "start": 233.187,
+      "text": "So why don't we just farm them?",
+      "end": 235.97299999999998
+    },
+    {
+      "start": 236.023,
+      "text": "We do, to some extent.",
+      "end": 238.226
+    },
+    {
+      "start": 238.276,
+      "text": "In 1808, a French farmer became the first to cultivate truffles",
+      "end": 243.481
+    },
+    {
+      "start": 243.531,
+      "text": "when he planted acorns under truffle-bearing oaks,",
+      "end": 247.35999999999999
+    },
+    {
+      "start": 247.41,
+      "text": "and then transplanted the seedlings with— unknowingly at the time—",
+      "end": 252.61499999999998
+    },
+    {
+      "start": 252.665,
+      "text": "some fungi companions.",
+      "end": 255.034
+    },
+    {
+      "start": 255.084,
+      "text": "By the early 1970s,",
+      "end": 257.245
+    },
+    {
+      "start": 257.295,
+      "text": "scientists cracked how to artificially inoculate tree seedlings,",
+      "end": 262.58299999999997
+    },
+    {
+      "start": 262.633,
+      "text": "which allowed growers to sow certain species of truffles",
+      "end": 266.50399999999996
+    },
+    {
+      "start": 266.554,
+      "text": "in orchards far outside their native range.",
+      "end": 271.259
+    },
+    {
+      "start": 271.309,
+      "text": "However, truffles are still not considered a domesticated crop.",
+      "end": 276.806
+    },
+    {
+      "start": 276.856,
+      "text": "There are just too many unknowns,",
+      "end": 279.22499999999997
+    },
+    {
+      "start": 279.275,
+      "text": "as researchers are still working out the precise temperature, precipitation,",
+      "end": 284.772
+    },
+    {
+      "start": 284.822,
+      "text": "elevation, soil pH, and other environmental factors",
+      "end": 289.694
+    },
+    {
+      "start": 289.744,
+      "text": "that determine a truffle orchard’s success.",
+      "end": 293.823
+    },
+    {
+      "start": 293.873,
+      "text": "Part of the problem is that truffles need to mate",
+      "end": 297.743
+    },
+    {
+      "start": 297.793,
+      "text": "to form that valuable fruiting body,",
+      "end": 301.163
+    },
+    {
+      "start": 301.213,
+      "text": "yet truffles sex is still largely a mystery.",
+      "end": 306.419
+    },
+    {
+      "start": 306.469,
+      "text": "Researchers know that these fungi are hermaphrodites",
+      "end": 310.423
+    },
+    {
+      "start": 310.473,
+      "text": "that cannot reproduce alone.",
+      "end": 313.134
+    },
+    {
+      "start": 313.184,
+      "text": "So, when a truffle reproduces,",
+      "end": 315.84499999999997
+    },
+    {
+      "start": 315.895,
+      "text": "one fungus takes on the maternal role and the other the paternal role,",
+      "end": 321.726
+    },
+    {
+      "start": 321.776,
+      "text": "each contributing half of the genes that will form the spores.",
+      "end": 327.06399999999996
+    },
+    {
+      "start": 327.114,
+      "text": "However, when researchers search the area near a truffle fruiting body,",
+      "end": 332.52799999999996
+    },
+    {
+      "start": 332.578,
+      "text": "they only ever find maternal mycelium.",
+      "end": 337.033
+    },
+    {
+      "start": 337.083,
+      "text": "Where the paternal partner lives— or hides— remains unknown.",
+      "end": 344.16499999999996
+    },
+    {
+      "start": 344.215,
+      "text": "So each time a hopeful truffle enthusiast begins a new farm,",
+      "end": 349.92
+    },
+    {
+      "start": 349.97,
+      "text": "there’s no guarantee truffles will grow,",
+      "end": 353.007
+    },
+    {
+      "start": 353.057,
+      "text": "and they'll have to wait four years or more to find out.",
+      "end": 357.553
+    },
+    {
+      "start": 357.603,
+      "text": "But many take the gamble,",
+      "end": 359.597
+    },
+    {
+      "start": 359.647,
+      "text": "as growers know that if they’re patient and lucky,",
+      "end": 363.851
+    },
+    {
+      "start": 363.901,
+      "text": "they might just dig up gold.",
+      "end": 367.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.919,
+      "text": "在2007年秋天",
+      "end": 9.664
+    },
+    {
+      "start": 9.714,
+      "text": "一对托斯卡纳的父子发掘了 有史以来最大的一块白松露。",
+      "end": 16.421
+    },
+    {
+      "start": 16.471,
+      "text": "后来，它在拍卖会上 以创纪录的价格售出33万美元——",
+      "end": 23.136
+    },
+    {
+      "start": 23.186,
+      "text": "是当时其等重量黄金价格的六倍多。",
+      "end": 29.434
+    },
+    {
+      "start": 29.484,
+      "text": "松露是世界上最昂贵的食品之一 ——",
+      "end": 33.855000000000004
+    },
+    {
+      "start": 33.905,
+      "text": "部分原因是全球需求往往超过其供应。",
+      "end": 39.36
+    },
+    {
+      "start": 39.41,
+      "text": "但为什么松露是如此稀有？",
+      "end": 42.071000000000005
+    },
+    {
+      "start": 42.121,
+      "text": "那为什么我们不多种一些呢？",
+      "end": 45.658
+    },
+    {
+      "start": 45.708,
+      "text": "答案在于松露独特且有些神秘的生物学特性。",
+      "end": 53.082
+    },
+    {
+      "start": 53.132,
+      "text": "松露指的是近200种物种真菌，",
+      "end": 57.211000000000006
+    },
+    {
+      "start": 57.261,
+      "text": "其中约30种用于商业贸易。",
+      "end": 61.215
+    },
+    {
+      "start": 61.265,
+      "text": "最受追捧的松露原产于欧洲，",
+      "end": 64.677
+    },
+    {
+      "start": 64.727,
+      "text": "产地仅限于富含石灰的干燥土壤 和有轻微夏季降雨的地区。",
+      "end": 71.10000000000001
+    },
+    {
+      "start": 71.15,
+      "text": "每个物种都生长在特定树木的树冠下，",
+      "end": 75.646
+    },
+    {
+      "start": 75.696,
+      "text": "在那里它们形成紧密的共生关系。",
+      "end": 79.85900000000001
+    },
+    {
+      "start": 79.909,
+      "text": "松露的菌丝体，是真菌的营养根状结构，",
+      "end": 85.406
+    },
+    {
+      "start": 85.456,
+      "text": "它将自己包裹在树根上， 并将水和营养物质换成糖。",
+      "end": 92.747
+    },
+    {
+      "start": 92.797,
+      "text": "虽然松露本身不是蘑菇，",
+      "end": 95.917
+    },
+    {
+      "start": 95.967,
+      "text": "但我们垂涎的松露部分， 像蘑菇一样，",
+      "end": 100.171
+    },
+    {
+      "start": 100.221,
+      "text": "是真菌的子实体。",
+      "end": 103.382
+    },
+    {
+      "start": 103.432,
+      "text": "但是，当蘑菇生长在地上时，",
+      "end": 106.135
+    },
+    {
+      "start": 106.185,
+      "text": "使它们的孢子可以通过风和觅食动物散播，",
+      "end": 111.599
+    },
+    {
+      "start": 111.649,
+      "text": "而松露则完全生长在土壤之下。",
+      "end": 115.686
+    },
+    {
+      "start": 115.736,
+      "text": "因此，它们释放出一种强大的芳香剂， 引诱饥饿的森林动物",
+      "end": 121.15
+    },
+    {
+      "start": 121.2,
+      "text": "前来传播（孢子）。",
+      "end": 123.861
+    },
+    {
+      "start": 123.911,
+      "text": "如果这些动物碰巧将这些孢子落在",
+      "end": 128.24099999999999
+    },
+    {
+      "start": 128.291,
+      "text": "特定类型树的根部附近，",
+      "end": 130.785
+    },
+    {
+      "start": 130.835,
+      "text": "只有在那之后，松露才可能生长出来， 通常是在几年后。",
+      "end": 136.04
+    },
+    {
+      "start": 136.09,
+      "text": "这种强烈的香气也是松露吸引人类的原因。",
+      "end": 142.505
+    },
+    {
+      "start": 142.555,
+      "text": "实际上，我们所认为的松露味道在很大程度上",
+      "end": 146.59199999999998
+    },
+    {
+      "start": 146.642,
+      "text": "来自其独特的香味。",
+      "end": 149.137
+    },
+    {
+      "start": 149.187,
+      "text": "一个物种通常会释放 30 到 60种 不同的挥发性化合物，",
+      "end": 155.935
+    },
+    {
+      "start": 155.985,
+      "text": "这些化合物是由松露以及定殖在 其上的细菌和酵母菌",
+      "end": 159.939
+    },
+    {
+      "start": 159.989,
+      "text": "共同产生的。",
+      "end": 161.732
+    },
+    {
+      "start": 161.782,
+      "text": "但是，尽管它们的气味",
+      "end": 163.44199999999998
+    },
+    {
+      "start": 163.492,
+      "text": "在茂密的森林中 找到这些地下宝石绝非易事。",
+      "end": 169.40699999999998
+    },
+    {
+      "start": 169.457,
+      "text": "早在 1400 年代，欧洲人就使用猪 作为寻找松露的伙伴。",
+      "end": 176.873
+    },
+    {
+      "start": 176.923,
+      "text": "松露会释放二甲基硫化物， 这种化合物会散发像卷心菜的味道，",
+      "end": 183.337
+    },
+    {
+      "start": 183.387,
+      "text": "有助于吸引猪。",
+      "end": 185.923
+    },
+    {
+      "start": 185.973,
+      "text": "但是，当猪找到松露时，",
+      "end": 188.04999999999998
+    },
+    {
+      "start": 188.1,
+      "text": "它们很容易从利润中分一杯羹。",
+      "end": 191.053
+    },
+    {
+      "start": 191.103,
+      "text": "许多松露猎人开始用狗代替猪，",
+      "end": 196.35
+    },
+    {
+      "start": 196.4,
+      "text": "这些狗虽然不是天生的松露猎手， 但它们更容易训练。",
+      "end": 201.48
+    },
+    {
+      "start": 201.53,
+      "text": "与此同时，其他人通过跟踪一些已知会 在松露附近产卵的苍蝇种类，",
+      "end": 207.278
+    },
+    {
+      "start": 207.328,
+      "text": "来寻找他们的奖励。",
+      "end": 211.03199999999998
+    },
+    {
+      "start": 211.082,
+      "text": "然而，今天，全球市场对松露的需求仍然超过了",
+      "end": 216.87099999999998
+    },
+    {
+      "start": 216.921,
+      "text": "任何猪、狗或苍蝇能够嗅出的数量。",
+      "end": 221.33399999999997
+    },
+    {
+      "start": 221.384,
+      "text": "松露持续变得愈加稀有——也愈加昂贵——",
+      "end": 226.756
+    },
+    {
+      "start": 226.806,
+      "text": "随着森林砍伐和气候变化缩小了 它们适宜生长的区域",
+      "end": 233.137
+    },
+    {
+      "start": 233.187,
+      "text": "那么，为什么我们不直接种植它们呢？",
+      "end": 235.97299999999998
+    },
+    {
+      "start": 236.023,
+      "text": "在某种程度上，我们确实如此。",
+      "end": 238.226
+    },
+    {
+      "start": 238.276,
+      "text": "1808 年，一位法国农民 成为第一个种植松露的人，",
+      "end": 243.481
+    },
+    {
+      "start": 243.531,
+      "text": "他在含有松露的橡树下种下橡子，",
+      "end": 247.35999999999999
+    },
+    {
+      "start": 247.41,
+      "text": "然后将幼苗移植到——当时并不知道——",
+      "end": 252.61499999999998
+    },
+    {
+      "start": 252.665,
+      "text": "一些真菌伴侣身上。",
+      "end": 255.034
+    },
+    {
+      "start": 255.084,
+      "text": "到 1970 年代初，",
+      "end": 257.245
+    },
+    {
+      "start": 257.295,
+      "text": "科学家们破解了如何人工嫁接树苗，",
+      "end": 262.58299999999997
+    },
+    {
+      "start": 262.633,
+      "text": "这使得种植者能够在远离原产地的果园里",
+      "end": 266.50399999999996
+    },
+    {
+      "start": 266.554,
+      "text": "种植某些种类的松露。",
+      "end": 271.259
+    },
+    {
+      "start": 271.309,
+      "text": "但是，松露仍不被视为一种被驯化的作物。",
+      "end": 276.806
+    },
+    {
+      "start": 276.856,
+      "text": "因为还有太多未知的因素，",
+      "end": 279.22499999999997
+    },
+    {
+      "start": 279.275,
+      "text": "因为研究人员仍在努力研究 精确的温度、降水量、",
+      "end": 284.772
+    },
+    {
+      "start": 284.822,
+      "text": "海拔、土壤酸碱值及其他环境因素",
+      "end": 289.694
+    },
+    {
+      "start": 289.744,
+      "text": "这些都会决定松露果园成功的因素。",
+      "end": 293.823
+    },
+    {
+      "start": 293.873,
+      "text": "问题的一部分在于 松露需要交配",
+      "end": 297.743
+    },
+    {
+      "start": 297.793,
+      "text": "才能形成宝贵的子实体，",
+      "end": 301.163
+    },
+    {
+      "start": 301.213,
+      "text": "但松露的繁殖在很大程度上仍然是个谜。",
+      "end": 306.419
+    },
+    {
+      "start": 306.469,
+      "text": "研究人员知道，这些真菌是",
+      "end": 310.423
+    },
+    {
+      "start": 310.473,
+      "text": "无法单独繁殖的雌雄同体。",
+      "end": 313.134
+    },
+    {
+      "start": 313.184,
+      "text": "因此，当松露繁殖时，",
+      "end": 315.84499999999997
+    },
+    {
+      "start": 315.895,
+      "text": "一种真菌承担了母性的角色， 而另一种则承担了父性的角色，",
+      "end": 321.726
+    },
+    {
+      "start": 321.776,
+      "text": "每种真菌都贡献了形成孢子的基因的一半。",
+      "end": 327.06399999999996
+    },
+    {
+      "start": 327.114,
+      "text": "但是，当研究人员搜索松露子实体 附近的区域时，",
+      "end": 332.52799999999996
+    },
+    {
+      "start": 332.578,
+      "text": "他们只能找到母体菌丝体。",
+      "end": 337.033
+    },
+    {
+      "start": 337.083,
+      "text": "雄性伙伴的栖息地—— 或者说藏身之处——仍然未知。",
+      "end": 344.16499999999996
+    },
+    {
+      "start": 344.215,
+      "text": "因此，每当一个充满希望的 松露爱好者开始经营一个新的农场时，",
+      "end": 349.92
+    },
+    {
+      "start": 349.97,
+      "text": "松露是否能够生长并没有保证，",
+      "end": 353.007
+    },
+    {
+      "start": 353.057,
+      "text": "而且他们必须等四年或更长时间才能得到结果。",
+      "end": 357.553
+    },
+    {
+      "start": 357.603,
+      "text": "但是许多人选择了这场赌博，",
+      "end": 359.597
+    },
+    {
+      "start": 359.647,
+      "text": "因为种植者知道，如果他们有耐心和幸运的话，",
+      "end": 363.851
+    },
+    {
+      "start": 363.901,
+      "text": "他们可能会挖出黄金。",
+      "end": 367.95
+    }
+  ]
+};

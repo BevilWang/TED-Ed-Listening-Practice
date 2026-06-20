@@ -1,0 +1,1239 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Is there any truth to the King Arthur legends?",
+    "speaker": "Alan Lupack",
+    "duration": 318,
+    "slug": "alan_lupack_is_there_any_truth_to_the_king_arthur_legends",
+    "sourcePage": "https://www.ted.com/talks/alan_lupack_is_there_any_truth_to_the_king_arthur_legends",
+    "translationSourcePage": "https://www.ted.com/talks/alan_lupack_is_there_any_truth_to_the_king_arthur_legends?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/43/63/009/products/2018e-alan-lupack-king-arthur-009-fallback-b47b5dd741b68e9d081d13100e914f1c-1200k.mp4",
+    "youtubeId": "RBsY88Lir-A",
+    "youtubeTitle": "Is there any truth to the King Arthur legends? - Alan Lupack"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.108,
+      "end": 12.892,
+      "text": "“Here lies Arthur, king who was, and king who will be.”",
+      "translation": "“亚瑟葬于此处， 他曾是，也将一直是王。”"
+    },
+    {
+      "id": 2,
+      "start": 12.942,
+      "end": 20.308,
+      "text": "So reads the inscription on King Arthur’s gravestone in Thomas Malory’s Le Morte d’Arthur.",
+      "translation": "读一下托马斯 · 马洛里 写于 15 世纪的《亚瑟王之死》一书中，"
+    },
+    {
+      "id": 3,
+      "start": 20.358,
+      "end": 26.981,
+      "text": "Writing in the 15th century, Malory couldn’t have known how prophetic this inscription would turn out to be.",
+      "translation": "亚瑟王墓碑上的铭文，马洛里应该不会想到 这份铭文最终竟如此的有预见性。"
+    },
+    {
+      "id": 4,
+      "start": 27.031,
+      "end": 39.584,
+      "text": "King Arthur has risen again and again in our collective imagination, along with his retinue of knights, Guinevere, the Round Table, Camelot, and of course, Excalibur.",
+      "translation": "亚瑟王在我们的集体想象中 一次次崛起，还有他的骑士随从、妻子桂妮薇儿圆桌会议、宫殿卡米洛特，当然，还有王者之剑。"
+    },
+    {
+      "id": 5,
+      "start": 39.634,
+      "end": 43.963,
+      "text": "But where do these stories come from, and is there any truth to them?",
+      "translation": "但是，这些故事从哪来， 又有多少可信度呢？"
+    },
+    {
+      "id": 6,
+      "start": 44.013,
+      "end": 57.14,
+      "text": "King Arthur as we know him is a creation of the later Middle Ages, but his legend actually has its roots in Celtic poetry from an earlier time: the Saxon invasions of Britain.",
+      "translation": "我们所知的亚瑟王是 中世纪后期创造出的人物，但是他的传奇实际上 起源于更早期的凯尔特诗歌：撒克逊人入侵不列颠王朝。"
+    },
+    {
+      "id": 7,
+      "start": 57.19,
+      "end": 69.099,
+      "text": "After the Romans left Britain in 410 CE, Saxon invaders from what’s now Germany and Denmark quickly capitalized on the vulnerability of the abandoned territory.",
+      "translation": "在公元 410 年，罗马人离开不列颠后来自于现在的德国和丹麦的撒克逊入侵者迅速的占领了这片的废弃领地。"
+    },
+    {
+      "id": 8,
+      "start": 69.149,
+      "end": 75.366,
+      "text": "The inhabitants of Britain fought fiercely against the invaders through several centuries of turmoil.",
+      "translation": "不列颠人激烈抵抗入侵者，混乱持续了几个世纪。"
+    },
+    {
+      "id": 9,
+      "start": 75.416,
+      "end": 81.647,
+      "text": "There are hardly any written records from this time, so it’s difficult to reconstruct an accurate history.",
+      "translation": "现今已很少有书面记载这个了，所以很难去重塑最准确的历史。"
+    },
+    {
+      "id": 10,
+      "start": 81.697,
+      "end": 86.112,
+      "text": "However, surviving poetry from the era gives us some clues.",
+      "translation": "然而，还是可以在当今现存的 诗歌中找到一些头绪"
+    },
+    {
+      "id": 11,
+      "start": 86.162,
+      "end": 94.295,
+      "text": "One of the poems, The Gododdin, contains the very first reference to Arthur, though Arthur himself doesn’t actually appear in it.",
+      "translation": "其中一首叫《高多汀》的诗 就第一次提到亚瑟，但亚瑟这个角色并没有出现在里面。"
+    },
+    {
+      "id": 12,
+      "start": 94.345,
+      "end": 101.974,
+      "text": "It says a different warrior, named Gwawrddur, was skilled at slaying his enemies, but was no Arthur.",
+      "translation": "诗中说的是另一个战士，格瓦多尔他善于屠杀敌人，但他并不是亚瑟。"
+    },
+    {
+      "id": 13,
+      "start": 102.024,
+      "end": 108.767,
+      "text": "That’s not much to go on, but whoever this Arthur was, he must’ve been the gold standard of warriors.",
+      "translation": "对于亚瑟没有更多的描述了，但是不管这个亚瑟是谁，他肯定是战士的黄金典范。"
+    },
+    {
+      "id": 14,
+      "start": 108.817,
+      "end": 114.355,
+      "text": "Whether he ruled anyone, or even lived at all is, unfortunately, less clear.",
+      "translation": "他统治过谁，或是否真的存在， 很不幸，我们都无从得知。"
+    },
+    {
+      "id": 15,
+      "start": 114.405,
+      "end": 121.741,
+      "text": "Despite this uncertainty, references to Arthur caught the attention of an aspiring historian hundreds of years later.",
+      "translation": "尽管亚瑟的事情扑朔迷离，几百年后，一位有抱负的历史学家却对亚瑟的文献颇有兴趣。"
+    },
+    {
+      "id": 16,
+      "start": 121.791,
+      "end": 128.947,
+      "text": "In 1130, Geoffrey of Monmouth was a lowly cleric with grand ambitions.",
+      "translation": "1130 年，这位野心勃勃的牧师—— 蒙莫斯郡的杰弗里，"
+    },
+    {
+      "id": 17,
+      "start": 128.997,
+      "end": 137.239,
+      "text": "Using Celtic and Latin sources, he spent years creating a lengthy chronicle titled, \"The History of the Kings of Britain.\"",
+      "translation": "他借鉴了凯尔特和拉丁文献，历时数年创造了一长篇编年史册名字叫《不列颠国王的历史》。"
+    },
+    {
+      "id": 18,
+      "start": 137.289,
+      "end": 140.818,
+      "text": "The centerpiece of this tome was King Arthur.",
+      "translation": "这本书的中心就是亚瑟王。"
+    },
+    {
+      "id": 19,
+      "start": 140.868,
+      "end": 144.591,
+      "text": "History is a generous term for Geoffrey’s account.",
+      "translation": "历史在杰弗里眼里是个很大的词汇，"
+    },
+    {
+      "id": 20,
+      "start": 144.641,
+      "end": 154.686,
+      "text": "Writing six hundred years after the Saxon invasions, he cobbled together fragments of myth and poetry to compensate for the almost complete lack of official records.",
+      "translation": "写于撒克逊人侵略六百年后，他把神话和诗歌的段落拼凑起来，来填补几乎空白的官方记载。"
+    },
+    {
+      "id": 21,
+      "start": 154.736,
+      "end": 160.488,
+      "text": "A few of his sources contained mentions of Arthur, and some others were realistic accounts of battles and places.",
+      "translation": "他所借鉴的书中有几本提及亚瑟，其他的真实地描述了战役和地方。"
+    },
+    {
+      "id": 22,
+      "start": 160.538,
+      "end": 167.131,
+      "text": "But many featured mythic heroes fighting long odds with the help of magical swords and sorcery.",
+      "translation": "还有更多的提及了神话英雄在魔法剑和巫术的帮助下以寡敌众。"
+    },
+    {
+      "id": 23,
+      "start": 167.181,
+      "end": 183.525,
+      "text": "Geoffrey blended them all: A magical sword called Caledfwlch and a Roman fortress called Caerleon appeared in his source material, so Geoffrey’s Arthur ruled from Caerleon and wielded Caliburnus, the Latin translation of Caledfwlch.",
+      "translation": "杰弗里综合了所有的记录：一把叫王者之剑的魔剑和一个叫卡利恩的罗马要塞出现在原著中，杰佛里描述的亚瑟王 统治了从卡利恩到辽阔的卡里布恩斯，卡里布恩斯是王者之剑的拉丁语版。"
+    },
+    {
+      "id": 24,
+      "start": 183.575,
+      "end": 190.795,
+      "text": "Geoffrey even added a wise counselor named Merlin, based on the Celtic bard Myrrdin, to Arthur’s story.",
+      "translation": "杰佛里还给亚瑟故事 加了一个叫梅林的智者，原型是凯尔特吟游诗人梅尔丁。"
+    },
+    {
+      "id": 25,
+      "start": 190.845,
+      "end": 199.145,
+      "text": "If Arthur did live, he would likely have been a military leader, but a castle-bound king better fit Geoffrey’s regal history.",
+      "translation": "如果亚瑟确实存在， 他可能是一位军队统帅但是城堡般的国王领袖 更适用于杰弗里德的史诗。"
+    },
+    {
+      "id": 26,
+      "start": 199.195,
+      "end": 208.325,
+      "text": "Geoffrey’s chronicle got the attention he’d hoped for, and was soon translated from Latin into French by the poet Wace around 1155 CE.",
+      "translation": "他的编史带来了他想要的关注，这本书很快就被诗人韦斯在 1155 年由拉丁语翻译成法语。"
+    },
+    {
+      "id": 27,
+      "start": 208.375,
+      "end": 215.944,
+      "text": "Wace added another centerpiece of Arthurian lore to Geoffrey’s sword, castle, and wizard: the Round Table.",
+      "translation": "韦斯给杰弗里的剑加了其他传说。城堡、男巫、和圆桌会议。"
+    },
+    {
+      "id": 28,
+      "start": 215.994,
+      "end": 225.663,
+      "text": "He wrote that Arthur had the table constructed so that all guests in his court would be equally placed, and none could boast that he had the highest position at the table.",
+      "translation": "他写道，亚瑟之所以用这个桌子是为了给所有客人平等的坐席，没有任何一人能吹嘘自己地位最高。"
+    },
+    {
+      "id": 29,
+      "start": 225.713,
+      "end": 235.726,
+      "text": "After reading Wace’s translation, another French poet, Chrétien de Troyes, wrote a series of romances that catapulted Arthur’s story to fame.",
+      "translation": "在读过韦斯翻译后， 另一位法国诗人克雷蒂安 · 德 · 特鲁瓦写了许多传奇， 把亚瑟故事的名声推到顶峰"
+    },
+    {
+      "id": 30,
+      "start": 235.776,
+      "end": 243.656,
+      "text": "He introduced tales of individual knights like Lancelot and Gawain, and mixed elements of romance in with the adventures.",
+      "translation": "他讲述了很多骑士的故事， 比如兰斯洛特和高文。他还在历险中加了许多浪漫元素，"
+    },
+    {
+      "id": 31,
+      "start": 243.706,
+      "end": 248.703,
+      "text": "He conceived Arthur, Lancelot, and Guinevere’s love triangle.",
+      "translation": "他构造了亚瑟，兰斯洛特和桂妮薇儿的三角恋。"
+    },
+    {
+      "id": 32,
+      "start": 248.753,
+      "end": 254.518,
+      "text": "In addition to interpersonal intrigue, he also introduced the Holy Grail.",
+      "translation": "除了宫廷中的阴谋， 他也写入了圣杯。"
+    },
+    {
+      "id": 33,
+      "start": 254.568,
+      "end": 261.013,
+      "text": "Chrétien probably based his Grail’s powers on magical objects in Celtic mythology.",
+      "translation": "克雷蒂安写圣杯力量可能是 借鉴了凯尔特神话的魔法物件。"
+    },
+    {
+      "id": 34,
+      "start": 261.063,
+      "end": 271.666,
+      "text": "He lived in the middle of the Crusades, and others imposed the preoccupations of the time on the Grail, casting it as a powerful relic from the crucifixion.",
+      "translation": "他生活在十字军东征的时代，其他人把当时的事情和圣杯联系起来，把它当做耶稣殉难留下的圣遗物。"
+    },
+    {
+      "id": 35,
+      "start": 271.716,
+      "end": 276.983,
+      "text": "Numerous adaptations in French and other languages followed from Chrétien’s work.",
+      "translation": "克雷蒂安的作品在之后被翻译成法语和很多其他语言。"
+    },
+    {
+      "id": 36,
+      "start": 277.033,
+      "end": 284.686,
+      "text": "In the course of these retellings, Caerleon became Camelot, and Caliburnus was rechristened Excalibur.",
+      "translation": "重诉这些故事时， 卡利恩被说成了卡米洛特，卡里布恩斯改名为王者之剑。"
+    },
+    {
+      "id": 37,
+      "start": 284.736,
+      "end": 293.593,
+      "text": "In the 15th century, Sir Thomas Malory synthesized these stories in Le Morte D’arthur, the basis of many modern accounts of King Arthur.",
+      "translation": "在 15 世纪，托马斯 · 马洛里爵士把这些故事 合成为亚瑟王之死，也就是很多现代亚瑟王故事的前身。"
+    },
+    {
+      "id": 38,
+      "start": 293.643,
+      "end": 304.583,
+      "text": "In the thousand years since Arthur first appeared in a Celtic poem, his story has transformed over and over to reflect the concerns of his chroniclers and their audiences.",
+      "translation": "从凯尔特诗歌第一次出现亚瑟的几千年来，他的故事被一次次改写，反映着编年史家和观众他们想看的东西。"
+    },
+    {
+      "id": 39,
+      "start": 304.633,
+      "end": 308.179,
+      "text": "And we’re still rewriting and adapting the legend today.",
+      "translation": "我们现今仍旧在重写和改编他的传奇，"
+    },
+    {
+      "id": 40,
+      "start": 308.229,
+      "end": 317.95,
+      "text": "Whether or not the man ever lived, loved, reigned, or adventured, it’s undeniable that the character has achieved immortality.",
+      "translation": "不管他到底存不存在，爱没爱过，统治过哪，有过哪些历险，不可否认的是，他的角色达到了永生。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.108,
+      "text": "“Here lies Arthur, king who was, and king who will be.”",
+      "end": 12.892
+    },
+    {
+      "start": 12.942,
+      "text": "So reads the inscription on King Arthur’s gravestone",
+      "end": 16.236
+    },
+    {
+      "start": 16.286,
+      "text": "in Thomas Malory’s Le Morte d’Arthur.",
+      "end": 20.308
+    },
+    {
+      "start": 20.358,
+      "text": "Writing in the 15th century,",
+      "end": 22.145
+    },
+    {
+      "start": 22.195,
+      "text": "Malory couldn’t have known how prophetic this inscription would turn out to be.",
+      "end": 26.980999999999998
+    },
+    {
+      "start": 27.031,
+      "text": "King Arthur has risen again and again in our collective imagination,",
+      "end": 31.614
+    },
+    {
+      "start": 31.664,
+      "text": "along with his retinue of knights,",
+      "end": 33.664
+    },
+    {
+      "start": 33.714,
+      "text": "Guinevere,",
+      "end": 34.664
+    },
+    {
+      "start": 34.714,
+      "text": "the Round Table,",
+      "end": 35.871
+    },
+    {
+      "start": 35.921,
+      "text": "Camelot,",
+      "end": 36.75
+    },
+    {
+      "start": 36.8,
+      "text": "and of course, Excalibur.",
+      "end": 39.584
+    },
+    {
+      "start": 39.634,
+      "text": "But where do these stories come from, and is there any truth to them?",
+      "end": 43.963
+    },
+    {
+      "start": 44.013,
+      "text": "King Arthur as we know him is a creation of the later Middle Ages,",
+      "end": 48.645
+    },
+    {
+      "start": 48.695,
+      "text": "but his legend actually has its roots in Celtic poetry from an earlier time:",
+      "end": 54.202000000000005
+    },
+    {
+      "start": 54.252,
+      "text": "the Saxon invasions of Britain.",
+      "end": 57.14
+    },
+    {
+      "start": 57.19,
+      "text": "After the Romans left Britain in 410 CE,",
+      "end": 61.173
+    },
+    {
+      "start": 61.223,
+      "text": "Saxon invaders from what’s now Germany and Denmark",
+      "end": 64.563
+    },
+    {
+      "start": 64.613,
+      "text": "quickly capitalized on the vulnerability of the abandoned territory.",
+      "end": 69.099
+    },
+    {
+      "start": 69.149,
+      "text": "The inhabitants of Britain fought fiercely against the invaders",
+      "end": 72.639
+    },
+    {
+      "start": 72.689,
+      "text": "through several centuries of turmoil.",
+      "end": 75.366
+    },
+    {
+      "start": 75.416,
+      "text": "There are hardly any written records from this time,",
+      "end": 78.013
+    },
+    {
+      "start": 78.063,
+      "text": "so it’s difficult to reconstruct an accurate history.",
+      "end": 81.647
+    },
+    {
+      "start": 81.697,
+      "text": "However, surviving poetry from the era gives us some clues.",
+      "end": 86.11200000000001
+    },
+    {
+      "start": 86.162,
+      "text": "One of the poems, The Gododdin, contains the very first reference to Arthur,",
+      "end": 91.068
+    },
+    {
+      "start": 91.118,
+      "text": "though Arthur himself doesn’t actually appear in it.",
+      "end": 94.295
+    },
+    {
+      "start": 94.345,
+      "text": "It says a different warrior, named Gwawrddur,",
+      "end": 97.667
+    },
+    {
+      "start": 97.717,
+      "text": "was skilled at slaying his enemies, but was no Arthur.",
+      "end": 101.974
+    },
+    {
+      "start": 102.024,
+      "text": "That’s not much to go on,",
+      "end": 103.528
+    },
+    {
+      "start": 103.578,
+      "text": "but whoever this Arthur was,",
+      "end": 105.516
+    },
+    {
+      "start": 105.566,
+      "text": "he must’ve been the gold standard of warriors.",
+      "end": 108.767
+    },
+    {
+      "start": 108.817,
+      "text": "Whether he ruled anyone, or even lived at all is, unfortunately, less clear.",
+      "end": 114.355
+    },
+    {
+      "start": 114.405,
+      "text": "Despite this uncertainty,",
+      "end": 116.114
+    },
+    {
+      "start": 116.164,
+      "text": "references to Arthur caught the attention of an aspiring historian",
+      "end": 119.96600000000001
+    },
+    {
+      "start": 120.016,
+      "text": "hundreds of years later.",
+      "end": 121.741
+    },
+    {
+      "start": 121.791,
+      "text": "In 1130, Geoffrey of Monmouth was a lowly cleric with grand ambitions.",
+      "end": 128.947
+    },
+    {
+      "start": 128.997,
+      "text": "Using Celtic and Latin sources,",
+      "end": 131.123
+    },
+    {
+      "start": 131.173,
+      "text": "he spent years creating a lengthy chronicle",
+      "end": 133.66899999999998
+    },
+    {
+      "start": 133.719,
+      "text": "titled, \"The History of the Kings of Britain.\"",
+      "end": 137.23899999999998
+    },
+    {
+      "start": 137.289,
+      "text": "The centerpiece of this tome was King Arthur.",
+      "end": 140.81799999999998
+    },
+    {
+      "start": 140.868,
+      "text": "History is a generous term for Geoffrey’s account.",
+      "end": 144.59099999999998
+    },
+    {
+      "start": 144.641,
+      "text": "Writing six hundred years after the Saxon invasions,",
+      "end": 147.807
+    },
+    {
+      "start": 147.857,
+      "text": "he cobbled together fragments of myth and poetry",
+      "end": 150.547
+    },
+    {
+      "start": 150.597,
+      "text": "to compensate for the almost complete lack of official records.",
+      "end": 154.68599999999998
+    },
+    {
+      "start": 154.736,
+      "text": "A few of his sources contained mentions of Arthur,",
+      "end": 157.141
+    },
+    {
+      "start": 157.191,
+      "text": "and some others were realistic accounts of battles and places.",
+      "end": 160.488
+    },
+    {
+      "start": 160.538,
+      "text": "But many featured mythic heroes fighting long odds",
+      "end": 163.62199999999999
+    },
+    {
+      "start": 163.672,
+      "text": "with the help of magical swords and sorcery.",
+      "end": 167.131
+    },
+    {
+      "start": 167.181,
+      "text": "Geoffrey blended them all:",
+      "end": 168.653
+    },
+    {
+      "start": 168.703,
+      "text": "A magical sword called Caledfwlch",
+      "end": 171.58999999999997
+    },
+    {
+      "start": 171.64,
+      "text": "and a Roman fortress called Caerleon appeared in his source material,",
+      "end": 175.712
+    },
+    {
+      "start": 175.762,
+      "text": "so Geoffrey’s Arthur ruled from Caerleon and wielded Caliburnus,",
+      "end": 180.923
+    },
+    {
+      "start": 180.973,
+      "text": "the Latin translation of Caledfwlch.",
+      "end": 183.52499999999998
+    },
+    {
+      "start": 183.575,
+      "text": "Geoffrey even added a wise counselor named Merlin,",
+      "end": 186.856
+    },
+    {
+      "start": 186.906,
+      "text": "based on the Celtic bard Myrrdin, to Arthur’s story.",
+      "end": 190.795
+    },
+    {
+      "start": 190.845,
+      "text": "If Arthur did live, he would likely have been a military leader,",
+      "end": 193.95499999999998
+    },
+    {
+      "start": 194.005,
+      "text": "but a castle-bound king better fit Geoffrey’s regal history.",
+      "end": 199.14499999999998
+    },
+    {
+      "start": 199.195,
+      "text": "Geoffrey’s chronicle got the attention he’d hoped for,",
+      "end": 201.78199999999998
+    },
+    {
+      "start": 201.832,
+      "text": "and was soon translated from Latin into French",
+      "end": 204.189
+    },
+    {
+      "start": 204.239,
+      "text": "by the poet Wace around 1155 CE.",
+      "end": 208.325
+    },
+    {
+      "start": 208.375,
+      "text": "Wace added another centerpiece of Arthurian lore to Geoffrey’s sword,",
+      "end": 212.06699999999998
+    },
+    {
+      "start": 212.117,
+      "text": "castle,",
+      "end": 212.768
+    },
+    {
+      "start": 212.818,
+      "text": "and wizard:",
+      "end": 214.052
+    },
+    {
+      "start": 214.102,
+      "text": "the Round Table.",
+      "end": 215.944
+    },
+    {
+      "start": 215.994,
+      "text": "He wrote that Arthur had the table constructed",
+      "end": 218.17399999999998
+    },
+    {
+      "start": 218.224,
+      "text": "so that all guests in his court would be equally placed,",
+      "end": 221.606
+    },
+    {
+      "start": 221.656,
+      "text": "and none could boast that he had the highest position at the table.",
+      "end": 225.66299999999998
+    },
+    {
+      "start": 225.713,
+      "text": "After reading Wace’s translation, another French poet, Chrétien de Troyes,",
+      "end": 231.009
+    },
+    {
+      "start": 231.059,
+      "text": "wrote a series of romances that catapulted Arthur’s story to fame.",
+      "end": 235.726
+    },
+    {
+      "start": 235.776,
+      "text": "He introduced tales of individual knights like Lancelot and Gawain,",
+      "end": 240.91
+    },
+    {
+      "start": 240.96,
+      "text": "and mixed elements of romance in with the adventures.",
+      "end": 243.65599999999998
+    },
+    {
+      "start": 243.706,
+      "text": "He conceived Arthur,",
+      "end": 245.195
+    },
+    {
+      "start": 245.245,
+      "text": "Lancelot,",
+      "end": 246.272
+    },
+    {
+      "start": 246.322,
+      "text": "and Guinevere’s love triangle.",
+      "end": 248.70299999999997
+    },
+    {
+      "start": 248.753,
+      "text": "In addition to interpersonal intrigue, he also introduced the Holy Grail.",
+      "end": 254.518
+    },
+    {
+      "start": 254.568,
+      "text": "Chrétien probably based his Grail’s powers on magical objects in Celtic mythology.",
+      "end": 261.013
+    },
+    {
+      "start": 261.063,
+      "text": "He lived in the middle of the Crusades,",
+      "end": 263.625
+    },
+    {
+      "start": 263.675,
+      "text": "and others imposed the preoccupations of the time on the Grail,",
+      "end": 268.12
+    },
+    {
+      "start": 268.17,
+      "text": "casting it as a powerful relic from the crucifixion.",
+      "end": 271.666
+    },
+    {
+      "start": 271.716,
+      "text": "Numerous adaptations in French and other languages",
+      "end": 274.837
+    },
+    {
+      "start": 274.887,
+      "text": "followed from Chrétien’s work.",
+      "end": 276.983
+    },
+    {
+      "start": 277.033,
+      "text": "In the course of these retellings, Caerleon became Camelot,",
+      "end": 280.95799999999997
+    },
+    {
+      "start": 281.008,
+      "text": "and Caliburnus was rechristened Excalibur.",
+      "end": 284.686
+    },
+    {
+      "start": 284.736,
+      "text": "In the 15th century,",
+      "end": 285.947
+    },
+    {
+      "start": 285.997,
+      "text": "Sir Thomas Malory synthesized these stories in Le Morte D’arthur,",
+      "end": 290.423
+    },
+    {
+      "start": 290.473,
+      "text": "the basis of many modern accounts of King Arthur.",
+      "end": 293.59299999999996
+    },
+    {
+      "start": 293.643,
+      "text": "In the thousand years since Arthur first appeared in a Celtic poem,",
+      "end": 297.70099999999996
+    },
+    {
+      "start": 297.751,
+      "text": "his story has transformed over and over",
+      "end": 300.312
+    },
+    {
+      "start": 300.362,
+      "text": "to reflect the concerns of his chroniclers and their audiences.",
+      "end": 304.58299999999997
+    },
+    {
+      "start": 304.633,
+      "text": "And we’re still rewriting and adapting the legend today.",
+      "end": 308.179
+    },
+    {
+      "start": 308.229,
+      "text": "Whether or not the man ever lived,",
+      "end": 309.977
+    },
+    {
+      "start": 310.027,
+      "text": "loved,",
+      "end": 310.803
+    },
+    {
+      "start": 310.853,
+      "text": "reigned,",
+      "end": 311.481
+    },
+    {
+      "start": 311.531,
+      "text": "or adventured,",
+      "end": 312.62899999999996
+    },
+    {
+      "start": 312.679,
+      "text": "it’s undeniable that the character has achieved immortality.",
+      "end": 317.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.108,
+      "text": "“亚瑟葬于此处， 他曾是，也将一直是王。”",
+      "end": 12.892
+    },
+    {
+      "start": 12.942,
+      "text": "读一下托马斯 · 马洛里 写于 15 世纪的",
+      "end": 16.236
+    },
+    {
+      "start": 16.286,
+      "text": "《亚瑟王之死》一书中，",
+      "end": 20.308
+    },
+    {
+      "start": 20.358,
+      "text": "亚瑟王墓碑上的铭文，",
+      "end": 22.145
+    },
+    {
+      "start": 22.195,
+      "text": "马洛里应该不会想到 这份铭文最终竟如此的有预见性。",
+      "end": 26.980999999999998
+    },
+    {
+      "start": 27.031,
+      "text": "亚瑟王在我们的集体想象中 一次次崛起，",
+      "end": 31.614
+    },
+    {
+      "start": 31.664,
+      "text": "还有他的骑士随从、",
+      "end": 33.664
+    },
+    {
+      "start": 33.714,
+      "text": "妻子桂妮薇儿",
+      "end": 34.664
+    },
+    {
+      "start": 34.714,
+      "text": "圆桌会议、",
+      "end": 35.871
+    },
+    {
+      "start": 35.921,
+      "text": "宫殿卡米洛特，",
+      "end": 36.75
+    },
+    {
+      "start": 36.8,
+      "text": "当然，还有王者之剑。",
+      "end": 39.584
+    },
+    {
+      "start": 39.634,
+      "text": "但是，这些故事从哪来， 又有多少可信度呢？",
+      "end": 43.963
+    },
+    {
+      "start": 44.013,
+      "text": "我们所知的亚瑟王是 中世纪后期创造出的人物，",
+      "end": 48.645
+    },
+    {
+      "start": 48.695,
+      "text": "但是他的传奇实际上 起源于更早期的凯尔特诗歌：",
+      "end": 54.202000000000005
+    },
+    {
+      "start": 54.252,
+      "text": "撒克逊人入侵不列颠王朝。",
+      "end": 57.14
+    },
+    {
+      "start": 57.19,
+      "text": "在公元 410 年，罗马人离开不列颠后",
+      "end": 61.173
+    },
+    {
+      "start": 61.223,
+      "text": "来自于现在的德国和丹麦的撒克逊入侵者",
+      "end": 64.563
+    },
+    {
+      "start": 64.613,
+      "text": "迅速的占领了这片的废弃领地。",
+      "end": 69.099
+    },
+    {
+      "start": 69.149,
+      "text": "不列颠人激烈抵抗入侵者，",
+      "end": 72.639
+    },
+    {
+      "start": 72.689,
+      "text": "混乱持续了几个世纪。",
+      "end": 75.366
+    },
+    {
+      "start": 75.416,
+      "text": "现今已很少有书面记载这个了，",
+      "end": 78.013
+    },
+    {
+      "start": 78.063,
+      "text": "所以很难去重塑最准确的历史。",
+      "end": 81.647
+    },
+    {
+      "start": 81.697,
+      "text": "然而，还是可以在当今现存的 诗歌中找到一些头绪",
+      "end": 86.11200000000001
+    },
+    {
+      "start": 86.162,
+      "text": "其中一首叫《高多汀》的诗 就第一次提到亚瑟，",
+      "end": 91.068
+    },
+    {
+      "start": 91.118,
+      "text": "但亚瑟这个角色并没有出现在里面。",
+      "end": 94.295
+    },
+    {
+      "start": 94.345,
+      "text": "诗中说的是另一个战士，格瓦多尔",
+      "end": 97.667
+    },
+    {
+      "start": 97.717,
+      "text": "他善于屠杀敌人，但他并不是亚瑟。",
+      "end": 101.974
+    },
+    {
+      "start": 102.024,
+      "text": "对于亚瑟没有更多的描述了，",
+      "end": 103.528
+    },
+    {
+      "start": 103.578,
+      "text": "但是不管这个亚瑟是谁，",
+      "end": 105.516
+    },
+    {
+      "start": 105.566,
+      "text": "他肯定是战士的黄金典范。",
+      "end": 108.767
+    },
+    {
+      "start": 108.817,
+      "text": "他统治过谁，或是否真的存在， 很不幸，我们都无从得知。",
+      "end": 114.355
+    },
+    {
+      "start": 114.405,
+      "text": "尽管亚瑟的事情扑朔迷离，",
+      "end": 116.114
+    },
+    {
+      "start": 116.164,
+      "text": "几百年后，一位有抱负的历史学家",
+      "end": 119.96600000000001
+    },
+    {
+      "start": 120.016,
+      "text": "却对亚瑟的文献颇有兴趣。",
+      "end": 121.741
+    },
+    {
+      "start": 121.791,
+      "text": "1130 年，这位野心勃勃的牧师—— 蒙莫斯郡的杰弗里，",
+      "end": 128.947
+    },
+    {
+      "start": 128.997,
+      "text": "他借鉴了凯尔特和拉丁文献，",
+      "end": 131.123
+    },
+    {
+      "start": 131.173,
+      "text": "历时数年创造了一长篇编年史册",
+      "end": 133.66899999999998
+    },
+    {
+      "start": 133.719,
+      "text": "名字叫《不列颠国王的历史》。",
+      "end": 137.23899999999998
+    },
+    {
+      "start": 137.289,
+      "text": "这本书的中心就是亚瑟王。",
+      "end": 140.81799999999998
+    },
+    {
+      "start": 140.868,
+      "text": "历史在杰弗里眼里是个很大的词汇，",
+      "end": 144.59099999999998
+    },
+    {
+      "start": 144.641,
+      "text": "写于撒克逊人侵略六百年后，",
+      "end": 147.807
+    },
+    {
+      "start": 147.857,
+      "text": "他把神话和诗歌的段落拼凑起来，",
+      "end": 150.547
+    },
+    {
+      "start": 150.597,
+      "text": "来填补几乎空白的官方记载。",
+      "end": 154.68599999999998
+    },
+    {
+      "start": 154.736,
+      "text": "他所借鉴的书中有几本提及亚瑟，",
+      "end": 157.141
+    },
+    {
+      "start": 157.191,
+      "text": "其他的真实地描述了战役和地方。",
+      "end": 160.488
+    },
+    {
+      "start": 160.538,
+      "text": "还有更多的提及了神话英雄",
+      "end": 163.62199999999999
+    },
+    {
+      "start": 163.672,
+      "text": "在魔法剑和巫术的帮助下以寡敌众。",
+      "end": 167.131
+    },
+    {
+      "start": 167.181,
+      "text": "杰弗里综合了所有的记录：",
+      "end": 168.653
+    },
+    {
+      "start": 168.703,
+      "text": "一把叫王者之剑的魔剑",
+      "end": 171.58999999999997
+    },
+    {
+      "start": 171.64,
+      "text": "和一个叫卡利恩的罗马要塞出现在原著中，",
+      "end": 175.712
+    },
+    {
+      "start": 175.762,
+      "text": "杰佛里描述的亚瑟王 统治了从卡利恩到辽阔的卡里布恩斯，",
+      "end": 180.923
+    },
+    {
+      "start": 180.973,
+      "text": "卡里布恩斯是王者之剑的拉丁语版。",
+      "end": 183.52499999999998
+    },
+    {
+      "start": 183.575,
+      "text": "杰佛里还给亚瑟故事 加了一个叫梅林的智者，",
+      "end": 186.856
+    },
+    {
+      "start": 186.906,
+      "text": "原型是凯尔特吟游诗人梅尔丁。",
+      "end": 190.795
+    },
+    {
+      "start": 190.845,
+      "text": "如果亚瑟确实存在， 他可能是一位军队统帅",
+      "end": 193.95499999999998
+    },
+    {
+      "start": 194.005,
+      "text": "但是城堡般的国王领袖 更适用于杰弗里德的史诗。",
+      "end": 199.14499999999998
+    },
+    {
+      "start": 199.195,
+      "text": "他的编史带来了他想要的关注，",
+      "end": 201.78199999999998
+    },
+    {
+      "start": 201.832,
+      "text": "这本书很快就被诗人韦斯在 1155 年",
+      "end": 204.189
+    },
+    {
+      "start": 204.239,
+      "text": "由拉丁语翻译成法语。",
+      "end": 208.325
+    },
+    {
+      "start": 208.375,
+      "text": "韦斯给杰弗里的剑加了其他传说。",
+      "end": 212.06699999999998
+    },
+    {
+      "start": 212.117,
+      "text": "城堡、",
+      "end": 212.768
+    },
+    {
+      "start": 212.818,
+      "text": "男巫、",
+      "end": 214.052
+    },
+    {
+      "start": 214.102,
+      "text": "和圆桌会议。",
+      "end": 215.944
+    },
+    {
+      "start": 215.994,
+      "text": "他写道，亚瑟之所以用这个桌子",
+      "end": 218.17399999999998
+    },
+    {
+      "start": 218.224,
+      "text": "是为了给所有客人平等的坐席，",
+      "end": 221.606
+    },
+    {
+      "start": 221.656,
+      "text": "没有任何一人能吹嘘自己地位最高。",
+      "end": 225.66299999999998
+    },
+    {
+      "start": 225.713,
+      "text": "在读过韦斯翻译后， 另一位法国诗人克雷蒂安 · 德 · 特鲁瓦",
+      "end": 231.009
+    },
+    {
+      "start": 231.059,
+      "text": "写了许多传奇， 把亚瑟故事的名声推到顶峰",
+      "end": 235.726
+    },
+    {
+      "start": 235.776,
+      "text": "他讲述了很多骑士的故事， 比如兰斯洛特和高文。",
+      "end": 240.91
+    },
+    {
+      "start": 240.96,
+      "text": "他还在历险中加了许多浪漫元素，",
+      "end": 243.65599999999998
+    },
+    {
+      "start": 243.706,
+      "text": "他构造了亚瑟，",
+      "end": 245.195
+    },
+    {
+      "start": 245.245,
+      "text": "兰斯洛特",
+      "end": 246.272
+    },
+    {
+      "start": 246.322,
+      "text": "和桂妮薇儿的三角恋。",
+      "end": 248.70299999999997
+    },
+    {
+      "start": 248.753,
+      "text": "除了宫廷中的阴谋， 他也写入了圣杯。",
+      "end": 254.518
+    },
+    {
+      "start": 254.568,
+      "text": "克雷蒂安写圣杯力量可能是 借鉴了凯尔特神话的魔法物件。",
+      "end": 261.013
+    },
+    {
+      "start": 261.063,
+      "text": "他生活在十字军东征的时代，",
+      "end": 263.625
+    },
+    {
+      "start": 263.675,
+      "text": "其他人把当时的事情和圣杯联系起来，",
+      "end": 268.12
+    },
+    {
+      "start": 268.17,
+      "text": "把它当做耶稣殉难留下的圣遗物。",
+      "end": 271.666
+    },
+    {
+      "start": 271.716,
+      "text": "克雷蒂安的作品在之后",
+      "end": 274.837
+    },
+    {
+      "start": 274.887,
+      "text": "被翻译成法语和很多其他语言。",
+      "end": 276.983
+    },
+    {
+      "start": 277.033,
+      "text": "重诉这些故事时， 卡利恩被说成了卡米洛特，",
+      "end": 280.95799999999997
+    },
+    {
+      "start": 281.008,
+      "text": "卡里布恩斯改名为王者之剑。",
+      "end": 284.686
+    },
+    {
+      "start": 284.736,
+      "text": "在 15 世纪，",
+      "end": 285.947
+    },
+    {
+      "start": 285.997,
+      "text": "托马斯 · 马洛里爵士把这些故事 合成为亚瑟王之死，",
+      "end": 290.423
+    },
+    {
+      "start": 290.473,
+      "text": "也就是很多现代亚瑟王故事的前身。",
+      "end": 293.59299999999996
+    },
+    {
+      "start": 293.643,
+      "text": "从凯尔特诗歌第一次出现亚瑟的几千年来，",
+      "end": 297.70099999999996
+    },
+    {
+      "start": 297.751,
+      "text": "他的故事被一次次改写，",
+      "end": 300.312
+    },
+    {
+      "start": 300.362,
+      "text": "反映着编年史家和观众他们想看的东西。",
+      "end": 304.58299999999997
+    },
+    {
+      "start": 304.633,
+      "text": "我们现今仍旧在重写和改编他的传奇，",
+      "end": 308.179
+    },
+    {
+      "start": 308.229,
+      "text": "不管他到底存不存在，",
+      "end": 309.977
+    },
+    {
+      "start": 310.027,
+      "text": "爱没爱过，",
+      "end": 310.803
+    },
+    {
+      "start": 310.853,
+      "text": "统治过哪，",
+      "end": 311.541
+    },
+    {
+      "start": 311.591,
+      "text": "有过哪些历险，",
+      "end": 312.62899999999996
+    },
+    {
+      "start": 312.679,
+      "text": "不可否认的是，他的角色达到了永生。",
+      "end": 317.95
+    }
+  ]
+};

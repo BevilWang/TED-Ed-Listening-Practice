@@ -1,0 +1,1072 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "A brief history of chess",
+    "speaker": "Alex Gendler",
+    "duration": 320,
+    "slug": "alex_gendler_a_brief_history_of_chess",
+    "sourcePage": "https://www.ted.com/talks/alex_gendler_a_brief_history_of_chess",
+    "translationSourcePage": "https://www.ted.com/talks/alex_gendler_a_brief_history_of_chess?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/50/71/001/products/2019e-alex-gendler-historyof-chess-001-fallback-f0c771afb7c66cbb6ba0ca4bd8f31fe9-1200k.mp4",
+    "youtubeId": "YeB-1F-UKO0",
+    "youtubeTitle": "A brief history of chess - Alex Gendler"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.23,
+      "end": 14.93,
+      "text": "The attacking infantry advances steadily, their elephants already having broken the defensive line.",
+      "translation": "进攻步兵正稳步推进，他们的大象已攻破敌人的防线。"
+    },
+    {
+      "id": 2,
+      "start": 14.98,
+      "end": 19.94,
+      "text": "The king tries to retreat, but enemy cavalry flanks him from the rear.",
+      "translation": "国王试图撤退， 但敌方骑兵已从后方包抄，"
+    },
+    {
+      "id": 3,
+      "start": 19.99,
+      "end": 22.96,
+      "text": "Escape is impossible.",
+      "translation": "逃跑是不可能的了。"
+    },
+    {
+      "id": 4,
+      "start": 23.01,
+      "end": 27.2,
+      "text": "But this isn’t a real war– nor is it just a game.",
+      "translation": "但这不是真正的战争——也不仅仅是一场游戏。"
+    },
+    {
+      "id": 5,
+      "start": 27.25,
+      "end": 41.447,
+      "text": "Over the roughly one-and-a-half millennia of its existence, chess has been known as a tool of military strategy, a metaphor for human affairs, and a benchmark of genius.",
+      "translation": "在其存在的大约一千五百年中，国际象棋被称为军事战略工具、对人类事务的隐喻 和天才的衡量标准。"
+    },
+    {
+      "id": 6,
+      "start": 41.497,
+      "end": 50.026,
+      "text": "While our earliest records of chess are in the 7th century, legend tells that the game’s origins lie a century earlier.",
+      "translation": "虽然对国际象棋的 最早记录是在 7 世纪，而传说中游戏的起源 还要早一个世纪。"
+    },
+    {
+      "id": 7,
+      "start": 50.076,
+      "end": 60.572,
+      "text": "Supposedly, when the youngest prince of the Gupta Empire was killed in battle, his brother devised a way of representing the scene to their grieving mother.",
+      "translation": "据说，当古普塔帝国 最年轻的王子在战斗中丧生时，为向悲伤的母亲讲述王子牺牲的场景， 他的兄弟就设计了这种方式。"
+    },
+    {
+      "id": 8,
+      "start": 60.622,
+      "end": 79.129,
+      "text": "Set on the 8x8 ashtapada board used for other popular pastimes, a new game emerged with two key features: different rules for moving different types of pieces, and a single king piece whose fate determined the outcome.",
+      "translation": "一款使用 8x8 的八条棋盘的 娱乐用新游戏面世了，它有两个主要特点：不同类型棋子有不同的移动规则，王者棋子的命运将决定胜负。"
+    },
+    {
+      "id": 9,
+      "start": 79.179,
+      "end": 86.294,
+      "text": "The game was originally known as chaturanga– a Sanskrit word for \"four divisions.\"",
+      "translation": "该游戏最初被称为“恰图兰卡”——梵语中的意思是“四部”。"
+    },
+    {
+      "id": 10,
+      "start": 86.344,
+      "end": 101.694,
+      "text": "But with its spread to Sassanid Persia, it acquired its current name and terminology– \"chess,\" derived from \"shah,\" meaning king, and “checkmate” from \"shah mat,\" or “the king is helpless.”",
+      "translation": "但它传播到萨珊王朝的波斯后，就获得了现在的名称和术语——“国际象棋”源自“shah”，意思是国王，而“将军”来自“shah mat”， 意思是“国王孤立无援”。"
+    },
+    {
+      "id": 11,
+      "start": 101.744,
+      "end": 108.134,
+      "text": "After the 7th century Islamic conquest of Persia, chess was introduced to the Arab world.",
+      "translation": "七世纪伊斯兰征服波斯之后，国际象棋被引入阿拉伯世界，"
+    },
+    {
+      "id": 12,
+      "start": 108.184,
+      "end": 114.934,
+      "text": "Transcending its role as a tactical simulation, it eventually became a rich source of poetic imagery.",
+      "translation": "并逐渐超越其作为战术模拟的作用，成为诗歌意象的丰富来源。"
+    },
+    {
+      "id": 13,
+      "start": 114.984,
+      "end": 120.104,
+      "text": "Diplomats and courtiers used chess terms to describe political power.",
+      "translation": "外交官和朝臣们使用 国际象棋术语来描述政治权力，"
+    },
+    {
+      "id": 14,
+      "start": 120.154,
+      "end": 123.715,
+      "text": "Ruling caliphs became avid players themselves.",
+      "translation": "执政的回教主们也成了狂热的玩家。"
+    },
+    {
+      "id": 15,
+      "start": 123.765,
+      "end": 131.629,
+      "text": "And historian al-Mas’udi considered the game a testament to human free will compared to games of chance.",
+      "translation": "历史学家艾马斯迪认为， 与机会博弈相比，国际象棋是人类自由意志的证明。"
+    },
+    {
+      "id": 16,
+      "start": 131.679,
+      "end": 140.266,
+      "text": "Medieval trade along the Silk Road carried the game to East and Southeast Asia, where many local variants developed.",
+      "translation": "沿丝绸之路，中世纪贸易 将国际象棋带到了东亚和东南亚，并衍生了许多本地版本。"
+    },
+    {
+      "id": 17,
+      "start": 140.316,
+      "end": 149.446,
+      "text": "In China, chess pieces were placed at intersections of board squares rather than inside them, as in the native strategy game Go.",
+      "translation": "在中国，就像本土战略游戏围棋一样，国际象棋棋子下在棋盘交叉点， 而不是下在格子内；"
+    },
+    {
+      "id": 18,
+      "start": 149.496,
+      "end": 157.378,
+      "text": "The reign of Mongol leader Tamerlane saw an 11x10 board with safe squares called citadels.",
+      "translation": "而蒙古征服者帖木儿统治时期，11x10 的棋盘上带有 叫做大本营的安全岛；"
+    },
+    {
+      "id": 19,
+      "start": 157.428,
+      "end": 163.138,
+      "text": "And in Japanese shogi, captured pieces could be used by the opposing player.",
+      "translation": "在日本的将棋中， 对手可以使用被俘的棋子。"
+    },
+    {
+      "id": 20,
+      "start": 163.188,
+      "end": 167.468,
+      "text": "But it was in Europe that chess began to take on its modern form.",
+      "translation": "但在欧洲，国际象棋 开始采用其现代形式。"
+    },
+    {
+      "id": 21,
+      "start": 167.518,
+      "end": 172.462,
+      "text": "By 1000 AD, the game had become part of courtly education.",
+      "translation": "到公元 1000 年，游戏 已成为宫廷教育的一部分。"
+    },
+    {
+      "id": 22,
+      "start": 172.512,
+      "end": 182.389,
+      "text": "Chess was used as an allegory for different social classes performing their proper roles, and the pieces were re-interpreted in their new context.",
+      "translation": "国际象棋被用来比喻履行各自职责的不同社会阶层，并且在新的背景下， 棋子功能被重新定义。"
+    },
+    {
+      "id": 23,
+      "start": 182.439,
+      "end": 186.899,
+      "text": "At the same time, the Church remained suspicious of games.",
+      "translation": "与此同时，教会仍对游戏持怀疑态度。"
+    },
+    {
+      "id": 24,
+      "start": 186.949,
+      "end": 194.593,
+      "text": "Moralists cautioned against devoting too much time to them, with chess even being briefly banned in France.",
+      "translation": "道德主义者告诫 不要花太多时间玩游戏，国际象棋甚至在法国被短暂禁止。"
+    },
+    {
+      "id": 25,
+      "start": 194.643,
+      "end": 201.553,
+      "text": "Yet the game proliferated, and the 15th century saw it cohering into the form we know today.",
+      "translation": "然而，这款游戏迅速传播，在 15 世纪，它演变成 我们今天所知的游戏形式。"
+    },
+    {
+      "id": 26,
+      "start": 201.603,
+      "end": 211.902,
+      "text": "The relatively weak piece of advisor was recast as the more powerful queen– perhaps inspired by the recent surge of strong female leaders.",
+      "translation": "相对较弱的顾问 被重塑为更强大的女王——也许受近期强势女性领导人的启发。"
+    },
+    {
+      "id": 27,
+      "start": 211.952,
+      "end": 221.613,
+      "text": "This change accelerated the game’s pace, and as other rules were popularized, treatises analyzing common openings and endgames appeared.",
+      "translation": "这种变化加快了游戏的节奏，并随着其它规则的普及，出现了分析常见 游戏开局和结束的论文。"
+    },
+    {
+      "id": 28,
+      "start": 221.663,
+      "end": 224.596,
+      "text": "Chess theory was born.",
+      "translation": "由此，诞生了国际象棋理论。"
+    },
+    {
+      "id": 29,
+      "start": 224.646,
+      "end": 229.936,
+      "text": "With the Enlightenment era, the game moved from royal courts to coffeehouses.",
+      "translation": "随着启蒙时代的到来， 游戏从宫廷搬到了咖啡馆。"
+    },
+    {
+      "id": 30,
+      "start": 229.986,
+      "end": 237.326,
+      "text": "Chess was now seen as an expression of creativity, encouraging bold moves and dramatic plays.",
+      "translation": "国际象棋现在被视为创造力的表达，鼓励大胆的举动和戏剧性的下法。"
+    },
+    {
+      "id": 31,
+      "start": 237.376,
+      "end": 251.358,
+      "text": "This \"Romantic\" style reached its peak in the Immortal Game of 1851, where Adolf Anderssen managed a checkmate after sacrificing his queen and both rooks.",
+      "translation": "这种“浪漫”风格在 1851 年的 “不朽对局”中达到了顶峰，比赛中，阿道夫·安德森 在牺牲了女王和两只车后，成功把对手将死。"
+    },
+    {
+      "id": 32,
+      "start": 251.408,
+      "end": 261.107,
+      "text": "But the emergence of formal competitive play in the late 19th century meant that strategic calculation would eventually trump dramatic flair.",
+      "translation": "但 19 世纪后期正式竞争游戏的出现，意味着战略考虑最终 会战胜戏剧性的天赋。"
+    },
+    {
+      "id": 33,
+      "start": 261.157,
+      "end": 267.445,
+      "text": "And with the rise of international competition, chess took on a new geopolitical importance.",
+      "translation": "随着国际竞争的兴起，国际象棋有了新的地缘政治重要性。"
+    },
+    {
+      "id": 34,
+      "start": 267.495,
+      "end": 277.407,
+      "text": "During the Cold War, the Soviet Union devoted great resources to cultivating chess talent, dominating the championships for the rest of the century.",
+      "translation": "在冷战期间，苏联投入了大量资源培养国际象棋人才，并通揽该世纪剩余时间里的冠军。"
+    },
+    {
+      "id": 35,
+      "start": 277.457,
+      "end": 287.647,
+      "text": "But the player who would truly upset Russian dominance was not a citizen of another country but an IBM computer called Deep Blue.",
+      "translation": "但真正打破俄罗斯统治地位的玩家不是另一个国家的公民，而是名为“深蓝”的 IBM 计算机。"
+    },
+    {
+      "id": 36,
+      "start": 287.697,
+      "end": 300.434,
+      "text": "Chess-playing computers had been developed for decades, but Deep Blue’s triumph over Garry Kasparov in 1997 was the first time a machine had defeated a sitting champion.",
+      "translation": "国际象棋游戏计算机已开发了几十年，但 1997 年， “深蓝”战胜加里·卡斯巴罗夫是机器第一次击败当代冠军。"
+    },
+    {
+      "id": 37,
+      "start": 300.484,
+      "end": 306.589,
+      "text": "Today, chess software is capable of consistently defeating the best human players.",
+      "translation": "如今，国际象棋软件能够轻松击败最优秀的人类玩家。"
+    },
+    {
+      "id": 38,
+      "start": 306.639,
+      "end": 312.099,
+      "text": "But just like the game they’ve mastered, these machines are products of human ingenuity.",
+      "translation": "但就像它们掌握的游戏一样，这些机器是人类聪明才智的产物。"
+    },
+    {
+      "id": 39,
+      "start": 312.149,
+      "end": 319.95,
+      "text": "And perhaps that same ingenuity will guide us out of this apparent checkmate.",
+      "translation": "也许同样的人类聪明才智， 将引导我们走出这个明显的死局。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.23,
+      "text": "The attacking infantry advances steadily,",
+      "end": 10.77
+    },
+    {
+      "start": 10.82,
+      "text": "their elephants already having broken the defensive line.",
+      "end": 14.93
+    },
+    {
+      "start": 14.98,
+      "text": "The king tries to retreat, but enemy cavalry flanks him from the rear.",
+      "end": 19.939999999999998
+    },
+    {
+      "start": 19.99,
+      "text": "Escape is impossible.",
+      "end": 22.96
+    },
+    {
+      "start": 23.01,
+      "text": "But this isn’t a real war–",
+      "end": 25.15
+    },
+    {
+      "start": 25.2,
+      "text": "nor is it just a game.",
+      "end": 27.2
+    },
+    {
+      "start": 27.25,
+      "text": "Over the roughly one-and-a-half millennia of its existence,",
+      "end": 31.95
+    },
+    {
+      "start": 32.0,
+      "text": "chess has been known as a tool of military strategy,",
+      "end": 35.847
+    },
+    {
+      "start": 35.897,
+      "text": "a metaphor for human affairs, and a benchmark of genius.",
+      "end": 41.447
+    },
+    {
+      "start": 41.497,
+      "text": "While our earliest records of chess are in the 7th century,",
+      "end": 45.326
+    },
+    {
+      "start": 45.376,
+      "text": "legend tells that the game’s origins lie a century earlier.",
+      "end": 50.026
+    },
+    {
+      "start": 50.076,
+      "text": "Supposedly, when the youngest prince of the Gupta Empire was killed in battle,",
+      "end": 55.646
+    },
+    {
+      "start": 55.696,
+      "text": "his brother devised a way of representing the scene to their grieving mother.",
+      "end": 60.572
+    },
+    {
+      "start": 60.622,
+      "text": "Set on the 8x8 ashtapada board used for other popular pastimes,",
+      "end": 66.751
+    },
+    {
+      "start": 66.801,
+      "text": "a new game emerged with two key features:",
+      "end": 70.84400000000001
+    },
+    {
+      "start": 70.894,
+      "text": "different rules for moving different types of pieces,",
+      "end": 74.269
+    },
+    {
+      "start": 74.319,
+      "text": "and a single king piece whose fate determined the outcome.",
+      "end": 79.129
+    },
+    {
+      "start": 79.179,
+      "text": "The game was originally known as chaturanga–",
+      "end": 83.233
+    },
+    {
+      "start": 83.283,
+      "text": "a Sanskrit word for \"four divisions.\"",
+      "end": 86.294
+    },
+    {
+      "start": 86.344,
+      "text": "But with its spread to Sassanid Persia,",
+      "end": 88.84400000000001
+    },
+    {
+      "start": 88.894,
+      "text": "it acquired its current name and terminology–",
+      "end": 91.724
+    },
+    {
+      "start": 91.774,
+      "text": "\"chess,\" derived from \"shah,\" meaning king, and “checkmate” from \"shah mat,\"",
+      "end": 98.754
+    },
+    {
+      "start": 98.804,
+      "text": "or “the king is helpless.”",
+      "end": 101.694
+    },
+    {
+      "start": 101.744,
+      "text": "After the 7th century Islamic conquest of Persia,",
+      "end": 105.48400000000001
+    },
+    {
+      "start": 105.534,
+      "text": "chess was introduced to the Arab world.",
+      "end": 108.134
+    },
+    {
+      "start": 108.184,
+      "text": "Transcending its role as a tactical simulation,",
+      "end": 111.254
+    },
+    {
+      "start": 111.304,
+      "text": "it eventually became a rich source of poetic imagery.",
+      "end": 114.934
+    },
+    {
+      "start": 114.984,
+      "text": "Diplomats and courtiers used chess terms to describe political power.",
+      "end": 120.104
+    },
+    {
+      "start": 120.154,
+      "text": "Ruling caliphs became avid players themselves.",
+      "end": 123.715
+    },
+    {
+      "start": 123.765,
+      "text": "And historian al-Mas’udi considered the game a testament to human free will",
+      "end": 129.065
+    },
+    {
+      "start": 129.115,
+      "text": "compared to games of chance.",
+      "end": 131.629
+    },
+    {
+      "start": 131.679,
+      "text": "Medieval trade along the Silk Road carried the game to East and Southeast Asia,",
+      "end": 137.23899999999998
+    },
+    {
+      "start": 137.289,
+      "text": "where many local variants developed.",
+      "end": 140.266
+    },
+    {
+      "start": 140.316,
+      "text": "In China, chess pieces were placed at intersections of board squares",
+      "end": 144.726
+    },
+    {
+      "start": 144.776,
+      "text": "rather than inside them, as in the native strategy game Go.",
+      "end": 149.446
+    },
+    {
+      "start": 149.496,
+      "text": "The reign of Mongol leader Tamerlane saw an 11x10 board",
+      "end": 154.35799999999998
+    },
+    {
+      "start": 154.408,
+      "text": "with safe squares called citadels.",
+      "end": 157.378
+    },
+    {
+      "start": 157.428,
+      "text": "And in Japanese shogi, captured pieces could be used by the opposing player.",
+      "end": 163.13799999999998
+    },
+    {
+      "start": 163.188,
+      "text": "But it was in Europe that chess began to take on its modern form.",
+      "end": 167.468
+    },
+    {
+      "start": 167.518,
+      "text": "By 1000 AD, the game had become part of courtly education.",
+      "end": 172.462
+    },
+    {
+      "start": 172.512,
+      "text": "Chess was used as an allegory",
+      "end": 174.712
+    },
+    {
+      "start": 174.762,
+      "text": "for different social classes performing their proper roles,",
+      "end": 178.522
+    },
+    {
+      "start": 178.572,
+      "text": "and the pieces were re-interpreted in their new context.",
+      "end": 182.38899999999998
+    },
+    {
+      "start": 182.439,
+      "text": "At the same time, the Church remained suspicious of games.",
+      "end": 186.899
+    },
+    {
+      "start": 186.949,
+      "text": "Moralists cautioned against devoting too much time to them,",
+      "end": 190.66299999999998
+    },
+    {
+      "start": 190.713,
+      "text": "with chess even being briefly banned in France.",
+      "end": 194.593
+    },
+    {
+      "start": 194.643,
+      "text": "Yet the game proliferated,",
+      "end": 196.623
+    },
+    {
+      "start": 196.673,
+      "text": "and the 15th century saw it cohering into the form we know today.",
+      "end": 201.553
+    },
+    {
+      "start": 201.603,
+      "text": "The relatively weak piece of advisor was recast as the more powerful queen–",
+      "end": 207.14499999999998
+    },
+    {
+      "start": 207.195,
+      "text": "perhaps inspired by the recent surge of strong female leaders.",
+      "end": 211.902
+    },
+    {
+      "start": 211.952,
+      "text": "This change accelerated the game’s pace,",
+      "end": 214.673
+    },
+    {
+      "start": 214.723,
+      "text": "and as other rules were popularized,",
+      "end": 216.903
+    },
+    {
+      "start": 216.953,
+      "text": "treatises analyzing common openings and endgames appeared.",
+      "end": 221.613
+    },
+    {
+      "start": 221.663,
+      "text": "Chess theory was born.",
+      "end": 224.59599999999998
+    },
+    {
+      "start": 224.646,
+      "text": "With the Enlightenment era, the game moved from royal courts to coffeehouses.",
+      "end": 229.93599999999998
+    },
+    {
+      "start": 229.986,
+      "text": "Chess was now seen as an expression of creativity,",
+      "end": 233.74599999999998
+    },
+    {
+      "start": 233.796,
+      "text": "encouraging bold moves and dramatic plays.",
+      "end": 237.326
+    },
+    {
+      "start": 237.376,
+      "text": "This \"Romantic\" style reached its peak in the Immortal Game of 1851,",
+      "end": 243.74599999999998
+    },
+    {
+      "start": 243.796,
+      "text": "where Adolf Anderssen managed a checkmate",
+      "end": 247.028
+    },
+    {
+      "start": 247.078,
+      "text": "after sacrificing his queen and both rooks.",
+      "end": 251.35799999999998
+    },
+    {
+      "start": 251.408,
+      "text": "But the emergence of formal competitive play in the late 19th century",
+      "end": 255.91299999999998
+    },
+    {
+      "start": 255.963,
+      "text": "meant that strategic calculation would eventually trump dramatic flair.",
+      "end": 261.10699999999997
+    },
+    {
+      "start": 261.157,
+      "text": "And with the rise of international competition,",
+      "end": 263.53499999999997
+    },
+    {
+      "start": 263.585,
+      "text": "chess took on a new geopolitical importance.",
+      "end": 267.445
+    },
+    {
+      "start": 267.495,
+      "text": "During the Cold War,",
+      "end": 268.695
+    },
+    {
+      "start": 268.745,
+      "text": "the Soviet Union devoted great resources to cultivating chess talent,",
+      "end": 273.53499999999997
+    },
+    {
+      "start": 273.585,
+      "text": "dominating the championships for the rest of the century.",
+      "end": 277.407
+    },
+    {
+      "start": 277.457,
+      "text": "But the player who would truly upset Russian dominance",
+      "end": 280.85699999999997
+    },
+    {
+      "start": 280.907,
+      "text": "was not a citizen of another country",
+      "end": 283.29699999999997
+    },
+    {
+      "start": 283.347,
+      "text": "but an IBM computer called Deep Blue.",
+      "end": 287.647
+    },
+    {
+      "start": 287.697,
+      "text": "Chess-playing computers had been developed for decades,",
+      "end": 290.812
+    },
+    {
+      "start": 290.862,
+      "text": "but Deep Blue’s triumph over Garry Kasparov in 1997",
+      "end": 295.41499999999996
+    },
+    {
+      "start": 295.465,
+      "text": "was the first time a machine had defeated a sitting champion.",
+      "end": 300.43399999999997
+    },
+    {
+      "start": 300.484,
+      "text": "Today, chess software is capable of consistently defeating",
+      "end": 304.74899999999997
+    },
+    {
+      "start": 304.799,
+      "text": "the best human players.",
+      "end": 306.589
+    },
+    {
+      "start": 306.639,
+      "text": "But just like the game they’ve mastered,",
+      "end": 308.709
+    },
+    {
+      "start": 308.759,
+      "text": "these machines are products of human ingenuity.",
+      "end": 312.099
+    },
+    {
+      "start": 312.149,
+      "text": "And perhaps that same ingenuity will guide us out of this apparent checkmate.",
+      "end": 319.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.23,
+      "text": "进攻步兵正稳步推进，",
+      "end": 10.77
+    },
+    {
+      "start": 10.82,
+      "text": "他们的大象已攻破敌人的防线。",
+      "end": 14.93
+    },
+    {
+      "start": 14.98,
+      "text": "国王试图撤退， 但敌方骑兵已从后方包抄，",
+      "end": 19.939999999999998
+    },
+    {
+      "start": 19.99,
+      "text": "逃跑是不可能的了。",
+      "end": 22.96
+    },
+    {
+      "start": 23.01,
+      "text": "但这不是真正的战争——",
+      "end": 25.15
+    },
+    {
+      "start": 25.2,
+      "text": "也不仅仅是一场游戏。",
+      "end": 27.2
+    },
+    {
+      "start": 27.25,
+      "text": "在其存在的大约一千五百年中，",
+      "end": 31.95
+    },
+    {
+      "start": 32.0,
+      "text": "国际象棋被称为军事战略工具、",
+      "end": 35.847
+    },
+    {
+      "start": 35.897,
+      "text": "对人类事务的隐喻 和天才的衡量标准。",
+      "end": 41.447
+    },
+    {
+      "start": 41.497,
+      "text": "虽然对国际象棋的 最早记录是在 7 世纪，",
+      "end": 45.326
+    },
+    {
+      "start": 45.376,
+      "text": "而传说中游戏的起源 还要早一个世纪。",
+      "end": 50.026
+    },
+    {
+      "start": 50.076,
+      "text": "据说，当古普塔帝国 最年轻的王子在战斗中丧生时，",
+      "end": 55.646
+    },
+    {
+      "start": 55.696,
+      "text": "为向悲伤的母亲讲述王子牺牲的场景， 他的兄弟就设计了这种方式。",
+      "end": 60.572
+    },
+    {
+      "start": 60.622,
+      "text": "一款使用 8x8 的八条棋盘的 娱乐用新游戏面世了，",
+      "end": 68.651
+    },
+    {
+      "start": 68.701,
+      "text": "它有两个主要特点：",
+      "end": 70.84400000000001
+    },
+    {
+      "start": 70.894,
+      "text": "不同类型棋子有不同的移动规则，",
+      "end": 74.269
+    },
+    {
+      "start": 74.319,
+      "text": "王者棋子的命运将决定胜负。",
+      "end": 79.129
+    },
+    {
+      "start": 79.179,
+      "text": "该游戏最初被称为“恰图兰卡”——",
+      "end": 83.233
+    },
+    {
+      "start": 83.283,
+      "text": "梵语中的意思是“四部”。",
+      "end": 86.294
+    },
+    {
+      "start": 86.344,
+      "text": "但它传播到萨珊王朝的波斯后，",
+      "end": 88.84400000000001
+    },
+    {
+      "start": 88.894,
+      "text": "就获得了现在的名称和术语——",
+      "end": 91.724
+    },
+    {
+      "start": 91.774,
+      "text": "“国际象棋”源自“shah”，意思是国王，",
+      "end": 96.674
+    },
+    {
+      "start": 96.724,
+      "text": "而“将军”来自“shah mat”， 意思是“国王孤立无援”。",
+      "end": 101.694
+    },
+    {
+      "start": 101.744,
+      "text": "七世纪伊斯兰征服波斯之后，",
+      "end": 105.48400000000001
+    },
+    {
+      "start": 105.534,
+      "text": "国际象棋被引入阿拉伯世界，",
+      "end": 108.134
+    },
+    {
+      "start": 108.184,
+      "text": "并逐渐超越其作为战术模拟的作用，",
+      "end": 111.254
+    },
+    {
+      "start": 111.304,
+      "text": "成为诗歌意象的丰富来源。",
+      "end": 114.934
+    },
+    {
+      "start": 114.984,
+      "text": "外交官和朝臣们使用 国际象棋术语来描述政治权力，",
+      "end": 120.104
+    },
+    {
+      "start": 120.154,
+      "text": "执政的回教主们也成了狂热的玩家。",
+      "end": 123.715
+    },
+    {
+      "start": 123.765,
+      "text": "历史学家艾马斯迪认为， 与机会博弈相比，",
+      "end": 129.065
+    },
+    {
+      "start": 129.115,
+      "text": "国际象棋是人类自由意志的证明。",
+      "end": 131.629
+    },
+    {
+      "start": 131.679,
+      "text": "沿丝绸之路，中世纪贸易 将国际象棋带到了东亚和东南亚，",
+      "end": 137.23899999999998
+    },
+    {
+      "start": 137.289,
+      "text": "并衍生了许多本地版本。",
+      "end": 140.266
+    },
+    {
+      "start": 140.316,
+      "text": "在中国，就像本土战略游戏围棋一样，",
+      "end": 144.726
+    },
+    {
+      "start": 144.776,
+      "text": "国际象棋棋子下在棋盘交叉点， 而不是下在格子内；",
+      "end": 149.446
+    },
+    {
+      "start": 149.496,
+      "text": "而蒙古征服者帖木儿统治时期，",
+      "end": 152.78799999999998
+    },
+    {
+      "start": 152.838,
+      "text": "11x10 的棋盘上带有 叫做大本营的安全岛；",
+      "end": 157.378
+    },
+    {
+      "start": 157.428,
+      "text": "在日本的将棋中， 对手可以使用被俘的棋子。",
+      "end": 163.13799999999998
+    },
+    {
+      "start": 163.188,
+      "text": "但在欧洲，国际象棋 开始采用其现代形式。",
+      "end": 167.468
+    },
+    {
+      "start": 167.518,
+      "text": "到公元 1000 年，游戏 已成为宫廷教育的一部分。",
+      "end": 172.462
+    },
+    {
+      "start": 172.512,
+      "text": "国际象棋被用来",
+      "end": 174.712
+    },
+    {
+      "start": 174.762,
+      "text": "比喻履行各自职责的不同社会阶层，",
+      "end": 178.522
+    },
+    {
+      "start": 178.572,
+      "text": "并且在新的背景下， 棋子功能被重新定义。",
+      "end": 182.38899999999998
+    },
+    {
+      "start": 182.439,
+      "text": "与此同时，教会仍对游戏持怀疑态度。",
+      "end": 186.899
+    },
+    {
+      "start": 186.949,
+      "text": "道德主义者告诫 不要花太多时间玩游戏，",
+      "end": 190.66299999999998
+    },
+    {
+      "start": 190.713,
+      "text": "国际象棋甚至在法国被短暂禁止。",
+      "end": 194.593
+    },
+    {
+      "start": 194.643,
+      "text": "然而，这款游戏迅速传播，",
+      "end": 196.623
+    },
+    {
+      "start": 196.673,
+      "text": "在 15 世纪，它演变成 我们今天所知的游戏形式。",
+      "end": 201.553
+    },
+    {
+      "start": 201.603,
+      "text": "相对较弱的顾问 被重塑为更强大的女王——",
+      "end": 207.14499999999998
+    },
+    {
+      "start": 207.195,
+      "text": "也许受近期强势女性领导人的启发。",
+      "end": 211.902
+    },
+    {
+      "start": 211.952,
+      "text": "这种变化加快了游戏的节奏，",
+      "end": 214.673
+    },
+    {
+      "start": 214.723,
+      "text": "并随着其它规则的普及，",
+      "end": 216.903
+    },
+    {
+      "start": 216.953,
+      "text": "出现了分析常见 游戏开局和结束的论文。",
+      "end": 221.613
+    },
+    {
+      "start": 221.663,
+      "text": "由此，诞生了国际象棋理论。",
+      "end": 224.59599999999998
+    },
+    {
+      "start": 224.646,
+      "text": "随着启蒙时代的到来， 游戏从宫廷搬到了咖啡馆。",
+      "end": 229.93599999999998
+    },
+    {
+      "start": 229.986,
+      "text": "国际象棋现在被视为创造力的表达，",
+      "end": 233.74599999999998
+    },
+    {
+      "start": 233.796,
+      "text": "鼓励大胆的举动和戏剧性的下法。",
+      "end": 237.326
+    },
+    {
+      "start": 237.376,
+      "text": "这种“浪漫”风格在 1851 年的 “不朽对局”中达到了顶峰，",
+      "end": 243.74599999999998
+    },
+    {
+      "start": 243.796,
+      "text": "比赛中，阿道夫·安德森 在牺牲了女王和两只车后，",
+      "end": 249.00799999999998
+    },
+    {
+      "start": 249.058,
+      "text": "成功把对手将死。",
+      "end": 251.35799999999998
+    },
+    {
+      "start": 251.408,
+      "text": "但 19 世纪后期正式竞争游戏的出现，",
+      "end": 255.91299999999998
+    },
+    {
+      "start": 255.963,
+      "text": "意味着战略考虑最终 会战胜戏剧性的天赋。",
+      "end": 261.10699999999997
+    },
+    {
+      "start": 261.157,
+      "text": "随着国际竞争的兴起，",
+      "end": 263.53499999999997
+    },
+    {
+      "start": 263.585,
+      "text": "国际象棋有了新的地缘政治重要性。",
+      "end": 267.445
+    },
+    {
+      "start": 267.495,
+      "text": "在冷战期间，",
+      "end": 268.695
+    },
+    {
+      "start": 268.745,
+      "text": "苏联投入了大量资源培养国际象棋人才，",
+      "end": 273.53499999999997
+    },
+    {
+      "start": 273.585,
+      "text": "并通揽该世纪剩余时间里的冠军。",
+      "end": 277.407
+    },
+    {
+      "start": 277.457,
+      "text": "但真正打破俄罗斯统治地位的玩家",
+      "end": 280.85699999999997
+    },
+    {
+      "start": 280.907,
+      "text": "不是另一个国家的公民，",
+      "end": 283.29699999999997
+    },
+    {
+      "start": 283.347,
+      "text": "而是名为“深蓝”的 IBM 计算机。",
+      "end": 287.647
+    },
+    {
+      "start": 287.697,
+      "text": "国际象棋游戏计算机已开发了几十年，",
+      "end": 290.812
+    },
+    {
+      "start": 290.862,
+      "text": "但 1997 年， “深蓝”战胜加里·卡斯巴罗夫",
+      "end": 295.41499999999996
+    },
+    {
+      "start": 295.465,
+      "text": "是机器第一次击败当代冠军。",
+      "end": 300.43399999999997
+    },
+    {
+      "start": 300.484,
+      "text": "如今，国际象棋软件",
+      "end": 302.589
+    },
+    {
+      "start": 302.639,
+      "text": "能够轻松击败最优秀的人类玩家。",
+      "end": 306.589
+    },
+    {
+      "start": 306.639,
+      "text": "但就像它们掌握的游戏一样，",
+      "end": 308.709
+    },
+    {
+      "start": 308.759,
+      "text": "这些机器是人类聪明才智的产物。",
+      "end": 312.099
+    },
+    {
+      "start": 312.149,
+      "text": "也许同样的人类聪明才智， 将引导我们走出这个明显的死局。",
+      "end": 319.95
+    }
+  ]
+};

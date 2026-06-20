@@ -1,0 +1,1165 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The dark history of the Chinese Exclusion Act",
+    "speaker": "Robert Chang",
+    "duration": 339,
+    "slug": "robert_chang_the_dark_history_of_the_chinese_exclusion_act",
+    "sourcePage": "https://www.ted.com/talks/robert_chang_the_dark_history_of_the_chinese_exclusion_act",
+    "translationSourcePage": "https://www.ted.com/talks/robert_chang_the_dark_history_of_the_chinese_exclusion_act?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/54/31/002/products/2020e-robert-chang-chinese-exclusion-act-002-fallback-f130977db14f2a90d9ce25a7baca23ad-1200k.mp4",
+    "youtubeId": "2K88pWCimZg",
+    "youtubeTitle": "The dark history of the Chinese Exclusion Act - Robert Chang"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 10.704,
+      "end": 17.321,
+      "text": "After 12 years living in California, Chinese citizen Chae Chan Ping was ready for a visit home.",
+      "translation": "旅居美国加利福尼亚州十二年后，中国公民柴禅平准备回家看看。"
+    },
+    {
+      "id": 2,
+      "start": 17.371,
+      "end": 27.113,
+      "text": "He procured the necessary documents for his departure and return journey, and set sail for China, where he spent the next year reconnecting with friends and family.",
+      "translation": "他好不容易备齐了 出境和入境的必要文书，启航前往中国，而后用了一年时间 与中国的亲朋好友联络感情。"
+    },
+    {
+      "id": 3,
+      "start": 27.163,
+      "end": 35.821,
+      "text": "But when he returned to San Francisco on October 8th, 1888, Ping and his fellow immigrant passengers were forbidden to disembark.",
+      "translation": "但是当柴禅平于 1888 年 10 月 8 日回到旧金山时，他和其他同船的移民们被禁止上岸。"
+    },
+    {
+      "id": 4,
+      "start": 35.871,
+      "end": 46.154,
+      "text": "Just days earlier, President Grover Cleveland had signed the Scott Act, which invalidated the legal documents allowing their re-entry to the United States.",
+      "translation": "就在几天前，格罗弗·克利夫兰总统 刚刚签署了斯科特法案。法案规定，允许他们 重新进入美国的法律文件就此作废。"
+    },
+    {
+      "id": 5,
+      "start": 46.204,
+      "end": 53.071,
+      "text": "This policy threatened to separate families and deprive Chinese immigrants of their homes and livelihoods.",
+      "translation": "这项政策使华人家庭骨肉分离，也一并剥夺了他们的家园和生计。"
+    },
+    {
+      "id": 6,
+      "start": 53.121,
+      "end": 59.279,
+      "text": "Ping challenged the ruling, beginning a legal battle for the rights of thousands of Chinese immigrants.",
+      "translation": "柴禅平对这项裁决提出了挑战，开始了一场维护成千上万 华人移民利益的法律斗争。"
+    },
+    {
+      "id": 7,
+      "start": 59.329,
+      "end": 67.363,
+      "text": "But his case inspired an even more controversial policy that continues to impact immigrants around the globe.",
+      "translation": "然而，这场官司却带来了一项 更具争议性的政策，继续影响着全世界移民的权益。"
+    },
+    {
+      "id": 8,
+      "start": 67.413,
+      "end": 75.779,
+      "text": "Discrimination against Chinese immigrants had begun decades earlier, when the California Gold Rush created a massive demand for labor.",
+      "translation": "几十年前，当加州的淘金热 创造了大量劳动力需求时，对中国移民的歧视就开始了。"
+    },
+    {
+      "id": 9,
+      "start": 75.829,
+      "end": 82.821,
+      "text": "Initially, Chinese immigrants were welcomed as reliable workers and became essential parts of frontier communities.",
+      "translation": "最开始，作为可靠的工人， 中国移民是受欢迎的。他们也成为了边境社区 不可或缺的组成部分。"
+    },
+    {
+      "id": 10,
+      "start": 82.871,
+      "end": 89.863,
+      "text": "Many built railroads and worked in the mines, while others operated laundries, restaurants, and general stores.",
+      "translation": "许多中国人修铁路、挖矿石，其他经营着洗衣店、饭店和杂货铺。"
+    },
+    {
+      "id": 11,
+      "start": 89.913,
+      "end": 102.529,
+      "text": "The 1868 Burlingame Treaty even granted China favored trading status with the US, and allowed unrestricted migration between the two countries.",
+      "translation": "1868年的《蒲安臣条约》 （中美天津条约续增条约）甚至赋予了中国“贸易最惠国”的地位"
+    },
+    {
+      "id": 12,
+      "start": 102.579,
+      "end": 109.529,
+      "text": "But as large numbers of Chinese immigrants found success, American workers began to see them as a threat.",
+      "translation": "并且允许两国之间自由移民。但是，当大量中国移民取得了成功后，"
+    },
+    {
+      "id": 13,
+      "start": 109.579,
+      "end": 118.113,
+      "text": "Politicians and labor leaders denounced them for driving down wages, and violence against Chinese individuals became increasingly common.",
+      "translation": "美国工人开始把他们视作威胁。政客和工人领袖 谴责他们降低了工资水平，"
+    },
+    {
+      "id": 14,
+      "start": 118.163,
+      "end": 123.029,
+      "text": "This anti-Chinese sentiment soon found its way into California’s courts.",
+      "translation": "针对中国人的暴力行为也越来越普遍。"
+    },
+    {
+      "id": 15,
+      "start": 123.079,
+      "end": 137.029,
+      "text": "In 1854, following a murder trial where a white man was convicted of murdering a Chinese man, the California Supreme Court overturned the conviction, holding that Chinese eyewitness testimony was inadmissible.",
+      "translation": "这种反华情绪迅速进入了加州的法庭。1854 年，一个白人男性因谋杀华人男子而被审判定罪，加州最高法院推翻了判决，"
+    },
+    {
+      "id": 16,
+      "start": 137.079,
+      "end": 147.821,
+      "text": "The court declared that Chinese citizens could not testify against white defendants, citing similar precedents forbidding testimony by Black and Native American individuals.",
+      "translation": "认为华人目击者的证词 是不能被采纳的。法院宣布中国公民不能指证白人被告，援引禁止黑人和美国原住民"
+    },
+    {
+      "id": 17,
+      "start": 147.871,
+      "end": 158.196,
+      "text": "This decision effectively legalized violence against California’s Chinese population, inspiring mob attacks and campaigns for segregation.",
+      "translation": "作证的先例。这项决定实际上使针对 加州华人的暴力合法化了，引发了暴徒袭击和倡导 种族分离的运动。"
+    },
+    {
+      "id": 18,
+      "start": 158.246,
+      "end": 161.946,
+      "text": "Before long, anti-Chinese sentiment reached the federal level.",
+      "translation": "不久之后，联邦也受到了 反华情绪影响。"
+    },
+    {
+      "id": 19,
+      "start": 161.996,
+      "end": 171.779,
+      "text": "In 1882, Congress passed the Chinese Exclusion Act, the first federal law that restricted immigration based explicitly on nationality.",
+      "translation": "1882 年，国会通过了《排华法案》，这是第一部明确基于国籍限制移民的联邦法律。"
+    },
+    {
+      "id": 20,
+      "start": 171.829,
+      "end": 180.988,
+      "text": "In practice, the Act banned entry to all ethnically Chinese immigrants besides diplomats, and prohibited existing immigrants from obtaining citizenship.",
+      "translation": "在实际实施中，法案禁止 除外交官之外的所有中国移民进入美国，并且禁止现有的移民 获得美国公民的身份。"
+    },
+    {
+      "id": 21,
+      "start": 181.038,
+      "end": 188.738,
+      "text": "It also meant Chinese individuals couldn’t leave the United States and return without first applying for a certificate of re-entry.",
+      "translation": "这也意味着华人如果不先申请好 重新进入的证明，就不能离开再回到美国。"
+    },
+    {
+      "id": 22,
+      "start": 188.788,
+      "end": 202.404,
+      "text": "This policy remained in place until October 1st, 1888, when the Scott Act prohibited re-entry altogether, stranding Chae Chan Ping and thousands of other Chinese immigrants.",
+      "translation": "直到 1888 年 10 月 1 日， 这项政策才被废止。到这时，斯科特法案全面禁止 重新进入美国的规定，阻碍包括柴禅平在内的数以万计的 中国移民回到美国的步伐。"
+    },
+    {
+      "id": 23,
+      "start": 202.454,
+      "end": 211.988,
+      "text": "In court, Ping argued he had followed the proper protocol obtaining his re-entry certificate, and the government had not honored his legally issued document.",
+      "translation": "在法庭上，柴禅平据理力争道， 他已经根据相应条款备好了他重回美国的证明，而政府并没有承认他的合法文件。"
+    },
+    {
+      "id": 24,
+      "start": 212.038,
+      "end": 217.071,
+      "text": "This argument was strong enough to send his case all the way to the Supreme Court.",
+      "translation": "这一有力论据使他的案子 一路被送到最高法庭审判。"
+    },
+    {
+      "id": 25,
+      "start": 217.121,
+      "end": 225.321,
+      "text": "But the justices ruled against Ping, invalidating thousands of legal re-entry certificates in one fell swoop.",
+      "translation": "但是，公正并没有站在柴禅平这一方，而是一举使成千上万的 合法证明作废了。"
+    },
+    {
+      "id": 26,
+      "start": 225.371,
+      "end": 234.446,
+      "text": "The decision led to Ping’s deportation and left up to 20,000 Chinese immigrants unable to return to the US.",
+      "translation": "这一决定致使柴禅平被驱逐出境，多达两万中国移民无法重新回到美国。"
+    },
+    {
+      "id": 27,
+      "start": 234.496,
+      "end": 241.196,
+      "text": "But arguably even more important than the court’s racist ruling was the logic they used to support it.",
+      "translation": "然而按理说，比法庭 具有种族歧视色彩的裁决更讽刺的，是他们用以支撑裁决的逻辑。"
+    },
+    {
+      "id": 28,
+      "start": 241.246,
+      "end": 251.488,
+      "text": "Traditionally, the Supreme Court is considered a check on the other two branches of American government, offering judgment on policies passed by Congress and the president.",
+      "translation": "传统上，最高法院被认为是对美国政府其他两个分支的制约，对国会和总统通过的政策 合宪与否作出判决。"
+    },
+    {
+      "id": 29,
+      "start": 251.538,
+      "end": 263.071,
+      "text": "In this case however, the court stated they had no power to pass judgment on the Scott Act, since Congress had declared the immigration policy “a matter of national security.”",
+      "translation": "然而，在这一案件中，法院认为他们无权对 斯科特法案作出判断，因为国会已经宣布移民政策是一项关乎国家安全的政策。"
+    },
+    {
+      "id": 30,
+      "start": 263.121,
+      "end": 266.154,
+      "text": "This decision set a unique precedent.",
+      "translation": "这一裁决成为了一个独特的先例。"
+    },
+    {
+      "id": 31,
+      "start": 266.204,
+      "end": 277.029,
+      "text": "Unless Ping's case was overturned, congressional and executive branches could claim national security concerns to pass whatever immigration laws they wanted.",
+      "translation": "除非柴禅平的案件翻案，国会和行政机构就可以以关乎国家安全为由通过任何移民法。"
+    },
+    {
+      "id": 32,
+      "start": 277.079,
+      "end": 285.363,
+      "text": "Throughout the 20th century, xenophobic government officials used this power to freely discriminate against immigrant groups.",
+      "translation": "整个 20 世纪，仇外的政府官员 都用这项权力肆无忌惮地迫害移民群体。"
+    },
+    {
+      "id": 33,
+      "start": 285.413,
+      "end": 291.571,
+      "text": "The 1917 Asiatic Barred Zone Act prohibited the entry of all South Asians.",
+      "translation": "1917 年的《亚洲禁止区域法案》 禁止了所有南亚人进入美国。"
+    },
+    {
+      "id": 34,
+      "start": 291.621,
+      "end": 299.071,
+      "text": "And a series of immigration acts in the 1920s expanded restrictions throughout Asia, Eastern Europe and southern Europe.",
+      "translation": "20 世纪 20 年代的一系列移民法案，把禁令扩张到了 整个亚洲、东欧和南欧。"
+    },
+    {
+      "id": 35,
+      "start": 299.121,
+      "end": 310.238,
+      "text": "Many of these restrictions were lifted after World War II, and the Chinese Exclusion Act itself was finally repealed in 1943— over 60 years after it was enacted.",
+      "translation": "许多禁令在二战后撤销了。排华法案也终于在 1943 年被废止，此时已在实施 60 年后了。"
+    },
+    {
+      "id": 36,
+      "start": 310.288,
+      "end": 321.946,
+      "text": "But the US government continues to use this precedent to deploy sudden and sweeping immigration policies, targeting journalists and dissidents as well as ethnic groups.",
+      "translation": "但美国政府继续利用这一先例来部署针对记者、 政见不合者和有色人种的紧急、大规模移民政策。"
+    },
+    {
+      "id": 37,
+      "start": 321.996,
+      "end": 326.738,
+      "text": "Little is known about what became of Chae Chan Ping following his deportation.",
+      "translation": "柴禅平被驱逐出境后的情况 人们知之甚少。"
+    },
+    {
+      "id": 38,
+      "start": 326.788,
+      "end": 338.95,
+      "text": "But the injustices visited upon him and thousands of other Chinese Americans continue to impact immigrant rights and liberties.",
+      "translation": "但当年降临在他和其他数千名 华裔美国人身上的不公正待遇，继续影响着移民的权利与自由。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 10.704,
+      "text": "After 12 years living in California,",
+      "end": 12.779
+    },
+    {
+      "start": 12.829,
+      "text": "Chinese citizen Chae Chan Ping was ready for a visit home.",
+      "end": 17.320999999999998
+    },
+    {
+      "start": 17.371,
+      "text": "He procured the necessary documents for his departure and return journey,",
+      "end": 21.320999999999998
+    },
+    {
+      "start": 21.371,
+      "text": "and set sail for China,",
+      "end": 22.945999999999998
+    },
+    {
+      "start": 22.996,
+      "text": "where he spent the next year reconnecting with friends and family.",
+      "end": 27.113
+    },
+    {
+      "start": 27.163,
+      "text": "But when he returned to San Francisco on October 8th, 1888,",
+      "end": 31.529
+    },
+    {
+      "start": 31.579,
+      "text": "Ping and his fellow immigrant passengers were forbidden to disembark.",
+      "end": 35.821000000000005
+    },
+    {
+      "start": 35.871,
+      "text": "Just days earlier, President Grover Cleveland had signed the Scott Act,",
+      "end": 41.321000000000005
+    },
+    {
+      "start": 41.371,
+      "text": "which invalidated the legal documents allowing their re-entry",
+      "end": 44.571000000000005
+    },
+    {
+      "start": 44.621,
+      "text": "to the United States.",
+      "end": 46.154
+    },
+    {
+      "start": 46.204,
+      "text": "This policy threatened to separate families",
+      "end": 48.821000000000005
+    },
+    {
+      "start": 48.871,
+      "text": "and deprive Chinese immigrants of their homes and livelihoods.",
+      "end": 53.071000000000005
+    },
+    {
+      "start": 53.121,
+      "text": "Ping challenged the ruling,",
+      "end": 54.821000000000005
+    },
+    {
+      "start": 54.871,
+      "text": "beginning a legal battle for the rights of thousands of Chinese immigrants.",
+      "end": 59.279
+    },
+    {
+      "start": 59.329,
+      "text": "But his case inspired an even more controversial policy",
+      "end": 63.571000000000005
+    },
+    {
+      "start": 63.621,
+      "text": "that continues to impact immigrants around the globe.",
+      "end": 67.363
+    },
+    {
+      "start": 67.413,
+      "text": "Discrimination against Chinese immigrants had begun decades earlier,",
+      "end": 71.571
+    },
+    {
+      "start": 71.621,
+      "text": "when the California Gold Rush created a massive demand for labor.",
+      "end": 75.779
+    },
+    {
+      "start": 75.829,
+      "text": "Initially, Chinese immigrants were welcomed as reliable workers",
+      "end": 79.446
+    },
+    {
+      "start": 79.496,
+      "text": "and became essential parts of frontier communities.",
+      "end": 82.821
+    },
+    {
+      "start": 82.871,
+      "text": "Many built railroads and worked in the mines,",
+      "end": 85.571
+    },
+    {
+      "start": 85.621,
+      "text": "while others operated laundries, restaurants, and general stores.",
+      "end": 89.863
+    },
+    {
+      "start": 89.913,
+      "text": "The 1868 Burlingame Treaty even granted China favored trading status with the US,",
+      "end": 96.529
+    },
+    {
+      "start": 96.579,
+      "text": "and allowed unrestricted migration between the two countries.",
+      "end": 102.529
+    },
+    {
+      "start": 102.579,
+      "text": "But as large numbers of Chinese immigrants found success,",
+      "end": 106.279
+    },
+    {
+      "start": 106.329,
+      "text": "American workers began to see them as a threat.",
+      "end": 109.529
+    },
+    {
+      "start": 109.579,
+      "text": "Politicians and labor leaders denounced them for driving down wages,",
+      "end": 114.029
+    },
+    {
+      "start": 114.079,
+      "text": "and violence against Chinese individuals became increasingly common.",
+      "end": 118.113
+    },
+    {
+      "start": 118.163,
+      "text": "This anti-Chinese sentiment soon found its way into California’s courts.",
+      "end": 123.029
+    },
+    {
+      "start": 123.079,
+      "text": "In 1854, following a murder trial where a white man was convicted",
+      "end": 127.154
+    },
+    {
+      "start": 127.204,
+      "text": "of murdering a Chinese man,",
+      "end": 129.279
+    },
+    {
+      "start": 129.329,
+      "text": "the California Supreme Court overturned the conviction,",
+      "end": 133.071
+    },
+    {
+      "start": 133.121,
+      "text": "holding that Chinese eyewitness testimony was inadmissible.",
+      "end": 137.029
+    },
+    {
+      "start": 137.079,
+      "text": "The court declared that Chinese citizens",
+      "end": 139.321
+    },
+    {
+      "start": 139.371,
+      "text": "could not testify against white defendants,",
+      "end": 142.196
+    },
+    {
+      "start": 142.246,
+      "text": "citing similar precedents forbidding testimony",
+      "end": 144.779
+    },
+    {
+      "start": 144.829,
+      "text": "by Black and Native American individuals.",
+      "end": 147.821
+    },
+    {
+      "start": 147.871,
+      "text": "This decision effectively legalized violence",
+      "end": 151.029
+    },
+    {
+      "start": 151.079,
+      "text": "against California’s Chinese population,",
+      "end": 153.904
+    },
+    {
+      "start": 153.954,
+      "text": "inspiring mob attacks and campaigns for segregation.",
+      "end": 158.196
+    },
+    {
+      "start": 158.246,
+      "text": "Before long, anti-Chinese sentiment reached the federal level.",
+      "end": 161.946
+    },
+    {
+      "start": 161.996,
+      "text": "In 1882, Congress passed the Chinese Exclusion Act,",
+      "end": 166.404
+    },
+    {
+      "start": 166.454,
+      "text": "the first federal law that restricted immigration",
+      "end": 169.363
+    },
+    {
+      "start": 169.413,
+      "text": "based explicitly on nationality.",
+      "end": 171.779
+    },
+    {
+      "start": 171.829,
+      "text": "In practice, the Act banned entry to all ethnically Chinese immigrants",
+      "end": 176.279
+    },
+    {
+      "start": 176.329,
+      "text": "besides diplomats,",
+      "end": 177.571
+    },
+    {
+      "start": 177.621,
+      "text": "and prohibited existing immigrants from obtaining citizenship.",
+      "end": 180.988
+    },
+    {
+      "start": 181.038,
+      "text": "It also meant Chinese individuals couldn’t leave the United States and return",
+      "end": 185.488
+    },
+    {
+      "start": 185.538,
+      "text": "without first applying for a certificate of re-entry.",
+      "end": 188.738
+    },
+    {
+      "start": 188.788,
+      "text": "This policy remained in place until October 1st, 1888,",
+      "end": 192.988
+    },
+    {
+      "start": 193.038,
+      "text": "when the Scott Act prohibited re-entry altogether,",
+      "end": 196.196
+    },
+    {
+      "start": 196.246,
+      "text": "stranding Chae Chan Ping and thousands of other Chinese immigrants.",
+      "end": 202.404
+    },
+    {
+      "start": 202.454,
+      "text": "In court, Ping argued he had followed the proper protocol",
+      "end": 205.529
+    },
+    {
+      "start": 205.579,
+      "text": "obtaining his re-entry certificate,",
+      "end": 207.613
+    },
+    {
+      "start": 207.663,
+      "text": "and the government had not honored his legally issued document.",
+      "end": 211.988
+    },
+    {
+      "start": 212.038,
+      "text": "This argument was strong enough to send his case all the way to the Supreme Court.",
+      "end": 217.071
+    },
+    {
+      "start": 217.121,
+      "text": "But the justices ruled against Ping,",
+      "end": 219.779
+    },
+    {
+      "start": 219.829,
+      "text": "invalidating thousands of legal re-entry certificates in one fell swoop.",
+      "end": 225.321
+    },
+    {
+      "start": 225.371,
+      "text": "The decision led to Ping’s deportation",
+      "end": 227.946
+    },
+    {
+      "start": 227.996,
+      "text": "and left up to 20,000 Chinese immigrants unable to return to the US.",
+      "end": 234.446
+    },
+    {
+      "start": 234.496,
+      "text": "But arguably even more important than the court’s racist ruling",
+      "end": 238.404
+    },
+    {
+      "start": 238.454,
+      "text": "was the logic they used to support it.",
+      "end": 241.196
+    },
+    {
+      "start": 241.246,
+      "text": "Traditionally, the Supreme Court is considered a check",
+      "end": 243.988
+    },
+    {
+      "start": 244.038,
+      "text": "on the other two branches of American government,",
+      "end": 246.863
+    },
+    {
+      "start": 246.913,
+      "text": "offering judgment on policies passed by Congress and the president.",
+      "end": 251.488
+    },
+    {
+      "start": 251.538,
+      "text": "In this case however,",
+      "end": 253.113
+    },
+    {
+      "start": 253.163,
+      "text": "the court stated they had no power to pass judgment on the Scott Act,",
+      "end": 257.69599999999997
+    },
+    {
+      "start": 257.746,
+      "text": "since Congress had declared the immigration policy",
+      "end": 260.488
+    },
+    {
+      "start": 260.538,
+      "text": "“a matter of national security.”",
+      "end": 263.07099999999997
+    },
+    {
+      "start": 263.121,
+      "text": "This decision set a unique precedent.",
+      "end": 266.154
+    },
+    {
+      "start": 266.204,
+      "text": "Unless Ping's case was overturned,",
+      "end": 268.404
+    },
+    {
+      "start": 268.454,
+      "text": "congressional and executive branches could claim national security concerns",
+      "end": 273.113
+    },
+    {
+      "start": 273.163,
+      "text": "to pass whatever immigration laws they wanted.",
+      "end": 277.029
+    },
+    {
+      "start": 277.079,
+      "text": "Throughout the 20th century,",
+      "end": 279.154
+    },
+    {
+      "start": 279.204,
+      "text": "xenophobic government officials used this power to freely discriminate",
+      "end": 283.363
+    },
+    {
+      "start": 283.413,
+      "text": "against immigrant groups.",
+      "end": 285.363
+    },
+    {
+      "start": 285.413,
+      "text": "The 1917 Asiatic Barred Zone Act prohibited the entry of all South Asians.",
+      "end": 291.57099999999997
+    },
+    {
+      "start": 291.621,
+      "text": "And a series of immigration acts in the 1920s",
+      "end": 294.613
+    },
+    {
+      "start": 294.663,
+      "text": "expanded restrictions throughout Asia, Eastern Europe and southern Europe.",
+      "end": 299.07099999999997
+    },
+    {
+      "start": 299.121,
+      "text": "Many of these restrictions were lifted after World War II,",
+      "end": 302.32099999999997
+    },
+    {
+      "start": 302.371,
+      "text": "and the Chinese Exclusion Act itself was finally repealed in 1943—",
+      "end": 307.279
+    },
+    {
+      "start": 307.329,
+      "text": "over 60 years after it was enacted.",
+      "end": 310.238
+    },
+    {
+      "start": 310.288,
+      "text": "But the US government continues to use this precedent",
+      "end": 313.44599999999997
+    },
+    {
+      "start": 313.496,
+      "text": "to deploy sudden and sweeping immigration policies,",
+      "end": 316.654
+    },
+    {
+      "start": 316.704,
+      "text": "targeting journalists and dissidents as well as ethnic groups.",
+      "end": 321.94599999999997
+    },
+    {
+      "start": 321.996,
+      "text": "Little is known about what became of Chae Chan Ping following his deportation.",
+      "end": 326.738
+    },
+    {
+      "start": 326.788,
+      "text": "But the injustices visited upon him and thousands of other Chinese Americans",
+      "end": 331.988
+    },
+    {
+      "start": 332.038,
+      "text": "continue to impact immigrant rights and liberties.",
+      "end": 338.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 10.704,
+      "text": "旅居美国加利福尼亚州十二年后，",
+      "end": 12.779
+    },
+    {
+      "start": 12.829,
+      "text": "中国公民柴禅平准备回家看看。",
+      "end": 17.320999999999998
+    },
+    {
+      "start": 17.371,
+      "text": "他好不容易备齐了 出境和入境的必要文书，",
+      "end": 21.320999999999998
+    },
+    {
+      "start": 21.371,
+      "text": "启航前往中国，",
+      "end": 22.945999999999998
+    },
+    {
+      "start": 22.996,
+      "text": "而后用了一年时间 与中国的亲朋好友联络感情。",
+      "end": 27.113
+    },
+    {
+      "start": 27.163,
+      "text": "但是当柴禅平于 1888 年 10 月 8 日回到旧金山时，",
+      "end": 31.529
+    },
+    {
+      "start": 31.579,
+      "text": "他和其他同船的移民们被禁止上岸。",
+      "end": 35.821000000000005
+    },
+    {
+      "start": 35.871,
+      "text": "就在几天前，格罗弗·克利夫兰总统 刚刚签署了斯科特法案。",
+      "end": 41.321000000000005
+    },
+    {
+      "start": 41.371,
+      "text": "法案规定，允许他们 重新进入美国的法律文件",
+      "end": 44.571000000000005
+    },
+    {
+      "start": 44.621,
+      "text": "就此作废。",
+      "end": 46.154
+    },
+    {
+      "start": 46.204,
+      "text": "这项政策使华人家庭骨肉分离，",
+      "end": 48.821000000000005
+    },
+    {
+      "start": 48.871,
+      "text": "也一并剥夺了他们的家园和生计。",
+      "end": 53.071000000000005
+    },
+    {
+      "start": 53.121,
+      "text": "柴禅平对这项裁决提出了挑战，",
+      "end": 54.821000000000005
+    },
+    {
+      "start": 54.871,
+      "text": "开始了一场维护成千上万 华人移民利益的法律斗争。",
+      "end": 59.279
+    },
+    {
+      "start": 59.329,
+      "text": "然而，这场官司却带来了一项 更具争议性的政策，",
+      "end": 63.571000000000005
+    },
+    {
+      "start": 63.621,
+      "text": "继续影响着全世界移民的权益。",
+      "end": 67.363
+    },
+    {
+      "start": 67.413,
+      "text": "几十年前，当加州的淘金热 创造了大量劳动力需求时，",
+      "end": 71.571
+    },
+    {
+      "start": 71.621,
+      "text": "对中国移民的歧视就开始了。",
+      "end": 75.779
+    },
+    {
+      "start": 75.829,
+      "text": "最开始，作为可靠的工人， 中国移民是受欢迎的。",
+      "end": 79.446
+    },
+    {
+      "start": 79.496,
+      "text": "他们也成为了边境社区 不可或缺的组成部分。",
+      "end": 82.821
+    },
+    {
+      "start": 82.871,
+      "text": "许多中国人修铁路、挖矿石，",
+      "end": 85.571
+    },
+    {
+      "start": 85.621,
+      "text": "其他经营着洗衣店、饭店和杂货铺。",
+      "end": 89.863
+    },
+    {
+      "start": 89.913,
+      "text": "1868年的《蒲安臣条约》 （中美天津条约续增条约）",
+      "end": 93.071
+    },
+    {
+      "start": 93.121,
+      "text": "甚至赋予了中国“贸易最惠国”的地位",
+      "end": 96.529
+    },
+    {
+      "start": 96.579,
+      "text": "并且允许两国之间自由移民。",
+      "end": 102.529
+    },
+    {
+      "start": 102.579,
+      "text": "但是，当大量中国移民取得了成功后，",
+      "end": 106.279
+    },
+    {
+      "start": 106.329,
+      "text": "美国工人开始把他们视作威胁。",
+      "end": 109.529
+    },
+    {
+      "start": 109.579,
+      "text": "政客和工人领袖 谴责他们降低了工资水平，",
+      "end": 114.029
+    },
+    {
+      "start": 114.079,
+      "text": "针对中国人的暴力行为也越来越普遍。",
+      "end": 118.113
+    },
+    {
+      "start": 118.163,
+      "text": "这种反华情绪迅速进入了加州的法庭。",
+      "end": 123.029
+    },
+    {
+      "start": 123.079,
+      "text": "1854 年，一个白人男性",
+      "end": 127.154
+    },
+    {
+      "start": 127.204,
+      "text": "因谋杀华人男子而被审判定罪，",
+      "end": 129.279
+    },
+    {
+      "start": 129.329,
+      "text": "加州最高法院推翻了判决，",
+      "end": 133.071
+    },
+    {
+      "start": 133.121,
+      "text": "认为华人目击者的证词 是不能被采纳的。",
+      "end": 137.029
+    },
+    {
+      "start": 137.079,
+      "text": "法院宣布",
+      "end": 138.279
+    },
+    {
+      "start": 138.329,
+      "text": "中国公民不能指证白人被告，",
+      "end": 142.196
+    },
+    {
+      "start": 142.246,
+      "text": "援引禁止黑人和美国原住民",
+      "end": 146.321
+    },
+    {
+      "start": 146.371,
+      "text": "作证的先例。",
+      "end": 147.821
+    },
+    {
+      "start": 147.871,
+      "text": "这项决定实际上使针对 加州华人的暴力合法化了，",
+      "end": 153.904
+    },
+    {
+      "start": 153.954,
+      "text": "引发了暴徒袭击和倡导 种族分离的运动。",
+      "end": 158.196
+    },
+    {
+      "start": 158.246,
+      "text": "不久之后，联邦也受到了 反华情绪影响。",
+      "end": 161.946
+    },
+    {
+      "start": 161.996,
+      "text": "1882 年，国会通过了《排华法案》，",
+      "end": 166.404
+    },
+    {
+      "start": 166.454,
+      "text": "这是第一部明确基于国籍",
+      "end": 169.363
+    },
+    {
+      "start": 169.413,
+      "text": "限制移民的联邦法律。",
+      "end": 171.779
+    },
+    {
+      "start": 171.829,
+      "text": "在实际实施中，法案禁止 除外交官之外的所有中国移民",
+      "end": 176.279
+    },
+    {
+      "start": 176.329,
+      "text": "进入美国，",
+      "end": 177.571
+    },
+    {
+      "start": 177.621,
+      "text": "并且禁止现有的移民 获得美国公民的身份。",
+      "end": 180.988
+    },
+    {
+      "start": 181.038,
+      "text": "这也意味着华人如果不先申请好 重新进入的证明，",
+      "end": 185.488
+    },
+    {
+      "start": 185.538,
+      "text": "就不能离开再回到美国。",
+      "end": 188.738
+    },
+    {
+      "start": 188.788,
+      "text": "直到 1888 年 10 月 1 日， 这项政策才被废止。",
+      "end": 192.988
+    },
+    {
+      "start": 193.038,
+      "text": "到这时，斯科特法案全面禁止 重新进入美国的规定，",
+      "end": 196.196
+    },
+    {
+      "start": 196.246,
+      "text": "阻碍包括柴禅平在内的数以万计的 中国移民回到美国的步伐。",
+      "end": 202.404
+    },
+    {
+      "start": 202.454,
+      "text": "在法庭上，柴禅平据理力争道， 他已经根据相应条款",
+      "end": 205.529
+    },
+    {
+      "start": 205.579,
+      "text": "备好了他重回美国的证明，",
+      "end": 207.613
+    },
+    {
+      "start": 207.663,
+      "text": "而政府并没有承认他的合法文件。",
+      "end": 211.988
+    },
+    {
+      "start": 212.038,
+      "text": "这一有力论据使他的案子 一路被送到最高法庭审判。",
+      "end": 217.071
+    },
+    {
+      "start": 217.121,
+      "text": "但是，公正并没有站在柴禅平这一方，",
+      "end": 219.779
+    },
+    {
+      "start": 219.829,
+      "text": "而是一举使成千上万的 合法证明作废了。",
+      "end": 225.321
+    },
+    {
+      "start": 225.371,
+      "text": "这一决定致使柴禅平被驱逐出境，",
+      "end": 227.946
+    },
+    {
+      "start": 227.996,
+      "text": "多达两万中国移民无法重新回到美国。",
+      "end": 234.446
+    },
+    {
+      "start": 234.496,
+      "text": "然而按理说，比法庭 具有种族歧视色彩的裁决更讽刺的，",
+      "end": 238.404
+    },
+    {
+      "start": 238.454,
+      "text": "是他们用以支撑裁决的逻辑。",
+      "end": 241.196
+    },
+    {
+      "start": 241.246,
+      "text": "传统上，最高法院被认为是",
+      "end": 243.988
+    },
+    {
+      "start": 244.038,
+      "text": "对美国政府其他两个分支的制约，",
+      "end": 246.863
+    },
+    {
+      "start": 246.913,
+      "text": "对国会和总统通过的政策 合宪与否作出判决。",
+      "end": 251.488
+    },
+    {
+      "start": 251.538,
+      "text": "然而，在这一案件中，",
+      "end": 253.113
+    },
+    {
+      "start": 253.163,
+      "text": "法院认为他们无权对 斯科特法案作出判断，",
+      "end": 257.69599999999997
+    },
+    {
+      "start": 257.746,
+      "text": "因为国会已经宣布移民政策是一项",
+      "end": 260.488
+    },
+    {
+      "start": 260.538,
+      "text": "关乎国家安全的政策。",
+      "end": 263.07099999999997
+    },
+    {
+      "start": 263.121,
+      "text": "这一裁决成为了一个独特的先例。",
+      "end": 266.154
+    },
+    {
+      "start": 266.204,
+      "text": "除非柴禅平的案件翻案，",
+      "end": 268.404
+    },
+    {
+      "start": 268.454,
+      "text": "国会和行政机构就可以",
+      "end": 270.654
+    },
+    {
+      "start": 270.704,
+      "text": "以关乎国家安全为由通过任何移民法。",
+      "end": 277.029
+    },
+    {
+      "start": 277.079,
+      "text": "整个 20 世纪，",
+      "end": 279.154
+    },
+    {
+      "start": 279.204,
+      "text": "仇外的政府官员 都用这项权力肆无忌惮地",
+      "end": 283.363
+    },
+    {
+      "start": 283.413,
+      "text": "迫害移民群体。",
+      "end": 285.363
+    },
+    {
+      "start": 285.413,
+      "text": "1917 年的《亚洲禁止区域法案》 禁止了所有南亚人进入美国。",
+      "end": 291.57099999999997
+    },
+    {
+      "start": 291.621,
+      "text": "20 世纪 20 年代的一系列移民法案，",
+      "end": 294.613
+    },
+    {
+      "start": 294.663,
+      "text": "把禁令扩张到了 整个亚洲、东欧和南欧。",
+      "end": 299.07099999999997
+    },
+    {
+      "start": 299.121,
+      "text": "许多禁令在二战后撤销了。",
+      "end": 302.32099999999997
+    },
+    {
+      "start": 302.371,
+      "text": "排华法案也终于在 1943 年被废止，",
+      "end": 307.279
+    },
+    {
+      "start": 307.329,
+      "text": "此时已在实施 60 年后了。",
+      "end": 310.238
+    },
+    {
+      "start": 310.288,
+      "text": "但美国政府继续利用这一先例",
+      "end": 313.44599999999997
+    },
+    {
+      "start": 313.496,
+      "text": "来部署针对记者、 政见不合者和有色人种的",
+      "end": 316.654
+    },
+    {
+      "start": 316.704,
+      "text": "紧急、大规模移民政策。",
+      "end": 321.94599999999997
+    },
+    {
+      "start": 321.996,
+      "text": "柴禅平被驱逐出境后的情况 人们知之甚少。",
+      "end": 326.738
+    },
+    {
+      "start": 326.788,
+      "text": "但当年降临在他和其他数千名 华裔美国人身上的不公正待遇，",
+      "end": 331.988
+    },
+    {
+      "start": 332.038,
+      "text": "继续影响着移民的权利与自由。",
+      "end": 338.95
+    }
+  ]
+};

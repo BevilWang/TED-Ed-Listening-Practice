@@ -1,0 +1,1140 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Plato's allegory of the ring",
+    "speaker": "Alex Gendler",
+    "duration": 318,
+    "slug": "alex_gendler_plato_s_allegory_of_the_ring",
+    "sourcePage": "https://www.ted.com/talks/alex_gendler_plato_s_allegory_of_the_ring",
+    "translationSourcePage": "https://www.ted.com/talks/alex_gendler_plato_s_allegory_of_the_ring?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/61/43/001/products/2022e-alex-gendler-plato-s-ring-of-gyges-001-fallback-16f03724a40b8c89824884199b352d00-1200k.mp4",
+    "youtubeId": "TfVmW6sNux8",
+    "youtubeTitle": "Plato's allegory of the ring - Alex Gendler"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.086,
+      "end": 12.125,
+      "text": "A ring with supernatural abilities tempts its beholder with power.",
+      "translation": "一枚具有超自然能力的戒指 用它的力量诱惑着看客。"
+    },
+    {
+      "id": 2,
+      "start": 12.175,
+      "end": 15.878,
+      "text": "But there are no hobbits, dwarves, or Valkyries in this tale.",
+      "translation": "但这个故事里没有霍比特人、 矮人或瓦尔基里。"
+    },
+    {
+      "id": 3,
+      "start": 15.928,
+      "end": 28.808,
+      "text": "In fact, the legend of the Ring of Gyges appeared long before those characters were ever committed to paper: more than 2,000 years ago, in the Greek philosopher Plato’s “Republic.”",
+      "translation": "盖吉斯戒指（The Ring of Gyges）的传说其实在这些人物出现在 文学作品中之前就存在了。2000 多年前，在希腊哲学家 柏拉图的《理想国》中，"
+    },
+    {
+      "id": 4,
+      "start": 28.858,
+      "end": 37.275,
+      "text": "The story surfaces as the philosopher, Socrates, and his student, Glaucon, discuss why people act justly.",
+      "translation": "故事从哲学家苏格拉底 和他的学生格劳孔（Glaucon）讨论“人们为什么要公正地行事”开始："
+    },
+    {
+      "id": 5,
+      "start": 37.325,
+      "end": 39.235,
+      "text": "Is it because it’s what’s right?",
+      "translation": "是因为它是正确的做法吗？"
+    },
+    {
+      "id": 6,
+      "start": 39.285,
+      "end": 44.449,
+      "text": "Or because it’s a convention that’s enforced through punishment and reward?",
+      "translation": "还是因为这是一个通过惩罚 和奖励强制执行的惯例？"
+    },
+    {
+      "id": 7,
+      "start": 44.499,
+      "end": 51.289,
+      "text": "Playing devil’s advocate, Glaucon argues against Socrates and recounts the following story...",
+      "translation": "格劳孔扮演魔鬼的支持者， 反对苏格拉底，并讲述了以下的故事："
+    },
+    {
+      "id": 8,
+      "start": 51.339,
+      "end": 59.714,
+      "text": "Long ago, a shepherd named Gyges was tending his flock when an earthquake struck, ripping an opening to the ground.",
+      "translation": "很久以前，在一次地震来袭时，一个叫盖吉斯的牧羊人 正在照看他的羊群。地震将地面撕开了一个口子，"
+    },
+    {
+      "id": 9,
+      "start": 59.764,
+      "end": 62.258,
+      "text": "The chasm drew Gyges in.",
+      "translation": "将盖吉斯拉了进去。"
+    },
+    {
+      "id": 10,
+      "start": 62.308,
+      "end": 69.64,
+      "text": "There, his eyes alighted upon a bronze horse, the doors to its central chamber ajar.",
+      "translation": "盖吉斯的目光停留在 一匹青铜马上，通往里面房间的门虚掩着。"
+    },
+    {
+      "id": 11,
+      "start": 69.69,
+      "end": 74.187,
+      "text": "Peering inside, Gyges discovered the corpse of a giant.",
+      "translation": "盖吉斯往里看到了巨人的尸体，"
+    },
+    {
+      "id": 12,
+      "start": 74.237,
+      "end": 80.985,
+      "text": "On its finger, a golden ring, which Gyges pocketed before retracing his steps.",
+      "translation": "它的手指上戴着一个金戒指。盖吉斯在回去之前， 将金戒指放进口袋。"
+    },
+    {
+      "id": 13,
+      "start": 81.035,
+      "end": 92.622,
+      "text": "Later, he sat among the other shepherds, fiddling with the mysterious ring when, suddenly, after absentmindedly twirling its stone, he became invisible.",
+      "translation": "之后，他和其他牧羊人坐在一起，摆弄着神秘的戒指，突然间，他随意旋转了戒指上的石头， 然后他就隐形了。"
+    },
+    {
+      "id": 14,
+      "start": 92.672,
+      "end": 97.502,
+      "text": "When he turned the stone back in the opposite direction, he reappeared.",
+      "translation": "当他将石头转回来时， 他又重新出现了。"
+    },
+    {
+      "id": 15,
+      "start": 97.552,
+      "end": 106.177,
+      "text": "Emboldened by the ring’s powers, new possibilities bloomed before him, and a sordid plan hatched in his mind.",
+      "translation": "在戒指强大力量的鼓舞下， 新的可能性在他眼前绽放。他的脑中浮现了一个卑鄙的计划。"
+    },
+    {
+      "id": 16,
+      "start": 106.227,
+      "end": 114.56,
+      "text": "Gyges became a messenger to the king of Lydia, and, inside the palace, used the ring to prowl undetected.",
+      "translation": "盖吉斯成为了吕底亚（Lydia） 国王的信使，使用戒指来 不被察觉地穿梭在宫殿内。"
+    },
+    {
+      "id": 17,
+      "start": 114.61,
+      "end": 118.94,
+      "text": "He seduced the queen and convinced her to betray her husband.",
+      "translation": "盖吉斯诱惑了王后， 说服她背叛她的丈夫。"
+    },
+    {
+      "id": 18,
+      "start": 118.99,
+      "end": 126.531,
+      "text": "And soon Gyges, once a humble shepherd, had murdered the monarch and claimed the kingdom.",
+      "translation": "很快，曾经地位低下的牧羊人 盖吉斯谋杀了国王，并拥有了整个王国。"
+    },
+    {
+      "id": 19,
+      "start": 126.581,
+      "end": 133.121,
+      "text": "Glaucon tells this story to illustrate how people can apparently benefit by acting unjustly.",
+      "translation": "格劳孔用这个故事来展示人们如何通过不公正的行为谋取利益。"
+    },
+    {
+      "id": 20,
+      "start": 133.171,
+      "end": 142.296,
+      "text": "After all, wouldn’t any rational person act like Gyges if presented the opportunity to get what they desired without consequence?",
+      "translation": "毕竟，哪一个理智的人不会 做出和盖吉斯一样的选择？当他们有机会获得想要的东西， 而不承担任何后果。"
+    },
+    {
+      "id": 21,
+      "start": 142.346,
+      "end": 147.927,
+      "text": "Exploring this argument, Glaucon breaks all good things into three classes.",
+      "translation": "探索着这个问题，格劳孔将 所有的善都归入三个类别。"
+    },
+    {
+      "id": 22,
+      "start": 147.977,
+      "end": 154.517,
+      "text": "The first kinds, we desire for their own sake, like the experience of harmless pleasure.",
+      "translation": "第一类，我们为自己而所欲求。比如不妨碍他人的快乐。"
+    },
+    {
+      "id": 23,
+      "start": 154.567,
+      "end": 162.316,
+      "text": "The second, we want only for the value they bring, though they may be onerous, like exercise or medicine.",
+      "translation": "第二类，为它带来的价值而欲求。尽管它们可能是艰巨的， 比如运动或医学。"
+    },
+    {
+      "id": 24,
+      "start": 162.366,
+      "end": 171.409,
+      "text": "The third class comprises things we desire for their own sake and the value they offer, like knowledge and health.",
+      "translation": "第三类包括我们为其自身和它们提供的价值而渴望的东西， 比如知识和健康。"
+    },
+    {
+      "id": 25,
+      "start": 171.459,
+      "end": 180.585,
+      "text": "Glaucon argues that justice belongs to the second class of good: it’s a burden that nevertheless brings rewards.",
+      "translation": "格劳孔认为正义属于第二种善。这是一种负担，但也带来了回报。"
+    },
+    {
+      "id": 26,
+      "start": 180.635,
+      "end": 187.383,
+      "text": "The only reason anyone conducts themselves virtuously, he reasons, is due to external influences.",
+      "translation": "他认为，任何人做出有道德的行为都是由于外部的影响。"
+    },
+    {
+      "id": 27,
+      "start": 187.433,
+      "end": 193.097,
+      "text": "So it’s appearing— not actually being— virtuous that matters.",
+      "translation": "因此，重要的是看起来……而不是…… 实际上有道德才是最重要的。"
+    },
+    {
+      "id": 28,
+      "start": 193.147,
+      "end": 205.026,
+      "text": "Socrates, as written by Plato, disagrees, countering that justice belongs to the third class of good, offering both extrinsic and intrinsic benefits.",
+      "translation": "柏拉图笔下的苏格拉底并不认同，他反驳，正义属于第三种善，同时提供外在和内在的好处。"
+    },
+    {
+      "id": 29,
+      "start": 205.076,
+      "end": 212.074,
+      "text": "Socrates argues that the human soul has three parts: reason, spirit, and appetite.",
+      "translation": "苏格拉底认为人的灵魂 分为三个部分：理性、意志和欲望。"
+    },
+    {
+      "id": 30,
+      "start": 212.124,
+      "end": 219.373,
+      "text": "Reason guides an individual to truth and knowledge, and is influenced by either spirit or appetite.",
+      "translation": "理性引导人们走向真理和知识，也会受到意志和欲望的影响。"
+    },
+    {
+      "id": 31,
+      "start": 219.423,
+      "end": 229.133,
+      "text": "Spirit is righteous, ambitious, and the source of bold action, while appetite consists of baser, bodily desires.",
+      "translation": "意志是正义和野心， 是大胆行为的来源，而欲望则是由较低级的、 生理的需求组成。"
+    },
+    {
+      "id": 32,
+      "start": 229.183,
+      "end": 239.435,
+      "text": "To Socrates, the philosopher is led by reason, and their spirit keeps their appetite in check, making them the most just and the happiest.",
+      "translation": "对于苏格拉底， 哲学家由理性引导着。他们的意志控制着 他们的欲望，使他们成为最公正和最快乐的人。"
+    },
+    {
+      "id": 33,
+      "start": 239.485,
+      "end": 244.649,
+      "text": "Even without consequences for self-serving wrongdoings, they wouldn't commit them.",
+      "translation": "就算不用为错误行为承担后果，他们也不会做出这样的行为。"
+    },
+    {
+      "id": 34,
+      "start": 244.699,
+      "end": 250.571,
+      "text": "Meanwhile, the tyrant succumbs to appetite and acts unjustly.",
+      "translation": "同时，暴君屈服于欲望， 做出不公正的行为。"
+    },
+    {
+      "id": 35,
+      "start": 250.621,
+      "end": 258.162,
+      "text": "So, while Gyges may have attained power and wealth, Socrates implies that his soul would be in disharmony.",
+      "translation": "因此，虽然盖吉斯可能 获得了权力和财富，苏格拉底暗示他的灵魂 处于失和状态。"
+    },
+    {
+      "id": 36,
+      "start": 258.212,
+      "end": 266.212,
+      "text": "He’d be enslaved to his own base desires rather than guided by reason and wouldn't be truly happy.",
+      "translation": "他将被自己的基本欲望所奴役， 而不是被理性所引导，所以，他也不会真正快乐。"
+    },
+    {
+      "id": 37,
+      "start": 266.262,
+      "end": 277.098,
+      "text": "Before Plato penned this discussion, Chinese philosopher Confucius similarly reasoned that by simply acting justly, one also benefits oneself.",
+      "translation": "在柏拉图写下这篇文章之前，中国哲学家孔子同样认为一个人也能从自己公正的行为里受益。"
+    },
+    {
+      "id": 38,
+      "start": 277.148,
+      "end": 281.727,
+      "text": "After, modern Western philosophers voiced varying beliefs.",
+      "translation": "现代的西方哲学家 提出了不同看法。"
+    },
+    {
+      "id": 39,
+      "start": 281.777,
+      "end": 287.191,
+      "text": "Thomas Hobbes, for instance, argued that the state of nature is violent and selfish.",
+      "translation": "比如，托马斯·霍布斯 （Thomas Hobbes）认为人的本性是暴力和自私的。"
+    },
+    {
+      "id": 40,
+      "start": 287.241,
+      "end": 291.612,
+      "text": "Justice, therefore, is imposed by authority.",
+      "translation": "当权者需要在人们身上 强加正义的束缚。"
+    },
+    {
+      "id": 41,
+      "start": 291.662,
+      "end": 303.374,
+      "text": "John Locke, in contrast, asserted that people are naturally obligated to act justly and they agree to participate in civil society to secure their natural rights.",
+      "translation": "相反，约翰·洛克 （John Locke）认为人们自然有义务做正义的事，同意参与国民社会以确保其应得的权利。"
+    },
+    {
+      "id": 42,
+      "start": 303.424,
+      "end": 311.966,
+      "text": "The allegory of the ill-gotten magical ring that lures its wearer towards their darkest desires continues to inspire.",
+      "translation": "来路不正的魔法戒指引诱佩戴者走向他们最黑暗的欲望的寓言 继续激发着新的故事。"
+    },
+    {
+      "id": 43,
+      "start": 312.016,
+      "end": 317.95,
+      "text": "So if the ring of Gyges fell into your hands, what would you do?",
+      "translation": "如果你获得了盖吉斯的戒指，你会怎么做？"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.086,
+      "text": "A ring with supernatural abilities tempts its beholder with power.",
+      "end": 12.125
+    },
+    {
+      "start": 12.175,
+      "text": "But there are no hobbits, dwarves, or Valkyries in this tale.",
+      "end": 15.878
+    },
+    {
+      "start": 15.928,
+      "text": "In fact, the legend of the Ring of Gyges appeared long before those characters",
+      "end": 21.05
+    },
+    {
+      "start": 21.1,
+      "text": "were ever committed to paper:",
+      "end": 22.927
+    },
+    {
+      "start": 22.977,
+      "text": "more than 2,000 years ago,",
+      "end": 25.512999999999998
+    },
+    {
+      "start": 25.563,
+      "text": "in the Greek philosopher Plato’s “Republic.”",
+      "end": 28.808
+    },
+    {
+      "start": 28.858,
+      "text": "The story surfaces as the philosopher, Socrates,",
+      "end": 32.145
+    },
+    {
+      "start": 32.195,
+      "text": "and his student, Glaucon, discuss why people act justly.",
+      "end": 37.275000000000006
+    },
+    {
+      "start": 37.325,
+      "text": "Is it because it’s what’s right?",
+      "end": 39.235
+    },
+    {
+      "start": 39.285,
+      "text": "Or because it’s a convention that’s enforced through punishment and reward?",
+      "end": 44.449000000000005
+    },
+    {
+      "start": 44.499,
+      "text": "Playing devil’s advocate, Glaucon argues against Socrates",
+      "end": 48.411
+    },
+    {
+      "start": 48.461,
+      "text": "and recounts the following story...",
+      "end": 51.289
+    },
+    {
+      "start": 51.339,
+      "text": "Long ago, a shepherd named Gyges was tending his flock",
+      "end": 55.543000000000006
+    },
+    {
+      "start": 55.593,
+      "text": "when an earthquake struck,",
+      "end": 57.378
+    },
+    {
+      "start": 57.428,
+      "text": "ripping an opening to the ground.",
+      "end": 59.714000000000006
+    },
+    {
+      "start": 59.764,
+      "text": "The chasm drew Gyges in.",
+      "end": 62.258
+    },
+    {
+      "start": 62.308,
+      "text": "There, his eyes alighted upon a bronze horse,",
+      "end": 65.845
+    },
+    {
+      "start": 65.895,
+      "text": "the doors to its central chamber ajar.",
+      "end": 69.64
+    },
+    {
+      "start": 69.69,
+      "text": "Peering inside, Gyges discovered the corpse of a giant.",
+      "end": 74.187
+    },
+    {
+      "start": 74.237,
+      "text": "On its finger, a golden ring,",
+      "end": 76.898
+    },
+    {
+      "start": 76.948,
+      "text": "which Gyges pocketed before retracing his steps.",
+      "end": 80.985
+    },
+    {
+      "start": 81.035,
+      "text": "Later, he sat among the other shepherds,",
+      "end": 83.446
+    },
+    {
+      "start": 83.496,
+      "text": "fiddling with the mysterious ring when, suddenly,",
+      "end": 87.116
+    },
+    {
+      "start": 87.166,
+      "text": "after absentmindedly twirling its stone, he became invisible.",
+      "end": 92.622
+    },
+    {
+      "start": 92.672,
+      "text": "When he turned the stone back in the opposite direction, he reappeared.",
+      "end": 97.50200000000001
+    },
+    {
+      "start": 97.552,
+      "text": "Emboldened by the ring’s powers, new possibilities bloomed before him,",
+      "end": 102.757
+    },
+    {
+      "start": 102.807,
+      "text": "and a sordid plan hatched in his mind.",
+      "end": 106.177
+    },
+    {
+      "start": 106.227,
+      "text": "Gyges became a messenger to the king of Lydia,",
+      "end": 109.43
+    },
+    {
+      "start": 109.48,
+      "text": "and, inside the palace, used the ring to prowl undetected.",
+      "end": 114.56
+    },
+    {
+      "start": 114.61,
+      "text": "He seduced the queen and convinced her to betray her husband.",
+      "end": 118.94
+    },
+    {
+      "start": 118.99,
+      "text": "And soon Gyges, once a humble shepherd,",
+      "end": 122.527
+    },
+    {
+      "start": 122.577,
+      "text": "had murdered the monarch and claimed the kingdom.",
+      "end": 126.531
+    },
+    {
+      "start": 126.581,
+      "text": "Glaucon tells this story to illustrate how people can apparently benefit",
+      "end": 130.952
+    },
+    {
+      "start": 131.002,
+      "text": "by acting unjustly.",
+      "end": 133.12099999999998
+    },
+    {
+      "start": 133.171,
+      "text": "After all, wouldn’t any rational person act like Gyges",
+      "end": 137.083
+    },
+    {
+      "start": 137.133,
+      "text": "if presented the opportunity to get what they desired without consequence?",
+      "end": 142.296
+    },
+    {
+      "start": 142.346,
+      "text": "Exploring this argument, Glaucon breaks all good things into three classes.",
+      "end": 147.927
+    },
+    {
+      "start": 147.977,
+      "text": "The first kinds, we desire for their own sake,",
+      "end": 151.22199999999998
+    },
+    {
+      "start": 151.272,
+      "text": "like the experience of harmless pleasure.",
+      "end": 154.517
+    },
+    {
+      "start": 154.567,
+      "text": "The second, we want only for the value they bring,",
+      "end": 158.18699999999998
+    },
+    {
+      "start": 158.237,
+      "text": "though they may be onerous, like exercise or medicine.",
+      "end": 162.316
+    },
+    {
+      "start": 162.366,
+      "text": "The third class comprises things we desire for their own sake",
+      "end": 166.362
+    },
+    {
+      "start": 166.412,
+      "text": "and the value they offer, like knowledge and health.",
+      "end": 171.409
+    },
+    {
+      "start": 171.459,
+      "text": "Glaucon argues that justice belongs to the second class of good:",
+      "end": 176.12199999999999
+    },
+    {
+      "start": 176.172,
+      "text": "it’s a burden that nevertheless brings rewards.",
+      "end": 180.58499999999998
+    },
+    {
+      "start": 180.635,
+      "text": "The only reason anyone conducts themselves virtuously, he reasons,",
+      "end": 184.839
+    },
+    {
+      "start": 184.889,
+      "text": "is due to external influences.",
+      "end": 187.38299999999998
+    },
+    {
+      "start": 187.433,
+      "text": "So it’s appearing— not actually being— virtuous that matters.",
+      "end": 193.09699999999998
+    },
+    {
+      "start": 193.147,
+      "text": "Socrates, as written by Plato, disagrees,",
+      "end": 196.809
+    },
+    {
+      "start": 196.859,
+      "text": "countering that justice belongs to the third class of good,",
+      "end": 200.938
+    },
+    {
+      "start": 200.988,
+      "text": "offering both extrinsic and intrinsic benefits.",
+      "end": 205.02599999999998
+    },
+    {
+      "start": 205.076,
+      "text": "Socrates argues that the human soul has three parts:",
+      "end": 208.654
+    },
+    {
+      "start": 208.704,
+      "text": "reason, spirit, and appetite.",
+      "end": 212.07399999999998
+    },
+    {
+      "start": 212.124,
+      "text": "Reason guides an individual to truth and knowledge,",
+      "end": 215.536
+    },
+    {
+      "start": 215.586,
+      "text": "and is influenced by either spirit or appetite.",
+      "end": 219.373
+    },
+    {
+      "start": 219.423,
+      "text": "Spirit is righteous, ambitious, and the source of bold action,",
+      "end": 224.337
+    },
+    {
+      "start": 224.387,
+      "text": "while appetite consists of baser, bodily desires.",
+      "end": 229.13299999999998
+    },
+    {
+      "start": 229.183,
+      "text": "To Socrates, the philosopher is led by reason,",
+      "end": 232.261
+    },
+    {
+      "start": 232.311,
+      "text": "and their spirit keeps their appetite in check,",
+      "end": 235.18099999999998
+    },
+    {
+      "start": 235.231,
+      "text": "making them the most just and the happiest.",
+      "end": 239.435
+    },
+    {
+      "start": 239.485,
+      "text": "Even without consequences for self-serving wrongdoings,",
+      "end": 242.73
+    },
+    {
+      "start": 242.78,
+      "text": "they wouldn't commit them.",
+      "end": 244.649
+    },
+    {
+      "start": 244.699,
+      "text": "Meanwhile, the tyrant succumbs to appetite and acts unjustly.",
+      "end": 250.571
+    },
+    {
+      "start": 250.621,
+      "text": "So, while Gyges may have attained power and wealth,",
+      "end": 253.74099999999999
+    },
+    {
+      "start": 253.791,
+      "text": "Socrates implies that his soul would be in disharmony.",
+      "end": 258.162
+    },
+    {
+      "start": 258.212,
+      "text": "He’d be enslaved to his own base desires rather than guided by reason",
+      "end": 263.334
+    },
+    {
+      "start": 263.384,
+      "text": "and wouldn't be truly happy.",
+      "end": 266.212
+    },
+    {
+      "start": 266.262,
+      "text": "Before Plato penned this discussion,",
+      "end": 268.965
+    },
+    {
+      "start": 269.015,
+      "text": "Chinese philosopher Confucius similarly reasoned that by simply acting justly,",
+      "end": 274.428
+    },
+    {
+      "start": 274.478,
+      "text": "one also benefits oneself.",
+      "end": 277.098
+    },
+    {
+      "start": 277.148,
+      "text": "After, modern Western philosophers voiced varying beliefs.",
+      "end": 281.727
+    },
+    {
+      "start": 281.777,
+      "text": "Thomas Hobbes, for instance,",
+      "end": 283.354
+    },
+    {
+      "start": 283.404,
+      "text": "argued that the state of nature is violent and selfish.",
+      "end": 287.191
+    },
+    {
+      "start": 287.241,
+      "text": "Justice, therefore, is imposed by authority.",
+      "end": 291.61199999999997
+    },
+    {
+      "start": 291.662,
+      "text": "John Locke, in contrast, asserted that people are naturally obligated",
+      "end": 295.908
+    },
+    {
+      "start": 295.958,
+      "text": "to act justly",
+      "end": 297.159
+    },
+    {
+      "start": 297.209,
+      "text": "and they agree to participate in civil society",
+      "end": 300.162
+    },
+    {
+      "start": 300.212,
+      "text": "to secure their natural rights.",
+      "end": 303.37399999999997
+    },
+    {
+      "start": 303.424,
+      "text": "The allegory of the ill-gotten magical ring",
+      "end": 306.252
+    },
+    {
+      "start": 306.302,
+      "text": "that lures its wearer towards their darkest desires continues to inspire.",
+      "end": 311.966
+    },
+    {
+      "start": 312.016,
+      "text": "So if the ring of Gyges fell into your hands,",
+      "end": 316.262
+    },
+    {
+      "start": 316.312,
+      "text": "what would you do?",
+      "end": 317.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.086,
+      "text": "一枚具有超自然能力的戒指 用它的力量诱惑着看客。",
+      "end": 12.125
+    },
+    {
+      "start": 12.175,
+      "text": "但这个故事里没有霍比特人、 矮人或瓦尔基里。",
+      "end": 15.878
+    },
+    {
+      "start": 15.928,
+      "text": "盖吉斯戒指（The Ring of Gyges）的传说",
+      "end": 18.965
+    },
+    {
+      "start": 19.015,
+      "text": "其实在这些人物出现在 文学作品中之前就存在了。",
+      "end": 22.927
+    },
+    {
+      "start": 22.977,
+      "text": "2000 多年前，",
+      "end": 25.512999999999998
+    },
+    {
+      "start": 25.563,
+      "text": "在希腊哲学家 柏拉图的《理想国》中，",
+      "end": 28.808
+    },
+    {
+      "start": 28.858,
+      "text": "故事从哲学家苏格拉底 和他的学生格劳孔（Glaucon）讨论",
+      "end": 33.104000000000006
+    },
+    {
+      "start": 33.154,
+      "text": "“人们为什么要公正地行事”开始：",
+      "end": 37.275000000000006
+    },
+    {
+      "start": 37.325,
+      "text": "是因为它是正确的做法吗？",
+      "end": 39.235
+    },
+    {
+      "start": 39.285,
+      "text": "还是因为这是一个通过惩罚 和奖励强制执行的惯例？",
+      "end": 44.449000000000005
+    },
+    {
+      "start": 44.499,
+      "text": "格劳孔扮演魔鬼的支持者， 反对苏格拉底，",
+      "end": 48.411
+    },
+    {
+      "start": 48.461,
+      "text": "并讲述了以下的故事：",
+      "end": 51.289
+    },
+    {
+      "start": 51.339,
+      "text": "很久以前，在一次地震来袭时，",
+      "end": 54.125
+    },
+    {
+      "start": 54.175,
+      "text": "一个叫盖吉斯的牧羊人 正在照看他的羊群。",
+      "end": 57.378
+    },
+    {
+      "start": 57.428,
+      "text": "地震将地面撕开了一个口子，",
+      "end": 59.714000000000006
+    },
+    {
+      "start": 59.764,
+      "text": "将盖吉斯拉了进去。",
+      "end": 62.258
+    },
+    {
+      "start": 62.308,
+      "text": "盖吉斯的目光停留在 一匹青铜马上，",
+      "end": 65.845
+    },
+    {
+      "start": 65.895,
+      "text": "通往里面房间的门虚掩着。",
+      "end": 69.64
+    },
+    {
+      "start": 69.69,
+      "text": "盖吉斯往里看到了巨人的尸体，",
+      "end": 74.187
+    },
+    {
+      "start": 74.237,
+      "text": "它的手指上戴着一个金戒指。",
+      "end": 76.898
+    },
+    {
+      "start": 76.948,
+      "text": "盖吉斯在回去之前， 将金戒指放进口袋。",
+      "end": 80.985
+    },
+    {
+      "start": 81.035,
+      "text": "之后，他和其他牧羊人坐在一起，",
+      "end": 83.446
+    },
+    {
+      "start": 83.496,
+      "text": "摆弄着神秘的戒指，突然间，",
+      "end": 87.116
+    },
+    {
+      "start": 87.166,
+      "text": "他随意旋转了戒指上的石头， 然后他就隐形了。",
+      "end": 92.622
+    },
+    {
+      "start": 92.672,
+      "text": "当他将石头转回来时， 他又重新出现了。",
+      "end": 97.50200000000001
+    },
+    {
+      "start": 97.552,
+      "text": "在戒指强大力量的鼓舞下， 新的可能性在他眼前绽放。",
+      "end": 102.757
+    },
+    {
+      "start": 102.807,
+      "text": "他的脑中浮现了一个卑鄙的计划。",
+      "end": 106.177
+    },
+    {
+      "start": 106.227,
+      "text": "盖吉斯成为了吕底亚（Lydia） 国王的信使，",
+      "end": 109.43
+    },
+    {
+      "start": 109.48,
+      "text": "使用戒指来 不被察觉地穿梭在宫殿内。",
+      "end": 114.56
+    },
+    {
+      "start": 114.61,
+      "text": "盖吉斯诱惑了王后， 说服她背叛她的丈夫。",
+      "end": 118.94
+    },
+    {
+      "start": 118.99,
+      "text": "很快，曾经地位低下的牧羊人 盖吉斯谋杀了国王，",
+      "end": 122.527
+    },
+    {
+      "start": 122.577,
+      "text": "并拥有了整个王国。",
+      "end": 126.531
+    },
+    {
+      "start": 126.581,
+      "text": "格劳孔用这个故事来展示人们",
+      "end": 128.908
+    },
+    {
+      "start": 128.958,
+      "text": "如何通过不公正的行为谋取利益。",
+      "end": 133.12099999999998
+    },
+    {
+      "start": 133.171,
+      "text": "毕竟，哪一个理智的人不会 做出和盖吉斯一样的选择？",
+      "end": 137.083
+    },
+    {
+      "start": 137.133,
+      "text": "当他们有机会获得想要的东西， 而不承担任何后果。",
+      "end": 142.296
+    },
+    {
+      "start": 142.346,
+      "text": "探索着这个问题，格劳孔将 所有的善都归入三个类别。",
+      "end": 147.927
+    },
+    {
+      "start": 147.977,
+      "text": "第一类，我们为自己而所欲求。",
+      "end": 151.22199999999998
+    },
+    {
+      "start": 151.272,
+      "text": "比如不妨碍他人的快乐。",
+      "end": 154.517
+    },
+    {
+      "start": 154.567,
+      "text": "第二类，为它带来的价值而欲求。",
+      "end": 158.18699999999998
+    },
+    {
+      "start": 158.237,
+      "text": "尽管它们可能是艰巨的， 比如运动或医学。",
+      "end": 162.316
+    },
+    {
+      "start": 162.366,
+      "text": "第三类包括我们为其自身和",
+      "end": 166.362
+    },
+    {
+      "start": 166.412,
+      "text": "它们提供的价值而渴望的东西， 比如知识和健康。",
+      "end": 171.409
+    },
+    {
+      "start": 171.459,
+      "text": "格劳孔认为正义属于第二种善。",
+      "end": 176.12199999999999
+    },
+    {
+      "start": 176.172,
+      "text": "这是一种负担，但也带来了回报。",
+      "end": 180.58499999999998
+    },
+    {
+      "start": 180.635,
+      "text": "他认为，任何人做出有道德的行为",
+      "end": 184.839
+    },
+    {
+      "start": 184.889,
+      "text": "都是由于外部的影响。",
+      "end": 187.38299999999998
+    },
+    {
+      "start": 187.433,
+      "text": "因此，重要的是看起来……而不是…… 实际上有道德才是最重要的。",
+      "end": 193.09699999999998
+    },
+    {
+      "start": 193.147,
+      "text": "柏拉图笔下的苏格拉底并不认同，",
+      "end": 196.809
+    },
+    {
+      "start": 196.859,
+      "text": "他反驳，正义属于第三种善，",
+      "end": 200.938
+    },
+    {
+      "start": 200.988,
+      "text": "同时提供外在和内在的好处。",
+      "end": 205.02599999999998
+    },
+    {
+      "start": 205.076,
+      "text": "苏格拉底认为人的灵魂 分为三个部分：",
+      "end": 208.654
+    },
+    {
+      "start": 208.704,
+      "text": "理性、意志和欲望。",
+      "end": 212.07399999999998
+    },
+    {
+      "start": 212.124,
+      "text": "理性引导人们走向真理和知识，",
+      "end": 215.536
+    },
+    {
+      "start": 215.586,
+      "text": "也会受到意志和欲望的影响。",
+      "end": 219.373
+    },
+    {
+      "start": 219.423,
+      "text": "意志是正义和野心， 是大胆行为的来源，",
+      "end": 224.337
+    },
+    {
+      "start": 224.387,
+      "text": "而欲望则是由较低级的、 生理的需求组成。",
+      "end": 229.13299999999998
+    },
+    {
+      "start": 229.183,
+      "text": "对于苏格拉底， 哲学家由理性引导着。",
+      "end": 232.261
+    },
+    {
+      "start": 232.311,
+      "text": "他们的意志控制着 他们的欲望，",
+      "end": 235.18099999999998
+    },
+    {
+      "start": 235.231,
+      "text": "使他们成为最公正和最快乐的人。",
+      "end": 239.435
+    },
+    {
+      "start": 239.485,
+      "text": "就算不用为错误行为承担后果，",
+      "end": 242.73
+    },
+    {
+      "start": 242.78,
+      "text": "他们也不会做出这样的行为。",
+      "end": 244.649
+    },
+    {
+      "start": 244.699,
+      "text": "同时，暴君屈服于欲望， 做出不公正的行为。",
+      "end": 250.571
+    },
+    {
+      "start": 250.621,
+      "text": "因此，虽然盖吉斯可能 获得了权力和财富，",
+      "end": 253.74099999999999
+    },
+    {
+      "start": 253.791,
+      "text": "苏格拉底暗示他的灵魂 处于失和状态。",
+      "end": 258.162
+    },
+    {
+      "start": 258.212,
+      "text": "他将被自己的基本欲望所奴役， 而不是被理性所引导，",
+      "end": 263.334
+    },
+    {
+      "start": 263.384,
+      "text": "所以，他也不会真正快乐。",
+      "end": 266.212
+    },
+    {
+      "start": 266.262,
+      "text": "在柏拉图写下这篇文章之前，",
+      "end": 268.965
+    },
+    {
+      "start": 269.015,
+      "text": "中国哲学家孔子同样认为一个人",
+      "end": 274.428
+    },
+    {
+      "start": 274.478,
+      "text": "也能从自己公正的行为里受益。",
+      "end": 277.098
+    },
+    {
+      "start": 277.148,
+      "text": "现代的西方哲学家 提出了不同看法。",
+      "end": 281.727
+    },
+    {
+      "start": 281.777,
+      "text": "比如，托马斯·霍布斯 （Thomas Hobbes）",
+      "end": 283.354
+    },
+    {
+      "start": 283.404,
+      "text": "认为人的本性是暴力和自私的。",
+      "end": 287.191
+    },
+    {
+      "start": 287.241,
+      "text": "当权者需要在人们身上 强加正义的束缚。",
+      "end": 291.61199999999997
+    },
+    {
+      "start": 291.662,
+      "text": "相反，约翰·洛克 （John Locke）认为人们",
+      "end": 293.698
+    },
+    {
+      "start": 293.748,
+      "text": "自然有义务做正义的事，",
+      "end": 297.159
+    },
+    {
+      "start": 297.209,
+      "text": "同意参与国民社会",
+      "end": 300.162
+    },
+    {
+      "start": 300.212,
+      "text": "以确保其应得的权利。",
+      "end": 303.37399999999997
+    },
+    {
+      "start": 303.424,
+      "text": "来路不正的魔法戒指引诱佩戴者",
+      "end": 306.252
+    },
+    {
+      "start": 306.302,
+      "text": "走向他们最黑暗的欲望的寓言 继续激发着新的故事。",
+      "end": 311.966
+    },
+    {
+      "start": 312.016,
+      "text": "如果你获得了盖吉斯的戒指，",
+      "end": 316.262
+    },
+    {
+      "start": 316.312,
+      "text": "你会怎么做？",
+      "end": 317.95
+    }
+  ]
+};

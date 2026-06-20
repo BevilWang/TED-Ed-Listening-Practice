@@ -1,0 +1,822 @@
+{
+  "meta": {
+    "title": "The myth of Sisyphus",
+    "speaker": "Alex Gendler",
+    "duration": 278,
+    "slug": "alex_gendler_the_myth_of_sisyphus",
+    "sourcePage": "https://www.ted.com/talks/alex_gendler_the_myth_of_sisyphus",
+    "translationSourcePage": "https://www.ted.com/talks/alex_gendler_the_myth_of_sisyphus?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/43/81/001/products/2018e-alex-gendler-myth-of-sisyphus-001-fallback-fe7610699d403aaa06d329ccde6332de-1200k.mp4",
+    "youtubeId": "q4pDUxth5fQ",
+    "youtubeTitle": "The myth of Sisyphus - Alex Gendler"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 8.29,
+      "end": 23.327,
+      "text": "Whether it’s being chained to a burning wheel, turned into a spider, or having an eagle eat one’s liver, Greek mythology is filled with stories of the gods inflicting gruesome horrors on mortals who angered them.",
+      "translation": "不论是将凡人捆到燃烧的车轮上、 或是将其变成蜘蛛、还是让老鹰啄食肝脏，希腊神话里总是充斥着各种故事，讲述着天神用残酷的手段 折磨激怒他们的凡人。"
+    },
+    {
+      "id": 2,
+      "start": 23.377,
+      "end": 33.162,
+      "text": "Yet one of their most famous punishments is not remembered for its outrageous cruelty, but for its disturbing familiarity.",
+      "translation": "其中最出名的惩罚故事 之所以被铭记，并非因为其残忍骇人听闻， 而是因为故事本身令人不安的熟悉感。"
+    },
+    {
+      "id": 3,
+      "start": 33.212,
+      "end": 38.93,
+      "text": "Sisyphus was the first king of Ephyra, now known as Corinth.",
+      "translation": "西西弗斯是艾菲拉的第一任国王， 现在也被称作科林斯。"
+    },
+    {
+      "id": 4,
+      "start": 38.98,
+      "end": 49.36,
+      "text": "Although a clever ruler who made his city prosperous, he was also a devious tyrant who seduced his niece and killed visitors to show off his power.",
+      "translation": "虽然他是位善于治理国家的明君， 但也以残暴著称。他曾勾引侄女，屠杀宾客， 来展示自己的权力。"
+    },
+    {
+      "id": 5,
+      "start": 49.41,
+      "end": 55.912,
+      "text": "This violation of the sacred hospitality tradition greatly angered the gods.",
+      "translation": "这种违反待客之道的行为， 使众神震怒。"
+    },
+    {
+      "id": 6,
+      "start": 55.962,
+      "end": 63.869,
+      "text": "But Sisyphus may still have avoided punishment if it hadn’t been for his reckless confidence.",
+      "translation": "如果西西弗斯没有盲目自信的话，他也许可以逃脱惩罚。"
+    },
+    {
+      "id": 7,
+      "start": 63.919,
+      "end": 72.4,
+      "text": "The trouble began when Zeus kidnapped the nymph Aegina, carrying her away in the form of a massive eagle.",
+      "translation": "故事的起因是这样的， 当宙斯绑架了仙女伊琴娜，变成巨鹰带走了她。"
+    },
+    {
+      "id": 8,
+      "start": 72.45,
+      "end": 80.525,
+      "text": "Aegina’s father, the river god Asopus, pursued their trail to Ephyra, where he encountered Sisyphus.",
+      "translation": "伊琴娜的父亲，河神伊索普斯 循着踪迹追到了艾菲拉，在那里他遇到了西西弗斯。"
+    },
+    {
+      "id": 9,
+      "start": 80.575,
+      "end": 89.993,
+      "text": "In exchange for the god making a spring inside the city, the king told Asopus which way Zeus had taken the girl.",
+      "translation": "西西弗斯以一条四季常流的 河川做为交换条件，告诉了伊索普斯 宙斯和女孩的去向。"
+    },
+    {
+      "id": 10,
+      "start": 90.043,
+      "end": 102.367,
+      "text": "When Zeus found out, he was so furious that he ordered Thanatos, or Death, to chain Sisyphus in the underworld so he couldn’t cause any more problems.",
+      "translation": "宙斯知道后大发雷霆，他命令死神桑纳托斯将西西弗斯 绑到地狱，让他无法再惹是生非。"
+    },
+    {
+      "id": 11,
+      "start": 102.417,
+      "end": 106.641,
+      "text": "But Sisyphus lived up to his crafty reputation.",
+      "translation": "但西西弗斯的足智多谋名不虚传，"
+    },
+    {
+      "id": 12,
+      "start": 106.691,
+      "end": 117.83,
+      "text": "As he was about to be imprisoned, the king asked Thanatos to show him how the chains worked – and quickly bound him instead, before escaping back among the living.",
+      "translation": "当他快被监禁时，他要求死神桑纳托斯 展示怎样使用锁链，然后趁机捆住了死神， 并逃回了人间。"
+    },
+    {
+      "id": 13,
+      "start": 117.88,
+      "end": 124.056,
+      "text": "With Thanatos trapped, no one could die, and the world was thrown into chaos.",
+      "translation": "桑纳托斯被捆住后，再没有死亡， 世界也因此陷入了混乱。"
+    },
+    {
+      "id": 14,
+      "start": 124.106,
+      "end": 134.142,
+      "text": "Things only returned to normal when the god of war Ares, upset that battles were no longer fun, freed Thanatos from his chains.",
+      "translation": "直到战神阿瑞斯 厌倦了没有死亡的战争，把桑纳托斯从铁链中解救出来， 一切才恢复了正常。"
+    },
+    {
+      "id": 15,
+      "start": 134.192,
+      "end": 138.153,
+      "text": "Sisyphus knew his reckoning was at hand.",
+      "translation": "西西弗斯知道他的报应就在眼前了，"
+    },
+    {
+      "id": 16,
+      "start": 138.203,
+      "end": 141.495,
+      "text": "But he had another trick up his sleeve.",
+      "translation": "但他还留了一手。"
+    },
+    {
+      "id": 17,
+      "start": 141.545,
+      "end": 151.993,
+      "text": "Before dying, he asked his wife Merope to throw his body in the public square, from where it eventually washed up on the shores of the river Styx.",
+      "translation": "临死前，他嘱咐妻子墨洛珀 把他的尸体扔在公共广场尸体最后被冲到了冥河岸上。"
+    },
+    {
+      "id": 18,
+      "start": 152.043,
+      "end": 163.984,
+      "text": "Now back among the dead, Sisyphus approached Persephone, queen of the Underworld, and complained that his wife had disrespected him by not giving him a proper burial.",
+      "translation": "西西弗斯回到冥界后， 找到了冥后珀尔塞福涅，并向冥后诉苦，抱怨妻子对他不敬， 没有好好安葬他。"
+    },
+    {
+      "id": 19,
+      "start": 164.034,
+      "end": 174.347,
+      "text": "Persephone granted him permission to go back to the land of living and punish Merope, on the condition that he would return when he was done.",
+      "translation": "冥后帕尔塞福涅 准许他回到人间惩罚他的妻子墨洛珀， 条件是完事之后必须回到冥界。"
+    },
+    {
+      "id": 20,
+      "start": 174.397,
+      "end": 183.824,
+      "text": "Of course, Sisyphus refused to keep his promise, now having twice escaped death by tricking the gods.",
+      "translation": "当然，西西弗斯 并没有信守承诺。他通过糊弄天神 两次逃脱了死亡，"
+    },
+    {
+      "id": 21,
+      "start": 183.874,
+      "end": 190.836,
+      "text": "There wouldn’t be a third time, as the messenger Hermes dragged Sisyphus back to Hades.",
+      "translation": "但不会有第三次了。神使赫耳墨斯将西西弗斯 带给了冥王哈迪斯，"
+    },
+    {
+      "id": 22,
+      "start": 190.886,
+      "end": 197.095,
+      "text": "The king had thought he was more clever than the gods, but Zeus would have the last laugh.",
+      "translation": "西西弗斯自认为比诸神都聪明，但宙斯才是笑到最后的赢家。"
+    },
+    {
+      "id": 23,
+      "start": 197.145,
+      "end": 204.549,
+      "text": "Sisyphus’s punishment was a straightforward task – rolling a massive boulder up a hill.",
+      "translation": "西西弗斯的惩罚很简单：就是把一块巨石推到山顶。"
+    },
+    {
+      "id": 24,
+      "start": 204.599,
+      "end": 220.914,
+      "text": "But just as he approached the top, the rock would roll all the way back down, forcing him to start over …and over, and over, for all eternity.",
+      "translation": "但每当他快到山顶时， 石头都会滚回山脚，迫使他不得不重新开始，一次又一次，直到永远。"
+    },
+    {
+      "id": 25,
+      "start": 220.964,
+      "end": 231.188,
+      "text": "Historians have suggested that the tale of Sisyphus may stem from ancient myths about the rising and setting sun, or other natural cycles.",
+      "translation": "历史学家指出西西弗斯的故事 可能来源于古代神话，讲述的是日月交替或自然循环。"
+    },
+    {
+      "id": 26,
+      "start": 231.238,
+      "end": 240.483,
+      "text": "But the vivid image of someone condemned to endlessly repeat a futile task has resonated as an allegory about the human condition.",
+      "translation": "但受罚之人永无止境地 做无用功的生动画面，如同是对人类生活状况的隐喻。"
+    },
+    {
+      "id": 27,
+      "start": 240.533,
+      "end": 254.626,
+      "text": "In his classic essay The Myth of Sisyphus, existentialist philosopher Albert Camus compared the punishment to humanity’s futile search for meaning and truth in a meaningless and indifferent universe.",
+      "translation": "在存在主义哲学家阿尔贝·加缪所写的经典论文《西西弗斯神话》中，他将这个惩罚比作是人类在这个 无意义且冷酷的世界里对意义和真理的徒劳追求。"
+    },
+    {
+      "id": 28,
+      "start": 254.676,
+      "end": 265.156,
+      "text": "Instead of despairing, Camus imagined Sisyphus defiantly meeting his fate as he walks down the hill to begin rolling the rock again.",
+      "translation": "加缪认为西西弗斯在一次次 下山去重新推石头的时候，并没有绝望，而是在与命运对抗。"
+    },
+    {
+      "id": 29,
+      "start": 265.206,
+      "end": 277.95,
+      "text": "And even if the daily struggles of our lives sometimes seem equally repetitive and absurd, we still give them significance and value by embracing them as our own.",
+      "translation": "我们的日常生活 也会经历一些困难，即使他们看起来同样的 重复且荒谬，我们还是会赋予它们意义， 承认这也是我们人生的一部分。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 8.29,
+      "text": "Whether it’s being chained to a burning wheel, turned into a spider,",
+      "end": 12.789
+    },
+    {
+      "start": 12.839,
+      "text": "or having an eagle eat one’s liver,",
+      "end": 15.87
+    },
+    {
+      "start": 15.92,
+      "text": "Greek mythology is filled with stories of the gods",
+      "end": 18.575
+    },
+    {
+      "start": 18.625,
+      "text": "inflicting gruesome horrors on mortals who angered them.",
+      "end": 23.326999999999998
+    },
+    {
+      "start": 23.377,
+      "text": "Yet one of their most famous punishments is not remembered",
+      "end": 26.334
+    },
+    {
+      "start": 26.384,
+      "text": "for its outrageous cruelty, but for its disturbing familiarity.",
+      "end": 33.162000000000006
+    },
+    {
+      "start": 33.212,
+      "text": "Sisyphus was the first king of Ephyra, now known as Corinth.",
+      "end": 38.93
+    },
+    {
+      "start": 38.98,
+      "text": "Although a clever ruler who made his city prosperous, he was also a devious tyrant",
+      "end": 44.046
+    },
+    {
+      "start": 44.096,
+      "text": "who seduced his niece and killed visitors to show off his power.",
+      "end": 49.36
+    },
+    {
+      "start": 49.41,
+      "text": "This violation of the sacred hospitality tradition greatly angered the gods.",
+      "end": 55.912000000000006
+    },
+    {
+      "start": 55.962,
+      "text": "But Sisyphus may still have avoided punishment",
+      "end": 58.458000000000006
+    },
+    {
+      "start": 58.508,
+      "text": "if it hadn’t been for his reckless confidence.",
+      "end": 63.869
+    },
+    {
+      "start": 63.919,
+      "text": "The trouble began when Zeus kidnapped the nymph Aegina,",
+      "end": 68.44500000000001
+    },
+    {
+      "start": 68.495,
+      "text": "carrying her away in the form of a massive eagle.",
+      "end": 72.4
+    },
+    {
+      "start": 72.45,
+      "text": "Aegina’s father, the river god Asopus, pursued their trail to Ephyra,",
+      "end": 78.363
+    },
+    {
+      "start": 78.413,
+      "text": "where he encountered Sisyphus.",
+      "end": 80.525
+    },
+    {
+      "start": 80.575,
+      "text": "In exchange for the god making a spring inside the city,",
+      "end": 85.045
+    },
+    {
+      "start": 85.095,
+      "text": "the king told Asopus which way Zeus had taken the girl.",
+      "end": 89.99300000000001
+    },
+    {
+      "start": 90.043,
+      "text": "When Zeus found out, he was so furious that he ordered Thanatos, or Death,",
+      "end": 95.637
+    },
+    {
+      "start": 95.687,
+      "text": "to chain Sisyphus in the underworld so he couldn’t cause any more problems.",
+      "end": 102.367
+    },
+    {
+      "start": 102.417,
+      "text": "But Sisyphus lived up to his crafty reputation.",
+      "end": 106.641
+    },
+    {
+      "start": 106.691,
+      "text": "As he was about to be imprisoned,",
+      "end": 108.239
+    },
+    {
+      "start": 108.289,
+      "text": "the king asked Thanatos to show him how the chains worked",
+      "end": 112.867
+    },
+    {
+      "start": 112.917,
+      "text": "– and quickly bound him instead, before escaping back among the living.",
+      "end": 117.83
+    },
+    {
+      "start": 117.88,
+      "text": "With Thanatos trapped, no one could die, and the world was thrown into chaos.",
+      "end": 124.056
+    },
+    {
+      "start": 124.106,
+      "text": "Things only returned to normal when the god of war Ares,",
+      "end": 127.765
+    },
+    {
+      "start": 127.815,
+      "text": "upset that battles were no longer fun, freed Thanatos from his chains.",
+      "end": 134.142
+    },
+    {
+      "start": 134.192,
+      "text": "Sisyphus knew his reckoning was at hand.",
+      "end": 138.153
+    },
+    {
+      "start": 138.203,
+      "text": "But he had another trick up his sleeve.",
+      "end": 141.49499999999998
+    },
+    {
+      "start": 141.545,
+      "text": "Before dying, he asked his wife Merope to throw his body in the public square,",
+      "end": 147.524
+    },
+    {
+      "start": 147.574,
+      "text": "from where it eventually washed up on the shores of the river Styx.",
+      "end": 151.993
+    },
+    {
+      "start": 152.043,
+      "text": "Now back among the dead, Sisyphus approached Persephone,",
+      "end": 155.83399999999997
+    },
+    {
+      "start": 155.884,
+      "text": "queen of the Underworld, and complained",
+      "end": 158.271
+    },
+    {
+      "start": 158.321,
+      "text": "that his wife had disrespected him by not giving him a proper burial.",
+      "end": 163.98399999999998
+    },
+    {
+      "start": 164.034,
+      "text": "Persephone granted him permission to go back to the land of living",
+      "end": 168.38799999999998
+    },
+    {
+      "start": 168.438,
+      "text": "and punish Merope, on the condition that he would return when he was done.",
+      "end": 174.34699999999998
+    },
+    {
+      "start": 174.397,
+      "text": "Of course, Sisyphus refused to keep his promise,",
+      "end": 178.015
+    },
+    {
+      "start": 178.065,
+      "text": "now having twice escaped death by tricking the gods.",
+      "end": 183.82399999999998
+    },
+    {
+      "start": 183.874,
+      "text": "There wouldn’t be a third time,",
+      "end": 185.71599999999998
+    },
+    {
+      "start": 185.766,
+      "text": "as the messenger Hermes dragged Sisyphus back to Hades.",
+      "end": 190.83599999999998
+    },
+    {
+      "start": 190.886,
+      "text": "The king had thought he was more clever than the gods,",
+      "end": 193.856
+    },
+    {
+      "start": 193.906,
+      "text": "but Zeus would have the last laugh.",
+      "end": 197.095
+    },
+    {
+      "start": 197.145,
+      "text": "Sisyphus’s punishment was a straightforward task",
+      "end": 200.897
+    },
+    {
+      "start": 200.947,
+      "text": "– rolling a massive boulder up a hill.",
+      "end": 204.54899999999998
+    },
+    {
+      "start": 204.599,
+      "text": "But just as he approached the top, the rock would roll all the way back down,",
+      "end": 210.946
+    },
+    {
+      "start": 210.996,
+      "text": "forcing him to start over",
+      "end": 214.41899999999998
+    },
+    {
+      "start": 214.469,
+      "text": "…and over, and over, for all eternity.",
+      "end": 220.914
+    },
+    {
+      "start": 220.964,
+      "text": "Historians have suggested that the tale of Sisyphus may stem from ancient myths",
+      "end": 226.182
+    },
+    {
+      "start": 226.232,
+      "text": "about the rising and setting sun, or other natural cycles.",
+      "end": 231.188
+    },
+    {
+      "start": 231.238,
+      "text": "But the vivid image of someone condemned to endlessly repeat a futile task",
+      "end": 235.667
+    },
+    {
+      "start": 235.717,
+      "text": "has resonated as an allegory about the human condition.",
+      "end": 240.48299999999998
+    },
+    {
+      "start": 240.533,
+      "text": "In his classic essay The Myth of Sisyphus,",
+      "end": 242.97299999999998
+    },
+    {
+      "start": 243.023,
+      "text": "existentialist philosopher Albert Camus compared the punishment",
+      "end": 247.137
+    },
+    {
+      "start": 247.187,
+      "text": "to humanity’s futile search for meaning and truth",
+      "end": 251.39499999999998
+    },
+    {
+      "start": 251.445,
+      "text": "in a meaningless and indifferent universe.",
+      "end": 254.62599999999998
+    },
+    {
+      "start": 254.676,
+      "text": "Instead of despairing, Camus imagined Sisyphus defiantly meeting his fate",
+      "end": 259.44
+    },
+    {
+      "start": 259.49,
+      "text": "as he walks down the hill to begin rolling the rock again.",
+      "end": 265.156
+    },
+    {
+      "start": 265.206,
+      "text": "And even if the daily struggles of our lives",
+      "end": 267.819
+    },
+    {
+      "start": 267.869,
+      "text": "sometimes seem equally repetitive and absurd,",
+      "end": 271.616
+    },
+    {
+      "start": 271.666,
+      "text": "we still give them significance and value by embracing them as our own.",
+      "end": 277.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 8.29,
+      "text": "不论是将凡人捆到燃烧的车轮上、 或是将其变成蜘蛛、",
+      "end": 12.789
+    },
+    {
+      "start": 12.839,
+      "text": "还是让老鹰啄食肝脏，",
+      "end": 15.87
+    },
+    {
+      "start": 15.92,
+      "text": "希腊神话里总是充斥着各种故事，",
+      "end": 18.575
+    },
+    {
+      "start": 18.625,
+      "text": "讲述着天神用残酷的手段 折磨激怒他们的凡人。",
+      "end": 23.326999999999998
+    },
+    {
+      "start": 23.377,
+      "text": "其中最出名的惩罚故事 之所以被铭记，",
+      "end": 26.334
+    },
+    {
+      "start": 26.384,
+      "text": "并非因为其残忍骇人听闻， 而是因为故事本身令人不安的熟悉感。",
+      "end": 33.162000000000006
+    },
+    {
+      "start": 33.212,
+      "text": "西西弗斯是艾菲拉的第一任国王， 现在也被称作科林斯。",
+      "end": 38.93
+    },
+    {
+      "start": 38.98,
+      "text": "虽然他是位善于治理国家的明君， 但也以残暴著称。",
+      "end": 44.046
+    },
+    {
+      "start": 44.096,
+      "text": "他曾勾引侄女，屠杀宾客， 来展示自己的权力。",
+      "end": 49.36
+    },
+    {
+      "start": 49.41,
+      "text": "这种违反待客之道的行为， 使众神震怒。",
+      "end": 55.912000000000006
+    },
+    {
+      "start": 55.962,
+      "text": "如果西西弗斯没有盲目自信的话，",
+      "end": 58.458000000000006
+    },
+    {
+      "start": 58.508,
+      "text": "他也许可以逃脱惩罚。",
+      "end": 63.869
+    },
+    {
+      "start": 63.919,
+      "text": "故事的起因是这样的， 当宙斯绑架了仙女伊琴娜，",
+      "end": 68.44500000000001
+    },
+    {
+      "start": 68.495,
+      "text": "变成巨鹰带走了她。",
+      "end": 72.4
+    },
+    {
+      "start": 72.45,
+      "text": "伊琴娜的父亲，河神伊索普斯 循着踪迹追到了艾菲拉，",
+      "end": 78.363
+    },
+    {
+      "start": 78.413,
+      "text": "在那里他遇到了西西弗斯。",
+      "end": 80.525
+    },
+    {
+      "start": 80.575,
+      "text": "西西弗斯以一条四季常流的 河川做为交换条件，",
+      "end": 85.045
+    },
+    {
+      "start": 85.095,
+      "text": "告诉了伊索普斯 宙斯和女孩的去向。",
+      "end": 89.99300000000001
+    },
+    {
+      "start": 90.043,
+      "text": "宙斯知道后大发雷霆，",
+      "end": 92.81700000000001
+    },
+    {
+      "start": 92.867,
+      "text": "他命令死神桑纳托斯将西西弗斯 绑到地狱，让他无法再惹是生非。",
+      "end": 102.367
+    },
+    {
+      "start": 102.417,
+      "text": "但西西弗斯的足智多谋名不虚传，",
+      "end": 106.641
+    },
+    {
+      "start": 106.691,
+      "text": "当他快被监禁时，",
+      "end": 108.239
+    },
+    {
+      "start": 108.289,
+      "text": "他要求死神桑纳托斯 展示怎样使用锁链，",
+      "end": 112.867
+    },
+    {
+      "start": 112.917,
+      "text": "然后趁机捆住了死神， 并逃回了人间。",
+      "end": 117.83
+    },
+    {
+      "start": 117.88,
+      "text": "桑纳托斯被捆住后，再没有死亡， 世界也因此陷入了混乱。",
+      "end": 124.056
+    },
+    {
+      "start": 124.106,
+      "text": "直到战神阿瑞斯 厌倦了没有死亡的战争，",
+      "end": 130.635
+    },
+    {
+      "start": 130.685,
+      "text": "把桑纳托斯从铁链中解救出来， 一切才恢复了正常。",
+      "end": 134.142
+    },
+    {
+      "start": 134.192,
+      "text": "西西弗斯知道他的报应就在眼前了，",
+      "end": 138.153
+    },
+    {
+      "start": 138.203,
+      "text": "但他还留了一手。",
+      "end": 141.49499999999998
+    },
+    {
+      "start": 141.545,
+      "text": "临死前，他嘱咐妻子墨洛珀 把他的尸体扔在公共广场",
+      "end": 147.524
+    },
+    {
+      "start": 147.574,
+      "text": "尸体最后被冲到了冥河岸上。",
+      "end": 151.993
+    },
+    {
+      "start": 152.043,
+      "text": "西西弗斯回到冥界后， 找到了冥后珀尔塞福涅，",
+      "end": 157.214
+    },
+    {
+      "start": 157.264,
+      "text": "并向冥后诉苦，",
+      "end": 158.271
+    },
+    {
+      "start": 158.321,
+      "text": "抱怨妻子对他不敬， 没有好好安葬他。",
+      "end": 163.98399999999998
+    },
+    {
+      "start": 164.034,
+      "text": "冥后帕尔塞福涅 准许他回到人间",
+      "end": 168.38799999999998
+    },
+    {
+      "start": 168.438,
+      "text": "惩罚他的妻子墨洛珀， 条件是完事之后必须回到冥界。",
+      "end": 174.34699999999998
+    },
+    {
+      "start": 174.397,
+      "text": "当然，西西弗斯 并没有信守承诺。",
+      "end": 178.015
+    },
+    {
+      "start": 178.065,
+      "text": "他通过糊弄天神 两次逃脱了死亡，",
+      "end": 183.82399999999998
+    },
+    {
+      "start": 183.874,
+      "text": "但不会有第三次了。",
+      "end": 185.71599999999998
+    },
+    {
+      "start": 185.766,
+      "text": "神使赫耳墨斯将西西弗斯 带给了冥王哈迪斯，",
+      "end": 190.83599999999998
+    },
+    {
+      "start": 190.886,
+      "text": "西西弗斯自认为比诸神都聪明，",
+      "end": 193.856
+    },
+    {
+      "start": 193.906,
+      "text": "但宙斯才是笑到最后的赢家。",
+      "end": 197.095
+    },
+    {
+      "start": 197.145,
+      "text": "西西弗斯的惩罚很简单：",
+      "end": 200.897
+    },
+    {
+      "start": 200.947,
+      "text": "就是把一块巨石推到山顶。",
+      "end": 204.54899999999998
+    },
+    {
+      "start": 204.599,
+      "text": "但每当他快到山顶时， 石头都会滚回山脚，",
+      "end": 210.946
+    },
+    {
+      "start": 210.996,
+      "text": "迫使他不得不重新开始，",
+      "end": 214.41899999999998
+    },
+    {
+      "start": 214.469,
+      "text": "一次又一次，直到永远。",
+      "end": 220.914
+    },
+    {
+      "start": 220.964,
+      "text": "历史学家指出西西弗斯的故事 可能来源于古代神话，",
+      "end": 226.182
+    },
+    {
+      "start": 226.232,
+      "text": "讲述的是日月交替或自然循环。",
+      "end": 231.188
+    },
+    {
+      "start": 231.238,
+      "text": "但受罚之人永无止境地 做无用功的生动画面，",
+      "end": 235.667
+    },
+    {
+      "start": 235.717,
+      "text": "如同是对人类生活状况的隐喻。",
+      "end": 240.48299999999998
+    },
+    {
+      "start": 240.533,
+      "text": "在存在主义哲学家阿尔贝·加缪所写的",
+      "end": 242.97299999999998
+    },
+    {
+      "start": 243.023,
+      "text": "经典论文《西西弗斯神话》中，",
+      "end": 246.307
+    },
+    {
+      "start": 246.357,
+      "text": "他将这个惩罚比作是人类在这个 无意义且冷酷的世界里",
+      "end": 251.39499999999998
+    },
+    {
+      "start": 251.445,
+      "text": "对意义和真理的徒劳追求。",
+      "end": 254.62599999999998
+    },
+    {
+      "start": 254.676,
+      "text": "加缪认为西西弗斯在一次次 下山去重新推石头的时候，",
+      "end": 259.44
+    },
+    {
+      "start": 259.49,
+      "text": "并没有绝望，而是在与命运对抗。",
+      "end": 265.156
+    },
+    {
+      "start": 265.206,
+      "text": "我们的日常生活 也会经历一些困难，",
+      "end": 267.819
+    },
+    {
+      "start": 267.869,
+      "text": "即使他们看起来同样的 重复且荒谬，",
+      "end": 271.616
+    },
+    {
+      "start": 271.666,
+      "text": "我们还是会赋予它们意义， 承认这也是我们人生的一部分。",
+      "end": 277.95
+    }
+  ]
+}

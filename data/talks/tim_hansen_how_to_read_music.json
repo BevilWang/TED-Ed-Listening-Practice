@@ -1,0 +1,1939 @@
+{
+  "meta": {
+    "title": "How to read music",
+    "speaker": "Tim Hansen",
+    "duration": 316,
+    "slug": "tim_hansen_how_to_read_music",
+    "sourcePage": "https://www.ted.com/talks/tim_hansen_how_to_read_music",
+    "translationSourcePage": "https://www.ted.com/talks/tim_hansen_how_to_read_music?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/41/93/008/products/2013e-tim-hansen-music-reading-008-fallback-4cab5bccd12121d0f524b7294407ba29-1200k.mp4",
+    "youtubeId": "ZN41d7Txcq0",
+    "youtubeTitle": "How to read music - Tim Hansen"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 14.079,
+      "end": 23.029,
+      "text": "When we watch a film or a play, we know that the actors probably learned their lines from a script, which essentially tells them what to say and when to say it.",
+      "translation": "看电影或戏剧时，我们知道演员大概是看剧本知道台词，剧本基本上告诉演员"
+    },
+    {
+      "id": 2,
+      "start": 23.079,
+      "end": 26.696,
+      "text": "A piece of written music operates on exactly the same principle.",
+      "translation": "说什么"
+    },
+    {
+      "id": 3,
+      "start": 26.746,
+      "end": 31.863,
+      "text": "In a very basic sense, it tells a performer what to play and when to play it.",
+      "translation": "和何时说。一段乐谱和剧本的作用"
+    },
+    {
+      "id": 4,
+      "start": 31.913,
+      "end": 42.196,
+      "text": "Aesthetically speaking, there's a world of difference between, say, Beethoven and Justin Bieber, but both artists have used the same building blocks to create their music: notes.",
+      "translation": "完全相同。很基本地讲，乐谱告诉演奏者演奏什么和什么时候演奏。从美学的角度来讲，"
+    },
+    {
+      "id": 5,
+      "start": 42.246,
+      "end": 48.404,
+      "text": "And although the end result can sound quite complicated, the logic behind musical notes is actually pretty straightforward.",
+      "translation": "比方说，贝多芬和Justin Bieber 完全不同，"
+    },
+    {
+      "id": 6,
+      "start": 48.454,
+      "end": 55.612,
+      "text": "Let's take a look at the foundational elements to music notation and how they interact to create a work of art.",
+      "translation": "但两位创作者都用了同样的基本构架来创作音乐：音符。"
+    },
+    {
+      "id": 7,
+      "start": 55.662,
+      "end": 59.779,
+      "text": "Music is written on five parallel lines that go across the page.",
+      "translation": "尽管结果"
+    },
+    {
+      "id": 8,
+      "start": 59.829,
+      "end": 67.196,
+      "text": "These five lines are called a staff, and a staff operates on two axes: up and down and left to right.",
+      "translation": "会听起来相当复杂，但音符背后的逻辑实际上是非常简单的。我们来看一下"
+    },
+    {
+      "id": 9,
+      "start": 67.246,
+      "end": 77.363,
+      "text": "The up-and-down axis tells the performer the pitch of the note or what note to play, and the left-to-right axis tells the performer the rhythm of the note or when to play it.",
+      "translation": "音乐符号的基本元素和它们是如何互动 来创作音乐作品的。音符写在五条平行线上横贯整页。这五条线叫谱线，"
+    },
+    {
+      "id": 10,
+      "start": 77.413,
+      "end": 78.946,
+      "text": "Let's start with pitch.",
+      "translation": "谱线在两个轴之间："
+    },
+    {
+      "id": 11,
+      "start": 78.996,
+      "end": 85.113,
+      "text": "To help us out, we're going to use a piano, but this system works for pretty much any instrument you can think of.",
+      "translation": "上下和左右。"
+    },
+    {
+      "id": 12,
+      "start": 85.163,
+      "end": 94.404,
+      "text": "In the Western music tradition, pitches are named after the first seven letters of the alphabet, A, B, C, D, E, F, and G.",
+      "translation": "上下轴告诉演奏者音高或弹哪那个音符，左右轴告诉演奏者"
+    },
+    {
+      "id": 13,
+      "start": 94.454,
+      "end": 101.529,
+      "text": "After that, the cycle repeats itself: A, B, C, D, E, F, G, A, B, C, D, E, F, G, and so on.",
+      "translation": "音符的节奏或何时弹。让我们从音高开始。为帮我们搞清楚， 我们打算用钢琴来说明，"
+    },
+    {
+      "id": 14,
+      "start": 101.579,
+      "end": 104.154,
+      "text": "But how do these pitches get their names?",
+      "translation": "但这个系统用差不多"
+    },
+    {
+      "id": 15,
+      "start": 104.204,
+      "end": 113.696,
+      "text": "Well, for example, if you played an F and then played another F higher or lower on the piano, you'd notice that they sound pretty similar compared to, say, a B.",
+      "translation": "你能想到的任何乐器都适用。根据西方的音乐传统，音高是按前七个字母来命名的。A,"
+    },
+    {
+      "id": 16,
+      "start": 113.746,
+      "end": 119.988,
+      "text": "Going back to the staff, every line and every space between two lines represents a separate pitch.",
+      "translation": "B,C,D,"
+    },
+    {
+      "id": 17,
+      "start": 120.038,
+      "end": 125.613,
+      "text": "If we put a note on one of these lines or one of these spaces, we're telling a performer to play that pitch.",
+      "translation": "E,F,"
+    },
+    {
+      "id": 18,
+      "start": 125.663,
+      "end": 129.363,
+      "text": "The higher up on the staff a note is placed, the higher the pitch.",
+      "translation": "和G。此后，就循环："
+    },
+    {
+      "id": 19,
+      "start": 129.413,
+      "end": 134.571,
+      "text": "But there are obviously many, many more pitches than the nine that these lines and spaces gives us.",
+      "translation": "A，B，"
+    },
+    {
+      "id": 20,
+      "start": 134.621,
+      "end": 138.238,
+      "text": "A grand piano, for example, can play 88 separate notes.",
+      "translation": "C，D，"
+    },
+    {
+      "id": 21,
+      "start": 138.288,
+      "end": 141.738,
+      "text": "So how do we condense 88 notes onto a single staff?",
+      "translation": "E，"
+    },
+    {
+      "id": 22,
+      "start": 141.788,
+      "end": 153.571,
+      "text": "We use something called a clef, a weird-looking figure placed at the beginning of the staff, which acts like a reference point, telling you that a particular line or space corresponds to a specific note on your instrument.",
+      "translation": "F，G，A，B，C，"
+    },
+    {
+      "id": 23,
+      "start": 153.621,
+      "end": 161.029,
+      "text": "If we want to play notes that aren't on the staff, we kind of cheat and draw extra little lines called ledger lines and place the notes on them.",
+      "translation": "D，E，F，G，"
+    },
+    {
+      "id": 24,
+      "start": 161.079,
+      "end": 167.821,
+      "text": "If we have to draw so many ledger lines that it gets confusing, then we need to change to a different clef.",
+      "translation": "等等。但这些音高是怎样取名的呢？"
+    },
+    {
+      "id": 25,
+      "start": 167.871,
+      "end": 174.404,
+      "text": "As for telling a performer when to play the notes, two main elements control this: the beat and the rhythm.",
+      "translation": "例如，如果弹 F，接着再弹一个 F，这个 F 用钢琴弹得高点儿或低点儿，"
+    },
+    {
+      "id": 26,
+      "start": 174.454,
+      "end": 177.988,
+      "text": "The beat of a piece of music is, by itself, kind of boring.",
+      "translation": "你会注意到他们听上去比较相似，比方说 B。"
+    },
+    {
+      "id": 27,
+      "start": 178.038,
+      "end": 180.279,
+      "text": "It sounds like this.",
+      "translation": "再看五线谱，"
+    },
+    {
+      "id": 28,
+      "start": 180.329,
+      "end": 185.946,
+      "text": "(Ticking) Notice that it doesn't change, it just plugs along quite happily.",
+      "translation": "每条线和两条线之间的空间代表一个音高。如果我们在其中的一条线上"
+    },
+    {
+      "id": 29,
+      "start": 185.996,
+      "end": 191.863,
+      "text": "It can go slow or fast or whatever you like, really.",
+      "translation": "或空间里放上一个音符，我们在告诉演奏者弹哪个音高。五线谱上音符放的位置越高，"
+    },
+    {
+      "id": 30,
+      "start": 191.913,
+      "end": 206.779,
+      "text": "The point is that just like the second hand on a clock divides one minute into sixty seconds, with each second just as long as every other second, the beat divides a piece of music into little fragments of time that are all the same length: beats.",
+      "translation": "这个音就越高。但显然有很多很多的音，远不止这几条线 和空间带给我们的几个音。例如，三角钢琴可以弹88 个不同的音。因此我们怎么样把这 88 个音符 压缩到五线谱上呢？"
+    },
+    {
+      "id": 31,
+      "start": 206.829,
+      "end": 213.363,
+      "text": "With a steady beat as a foundation, we can add rhythm to our pitches, and that's when music really starts to happen.",
+      "translation": "我们用叫谱号的东西。谱号的样子看起来怪怪的，放在五线谱的开始，"
+    },
+    {
+      "id": 32,
+      "start": 213.413,
+      "end": 214.988,
+      "text": "This is a quarter note.",
+      "translation": "作用类似于一个参考点，"
+    },
+    {
+      "id": 33,
+      "start": 215.038,
+      "end": 218.696,
+      "text": "It's the most basic unit of rhythm, and it's worth one beat.",
+      "translation": "告诉你某条线或空间对应你乐器上的某个音符。"
+    },
+    {
+      "id": 34,
+      "start": 218.746,
+      "end": 221.279,
+      "text": "This is a half note, and it's worth two beats.",
+      "translation": "如果我们想弹不在五线谱上的音符，"
+    },
+    {
+      "id": 35,
+      "start": 221.329,
+      "end": 227.363,
+      "text": "This whole note here is worth four beats, and these little guys are eighth notes, worth half a beat each.",
+      "translation": "有点像作弊，额外多划了点儿线，叫加线加的音符写在加线上。"
+    },
+    {
+      "id": 36,
+      "start": 227.413,
+      "end": 229.779,
+      "text": "\"Great,\" you say, \"what does that mean?\"",
+      "translation": "如果我们非得画这么多加线，"
+    },
+    {
+      "id": 37,
+      "start": 229.829,
+      "end": 235.196,
+      "text": "You might have noticed that across the length of a staff, there are little lines dividing it into small sections.",
+      "translation": "导致线混乱了，我们需要换成不同的谱号。"
+    },
+    {
+      "id": 38,
+      "start": 235.246,
+      "end": 239.904,
+      "text": "These are bar lines and we refer to each section as a bar.",
+      "translation": "至于让演奏者何时弹这些音符，两个要素控制这一点："
+    },
+    {
+      "id": 39,
+      "start": 239.954,
+      "end": 247.946,
+      "text": "At the beginning of a piece of music, just after the clef, is something called the time signature, which tells a performer how many beats are in each bar.",
+      "translation": "节拍和节奏。音乐的节拍单独有点乏味。"
+    },
+    {
+      "id": 40,
+      "start": 247.996,
+      "end": 253.529,
+      "text": "This says there are two beats in each bar, this says there are three, this one four, and so on.",
+      "translation": "听起来像这样：注意节拍不变，只是相当快乐地前进着。"
+    },
+    {
+      "id": 41,
+      "start": 253.579,
+      "end": 258.738,
+      "text": "The bottom number tells us what kind of note is to be used as the basic unit for the beat.",
+      "translation": "可以慢点儿，或快点儿，"
+    },
+    {
+      "id": 42,
+      "start": 258.788,
+      "end": 265.904,
+      "text": "One corresponds to a whole note, two to a half note, four to a quarter note, and eight to an eighth note, and so on.",
+      "translation": "或你想弹成什么样，真的。关键是就像钟表上的秒针把一分钟分成六十秒，每秒之间的时间长短是一样的，"
+    },
+    {
+      "id": 43,
+      "start": 265.954,
+      "end": 275.113,
+      "text": "So this time signature here tells us that there are four quarter notes in each bar, one, two, three, four; one, two, three, four, and so on.",
+      "translation": "节拍把音乐分成小的时间间隔都是等长的节拍。以一个稳定的节拍为基础，"
+    },
+    {
+      "id": 44,
+      "start": 275.163,
+      "end": 282.863,
+      "text": "But like I said before, if we just stick to the beat, it gets kind of boring, so we'll replace some quarter notes with different rhythms.",
+      "translation": "我们可以开始把节奏加到音高上，那才是音乐真正开始。这是个四分音符。它是最基本的节奏单位，"
+    },
+    {
+      "id": 45,
+      "start": 282.913,
+      "end": 290.071,
+      "text": "Notice that even though the number of notes in each bar has changed, the total number of beats in each bar hasn't.",
+      "translation": "值一拍。这是个半分音符，值两拍。这个全音符值四拍，"
+    },
+    {
+      "id": 46,
+      "start": 290.121,
+      "end": 293.321,
+      "text": "So, what does our musical creation sound like?",
+      "translation": "这些小家伙是八分音符，"
+    },
+    {
+      "id": 47,
+      "start": 293.371,
+      "end": 299.029,
+      "text": "(Music) Eh, sounds okay, but maybe a bit thin, right?",
+      "translation": "每一个值半拍。“好极了” 你说，“那是什么意思？”"
+    },
+    {
+      "id": 48,
+      "start": 299.079,
+      "end": 302.363,
+      "text": "Let's add another instrument with its own pitch and rhythm.",
+      "translation": "你可能注意到了"
+    },
+    {
+      "id": 49,
+      "start": 302.413,
+      "end": 305.738,
+      "text": "Now it's sounding like music.",
+      "translation": "横贯五线谱长度的东西，"
+    },
+    {
+      "id": 50,
+      "start": 305.788,
+      "end": 315.95,
+      "text": "Sure, it takes some practice to get used to reading it quickly and playing what we see on our instrument, but, with a bit of time and patience, you could be the next Beethoven or Justin Bieber.",
+      "translation": "有些短线把它分成小部分。这些是小节线，我们把每一部分作为一个小节。音乐之初，就在谱号之后，"
+    }
+  ],
+  "cues": [
+    {
+      "start": 14.079,
+      "text": "When we watch a film or a play,",
+      "end": 15.821
+    },
+    {
+      "start": 15.871,
+      "text": "we know that the actors",
+      "end": 16.988
+    },
+    {
+      "start": 17.038,
+      "text": "probably learned their lines from a script,",
+      "end": 18.988
+    },
+    {
+      "start": 19.038,
+      "text": "which essentially tells them what to say and when to say it.",
+      "end": 23.029
+    },
+    {
+      "start": 23.079,
+      "text": "A piece of written music operates on exactly the same principle.",
+      "end": 26.695999999999998
+    },
+    {
+      "start": 26.746,
+      "text": "In a very basic sense,",
+      "end": 28.070999999999998
+    },
+    {
+      "start": 28.121,
+      "text": "it tells a performer what to play and when to play it.",
+      "end": 31.863
+    },
+    {
+      "start": 31.913,
+      "text": "Aesthetically speaking, there's a world of difference",
+      "end": 34.404
+    },
+    {
+      "start": 34.454,
+      "text": "between, say, Beethoven and Justin Bieber,",
+      "end": 37.362
+    },
+    {
+      "start": 37.412,
+      "text": "but both artists have used",
+      "end": 38.612
+    },
+    {
+      "start": 38.662,
+      "text": "the same building blocks to create their music:",
+      "end": 41.112
+    },
+    {
+      "start": 41.162,
+      "text": "notes.",
+      "end": 42.196000000000005
+    },
+    {
+      "start": 42.246,
+      "text": "And although the end result can sound quite complicated,",
+      "end": 44.862
+    },
+    {
+      "start": 44.912,
+      "text": "the logic behind musical notes is actually pretty straightforward.",
+      "end": 48.404
+    },
+    {
+      "start": 48.454,
+      "text": "Let's take a look",
+      "end": 49.404
+    },
+    {
+      "start": 49.454,
+      "text": "at the foundational elements to music notation",
+      "end": 51.612
+    },
+    {
+      "start": 51.662,
+      "text": "and how they interact to create a work of art.",
+      "end": 55.612
+    },
+    {
+      "start": 55.662,
+      "text": "Music is written on five parallel lines that go across the page.",
+      "end": 59.779
+    },
+    {
+      "start": 59.829,
+      "text": "These five lines are called a staff,",
+      "end": 61.862
+    },
+    {
+      "start": 61.912,
+      "text": "and a staff operates on two axes:",
+      "end": 64.154
+    },
+    {
+      "start": 64.204,
+      "text": "up and down",
+      "end": 65.446
+    },
+    {
+      "start": 65.496,
+      "text": "and left to right.",
+      "end": 67.196
+    },
+    {
+      "start": 67.246,
+      "text": "The up-and-down axis tells the performer",
+      "end": 69.154
+    },
+    {
+      "start": 69.204,
+      "text": "the pitch of the note or what note to play,",
+      "end": 71.863
+    },
+    {
+      "start": 71.913,
+      "text": "and the left-to-right axis",
+      "end": 73.404
+    },
+    {
+      "start": 73.454,
+      "text": "tells the performer the rhythm of the note",
+      "end": 75.488
+    },
+    {
+      "start": 75.538,
+      "text": "or when to play it.",
+      "end": 77.363
+    },
+    {
+      "start": 77.413,
+      "text": "Let's start with pitch.",
+      "end": 78.946
+    },
+    {
+      "start": 78.996,
+      "text": "To help us out, we're going to use a piano,",
+      "end": 80.988
+    },
+    {
+      "start": 81.038,
+      "text": "but this system works for pretty much any instrument you can think of.",
+      "end": 85.113
+    },
+    {
+      "start": 85.163,
+      "text": "In the Western music tradition,",
+      "end": 86.779
+    },
+    {
+      "start": 86.829,
+      "text": "pitches are named after the first seven letters of the alphabet,",
+      "end": 90.196
+    },
+    {
+      "start": 90.246,
+      "text": "A, B, C,",
+      "end": 91.654
+    },
+    {
+      "start": 91.704,
+      "text": "D, E, F, and G.",
+      "end": 94.404
+    },
+    {
+      "start": 94.454,
+      "text": "After that, the cycle repeats itself:",
+      "end": 96.571
+    },
+    {
+      "start": 96.621,
+      "text": "A, B, C, D, E, F, G,",
+      "end": 98.613
+    },
+    {
+      "start": 98.663,
+      "text": "A, B, C, D, E, F, G,",
+      "end": 99.946
+    },
+    {
+      "start": 99.996,
+      "text": "and so on.",
+      "end": 101.529
+    },
+    {
+      "start": 101.579,
+      "text": "But how do these pitches get their names?",
+      "end": 104.154
+    },
+    {
+      "start": 104.204,
+      "text": "Well, for example, if you played an F",
+      "end": 106.238
+    },
+    {
+      "start": 106.288,
+      "text": "and then played another F",
+      "end": 107.446
+    },
+    {
+      "start": 107.496,
+      "text": "higher or lower on the piano,",
+      "end": 109.154
+    },
+    {
+      "start": 109.204,
+      "text": "you'd notice that they sound pretty similar",
+      "end": 111.238
+    },
+    {
+      "start": 111.288,
+      "text": "compared to, say, a B.",
+      "end": 113.696
+    },
+    {
+      "start": 113.746,
+      "text": "Going back to the staff,",
+      "end": 114.904
+    },
+    {
+      "start": 114.954,
+      "text": "every line and every space between two lines",
+      "end": 117.613
+    },
+    {
+      "start": 117.663,
+      "text": "represents a separate pitch.",
+      "end": 119.988
+    },
+    {
+      "start": 120.038,
+      "text": "If we put a note on one of these lines or one of these spaces,",
+      "end": 123.071
+    },
+    {
+      "start": 123.121,
+      "text": "we're telling a performer to play that pitch.",
+      "end": 125.613
+    },
+    {
+      "start": 125.663,
+      "text": "The higher up on the staff a note is placed,",
+      "end": 127.98800000000001
+    },
+    {
+      "start": 128.038,
+      "text": "the higher the pitch.",
+      "end": 129.363
+    },
+    {
+      "start": 129.413,
+      "text": "But there are obviously many, many more pitches",
+      "end": 131.863
+    },
+    {
+      "start": 131.913,
+      "text": "than the nine that these lines and spaces gives us.",
+      "end": 134.571
+    },
+    {
+      "start": 134.621,
+      "text": "A grand piano, for example,",
+      "end": 136.113
+    },
+    {
+      "start": 136.163,
+      "text": "can play 88 separate notes.",
+      "end": 138.238
+    },
+    {
+      "start": 138.288,
+      "text": "So how do we condense 88 notes onto a single staff?",
+      "end": 141.738
+    },
+    {
+      "start": 141.788,
+      "text": "We use something called a clef,",
+      "end": 143.946
+    },
+    {
+      "start": 143.996,
+      "text": "a weird-looking figure placed at the beginning of the staff,",
+      "end": 146.946
+    },
+    {
+      "start": 146.996,
+      "text": "which acts like a reference point,",
+      "end": 148.654
+    },
+    {
+      "start": 148.704,
+      "text": "telling you that a particular line or space",
+      "end": 150.779
+    },
+    {
+      "start": 150.829,
+      "text": "corresponds to a specific note on your instrument.",
+      "end": 153.571
+    },
+    {
+      "start": 153.621,
+      "text": "If we want to play notes that aren't on the staff,",
+      "end": 155.946
+    },
+    {
+      "start": 155.996,
+      "text": "we kind of cheat and draw extra little lines",
+      "end": 158.071
+    },
+    {
+      "start": 158.121,
+      "text": "called ledger lines",
+      "end": 159.321
+    },
+    {
+      "start": 159.371,
+      "text": "and place the notes on them.",
+      "end": 161.029
+    },
+    {
+      "start": 161.079,
+      "text": "If we have to draw so many ledger lines that it gets confusing,",
+      "end": 164.404
+    },
+    {
+      "start": 164.454,
+      "text": "then we need to change to a different clef.",
+      "end": 167.821
+    },
+    {
+      "start": 167.871,
+      "text": "As for telling a performer when to play the notes,",
+      "end": 170.196
+    },
+    {
+      "start": 170.246,
+      "text": "two main elements control this:",
+      "end": 172.071
+    },
+    {
+      "start": 172.121,
+      "text": "the beat and the rhythm.",
+      "end": 174.404
+    },
+    {
+      "start": 174.454,
+      "text": "The beat of a piece of music is,",
+      "end": 176.029
+    },
+    {
+      "start": 176.079,
+      "text": "by itself, kind of boring.",
+      "end": 177.988
+    },
+    {
+      "start": 178.038,
+      "text": "It sounds like this.",
+      "end": 180.279
+    },
+    {
+      "start": 180.329,
+      "text": "(Ticking)",
+      "end": 182.113
+    },
+    {
+      "start": 182.163,
+      "text": "Notice that it doesn't change,",
+      "end": 183.613
+    },
+    {
+      "start": 183.663,
+      "text": "it just plugs along quite happily.",
+      "end": 185.946
+    },
+    {
+      "start": 185.996,
+      "text": "It can go slow",
+      "end": 188.488
+    },
+    {
+      "start": 188.538,
+      "text": "or fast",
+      "end": 190.446
+    },
+    {
+      "start": 190.496,
+      "text": "or whatever you like, really.",
+      "end": 191.863
+    },
+    {
+      "start": 191.913,
+      "text": "The point is that just like the second hand on a clock",
+      "end": 194.571
+    },
+    {
+      "start": 194.621,
+      "text": "divides one minute into sixty seconds,",
+      "end": 197.154
+    },
+    {
+      "start": 197.204,
+      "text": "with each second just as long as every other second,",
+      "end": 200.154
+    },
+    {
+      "start": 200.204,
+      "text": "the beat divides a piece of music",
+      "end": 201.946
+    },
+    {
+      "start": 201.996,
+      "text": "into little fragments of time that are all the same length:",
+      "end": 205.071
+    },
+    {
+      "start": 205.121,
+      "text": "beats.",
+      "end": 206.779
+    },
+    {
+      "start": 206.829,
+      "text": "With a steady beat as a foundation,",
+      "end": 208.529
+    },
+    {
+      "start": 208.579,
+      "text": "we can add rhythm to our pitches,",
+      "end": 210.154
+    },
+    {
+      "start": 210.204,
+      "text": "and that's when music really starts to happen.",
+      "end": 213.363
+    },
+    {
+      "start": 213.413,
+      "text": "This is a quarter note.",
+      "end": 214.988
+    },
+    {
+      "start": 215.038,
+      "text": "It's the most basic unit of rhythm,",
+      "end": 216.738
+    },
+    {
+      "start": 216.788,
+      "text": "and it's worth one beat.",
+      "end": 218.696
+    },
+    {
+      "start": 218.746,
+      "text": "This is a half note, and it's worth two beats.",
+      "end": 221.279
+    },
+    {
+      "start": 221.329,
+      "text": "This whole note here is worth four beats,",
+      "end": 223.363
+    },
+    {
+      "start": 223.413,
+      "text": "and these little guys are eighth notes,",
+      "end": 225.321
+    },
+    {
+      "start": 225.371,
+      "text": "worth half a beat each.",
+      "end": 227.363
+    },
+    {
+      "start": 227.413,
+      "text": "\"Great,\" you say, \"what does that mean?\"",
+      "end": 229.779
+    },
+    {
+      "start": 229.829,
+      "text": "You might have noticed that across the length of a staff,",
+      "end": 232.488
+    },
+    {
+      "start": 232.538,
+      "text": "there are little lines dividing it into small sections.",
+      "end": 235.196
+    },
+    {
+      "start": 235.246,
+      "text": "These are bar lines",
+      "end": 236.904
+    },
+    {
+      "start": 236.954,
+      "text": "and we refer to each section as a bar.",
+      "end": 239.904
+    },
+    {
+      "start": 239.954,
+      "text": "At the beginning of a piece of music,",
+      "end": 241.696
+    },
+    {
+      "start": 241.746,
+      "text": "just after the clef,",
+      "end": 242.821
+    },
+    {
+      "start": 242.871,
+      "text": "is something called the time signature,",
+      "end": 244.904
+    },
+    {
+      "start": 244.954,
+      "text": "which tells a performer how many beats are in each bar.",
+      "end": 247.946
+    },
+    {
+      "start": 247.996,
+      "text": "This says there are two beats in each bar,",
+      "end": 250.113
+    },
+    {
+      "start": 250.163,
+      "text": "this says there are three,",
+      "end": 251.488
+    },
+    {
+      "start": 251.538,
+      "text": "this one four, and so on.",
+      "end": 253.529
+    },
+    {
+      "start": 253.579,
+      "text": "The bottom number tells us what kind of note",
+      "end": 255.821
+    },
+    {
+      "start": 255.871,
+      "text": "is to be used as the basic unit for the beat.",
+      "end": 258.738
+    },
+    {
+      "start": 258.788,
+      "text": "One corresponds to a whole note,",
+      "end": 260.44599999999997
+    },
+    {
+      "start": 260.496,
+      "text": "two to a half note,",
+      "end": 261.57099999999997
+    },
+    {
+      "start": 261.621,
+      "text": "four to a quarter note,",
+      "end": 263.529
+    },
+    {
+      "start": 263.579,
+      "text": "and eight to an eighth note, and so on.",
+      "end": 265.904
+    },
+    {
+      "start": 265.954,
+      "text": "So this time signature here",
+      "end": 267.279
+    },
+    {
+      "start": 267.329,
+      "text": "tells us that there are four quarter notes in each bar,",
+      "end": 270.07099999999997
+    },
+    {
+      "start": 270.121,
+      "text": "one, two, three, four;",
+      "end": 272.029
+    },
+    {
+      "start": 272.079,
+      "text": "one, two, three, four,",
+      "end": 273.57099999999997
+    },
+    {
+      "start": 273.621,
+      "text": "and so on.",
+      "end": 275.113
+    },
+    {
+      "start": 275.163,
+      "text": "But like I said before,",
+      "end": 276.32099999999997
+    },
+    {
+      "start": 276.371,
+      "text": "if we just stick to the beat,",
+      "end": 277.779
+    },
+    {
+      "start": 277.829,
+      "text": "it gets kind of boring,",
+      "end": 279.32099999999997
+    },
+    {
+      "start": 279.371,
+      "text": "so we'll replace some quarter notes with different rhythms.",
+      "end": 282.863
+    },
+    {
+      "start": 282.913,
+      "text": "Notice that even though the number of notes",
+      "end": 284.863
+    },
+    {
+      "start": 284.913,
+      "text": "in each bar has changed,",
+      "end": 286.363
+    },
+    {
+      "start": 286.413,
+      "text": "the total number of beats in each bar hasn't.",
+      "end": 290.07099999999997
+    },
+    {
+      "start": 290.121,
+      "text": "So, what does our musical creation sound like?",
+      "end": 293.32099999999997
+    },
+    {
+      "start": 293.371,
+      "text": "(Music)",
+      "end": 295.69599999999997
+    },
+    {
+      "start": 295.746,
+      "text": "Eh, sounds okay, but maybe a bit thin, right?",
+      "end": 299.029
+    },
+    {
+      "start": 299.079,
+      "text": "Let's add another instrument with its own pitch and rhythm.",
+      "end": 302.363
+    },
+    {
+      "start": 302.413,
+      "text": "Now it's sounding like music.",
+      "end": 305.738
+    },
+    {
+      "start": 305.788,
+      "text": "Sure, it takes some practice to get used to reading it quickly",
+      "end": 308.738
+    },
+    {
+      "start": 308.788,
+      "text": "and playing what we see on our instrument,",
+      "end": 310.779
+    },
+    {
+      "start": 310.829,
+      "text": "but, with a bit of time and patience,",
+      "end": 312.57099999999997
+    },
+    {
+      "start": 312.621,
+      "text": "you could be the next Beethoven",
+      "end": 314.32099999999997
+    },
+    {
+      "start": 314.371,
+      "text": "or Justin Bieber.",
+      "end": 315.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.079,
+      "text": "看电影或戏剧时，",
+      "end": 7.946000000000001
+    },
+    {
+      "start": 7.996,
+      "text": "我们知道演员",
+      "end": 8.904
+    },
+    {
+      "start": 8.954,
+      "text": "大概是看剧本知道台词，",
+      "end": 10.988
+    },
+    {
+      "start": 11.038,
+      "text": "剧本基本上告诉演员",
+      "end": 12.029
+    },
+    {
+      "start": 12.079,
+      "text": "说什么",
+      "end": 12.779
+    },
+    {
+      "start": 12.829,
+      "text": "和何时说。",
+      "end": 15.029
+    },
+    {
+      "start": 15.079,
+      "text": "一段乐谱和剧本的作用",
+      "end": 16.779
+    },
+    {
+      "start": 16.829,
+      "text": "完全相同。",
+      "end": 18.195999999999998
+    },
+    {
+      "start": 18.246,
+      "text": "很基本地讲，",
+      "end": 19.570999999999998
+    },
+    {
+      "start": 19.621,
+      "text": "乐谱告诉演奏者演奏什么",
+      "end": 21.738
+    },
+    {
+      "start": 21.788,
+      "text": "和什么时候演奏。",
+      "end": 23.863
+    },
+    {
+      "start": 23.913,
+      "text": "从美学的角度来讲，",
+      "end": 26.154
+    },
+    {
+      "start": 26.204,
+      "text": "比方说，贝多芬和",
+      "end": 28.070999999999998
+    },
+    {
+      "start": 28.121,
+      "text": "Justin Bieber 完全不同，",
+      "end": 29.363
+    },
+    {
+      "start": 29.413,
+      "text": "但两位创作者都用了",
+      "end": 30.488
+    },
+    {
+      "start": 30.538,
+      "text": "同样的基本构架来创作音乐：",
+      "end": 33.154
+    },
+    {
+      "start": 33.204,
+      "text": "音符。",
+      "end": 34.112
+    },
+    {
+      "start": 34.162,
+      "text": "尽管结果",
+      "end": 35.154
+    },
+    {
+      "start": 35.204,
+      "text": "会听起来相当复杂，",
+      "end": 36.821000000000005
+    },
+    {
+      "start": 36.871,
+      "text": "但音符背后的逻辑",
+      "end": 38.321000000000005
+    },
+    {
+      "start": 38.371,
+      "text": "实际上是非常简单的。",
+      "end": 40.404
+    },
+    {
+      "start": 40.454,
+      "text": "我们来看一下",
+      "end": 41.404
+    },
+    {
+      "start": 41.454,
+      "text": "音乐符号的基本元素",
+      "end": 43.571000000000005
+    },
+    {
+      "start": 43.621,
+      "text": "和它们是如何互动 来创作音乐作品的。",
+      "end": 47.362
+    },
+    {
+      "start": 47.412,
+      "text": "音符写在五条平行线上",
+      "end": 49.779
+    },
+    {
+      "start": 49.829,
+      "text": "横贯整页。",
+      "end": 51.404
+    },
+    {
+      "start": 51.454,
+      "text": "这五条线叫谱线，",
+      "end": 53.696000000000005
+    },
+    {
+      "start": 53.746,
+      "text": "谱线在两个轴之间：",
+      "end": 56.154
+    },
+    {
+      "start": 56.204,
+      "text": "上下",
+      "end": 57.154
+    },
+    {
+      "start": 57.204,
+      "text": "和左右。",
+      "end": 59.196000000000005
+    },
+    {
+      "start": 59.246,
+      "text": "上下轴告诉演奏者",
+      "end": 61.154
+    },
+    {
+      "start": 61.204,
+      "text": "音高",
+      "end": 62.487
+    },
+    {
+      "start": 62.537,
+      "text": "或弹哪那个音符，",
+      "end": 63.862
+    },
+    {
+      "start": 63.912,
+      "text": "左右轴告诉演奏者",
+      "end": 66.029
+    },
+    {
+      "start": 66.079,
+      "text": "音符的节奏",
+      "end": 67.196
+    },
+    {
+      "start": 67.246,
+      "text": "或何时弹。",
+      "end": 69.238
+    },
+    {
+      "start": 69.288,
+      "text": "让我们从音高开始。",
+      "end": 70.946
+    },
+    {
+      "start": 70.996,
+      "text": "为帮我们搞清楚， 我们打算用钢琴来说明，",
+      "end": 72.904
+    },
+    {
+      "start": 72.954,
+      "text": "但这个系统用差不多",
+      "end": 74.529
+    },
+    {
+      "start": 74.579,
+      "text": "你能想到的任何乐器都适用。",
+      "end": 76.779
+    },
+    {
+      "start": 76.829,
+      "text": "根据西方的音乐传统，",
+      "end": 78.529
+    },
+    {
+      "start": 78.579,
+      "text": "音高是按前七个",
+      "end": 79.821
+    },
+    {
+      "start": 79.871,
+      "text": "字母来命名的。",
+      "end": 82.196
+    },
+    {
+      "start": 82.246,
+      "text": "A,",
+      "end": 82.738
+    },
+    {
+      "start": 82.788,
+      "text": "B,",
+      "end": 83.238
+    },
+    {
+      "start": 83.288,
+      "text": "C,",
+      "end": 83.654
+    },
+    {
+      "start": 83.704,
+      "text": "D,",
+      "end": 84.071
+    },
+    {
+      "start": 84.121,
+      "text": "E,",
+      "end": 84.488
+    },
+    {
+      "start": 84.538,
+      "text": "F,",
+      "end": 85.071
+    },
+    {
+      "start": 85.121,
+      "text": "和G。",
+      "end": 86.404
+    },
+    {
+      "start": 86.454,
+      "text": "此后，就循环：",
+      "end": 88.529
+    },
+    {
+      "start": 88.579,
+      "text": "A，",
+      "end": 88.946
+    },
+    {
+      "start": 88.996,
+      "text": "B，",
+      "end": 89.321
+    },
+    {
+      "start": 89.371,
+      "text": "C，",
+      "end": 89.67099999999999
+    },
+    {
+      "start": 89.621,
+      "text": "D，",
+      "end": 89.92099999999999
+    },
+    {
+      "start": 89.871,
+      "text": "E，",
+      "end": 90.17099999999999
+    },
+    {
+      "start": 90.121,
+      "text": "F，",
+      "end": 90.42099999999999
+    },
+    {
+      "start": 90.413,
+      "text": "G，",
+      "end": 90.713
+    },
+    {
+      "start": 90.663,
+      "text": "A，",
+      "end": 90.963
+    },
+    {
+      "start": 90.954,
+      "text": "B，",
+      "end": 91.25399999999999
+    },
+    {
+      "start": 91.204,
+      "text": "C，",
+      "end": 91.50399999999999
+    },
+    {
+      "start": 91.413,
+      "text": "D，",
+      "end": 91.713
+    },
+    {
+      "start": 91.579,
+      "text": "E，",
+      "end": 91.87899999999999
+    },
+    {
+      "start": 91.746,
+      "text": "F，",
+      "end": 92.04599999999999
+    },
+    {
+      "start": 91.954,
+      "text": "G，",
+      "end": 92.25399999999999
+    },
+    {
+      "start": 92.163,
+      "text": "等等。",
+      "end": 93.488
+    },
+    {
+      "start": 93.538,
+      "text": "但这些音高是怎样取名的呢？",
+      "end": 95.613
+    },
+    {
+      "start": 95.663,
+      "text": "例如，如果弹 F，",
+      "end": 98.238
+    },
+    {
+      "start": 98.288,
+      "text": "接着再弹一个 F，",
+      "end": 99.404
+    },
+    {
+      "start": 99.454,
+      "text": "这个 F 用钢琴弹得高点儿或低点儿，",
+      "end": 101.154
+    },
+    {
+      "start": 101.204,
+      "text": "你会注意到他们听上去比较相似，",
+      "end": 102.904
+    },
+    {
+      "start": 102.954,
+      "text": "比方说 B。",
+      "end": 105.529
+    },
+    {
+      "start": 105.579,
+      "text": "再看五线谱，",
+      "end": 106.904
+    },
+    {
+      "start": 106.954,
+      "text": "每条线和两条线之间的空间",
+      "end": 109.613
+    },
+    {
+      "start": 109.663,
+      "text": "代表一个音高。",
+      "end": 111.738
+    },
+    {
+      "start": 111.788,
+      "text": "如果我们在其中的一条线上",
+      "end": 113.696
+    },
+    {
+      "start": 113.746,
+      "text": "或空间里放上一个音符，",
+      "end": 115.071
+    },
+    {
+      "start": 115.121,
+      "text": "我们在告诉演奏者弹哪个音高。",
+      "end": 117.613
+    },
+    {
+      "start": 117.663,
+      "text": "五线谱上音符放的位置越高，",
+      "end": 119.738
+    },
+    {
+      "start": 119.788,
+      "text": "这个音就越高。",
+      "end": 121.363
+    },
+    {
+      "start": 121.413,
+      "text": "但显然有很多很多的音，",
+      "end": 123.863
+    },
+    {
+      "start": 123.913,
+      "text": "远不止这几条线 和空间带给我们的几个音。",
+      "end": 126.571
+    },
+    {
+      "start": 126.621,
+      "text": "例如，三角钢琴可以弹",
+      "end": 128.238
+    },
+    {
+      "start": 128.288,
+      "text": "88 个不同的音。",
+      "end": 129.988
+    },
+    {
+      "start": 130.038,
+      "text": "因此我们怎么样把这 88 个音符 压缩到五线谱上呢？",
+      "end": 133.488
+    },
+    {
+      "start": 133.538,
+      "text": "我们用叫谱号的东西。",
+      "end": 136.113
+    },
+    {
+      "start": 136.163,
+      "text": "谱号的样子看起来怪怪的，",
+      "end": 137.363
+    },
+    {
+      "start": 137.413,
+      "text": "放在五线谱的开始，",
+      "end": 138.946
+    },
+    {
+      "start": 138.996,
+      "text": "作用类似于一个参考点，",
+      "end": 140.404
+    },
+    {
+      "start": 140.454,
+      "text": "告诉你某条线或空间",
+      "end": 142.279
+    },
+    {
+      "start": 142.329,
+      "text": "对应你乐器上的某个音符。",
+      "end": 145.571
+    },
+    {
+      "start": 145.621,
+      "text": "如果我们想弹不在五线谱上的音符，",
+      "end": 147.529
+    },
+    {
+      "start": 147.579,
+      "text": "有点像作弊，额外多划了点儿线，",
+      "end": 149.696
+    },
+    {
+      "start": 149.746,
+      "text": "叫加线",
+      "end": 151.154
+    },
+    {
+      "start": 151.204,
+      "text": "加的音符写在加线上。",
+      "end": 153.029
+    },
+    {
+      "start": 153.079,
+      "text": "如果我们非得画这么多加线，",
+      "end": 154.988
+    },
+    {
+      "start": 155.038,
+      "text": "导致线混乱了，",
+      "end": 156.404
+    },
+    {
+      "start": 156.454,
+      "text": "我们需要换成不同的谱号。",
+      "end": 159.571
+    },
+    {
+      "start": 159.621,
+      "text": "至于让演奏者何时弹这些音符，",
+      "end": 162.196
+    },
+    {
+      "start": 162.246,
+      "text": "两个要素控制这一点：",
+      "end": 164.071
+    },
+    {
+      "start": 164.121,
+      "text": "节拍",
+      "end": 164.988
+    },
+    {
+      "start": 165.038,
+      "text": "和节奏。",
+      "end": 166.196
+    },
+    {
+      "start": 166.246,
+      "text": "音乐的节拍",
+      "end": 167.946
+    },
+    {
+      "start": 167.996,
+      "text": "单独有点乏味。",
+      "end": 169.988
+    },
+    {
+      "start": 170.038,
+      "text": "听起来像这样：",
+      "end": 174.113
+    },
+    {
+      "start": 174.163,
+      "text": "注意节拍不变，",
+      "end": 175.446
+    },
+    {
+      "start": 175.496,
+      "text": "只是相当快乐地前进着。",
+      "end": 177.946
+    },
+    {
+      "start": 177.996,
+      "text": "可以慢点儿，",
+      "end": 180.488
+    },
+    {
+      "start": 180.538,
+      "text": "或快点儿，",
+      "end": 182.446
+    },
+    {
+      "start": 182.496,
+      "text": "或你想弹成什么样，真的。",
+      "end": 183.779
+    },
+    {
+      "start": 183.829,
+      "text": "关键是就像钟表上的秒针",
+      "end": 186.571
+    },
+    {
+      "start": 186.621,
+      "text": "把一分钟分成六十秒，",
+      "end": 189.154
+    },
+    {
+      "start": 189.204,
+      "text": "每秒之间的时间长短是一样的，",
+      "end": 192.154
+    },
+    {
+      "start": 192.204,
+      "text": "节拍把音乐分成",
+      "end": 193.946
+    },
+    {
+      "start": 193.996,
+      "text": "小的时间间隔",
+      "end": 195.446
+    },
+    {
+      "start": 195.496,
+      "text": "都是等长的",
+      "end": 197.196
+    },
+    {
+      "start": 197.246,
+      "text": "节拍。",
+      "end": 198.779
+    },
+    {
+      "start": 198.829,
+      "text": "以一个稳定的节拍为基础，",
+      "end": 200.404
+    },
+    {
+      "start": 200.454,
+      "text": "我们可以开始把节奏加到音高上，",
+      "end": 202.029
+    },
+    {
+      "start": 202.079,
+      "text": "那才是音乐真正开始。",
+      "end": 205.363
+    },
+    {
+      "start": 205.413,
+      "text": "这是个四分音符。",
+      "end": 206.988
+    },
+    {
+      "start": 207.038,
+      "text": "它是最基本的节奏单位，",
+      "end": 208.738
+    },
+    {
+      "start": 208.788,
+      "text": "值一拍。",
+      "end": 210.446
+    },
+    {
+      "start": 210.496,
+      "text": "这是个半分音符，值两拍。",
+      "end": 213.279
+    },
+    {
+      "start": 213.329,
+      "text": "这个全音符值四拍，",
+      "end": 215.363
+    },
+    {
+      "start": 215.413,
+      "text": "这些小家伙是八分音符，",
+      "end": 217.321
+    },
+    {
+      "start": 217.371,
+      "text": "每一个值半拍。",
+      "end": 219.196
+    },
+    {
+      "start": 219.246,
+      "text": "“好极了” 你说，“那是什么意思？”",
+      "end": 221.946
+    },
+    {
+      "start": 221.996,
+      "text": "你可能注意到了",
+      "end": 222.738
+    },
+    {
+      "start": 222.788,
+      "text": "横贯五线谱长度的东西，",
+      "end": 224.404
+    },
+    {
+      "start": 224.454,
+      "text": "有些短线把它分成小部分。",
+      "end": 227.196
+    },
+    {
+      "start": 227.246,
+      "text": "这些是小节线，",
+      "end": 228.904
+    },
+    {
+      "start": 228.954,
+      "text": "我们把每一部分作为一个小节。",
+      "end": 231.571
+    },
+    {
+      "start": 231.621,
+      "text": "音乐之初，",
+      "end": 233.404
+    },
+    {
+      "start": 233.454,
+      "text": "就在谱号之后，",
+      "end": 234.529
+    },
+    {
+      "start": 234.579,
+      "text": "是叫做拍号的东西，",
+      "end": 236.779
+    },
+    {
+      "start": 236.829,
+      "text": "告诉演奏者每一小节有几拍。",
+      "end": 239.946
+    },
+    {
+      "start": 239.996,
+      "text": "这个说的是每小节两拍，",
+      "end": 242.113
+    },
+    {
+      "start": 242.163,
+      "text": "这个说的是有三拍，",
+      "end": 243.488
+    },
+    {
+      "start": 243.538,
+      "text": "这个四拍，",
+      "end": 244.279
+    },
+    {
+      "start": 244.329,
+      "text": "等等。",
+      "end": 245.529
+    },
+    {
+      "start": 245.579,
+      "text": "底部的数字告诉我们什么音符",
+      "end": 247.821
+    },
+    {
+      "start": 247.871,
+      "text": "将被用作这个节拍的基本单位。",
+      "end": 250.488
+    },
+    {
+      "start": 250.538,
+      "text": "1 对应一个全音符，",
+      "end": 252.446
+    },
+    {
+      "start": 252.496,
+      "text": "2 对应一个半音符，",
+      "end": 253.571
+    },
+    {
+      "start": 253.621,
+      "text": "4 对应一个四分音符，",
+      "end": 255.904
+    },
+    {
+      "start": 255.954,
+      "text": "8 对应一个 1/8 音符，",
+      "end": 256.279
+    },
+    {
+      "start": 256.329,
+      "text": "等等。",
+      "end": 257.613
+    },
+    {
+      "start": 257.663,
+      "text": "因此这里这个拍号",
+      "end": 259.279
+    },
+    {
+      "start": 259.329,
+      "text": "告诉我们每小节有四个四分音符，",
+      "end": 262.07099999999997
+    },
+    {
+      "start": 262.121,
+      "text": "1，",
+      "end": 262.488
+    },
+    {
+      "start": 262.538,
+      "text": "2，",
+      "end": 262.988
+    },
+    {
+      "start": 263.038,
+      "text": "3，",
+      "end": 263.404
+    },
+    {
+      "start": 263.454,
+      "text": "4；",
+      "end": 264.029
+    },
+    {
+      "start": 264.079,
+      "text": "1，",
+      "end": 264.44599999999997
+    },
+    {
+      "start": 264.496,
+      "text": "2，",
+      "end": 264.796
+    },
+    {
+      "start": 264.829,
+      "text": "3，",
+      "end": 265.19599999999997
+    },
+    {
+      "start": 265.246,
+      "text": "4，",
+      "end": 265.57099999999997
+    },
+    {
+      "start": 265.621,
+      "text": "等等。",
+      "end": 266.904
+    },
+    {
+      "start": 266.954,
+      "text": "但像我前面说的那样，",
+      "end": 268.32099999999997
+    },
+    {
+      "start": 268.371,
+      "text": "如果我们只按这个节拍，",
+      "end": 269.613
+    },
+    {
+      "start": 269.663,
+      "text": "有点儿令人乏味，",
+      "end": 271.32099999999997
+    },
+    {
+      "start": 271.371,
+      "text": "所以我们用一些不同节奏的",
+      "end": 272.82099999999997
+    },
+    {
+      "start": 272.871,
+      "text": "四分音符来代替。",
+      "end": 274.863
+    },
+    {
+      "start": 274.913,
+      "text": "注意尽管每小结的",
+      "end": 276.44599999999997
+    },
+    {
+      "start": 276.496,
+      "text": "音符数量已改变，",
+      "end": 277.94599999999997
+    },
+    {
+      "start": 277.996,
+      "text": "但每小节的节拍总数没变。",
+      "end": 281.863
+    },
+    {
+      "start": 281.913,
+      "text": "因此我们的音乐创作听上去怎么样？",
+      "end": 287.69599999999997
+    },
+    {
+      "start": 287.746,
+      "text": "听上去还可以，但可能有点简单，是吧？",
+      "end": 291.029
+    },
+    {
+      "start": 291.079,
+      "text": "让我们加上另一种乐器",
+      "end": 292.113
+    },
+    {
+      "start": 292.163,
+      "text": "有它自己的音高和节奏。",
+      "end": 294.363
+    },
+    {
+      "start": 294.413,
+      "text": "现在它听上去像音乐了。",
+      "end": 297.863
+    },
+    {
+      "start": 297.913,
+      "text": "当然，这需要一些练习",
+      "end": 299.113
+    },
+    {
+      "start": 299.163,
+      "text": "来习惯快速读它",
+      "end": 300.363
+    },
+    {
+      "start": 300.413,
+      "text": "在乐器上演奏我们看到的东西，",
+      "end": 302.279
+    },
+    {
+      "start": 302.329,
+      "text": "但是，花点时间和耐心，",
+      "end": 304.029
+    },
+    {
+      "start": 304.079,
+      "text": "你会是下一个贝多芬",
+      "end": 306.32099999999997
+    },
+    {
+      "start": 306.371,
+      "text": "或",
+      "end": 307.029
+    },
+    {
+      "start": 307.079,
+      "text": "Justin Bieber。",
+      "end": 315.95
+    }
+  ]
+}

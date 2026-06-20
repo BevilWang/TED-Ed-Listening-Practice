@@ -1,0 +1,1030 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The myth of the moon goddess",
+    "speaker": "Cynthia Fay Davis",
+    "duration": 259,
+    "slug": "cynthia_fay_davis_the_myth_of_the_moon_goddess",
+    "sourcePage": "https://www.ted.com/talks/cynthia_fay_davis_the_myth_of_the_moon_goddess",
+    "translationSourcePage": "https://www.ted.com/talks/cynthia_fay_davis_the_myth_of_the_moon_goddess?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/59/13/001/products/2020e-cynthia-fay-davis-ix-chel-001-fallback-5ee43119b3b99c219e98c132d8606150-1200k.mp4",
+    "youtubeId": "aQibQlpNIfw",
+    "youtubeTitle": "The myth of the moon goddess - Cynthia Fay Davis"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.878,
+      "end": 12.125,
+      "text": "The moon goddess, Ix Chel, patiently watched a spider at work.",
+      "translation": "月亮女神伊希切尔 耐心地看着一只在织网的蜘蛛。"
+    },
+    {
+      "id": 2,
+      "start": 12.175,
+      "end": 15.211,
+      "text": "She could make use of it skills, she thought.",
+      "translation": "女神认为 她可以利用它的技能。"
+    },
+    {
+      "id": 3,
+      "start": 15.261,
+      "end": 21.134,
+      "text": "Through careful observation and imitation, she soon became a skilled weaver.",
+      "translation": "通过仔细观察及仿效 她很快成为一名优秀织布工。"
+    },
+    {
+      "id": 4,
+      "start": 21.184,
+      "end": 27.598,
+      "text": "The sun god, Kinich Ahau, was impressed with her work, and admired her from afar.",
+      "translation": "太阳神奇尼奇. 阿豪 对她所做的一切印象深刻。并且从远处欣赏她。"
+    },
+    {
+      "id": 5,
+      "start": 27.648,
+      "end": 35.106,
+      "text": "But the goddess’ grandfather was very possessive and would not let the sun god anywhere near his beloved granddaughter.",
+      "translation": "可是，女神的祖父占有欲太强。并不会同意让太阳神 接近他亲爱的孙女。"
+    },
+    {
+      "id": 6,
+      "start": 35.156,
+      "end": 40.361,
+      "text": "To get past the grandfather, the sun god disguised himself as a hummingbird.",
+      "translation": "太阳伪装自己 以便巧妙地越过祖父。伪装成一只蜂雀。"
+    },
+    {
+      "id": 7,
+      "start": 40.411,
+      "end": 48.036,
+      "text": "As he took a drink of tobacco flower honey, the moon goddess spotted him and asked her grandfather to capture the bird for her.",
+      "translation": "当他喝烟草花蜜时，月亮女神发现了他， 并让她的祖父为她捕捉那只鸟。"
+    },
+    {
+      "id": 8,
+      "start": 48.086,
+      "end": 53.041,
+      "text": "The grandfather shot the disguised sun god with a blow dart, stunning him.",
+      "translation": "祖父用吹镖射中了伪装的太阳神， 把他打晕了。"
+    },
+    {
+      "id": 9,
+      "start": 53.091,
+      "end": 60.381,
+      "text": "Ix Chel nursed the wounded bird back to health, and soon, he was able to spread his wings and fly again.",
+      "translation": "伊希切尔悉心照料这只受伤的鸟， 使他恢复了健康很快，他又能张开翅膀再次飞翔了。"
+    },
+    {
+      "id": 10,
+      "start": 60.431,
+      "end": 67.472,
+      "text": "He transformed back into the sun god and invited the moon goddess to escape with him.",
+      "translation": "他变回了太阳神， 并邀请月亮女神和他一起逃走。"
+    },
+    {
+      "id": 11,
+      "start": 67.522,
+      "end": 74.645,
+      "text": "The two rowed away in a canoe, but the grandfather called upon the powerful storm god to help him stop them.",
+      "translation": "两人划着独木舟离开了，但祖父请求强大的风暴之神帮助他阻止他们。"
+    },
+    {
+      "id": 12,
+      "start": 74.695,
+      "end": 81.486,
+      "text": "Sensing danger, the moon goddess jumped from the canoe into the water below and transformed into a crab.",
+      "translation": "月亮女神感觉到了危险， 便从独木舟上跳下水，变成了一只螃蟹。"
+    },
+    {
+      "id": 13,
+      "start": 81.536,
+      "end": 90.203,
+      "text": "But the storm god had already thrown a lightning bolt, which hit the crab and pierced her through her heart, killing her.",
+      "translation": "但风暴之神已经放出一道闪电，击中了那只螃蟹， 刺穿了她的心脏，杀死了她。"
+    },
+    {
+      "id": 14,
+      "start": 90.253,
+      "end": 97.001,
+      "text": "Hundreds and hundreds of dragonflies gathered, buzzing songs and fluttering their transparent wings.",
+      "translation": "成百上千的蜻蜓聚集在一起，嗡嗡地唱着歌， 拍打着透明的翅膀。"
+    },
+    {
+      "id": 15,
+      "start": 97.051,
+      "end": 101.422,
+      "text": "They formed a thick, magical cloud over the moon goddess’ body.",
+      "translation": "它们在月亮女神的身体上 形成了厚厚的、神奇的云。"
+    },
+    {
+      "id": 16,
+      "start": 101.472,
+      "end": 107.386,
+      "text": "For thirteen days the dragonflies cut, cleaned, and hollowed thirteen logs.",
+      "translation": "十三天来，蜻蜓们切割、 清理并挖空了十三根原木。"
+    },
+    {
+      "id": 17,
+      "start": 107.436,
+      "end": 116.521,
+      "text": "On the thirteenth night, the logs burst open, and the moon goddess emerged— alive and more brilliant than ever.",
+      "translation": "到了第十三天的晚上， 木头裂开了，月亮女神出现了—她活了过来， 比以前更灿烂了。"
+    },
+    {
+      "id": 18,
+      "start": 116.571,
+      "end": 119.774,
+      "text": "The sun god wasted no time in proposing marriage.",
+      "translation": "太阳神不失时机地向她求婚。"
+    },
+    {
+      "id": 19,
+      "start": 119.824,
+      "end": 121.859,
+      "text": "The moon goddess happily agreed.",
+      "translation": "月女神欣然允诺。"
+    },
+    {
+      "id": 20,
+      "start": 121.909,
+      "end": 127.073,
+      "text": "Side-by-side, they were ready to light up the sky with their powerful rays.",
+      "translation": "他们肩并肩地准备用 强烈的光芒照亮天空。"
+    },
+    {
+      "id": 21,
+      "start": 127.123,
+      "end": 130.576,
+      "text": "Unfortunately, the story doesn’t end there.",
+      "translation": "不幸的是，故事还没有结束。"
+    },
+    {
+      "id": 22,
+      "start": 130.626,
+      "end": 132.995,
+      "text": "The sun god’s brother visited often.",
+      "translation": "太阳神的兄弟经常来拜访。"
+    },
+    {
+      "id": 23,
+      "start": 133.045,
+      "end": 141.712,
+      "text": "Sensing he was also in love with Ix Chel, the sun god grew jealous, and began to mistreat her.",
+      "translation": "太阳神察觉到自己兄弟 也爱上了伊希切尔，于是醋意大发，开始虐待她。"
+    },
+    {
+      "id": 24,
+      "start": 141.762,
+      "end": 146.884,
+      "text": "One day, Ix Chel was sitting on the riverbank, furious at her husband.",
+      "translation": "一天，伊希切尔坐在河边，对丈夫感到愤怒。"
+    },
+    {
+      "id": 25,
+      "start": 146.934,
+      "end": 151.681,
+      "text": "A huge bird came gliding down and offered to take her to the high mountain peaks.",
+      "translation": "一只大鸟滑翔而下，提出要带她去高高的山峰。"
+    },
+    {
+      "id": 26,
+      "start": 151.731,
+      "end": 155.059,
+      "text": "To get away from the cruel sun god, she agreed.",
+      "translation": "为了远离残酷的太阳神，她同意了。"
+    },
+    {
+      "id": 27,
+      "start": 155.109,
+      "end": 158.229,
+      "text": "There, she met the king of the vultures.",
+      "translation": "在那里，她遇到了秃鹫之王。"
+    },
+    {
+      "id": 28,
+      "start": 158.279,
+      "end": 163.985,
+      "text": "The vulture king was kind and fun-loving— a much better partner than the violent sun god.",
+      "translation": "秃鹫王是一个 善良、有趣、钟情的人—比暴烈的太阳神要好得多。"
+    },
+    {
+      "id": 29,
+      "start": 164.035,
+      "end": 167.655,
+      "text": "The moon goddess made a new home with him in the mountains.",
+      "translation": "月亮女神和他在山里建立了新家。"
+    },
+    {
+      "id": 30,
+      "start": 167.705,
+      "end": 170.366,
+      "text": "When the sun god heard, he was distraught.",
+      "translation": "当太阳神听到这个消息时， 他悲痛欲绝。"
+    },
+    {
+      "id": 31,
+      "start": 170.416,
+      "end": 181.919,
+      "text": "He hid inside a deer carcass until a hungry vulture came swooping down, then hopped onto its back and rode to the mountain kingdom where the moon goddess now lived with the vulture king.",
+      "translation": "他躲在一具鹿的尸体里， 直到一只饥饿的秃鹫扑了下来，他跳上秃鹫的背上， 骑到了山地王国，那里是月亮女神和秃鹫王 现在住在那里。"
+    },
+    {
+      "id": 32,
+      "start": 181.969,
+      "end": 186.174,
+      "text": "He begged her to come home with him, apologizing for how he had treated her.",
+      "translation": "他请求女神和他一起回家， 为他对她的态度道歉。"
+    },
+    {
+      "id": 33,
+      "start": 186.224,
+      "end": 191.179,
+      "text": "The kind and forgiving goddess took pity on him and agreed to go back.",
+      "translation": "仁慈的女神原谅了他， 可怜他并同意回去。"
+    },
+    {
+      "id": 34,
+      "start": 191.229,
+      "end": 195.766,
+      "text": "But Kinich Ahau soon began to show his true nature again.",
+      "translation": "但是奇尼奇·阿豪很快又开始 显露出他的本性。"
+    },
+    {
+      "id": 35,
+      "start": 195.816,
+      "end": 200.98,
+      "text": "He struck her, scarring her face and dimming her bright rays.",
+      "translation": "他打了她，在她脸上留下疤痕， 使她的光芒暗淡下来。"
+    },
+    {
+      "id": 36,
+      "start": 201.03,
+      "end": 203.191,
+      "text": "Ix Chel flew off into the dark.",
+      "translation": "伊希切尔飞进了黑暗中。"
+    },
+    {
+      "id": 37,
+      "start": 203.241,
+      "end": 207.403,
+      "text": "From then on, she vowed to appear only at night.",
+      "translation": "从那时起，她发誓只在晚上出现。"
+    },
+    {
+      "id": 38,
+      "start": 207.453,
+      "end": 214.493,
+      "text": "She befriended the stars, and combined her pale blue rays with their light to guide night travelers to safety.",
+      "translation": "她和星星成为朋友，把她淡蓝色的光 和星星的光结合在一起，导夜间的旅行者到安全的地方。"
+    },
+    {
+      "id": 39,
+      "start": 214.543,
+      "end": 222.21,
+      "text": "She used her healing gift, which she had once used on the wounded sun god, to cure people who were ill.",
+      "translation": "她用她的治愈天赋，她曾经用在受伤的 太阳神身上的天赋，来治愈生病的人。"
+    },
+    {
+      "id": 40,
+      "start": 222.26,
+      "end": 227.59,
+      "text": "Today, Ix Chel is so widely known that she’s become a symbol of Maya culture.",
+      "translation": "如今，伊希切尔已广为人知成为玛雅文化的象征。"
+    },
+    {
+      "id": 41,
+      "start": 227.64,
+      "end": 233.971,
+      "text": "But archeological evidence suggests that for the ancient Maya Ix Chel and the moon goddess were separate deities.",
+      "translation": "但考古证据表明， 对于古玛雅人来说，伊希切尔和月亮女神是不同的神。"
+    },
+    {
+      "id": 42,
+      "start": 234.021,
+      "end": 244.607,
+      "text": "In the retellings of Maya people and the records of anthropologists, the two have merged so that Ix Chel’s story extends beyond the limits of the historical record.",
+      "translation": "在玛雅人的复述和人类学家的记录中，这两者已经融合在一起， 因此伊希切尔的故事超越了历史记录的限制。"
+    },
+    {
+      "id": 43,
+      "start": 244.657,
+      "end": 258.95,
+      "text": "Her story, like all myths, isn’t just one story: the variations, ancient and modern, speak to what people value, and how they see themselves in their mythological heroes.",
+      "translation": "她的故事，就像所有的神话一样， 并不只是一个故事:这些故事的变化，无论什么时期， 都说明了人们所看重的东西，以及他们如何 从神话英雄身上看到自己。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.878,
+      "text": "The moon goddess, Ix Chel, patiently watched a spider at work.",
+      "end": 12.125
+    },
+    {
+      "start": 12.175,
+      "text": "She could make use of it skills, she thought.",
+      "end": 15.210999999999999
+    },
+    {
+      "start": 15.261,
+      "text": "Through careful observation and imitation, she soon became a skilled weaver.",
+      "end": 21.134
+    },
+    {
+      "start": 21.184,
+      "text": "The sun god, Kinich Ahau, was impressed with her work,",
+      "end": 25.137999999999998
+    },
+    {
+      "start": 25.188,
+      "text": "and admired her from afar.",
+      "end": 27.598
+    },
+    {
+      "start": 27.648,
+      "text": "But the goddess’ grandfather was very possessive",
+      "end": 30.727
+    },
+    {
+      "start": 30.777,
+      "text": "and would not let the sun god anywhere near his beloved granddaughter.",
+      "end": 35.106
+    },
+    {
+      "start": 35.156,
+      "text": "To get past the grandfather, the sun god disguised himself",
+      "end": 38.693000000000005
+    },
+    {
+      "start": 38.743,
+      "text": "as a hummingbird.",
+      "end": 40.361000000000004
+    },
+    {
+      "start": 40.411,
+      "text": "As he took a drink of tobacco flower honey,",
+      "end": 43.031000000000006
+    },
+    {
+      "start": 43.081,
+      "text": "the moon goddess spotted him and asked her grandfather",
+      "end": 46.075
+    },
+    {
+      "start": 46.125,
+      "text": "to capture the bird for her.",
+      "end": 48.036
+    },
+    {
+      "start": 48.086,
+      "text": "The grandfather shot the disguised sun god with a blow dart, stunning him.",
+      "end": 53.041000000000004
+    },
+    {
+      "start": 53.091,
+      "text": "Ix Chel nursed the wounded bird back to health,",
+      "end": 56.169000000000004
+    },
+    {
+      "start": 56.219,
+      "text": "and soon, he was able to spread his wings and fly again.",
+      "end": 60.381
+    },
+    {
+      "start": 60.431,
+      "text": "He transformed back into the sun god and invited the moon goddess",
+      "end": 64.385
+    },
+    {
+      "start": 64.435,
+      "text": "to escape with him.",
+      "end": 67.47200000000001
+    },
+    {
+      "start": 67.522,
+      "text": "The two rowed away in a canoe,",
+      "end": 69.766
+    },
+    {
+      "start": 69.816,
+      "text": "but the grandfather called upon the powerful storm god",
+      "end": 72.977
+    },
+    {
+      "start": 73.027,
+      "text": "to help him stop them.",
+      "end": 74.645
+    },
+    {
+      "start": 74.695,
+      "text": "Sensing danger, the moon goddess jumped from the canoe into the water below",
+      "end": 79.275
+    },
+    {
+      "start": 79.325,
+      "text": "and transformed into a crab.",
+      "end": 81.486
+    },
+    {
+      "start": 81.536,
+      "text": "But the storm god had already thrown a lightning bolt,",
+      "end": 84.072
+    },
+    {
+      "start": 84.122,
+      "text": "which hit the crab and pierced her through her heart, killing her.",
+      "end": 90.203
+    },
+    {
+      "start": 90.253,
+      "text": "Hundreds and hundreds of dragonflies gathered,",
+      "end": 93.414
+    },
+    {
+      "start": 93.464,
+      "text": "buzzing songs and fluttering their transparent wings.",
+      "end": 97.001
+    },
+    {
+      "start": 97.051,
+      "text": "They formed a thick, magical cloud over the moon goddess’ body.",
+      "end": 101.422
+    },
+    {
+      "start": 101.472,
+      "text": "For thirteen days the dragonflies cut, cleaned, and hollowed thirteen logs.",
+      "end": 107.38600000000001
+    },
+    {
+      "start": 107.436,
+      "text": "On the thirteenth night, the logs burst open,",
+      "end": 110.515
+    },
+    {
+      "start": 110.565,
+      "text": "and the moon goddess emerged— alive and more brilliant than ever.",
+      "end": 116.521
+    },
+    {
+      "start": 116.571,
+      "text": "The sun god wasted no time in proposing marriage.",
+      "end": 119.774
+    },
+    {
+      "start": 119.824,
+      "text": "The moon goddess happily agreed.",
+      "end": 121.85900000000001
+    },
+    {
+      "start": 121.909,
+      "text": "Side-by-side, they were ready to light up the sky with their powerful rays.",
+      "end": 127.07300000000001
+    },
+    {
+      "start": 127.123,
+      "text": "Unfortunately, the story doesn’t end there.",
+      "end": 130.576
+    },
+    {
+      "start": 130.626,
+      "text": "The sun god’s brother visited often.",
+      "end": 132.99499999999998
+    },
+    {
+      "start": 133.045,
+      "text": "Sensing he was also in love with Ix Chel, the sun god grew jealous,",
+      "end": 137.708
+    },
+    {
+      "start": 137.758,
+      "text": "and began to mistreat her.",
+      "end": 141.712
+    },
+    {
+      "start": 141.762,
+      "text": "One day, Ix Chel was sitting on the riverbank,",
+      "end": 144.54899999999998
+    },
+    {
+      "start": 144.599,
+      "text": "furious at her husband.",
+      "end": 146.884
+    },
+    {
+      "start": 146.934,
+      "text": "A huge bird came gliding down",
+      "end": 148.845
+    },
+    {
+      "start": 148.895,
+      "text": "and offered to take her to the high mountain peaks.",
+      "end": 151.68099999999998
+    },
+    {
+      "start": 151.731,
+      "text": "To get away from the cruel sun god, she agreed.",
+      "end": 155.059
+    },
+    {
+      "start": 155.109,
+      "text": "There, she met the king of the vultures.",
+      "end": 158.22899999999998
+    },
+    {
+      "start": 158.279,
+      "text": "The vulture king was kind and fun-loving—",
+      "end": 161.023
+    },
+    {
+      "start": 161.073,
+      "text": "a much better partner than the violent sun god.",
+      "end": 163.98499999999999
+    },
+    {
+      "start": 164.035,
+      "text": "The moon goddess made a new home with him in the mountains.",
+      "end": 167.655
+    },
+    {
+      "start": 167.705,
+      "text": "When the sun god heard, he was distraught.",
+      "end": 170.36599999999999
+    },
+    {
+      "start": 170.416,
+      "text": "He hid inside a deer carcass until a hungry vulture came swooping down,",
+      "end": 174.78699999999998
+    },
+    {
+      "start": 174.837,
+      "text": "then hopped onto its back and rode to the mountain kingdom",
+      "end": 178.124
+    },
+    {
+      "start": 178.174,
+      "text": "where the moon goddess now lived with the vulture king.",
+      "end": 181.91899999999998
+    },
+    {
+      "start": 181.969,
+      "text": "He begged her to come home with him, apologizing for how he had treated her.",
+      "end": 186.17399999999998
+    },
+    {
+      "start": 186.224,
+      "text": "The kind and forgiving goddess took pity on him and agreed to go back.",
+      "end": 191.179
+    },
+    {
+      "start": 191.229,
+      "text": "But Kinich Ahau soon began to show his true nature again.",
+      "end": 195.766
+    },
+    {
+      "start": 195.816,
+      "text": "He struck her, scarring her face and dimming her bright rays.",
+      "end": 200.98
+    },
+    {
+      "start": 201.03,
+      "text": "Ix Chel flew off into the dark.",
+      "end": 203.191
+    },
+    {
+      "start": 203.241,
+      "text": "From then on, she vowed to appear only at night.",
+      "end": 207.403
+    },
+    {
+      "start": 207.453,
+      "text": "She befriended the stars, and combined her pale blue rays with their light",
+      "end": 211.78199999999998
+    },
+    {
+      "start": 211.832,
+      "text": "to guide night travelers to safety.",
+      "end": 214.493
+    },
+    {
+      "start": 214.543,
+      "text": "She used her healing gift,",
+      "end": 216.28699999999998
+    },
+    {
+      "start": 216.337,
+      "text": "which she had once used on the wounded sun god,",
+      "end": 219.373
+    },
+    {
+      "start": 219.423,
+      "text": "to cure people who were ill.",
+      "end": 222.20999999999998
+    },
+    {
+      "start": 222.26,
+      "text": "Today, Ix Chel is so widely known",
+      "end": 224.837
+    },
+    {
+      "start": 224.887,
+      "text": "that she’s become a symbol of Maya culture.",
+      "end": 227.58999999999997
+    },
+    {
+      "start": 227.64,
+      "text": "But archeological evidence suggests that for the ancient Maya",
+      "end": 230.76
+    },
+    {
+      "start": 230.81,
+      "text": "Ix Chel and the moon goddess were separate deities.",
+      "end": 233.97099999999998
+    },
+    {
+      "start": 234.021,
+      "text": "In the retellings of Maya people and the records of anthropologists,",
+      "end": 238.476
+    },
+    {
+      "start": 238.526,
+      "text": "the two have merged so that Ix Chel’s story extends",
+      "end": 241.81199999999998
+    },
+    {
+      "start": 241.862,
+      "text": "beyond the limits of the historical record.",
+      "end": 244.607
+    },
+    {
+      "start": 244.657,
+      "text": "Her story, like all myths, isn’t just one story:",
+      "end": 249.153
+    },
+    {
+      "start": 249.203,
+      "text": "the variations, ancient and modern, speak to what people value,",
+      "end": 253.658
+    },
+    {
+      "start": 253.708,
+      "text": "and how they see themselves in their mythological heroes.",
+      "end": 258.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.878,
+      "text": "月亮女神伊希切尔 耐心地看着一只在织网的蜘蛛。",
+      "end": 12.125
+    },
+    {
+      "start": 12.175,
+      "text": "女神认为 她可以利用它的技能。",
+      "end": 15.210999999999999
+    },
+    {
+      "start": 15.261,
+      "text": "通过仔细观察及仿效 她很快成为一名优秀织布工。",
+      "end": 21.134
+    },
+    {
+      "start": 21.184,
+      "text": "太阳神奇尼奇. 阿豪 对她所做的一切印象深刻。",
+      "end": 25.137999999999998
+    },
+    {
+      "start": 25.188,
+      "text": "并且从远处欣赏她。",
+      "end": 27.598
+    },
+    {
+      "start": 27.648,
+      "text": "可是，女神的祖父占有欲太强。",
+      "end": 30.727
+    },
+    {
+      "start": 30.777,
+      "text": "并不会同意让太阳神 接近他亲爱的孙女。",
+      "end": 35.106
+    },
+    {
+      "start": 35.156,
+      "text": "太阳伪装自己 以便巧妙地越过祖父。",
+      "end": 38.693000000000005
+    },
+    {
+      "start": 38.743,
+      "text": "伪装成一只蜂雀。",
+      "end": 40.361000000000004
+    },
+    {
+      "start": 40.411,
+      "text": "当他喝烟草花蜜时，",
+      "end": 43.031000000000006
+    },
+    {
+      "start": 43.081,
+      "text": "月亮女神发现了他， 并让她的祖父",
+      "end": 46.075
+    },
+    {
+      "start": 46.125,
+      "text": "为她捕捉那只鸟。",
+      "end": 48.036
+    },
+    {
+      "start": 48.086,
+      "text": "祖父用吹镖射中了伪装的太阳神， 把他打晕了。",
+      "end": 53.041000000000004
+    },
+    {
+      "start": 53.091,
+      "text": "伊希切尔悉心照料这只受伤的鸟， 使他恢复了健康",
+      "end": 56.169000000000004
+    },
+    {
+      "start": 56.219,
+      "text": "很快，他又能张开翅膀再次飞翔了。",
+      "end": 60.381
+    },
+    {
+      "start": 60.431,
+      "text": "他变回了太阳神， 并邀请月亮女神",
+      "end": 64.385
+    },
+    {
+      "start": 64.435,
+      "text": "和他一起逃走。",
+      "end": 67.47200000000001
+    },
+    {
+      "start": 67.522,
+      "text": "两人划着独木舟离开了，",
+      "end": 69.766
+    },
+    {
+      "start": 69.816,
+      "text": "但祖父请求强大的风暴之神",
+      "end": 72.977
+    },
+    {
+      "start": 73.027,
+      "text": "帮助他阻止他们。",
+      "end": 74.645
+    },
+    {
+      "start": 74.695,
+      "text": "月亮女神感觉到了危险， 便从独木舟上跳下水，",
+      "end": 79.275
+    },
+    {
+      "start": 79.325,
+      "text": "变成了一只螃蟹。",
+      "end": 81.486
+    },
+    {
+      "start": 81.536,
+      "text": "但风暴之神已经放出一道闪电，",
+      "end": 84.072
+    },
+    {
+      "start": 84.122,
+      "text": "击中了那只螃蟹， 刺穿了她的心脏，杀死了她。",
+      "end": 90.203
+    },
+    {
+      "start": 90.253,
+      "text": "成百上千的蜻蜓聚集在一起，",
+      "end": 93.414
+    },
+    {
+      "start": 93.464,
+      "text": "嗡嗡地唱着歌， 拍打着透明的翅膀。",
+      "end": 97.001
+    },
+    {
+      "start": 97.051,
+      "text": "它们在月亮女神的身体上 形成了厚厚的、神奇的云。",
+      "end": 101.422
+    },
+    {
+      "start": 101.472,
+      "text": "十三天来，蜻蜓们切割、 清理并挖空了十三根原木。",
+      "end": 107.38600000000001
+    },
+    {
+      "start": 107.436,
+      "text": "到了第十三天的晚上， 木头裂开了，",
+      "end": 110.515
+    },
+    {
+      "start": 110.565,
+      "text": "月亮女神出现了—她活了过来， 比以前更灿烂了。",
+      "end": 116.521
+    },
+    {
+      "start": 116.571,
+      "text": "太阳神不失时机地向她求婚。",
+      "end": 119.774
+    },
+    {
+      "start": 119.824,
+      "text": "月女神欣然允诺。",
+      "end": 121.85900000000001
+    },
+    {
+      "start": 121.909,
+      "text": "他们肩并肩地准备用 强烈的光芒照亮天空。",
+      "end": 127.07300000000001
+    },
+    {
+      "start": 127.123,
+      "text": "不幸的是，故事还没有结束。",
+      "end": 130.576
+    },
+    {
+      "start": 130.626,
+      "text": "太阳神的兄弟经常来拜访。",
+      "end": 132.99499999999998
+    },
+    {
+      "start": 133.045,
+      "text": "太阳神察觉到自己兄弟 也爱上了伊希切尔，于是醋意大发，",
+      "end": 137.708
+    },
+    {
+      "start": 137.758,
+      "text": "开始虐待她。",
+      "end": 141.712
+    },
+    {
+      "start": 141.762,
+      "text": "一天，伊希切尔坐在河边，",
+      "end": 144.54899999999998
+    },
+    {
+      "start": 144.599,
+      "text": "对丈夫感到愤怒。",
+      "end": 146.884
+    },
+    {
+      "start": 146.934,
+      "text": "一只大鸟滑翔而下，",
+      "end": 148.845
+    },
+    {
+      "start": 148.895,
+      "text": "提出要带她去高高的山峰。",
+      "end": 151.68099999999998
+    },
+    {
+      "start": 151.731,
+      "text": "为了远离残酷的太阳神，她同意了。",
+      "end": 155.059
+    },
+    {
+      "start": 155.109,
+      "text": "在那里，她遇到了秃鹫之王。",
+      "end": 158.22899999999998
+    },
+    {
+      "start": 158.279,
+      "text": "秃鹫王是一个 善良、有趣、钟情的人—",
+      "end": 161.023
+    },
+    {
+      "start": 161.073,
+      "text": "比暴烈的太阳神要好得多。",
+      "end": 163.98499999999999
+    },
+    {
+      "start": 164.035,
+      "text": "月亮女神和他在山里建立了新家。",
+      "end": 167.655
+    },
+    {
+      "start": 167.705,
+      "text": "当太阳神听到这个消息时， 他悲痛欲绝。",
+      "end": 170.36599999999999
+    },
+    {
+      "start": 170.416,
+      "text": "他躲在一具鹿的尸体里， 直到一只饥饿的秃鹫扑了下来，",
+      "end": 174.78699999999998
+    },
+    {
+      "start": 174.837,
+      "text": "他跳上秃鹫的背上， 骑到了山地王国，",
+      "end": 178.124
+    },
+    {
+      "start": 178.174,
+      "text": "那里是月亮女神和秃鹫王 现在住在那里。",
+      "end": 181.91899999999998
+    },
+    {
+      "start": 181.969,
+      "text": "他请求女神和他一起回家， 为他对她的态度道歉。",
+      "end": 186.17399999999998
+    },
+    {
+      "start": 186.224,
+      "text": "仁慈的女神原谅了他， 可怜他并同意回去。",
+      "end": 191.179
+    },
+    {
+      "start": 191.229,
+      "text": "但是奇尼奇·阿豪很快又开始 显露出他的本性。",
+      "end": 195.766
+    },
+    {
+      "start": 195.816,
+      "text": "他打了她，在她脸上留下疤痕， 使她的光芒暗淡下来。",
+      "end": 200.98
+    },
+    {
+      "start": 201.03,
+      "text": "伊希切尔飞进了黑暗中。",
+      "end": 203.191
+    },
+    {
+      "start": 203.241,
+      "text": "从那时起，她发誓只在晚上出现。",
+      "end": 207.403
+    },
+    {
+      "start": 207.453,
+      "text": "她和星星成为朋友，把她淡蓝色的光 和星星的光结合在一起，",
+      "end": 211.78199999999998
+    },
+    {
+      "start": 211.832,
+      "text": "导夜间的旅行者到安全的地方。",
+      "end": 214.493
+    },
+    {
+      "start": 214.543,
+      "text": "她用她的治愈天赋，",
+      "end": 216.28699999999998
+    },
+    {
+      "start": 216.337,
+      "text": "她曾经用在受伤的 太阳神身上的天赋，",
+      "end": 219.373
+    },
+    {
+      "start": 219.423,
+      "text": "来治愈生病的人。",
+      "end": 222.20999999999998
+    },
+    {
+      "start": 222.26,
+      "text": "如今，伊希切尔已广为人知",
+      "end": 224.837
+    },
+    {
+      "start": 224.887,
+      "text": "成为玛雅文化的象征。",
+      "end": 227.58999999999997
+    },
+    {
+      "start": 227.64,
+      "text": "但考古证据表明， 对于古玛雅人来说，",
+      "end": 230.76
+    },
+    {
+      "start": 230.81,
+      "text": "伊希切尔和月亮女神是不同的神。",
+      "end": 233.97099999999998
+    },
+    {
+      "start": 234.021,
+      "text": "在玛雅人的复述和人类学家的记录中，",
+      "end": 238.476
+    },
+    {
+      "start": 238.526,
+      "text": "这两者已经融合在一起， 因此伊希切尔的故事",
+      "end": 241.81199999999998
+    },
+    {
+      "start": 241.862,
+      "text": "超越了历史记录的限制。",
+      "end": 244.607
+    },
+    {
+      "start": 244.657,
+      "text": "她的故事，就像所有的神话一样， 并不只是一个故事:",
+      "end": 249.153
+    },
+    {
+      "start": 249.203,
+      "text": "这些故事的变化，无论什么时期， 都说明了人们所看重的东西，",
+      "end": 253.658
+    },
+    {
+      "start": 253.708,
+      "text": "以及他们如何 从神话英雄身上看到自己。",
+      "end": 258.95
+    }
+  ]
+};

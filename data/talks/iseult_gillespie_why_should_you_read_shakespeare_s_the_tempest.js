@@ -1,0 +1,946 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Why should you read Shakespeare's \"The Tempest\"?",
+    "speaker": "Iseult Gillespie",
+    "duration": 275,
+    "slug": "iseult_gillespie_why_should_you_read_shakespeare_s_the_tempest",
+    "sourcePage": "https://www.ted.com/talks/iseult_gillespie_why_should_you_read_shakespeare_s_the_tempest",
+    "translationSourcePage": "https://www.ted.com/talks/iseult_gillespie_why_should_you_read_shakespeare_s_the_tempest?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/44/20/001/products/2019e-iseult-gillespie-the-tempest-001-fallback-066b2be796f80d75ecfc1b954f6c78aa-1200k.mp4",
+    "youtubeId": "UvznOeSyESU",
+    "youtubeTitle": "Why should you read Shakespeare’s “The Tempest”? - Iseult Gillespie"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.947,
+      "end": 14.247,
+      "text": "Claps of thunder and flashes of lightning illuminate a swelling sea, as a ship buckles beneath the waves.",
+      "translation": "轰轰雷声和明灭的闪电 照亮了澎湃的海洋，一艘船在汹涌波涛中左右摇晃。"
+    },
+    {
+      "id": 2,
+      "start": 14.297,
+      "end": 23.997,
+      "text": "This is no ordinary storm, but a violent and vengeful tempest, and it sets the stage for Shakespeare’s most enigmatic play.",
+      "translation": "这不是普通的风暴， 而是一场暴虐的复仇的暴风雨，为莎士比亚最神秘的剧本设下舞台。"
+    },
+    {
+      "id": 3,
+      "start": 24.047,
+      "end": 35.527,
+      "text": "As the skies clear, we are invited into a world that seems far removed from our own, but is rife with familiar concerns about freedom, power, and control.",
+      "translation": "随着乌云散去，我们被邀请到 一个看似离我们很远的世界。但这个世界也充斥着 我们所在乎的熟悉事物，比如自由、权利和控制。"
+    },
+    {
+      "id": 4,
+      "start": 35.577,
+      "end": 44.667,
+      "text": "The Tempest is set on a desert island, exposed to the elements and ruled with magic and might by Prospero, the exiled Duke of Milan.",
+      "translation": "《暴风雨》的背景是一个 饱受风吹雨打的荒岛，此岛被流放的米兰公爵普洛斯彼罗 用魔法与力量统治着。"
+    },
+    {
+      "id": 5,
+      "start": 44.717,
+      "end": 54.257,
+      "text": "Betrayed by his brother Antonio, Prospero has been marooned on the island for twelve years with his daughter Miranda and his beloved books.",
+      "translation": "普洛斯彼罗被弟弟安东尼奥背叛后， 便一直隔离在这个岛上。他在这已经十二年了， 同他的女儿米兰达和他深爱的书一起。"
+    },
+    {
+      "id": 6,
+      "start": 54.307,
+      "end": 60.837,
+      "text": "In this time he’s learned the magic of the island and uses it to harness its elementary spirits.",
+      "translation": "在这些时间里， 他学会了运用岛上的魔法，并用之征服了岛上的精灵。"
+    },
+    {
+      "id": 7,
+      "start": 60.887,
+      "end": 68.117,
+      "text": "He also rules over the island’s only earthly inhabitant, the dejected and demonized Caliban.",
+      "translation": "他同时也统治着这个岛上唯一的土著，沉闷丑陋的凯列班。"
+    },
+    {
+      "id": 8,
+      "start": 68.167,
+      "end": 73.417,
+      "text": "But after years of plotting revenge, Prospero’s foe is finally in sight.",
+      "translation": "但经历了数年的策划之后， 普洛斯彼罗的仇敌终于近在眼前。"
+    },
+    {
+      "id": 9,
+      "start": 73.467,
+      "end": 81.937,
+      "text": "With the help of the fluttering sprite Ariel, the magician destroys his brother’s ship and washes its sailors ashore.",
+      "translation": "在缥缈的精灵爱丽儿的帮助下，魔法师摧毁了他弟弟的船只， 并把船员都冲上岸。"
+    },
+    {
+      "id": 10,
+      "start": 81.987,
+      "end": 89.657,
+      "text": "Prospero’s plotting even extends to his daughter’s love life, whom he plans to fall for stranded prince Ferdinand.",
+      "translation": "普洛斯彼罗的计谋 甚至包括了它女儿的情感生活，他计划让女儿爱上 搁浅而困于岛上的王子腓迪南。"
+    },
+    {
+      "id": 11,
+      "start": 89.707,
+      "end": 99.267,
+      "text": "And as Prospero and Ariel close in on Antonio, Caliban joins forces with some drunken sailors, who hatch a comic plot to take the island.",
+      "translation": "当普洛斯彼罗和爱丽儿接近安东尼奥时，凯列班加入了一群醉酒的水手，他们想出了一个滑稽的计划， 要夺得小岛。"
+    },
+    {
+      "id": 12,
+      "start": 99.317,
+      "end": 110.257,
+      "text": "The play strips society down to its basest desires, with each faction in hot pursuit of power- be it over the land, other people, or their own destiny.",
+      "translation": "《暴风雨》将社会拆解到了最底层的欲望，剧中每个阵营都一心追求权力：不管是要统治小岛，奴役他人， 还是掌控自己的命运。"
+    },
+    {
+      "id": 13,
+      "start": 110.307,
+      "end": 121.587,
+      "text": "But Shakespeare knows that power is always a moving target; and as he reveals these characters’ dark histories, we begin to wonder if this vicious cycle will ever end.",
+      "translation": "但莎士比亚知道权力不是一成不变的目标；当他揭露出角色们黑暗的过往时，我们渐渐怀疑这恶毒的循环是否会终结。"
+    },
+    {
+      "id": 14,
+      "start": 121.637,
+      "end": 131.857,
+      "text": "Although Prospero was wronged by Antonio, he has long inflicted his own abuses on the island, hoarding its magical properties and natural re-sources for himself.",
+      "translation": "虽然普洛斯彼罗被安东尼奥背叛，但他长久以来剥削小岛，为自己囤积岛上的魔力和自然资源。"
+    },
+    {
+      "id": 15,
+      "start": 131.907,
+      "end": 135.067,
+      "text": "Caliban especially resents this takeover.",
+      "translation": "凯列班特别痛恨普洛斯彼罗的掌权。"
+    },
+    {
+      "id": 16,
+      "start": 135.117,
+      "end": 142.514,
+      "text": "The son of Sycorax, a witch who previously ruled the island, he initially helped the exiles find their footing.",
+      "translation": "凯列班的母亲西考拉克斯是先前统治小岛的女巫，凯列班起初帮助流放者们安置下来，但在此后却成了他们的奴隶， 凯列班悔恨地悲吟："
+    },
+    {
+      "id": 17,
+      "start": 142.564,
+      "end": 158.217,
+      "text": "But he’s since become their slave, and rants with furious regret: “And then I loved thee,/ And showed thee all the qualities o’ th’ isle/ The fresh springs, brine pits, barren place and fertile./ Cursed be I that did so!”",
+      "translation": "“那时我以为你是个好人，把岛上的一切富源都给你知道, 什么地方是清泉，盐井，什么地方是荒地和肥田。我真该死让你知道这一切！“带着这样雷鸣般的话语和怒火，"
+    },
+    {
+      "id": 18,
+      "start": 158.267,
+      "end": 170.297,
+      "text": "With his thunderous language and seething anger, Caliban constantly reminds Prospero of what came before: this island’s mine by Sycorax my mother, Which thou takest from me.",
+      "translation": "凯列班一直提醒着普洛斯彼罗他到岛上之前的事：“这岛是我母亲西考拉克斯 传给我而被你夺了去的。“但西考拉克斯也剥削了小岛，"
+    },
+    {
+      "id": 19,
+      "start": 170.347,
+      "end": 176.198,
+      "text": "Yet Sycorax also abused the island, and imprisoned Ariel until Prospero released him.",
+      "translation": "她囚禁了爱丽儿直到普洛斯彼罗解放了他。剧中的爱丽儿期望还清 亏欠的人情，争得他的自由，"
+    },
+    {
+      "id": 20,
+      "start": 176.248,
+      "end": 187.408,
+      "text": "Now Ariel spends the play hoping to repay his debt and earn his freedom, while Caliban is enslaved indefinitely, or at least as long as Prospero is in charge.",
+      "translation": "而实际上只要掌权的是普洛斯彼罗， 凯列班就被无期限地奴役。因为许多诸如此类的原因，《暴风雨》常被当做是一场对殖民主义 和发现“新世界”所带来道德危机的探讨。"
+    },
+    {
+      "id": 21,
+      "start": 187.458,
+      "end": 198.108,
+      "text": "For these reasons and many more, The Tempest has often been read as an exploration of colonialism, and the moral dilemmas that come with en-counters of “brave new world(s).\"",
+      "translation": "对统治力量和正义的问题贯穿全剧：凯列班是小岛合法的主人吗？爱丽儿会重获自由吗？"
+    },
+    {
+      "id": 22,
+      "start": 198.158,
+      "end": 204.151,
+      "text": "Questions of agency and justice hang over the play: is Caliban the rightful master of the land?",
+      "translation": "普洛斯彼罗是小岛强大的监管者——还是说在每一个角色之上， 都有一些深妙的魔力运作呢？"
+    },
+    {
+      "id": 23,
+      "start": 204.201,
+      "end": 206.131,
+      "text": "Will Ariel flutter free?",
+      "translation": "在剧中，"
+    },
+    {
+      "id": 24,
+      "start": 206.181,
+      "end": 214.531,
+      "text": "And is Prospero the mighty overseer- or is there some deeper magic at work, beyond any one character's grasp?",
+      "translation": "爱丽儿一直提醒着 普洛斯彼罗他被亏欠的自由。但这个入侵者是否会 让出他的权力，却值得怀疑。"
+    },
+    {
+      "id": 25,
+      "start": 214.581,
+      "end": 219.471,
+      "text": "Throughout the play, Ariel constantly reminds Prospero of the freedom he is owed.",
+      "translation": "“终结一个人的统治”这个问题 在这里显得强有力因为《暴风雨》被认为 是莎士比亚最后的剧作。"
+    },
+    {
+      "id": 26,
+      "start": 219.521,
+      "end": 224.581,
+      "text": "But the question lingers of whether the invader will be able to relinquish his grip.",
+      "translation": "普洛斯彼罗的许多行动 和莎士比亚的行动相呼应，莎士比亚酝酿了 精妙的剧情并运用它们，"
+    },
+    {
+      "id": 27,
+      "start": 224.631,
+      "end": 232.381,
+      "text": "The question of ending one’s reign is particularly potent given that The Tempest is believed to be Shakespeare’s final play.",
+      "translation": "如魔法般支配着 剧中的角色和剧外的观众。但当这场权利和控制的宏大演出落幕之时，"
+    },
+    {
+      "id": 28,
+      "start": 232.431,
+      "end": 245.451,
+      "text": "In many ways Prospero’s actions echo that of the great entertainer him-self, who hatched elaborate plots, maneuvered those around him, and cast a spell over characters and audience alike.",
+      "translation": "普洛斯彼罗最后的台词 则印证着他为观众所败——显出了观众对于 他剧作的控制力量。“赖着你们善意殷勤地鼓掌相助， 再烦你们为我嘘出一口和风"
+    },
+    {
+      "id": 29,
+      "start": 245.501,
+      "end": 256.662,
+      "text": "But by the end of his grand performance of power and control, Prospero’s final lines see him humbled by his audience - and the power that they hold over his creations.",
+      "translation": "好让我们的船只鼓满帆蓬。 否则我的计划便落空。”这和莎士比亚作为大剧作家的身份共鸣，因为他，最终， 也屈服于我们的掌声。"
+    },
+    {
+      "id": 30,
+      "start": 256.712,
+      "end": 266.242,
+      "text": "\"With the help of your good hands./ Gentle breath of yours my sails/ Must fill or else my project fails,/ Which was to please.\"",
+      "translation": "显出了观众对于 他剧作的控制力量。“赖着你们善意殷勤地鼓掌相助， 再烦你们为我嘘出一口和风好让我们的船只鼓满帆蓬。 否则我的计划便落空。”这和莎士比亚作为大剧作家的身份共鸣，"
+    },
+    {
+      "id": 31,
+      "start": 266.292,
+      "end": 274.95,
+      "text": "This evokes Shakespeare’s own role as the great entertainer who surrenders himself, ultimately, to our applause.",
+      "translation": "好让我们的船只鼓满帆蓬。 否则我的计划便落空。”这和莎士比亚作为大剧作家的身份共鸣，因为他，最终， 也屈服于我们的掌声。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.947,
+      "text": "Claps of thunder and flashes of lightning illuminate a swelling sea,",
+      "end": 10.947
+    },
+    {
+      "start": 10.997,
+      "text": "as a ship buckles beneath the waves.",
+      "end": 14.247
+    },
+    {
+      "start": 14.297,
+      "text": "This is no ordinary storm, but a violent and vengeful tempest,",
+      "end": 19.287
+    },
+    {
+      "start": 19.337,
+      "text": "and it sets the stage for Shakespeare’s most enigmatic play.",
+      "end": 23.997
+    },
+    {
+      "start": 24.047,
+      "text": "As the skies clear, we are invited into a world",
+      "end": 27.057
+    },
+    {
+      "start": 27.107,
+      "text": "that seems far removed from our own, but is rife with familiar concerns",
+      "end": 31.587
+    },
+    {
+      "start": 31.637,
+      "text": "about freedom, power, and control.",
+      "end": 35.527
+    },
+    {
+      "start": 35.577,
+      "text": "The Tempest is set on a desert island, exposed to the elements",
+      "end": 39.337
+    },
+    {
+      "start": 39.387,
+      "text": "and ruled with magic and might by Prospero, the exiled Duke of Milan.",
+      "end": 44.667
+    },
+    {
+      "start": 44.717,
+      "text": "Betrayed by his brother Antonio, Prospero has been marooned on the island",
+      "end": 49.367000000000004
+    },
+    {
+      "start": 49.417,
+      "text": "for twelve years with his daughter Miranda and his beloved books.",
+      "end": 54.257000000000005
+    },
+    {
+      "start": 54.307,
+      "text": "In this time he’s learned the magic of the island",
+      "end": 57.577000000000005
+    },
+    {
+      "start": 57.627,
+      "text": "and uses it to harness its elementary spirits.",
+      "end": 60.837
+    },
+    {
+      "start": 60.887,
+      "text": "He also rules over the island’s only earthly inhabitant,",
+      "end": 64.56700000000001
+    },
+    {
+      "start": 64.617,
+      "text": "the dejected and demonized Caliban.",
+      "end": 68.117
+    },
+    {
+      "start": 68.167,
+      "text": "But after years of plotting revenge, Prospero’s foe is finally in sight.",
+      "end": 73.417
+    },
+    {
+      "start": 73.467,
+      "text": "With the help of the fluttering sprite Ariel,",
+      "end": 76.227
+    },
+    {
+      "start": 76.277,
+      "text": "the magician destroys his brother’s ship and washes its sailors ashore.",
+      "end": 81.937
+    },
+    {
+      "start": 81.987,
+      "text": "Prospero’s plotting even extends to his daughter’s love life,",
+      "end": 85.62700000000001
+    },
+    {
+      "start": 85.677,
+      "text": "whom he plans to fall for stranded prince Ferdinand.",
+      "end": 89.657
+    },
+    {
+      "start": 89.707,
+      "text": "And as Prospero and Ariel close in on Antonio,",
+      "end": 92.81700000000001
+    },
+    {
+      "start": 92.867,
+      "text": "Caliban joins forces with some drunken sailors,",
+      "end": 95.747
+    },
+    {
+      "start": 95.797,
+      "text": "who hatch a comic plot to take the island.",
+      "end": 99.267
+    },
+    {
+      "start": 99.317,
+      "text": "The play strips society down to its basest desires,",
+      "end": 102.907
+    },
+    {
+      "start": 102.957,
+      "text": "with each faction in hot pursuit of power- be it over the land, other people,",
+      "end": 108.23700000000001
+    },
+    {
+      "start": 108.287,
+      "text": "or their own destiny.",
+      "end": 110.257
+    },
+    {
+      "start": 110.307,
+      "text": "But Shakespeare knows that power is always a moving target;",
+      "end": 114.277
+    },
+    {
+      "start": 114.327,
+      "text": "and as he reveals these characters’ dark histories,",
+      "end": 116.997
+    },
+    {
+      "start": 117.047,
+      "text": "we begin to wonder if this vicious cycle will ever end.",
+      "end": 121.587
+    },
+    {
+      "start": 121.637,
+      "text": "Although Prospero was wronged by Antonio,",
+      "end": 124.397
+    },
+    {
+      "start": 124.447,
+      "text": "he has long inflicted his own abuses on the island,",
+      "end": 127.73700000000001
+    },
+    {
+      "start": 127.787,
+      "text": "hoarding its magical properties and natural re-sources for himself.",
+      "end": 131.857
+    },
+    {
+      "start": 131.907,
+      "text": "Caliban especially resents this takeover.",
+      "end": 135.06699999999998
+    },
+    {
+      "start": 135.117,
+      "text": "The son of Sycorax,",
+      "end": 137.004
+    },
+    {
+      "start": 137.054,
+      "text": "a witch who previously ruled the island,",
+      "end": 139.564
+    },
+    {
+      "start": 139.614,
+      "text": "he initially helped the exiles find their footing.",
+      "end": 142.51399999999998
+    },
+    {
+      "start": 142.564,
+      "text": "But he’s since become their slave, and rants with furious regret:",
+      "end": 146.767
+    },
+    {
+      "start": 146.817,
+      "text": "“And then I loved thee,/ And showed thee",
+      "end": 149.487
+    },
+    {
+      "start": 149.537,
+      "text": "all the qualities o’ th’ isle/ The fresh springs,",
+      "end": 152.447
+    },
+    {
+      "start": 152.497,
+      "text": "brine pits, barren place and fertile./",
+      "end": 155.807
+    },
+    {
+      "start": 155.857,
+      "text": "Cursed be I that did so!”",
+      "end": 158.21699999999998
+    },
+    {
+      "start": 158.267,
+      "text": "With his thunderous language and seething anger,",
+      "end": 161.06699999999998
+    },
+    {
+      "start": 161.117,
+      "text": "Caliban constantly reminds Prospero of what came before:",
+      "end": 165.297
+    },
+    {
+      "start": 165.347,
+      "text": "this island’s mine by Sycorax my mother, Which thou takest from me.",
+      "end": 170.297
+    },
+    {
+      "start": 170.347,
+      "text": "Yet Sycorax also abused the island,",
+      "end": 172.94799999999998
+    },
+    {
+      "start": 172.998,
+      "text": "and imprisoned Ariel until Prospero released him.",
+      "end": 176.19799999999998
+    },
+    {
+      "start": 176.248,
+      "text": "Now Ariel spends the play hoping to repay his debt and earn his freedom,",
+      "end": 180.84799999999998
+    },
+    {
+      "start": 180.898,
+      "text": "while Caliban is enslaved indefinitely, or at least as long",
+      "end": 184.768
+    },
+    {
+      "start": 184.818,
+      "text": "as Prospero is in charge.",
+      "end": 187.408
+    },
+    {
+      "start": 187.458,
+      "text": "For these reasons and many more,",
+      "end": 189.50799999999998
+    },
+    {
+      "start": 189.558,
+      "text": "The Tempest has often been read as an exploration of colonialism,",
+      "end": 193.488
+    },
+    {
+      "start": 193.538,
+      "text": "and the moral dilemmas that come with en-counters of “brave new world(s).\"",
+      "end": 198.10799999999998
+    },
+    {
+      "start": 198.158,
+      "text": "Questions of agency and justice hang over the play:",
+      "end": 201.611
+    },
+    {
+      "start": 201.661,
+      "text": "is Caliban the rightful master of the land?",
+      "end": 204.15099999999998
+    },
+    {
+      "start": 204.201,
+      "text": "Will Ariel flutter free?",
+      "end": 206.131
+    },
+    {
+      "start": 206.181,
+      "text": "And is Prospero the mighty overseer-",
+      "end": 208.50099999999998
+    },
+    {
+      "start": 208.551,
+      "text": "or is there some deeper magic at work, beyond any one character's grasp?",
+      "end": 214.53099999999998
+    },
+    {
+      "start": 214.581,
+      "text": "Throughout the play,",
+      "end": 215.661
+    },
+    {
+      "start": 215.711,
+      "text": "Ariel constantly reminds Prospero of the freedom he is owed.",
+      "end": 219.47099999999998
+    },
+    {
+      "start": 219.521,
+      "text": "But the question lingers of whether the invader will be able",
+      "end": 222.451
+    },
+    {
+      "start": 222.501,
+      "text": "to relinquish his grip.",
+      "end": 224.581
+    },
+    {
+      "start": 224.631,
+      "text": "The question of ending one’s reign is particularly potent given that The Tempest",
+      "end": 228.81099999999998
+    },
+    {
+      "start": 228.861,
+      "text": "is believed to be Shakespeare’s final play.",
+      "end": 232.381
+    },
+    {
+      "start": 232.431,
+      "text": "In many ways Prospero’s actions echo that of the great entertainer him-self,",
+      "end": 236.96099999999998
+    },
+    {
+      "start": 237.011,
+      "text": "who hatched elaborate plots, maneuvered those around him,",
+      "end": 240.50099999999998
+    },
+    {
+      "start": 240.551,
+      "text": "and cast a spell over characters and audience alike.",
+      "end": 245.451
+    },
+    {
+      "start": 245.501,
+      "text": "But by the end of his grand performance of power and control,",
+      "end": 249.206
+    },
+    {
+      "start": 249.256,
+      "text": "Prospero’s final lines see him humbled by his audience -",
+      "end": 252.892
+    },
+    {
+      "start": 252.942,
+      "text": "and the power that they hold over his creations.",
+      "end": 256.662
+    },
+    {
+      "start": 256.712,
+      "text": "\"With the help of your good hands./ Gentle breath of yours my sails/",
+      "end": 260.55199999999996
+    },
+    {
+      "start": 260.602,
+      "text": "Must fill or else my project fails,/ Which was to please.\"",
+      "end": 266.24199999999996
+    },
+    {
+      "start": 266.292,
+      "text": "This evokes Shakespeare’s own role as the great entertainer",
+      "end": 269.99199999999996
+    },
+    {
+      "start": 270.042,
+      "text": "who surrenders himself, ultimately, to our applause.",
+      "end": 274.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.947,
+      "text": "轰轰雷声和明灭的闪电 照亮了澎湃的海洋，",
+      "end": 10.947
+    },
+    {
+      "start": 10.997,
+      "text": "一艘船在汹涌波涛中左右摇晃。",
+      "end": 14.247
+    },
+    {
+      "start": 14.297,
+      "text": "这不是普通的风暴， 而是一场暴虐的复仇的暴风雨，",
+      "end": 19.287
+    },
+    {
+      "start": 19.337,
+      "text": "为莎士比亚最神秘的剧本设下舞台。",
+      "end": 23.997
+    },
+    {
+      "start": 24.047,
+      "text": "随着乌云散去，我们被邀请到 一个看似离我们很远的世界。",
+      "end": 27.057
+    },
+    {
+      "start": 27.107,
+      "text": "但这个世界也充斥着 我们所在乎的熟悉事物，",
+      "end": 31.587
+    },
+    {
+      "start": 31.637,
+      "text": "比如自由、权利和控制。",
+      "end": 35.527
+    },
+    {
+      "start": 35.577,
+      "text": "《暴风雨》的背景是一个 饱受风吹雨打的荒岛，",
+      "end": 39.337
+    },
+    {
+      "start": 39.387,
+      "text": "此岛被流放的米兰公爵普洛斯彼罗 用魔法与力量统治着。",
+      "end": 44.667
+    },
+    {
+      "start": 44.717,
+      "text": "普洛斯彼罗被弟弟安东尼奥背叛后， 便一直隔离在这个岛上。",
+      "end": 49.367000000000004
+    },
+    {
+      "start": 49.417,
+      "text": "他在这已经十二年了， 同他的女儿米兰达和他深爱的书一起。",
+      "end": 54.257000000000005
+    },
+    {
+      "start": 54.307,
+      "text": "在这些时间里， 他学会了运用岛上的魔法，",
+      "end": 57.727000000000004
+    },
+    {
+      "start": 57.777,
+      "text": "并用之征服了岛上的精灵。",
+      "end": 60.837
+    },
+    {
+      "start": 60.887,
+      "text": "他同时也统治着这个岛上唯一的土著，",
+      "end": 64.56700000000001
+    },
+    {
+      "start": 64.617,
+      "text": "沉闷丑陋的凯列班。",
+      "end": 68.117
+    },
+    {
+      "start": 68.167,
+      "text": "但经历了数年的策划之后， 普洛斯彼罗的仇敌终于近在眼前。",
+      "end": 73.417
+    },
+    {
+      "start": 73.467,
+      "text": "在缥缈的精灵爱丽儿的帮助下，",
+      "end": 76.227
+    },
+    {
+      "start": 76.277,
+      "text": "魔法师摧毁了他弟弟的船只， 并把船员都冲上岸。",
+      "end": 81.937
+    },
+    {
+      "start": 81.987,
+      "text": "普洛斯彼罗的计谋 甚至包括了它女儿的情感生活，",
+      "end": 85.62700000000001
+    },
+    {
+      "start": 85.677,
+      "text": "他计划让女儿爱上 搁浅而困于岛上的王子腓迪南。",
+      "end": 89.657
+    },
+    {
+      "start": 89.707,
+      "text": "当普洛斯彼罗和爱丽儿接近安东尼奥时，",
+      "end": 92.81700000000001
+    },
+    {
+      "start": 92.867,
+      "text": "凯列班加入了一群醉酒的水手，",
+      "end": 95.747
+    },
+    {
+      "start": 95.797,
+      "text": "他们想出了一个滑稽的计划， 要夺得小岛。",
+      "end": 99.267
+    },
+    {
+      "start": 99.317,
+      "text": "《暴风雨》将社会拆解到了最底层的欲望，",
+      "end": 102.907
+    },
+    {
+      "start": 102.957,
+      "text": "剧中每个阵营都一心追求权力：",
+      "end": 106.297
+    },
+    {
+      "start": 106.347,
+      "text": "不管是要统治小岛，奴役他人， 还是掌控自己的命运。",
+      "end": 110.257
+    },
+    {
+      "start": 110.307,
+      "text": "但莎士比亚知道权力不是一成不变的目标；",
+      "end": 114.277
+    },
+    {
+      "start": 114.327,
+      "text": "当他揭露出角色们黑暗的过往时，",
+      "end": 116.997
+    },
+    {
+      "start": 117.047,
+      "text": "我们渐渐怀疑这恶毒的循环是否会终结。",
+      "end": 121.587
+    },
+    {
+      "start": 121.637,
+      "text": "虽然普洛斯彼罗被安东尼奥背叛，",
+      "end": 124.397
+    },
+    {
+      "start": 124.447,
+      "text": "但他长久以来剥削小岛，",
+      "end": 127.73700000000001
+    },
+    {
+      "start": 127.787,
+      "text": "为自己囤积岛上的魔力和自然资源。",
+      "end": 131.857
+    },
+    {
+      "start": 131.907,
+      "text": "凯列班特别痛恨普洛斯彼罗的掌权。",
+      "end": 135.06699999999998
+    },
+    {
+      "start": 135.117,
+      "text": "凯列班的母亲西考拉克斯是先前统治小岛的女巫，",
+      "end": 139.57399999999998
+    },
+    {
+      "start": 139.624,
+      "text": "凯列班起初帮助流放者们安置下来，",
+      "end": 142.51399999999998
+    },
+    {
+      "start": 142.564,
+      "text": "但在此后却成了他们的奴隶， 凯列班悔恨地悲吟：",
+      "end": 146.767
+    },
+    {
+      "start": 146.817,
+      "text": "“那时我以为你是个好人，",
+      "end": 148.887
+    },
+    {
+      "start": 148.937,
+      "text": "把岛上的一切富源都给你知道, 什么地方是清泉，盐井，",
+      "end": 153.50699999999998
+    },
+    {
+      "start": 153.557,
+      "text": "什么地方是荒地和肥田。",
+      "end": 155.807
+    },
+    {
+      "start": 155.857,
+      "text": "我真该死让你知道这一切！“",
+      "end": 158.21699999999998
+    },
+    {
+      "start": 158.267,
+      "text": "带着这样雷鸣般的话语和怒火，",
+      "end": 161.06699999999998
+    },
+    {
+      "start": 161.117,
+      "text": "凯列班一直提醒着普洛斯彼罗他到岛上之前的事：",
+      "end": 165.297
+    },
+    {
+      "start": 165.347,
+      "text": "“这岛是我母亲西考拉克斯 传给我而被你夺了去的。“",
+      "end": 170.297
+    },
+    {
+      "start": 170.347,
+      "text": "但西考拉克斯也剥削了小岛，",
+      "end": 172.94799999999998
+    },
+    {
+      "start": 172.998,
+      "text": "她囚禁了爱丽儿直到普洛斯彼罗解放了他。",
+      "end": 176.19799999999998
+    },
+    {
+      "start": 176.248,
+      "text": "剧中的爱丽儿期望还清 亏欠的人情，争得他的自由，",
+      "end": 180.84799999999998
+    },
+    {
+      "start": 180.898,
+      "text": "而实际上只要掌权的是普洛斯彼罗， 凯列班就被无期限地奴役。",
+      "end": 187.428
+    },
+    {
+      "start": 187.478,
+      "text": "因为许多诸如此类的原因，",
+      "end": 189.50799999999998
+    },
+    {
+      "start": 189.558,
+      "text": "《暴风雨》常被当做是一场对殖民主义 和发现“新世界”所带来道德危机的探讨。",
+      "end": 198.13799999999998
+    },
+    {
+      "start": 198.188,
+      "text": "对统治力量和正义的问题贯穿全剧：",
+      "end": 201.611
+    },
+    {
+      "start": 201.661,
+      "text": "凯列班是小岛合法的主人吗？",
+      "end": 204.15099999999998
+    },
+    {
+      "start": 204.201,
+      "text": "爱丽儿会重获自由吗？",
+      "end": 206.131
+    },
+    {
+      "start": 206.181,
+      "text": "普洛斯彼罗是小岛强大的监管者——",
+      "end": 208.50099999999998
+    },
+    {
+      "start": 208.551,
+      "text": "还是说在每一个角色之上， 都有一些深妙的魔力运作呢？",
+      "end": 214.53099999999998
+    },
+    {
+      "start": 214.581,
+      "text": "在剧中，",
+      "end": 215.661
+    },
+    {
+      "start": 215.711,
+      "text": "爱丽儿一直提醒着 普洛斯彼罗他被亏欠的自由。",
+      "end": 219.47099999999998
+    },
+    {
+      "start": 219.521,
+      "text": "但这个入侵者是否会 让出他的权力，却值得怀疑。",
+      "end": 224.601
+    },
+    {
+      "start": 224.651,
+      "text": "“终结一个人的统治”这个问题 在这里显得强有力",
+      "end": 227.84099999999998
+    },
+    {
+      "start": 227.891,
+      "text": "因为《暴风雨》被认为 是莎士比亚最后的剧作。",
+      "end": 232.381
+    },
+    {
+      "start": 232.431,
+      "text": "普洛斯彼罗的许多行动 和莎士比亚的行动相呼应，",
+      "end": 236.96099999999998
+    },
+    {
+      "start": 237.011,
+      "text": "莎士比亚酝酿了 精妙的剧情并运用它们，",
+      "end": 240.50099999999998
+    },
+    {
+      "start": 240.551,
+      "text": "如魔法般支配着 剧中的角色和剧外的观众。",
+      "end": 245.451
+    },
+    {
+      "start": 245.501,
+      "text": "但当这场权利和控制的宏大演出落幕之时，",
+      "end": 249.206
+    },
+    {
+      "start": 249.256,
+      "text": "普洛斯彼罗最后的台词 则印证着他为观众所败——",
+      "end": 252.892
+    },
+    {
+      "start": 252.942,
+      "text": "显出了观众对于 他剧作的控制力量。",
+      "end": 256.662
+    },
+    {
+      "start": 256.712,
+      "text": "“赖着你们善意殷勤地鼓掌相助， 再烦你们为我嘘出一口和风",
+      "end": 260.55199999999996
+    },
+    {
+      "start": 260.602,
+      "text": "好让我们的船只鼓满帆蓬。 否则我的计划便落空。”",
+      "end": 266.24199999999996
+    },
+    {
+      "start": 266.292,
+      "text": "这和莎士比亚作为大剧作家的身份共鸣，",
+      "end": 269.99199999999996
+    },
+    {
+      "start": 270.042,
+      "text": "因为他，最终， 也屈服于我们的掌声。",
+      "end": 274.95
+    }
+  ]
+};

@@ -1,0 +1,982 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "If you're scared of snakes, watch this",
+    "speaker": "Andrew Whitworth",
+    "duration": 291,
+    "slug": "andrew_whitworth_if_you_re_scared_of_snakes_watch_this",
+    "sourcePage": "https://www.ted.com/talks/andrew_whitworth_if_you_re_scared_of_snakes_watch_this",
+    "translationSourcePage": "https://www.ted.com/talks/andrew_whitworth_if_you_re_scared_of_snakes_watch_this?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/59/60/001/products/2021e-andy-whitworth-viper-battle-001-fallback-72dd5cf8cc07c5078c8407c2ffe5e69b-1200k.mp4",
+    "youtubeId": "s_Cs1nbbv_M",
+    "youtubeTitle": "Watch this if you're scared of snakes - Andrew Whitworth"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.045,
+      "end": 11.582,
+      "text": "We get it, not everyone loves snakes.",
+      "translation": "我们都知道，不是所有人都喜欢蛇。"
+    },
+    {
+      "id": 2,
+      "start": 11.632,
+      "end": 14.961,
+      "text": "You may not want to encounter one in the wild.",
+      "translation": "你不会希望在野外遇到一条蛇。"
+    },
+    {
+      "id": 3,
+      "start": 15.011,
+      "end": 16.587,
+      "text": "To each their own!",
+      "translation": "任何一条！"
+    },
+    {
+      "id": 4,
+      "start": 16.637,
+      "end": 29.225,
+      "text": "That’s why we’re here, to take you on a world tour of some of nature’s most incredible snakes from the safety of your home— and with your very own intrepid guide.",
+      "translation": "作为你私人勇敢的向导，我们将带你离开安全的家，去探索世界上最不可思议的蛇。"
+    },
+    {
+      "id": 5,
+      "start": 29.275,
+      "end": 33.73,
+      "text": "All the snakes we’ll be visiting belong to a group called the vipers.",
+      "translation": "我们将拜访的都是毒蛇。"
+    },
+    {
+      "id": 6,
+      "start": 33.78,
+      "end": 39.444,
+      "text": "As of 2021, there are 368 species of viper worldwide.",
+      "translation": "截至 2021 年， 全世界有 368 种毒蛇。"
+    },
+    {
+      "id": 7,
+      "start": 39.494,
+      "end": 46.284,
+      "text": "The name comes from the term viviparity, which means giving birth to live young.",
+      "translation": "viper（毒蛇）一词来源于 viviparity（卵胎生），"
+    },
+    {
+      "id": 8,
+      "start": 46.334,
+      "end": 56.544,
+      "text": "Unlike most snakes, which lay eggs, most vipers have eggs that hatch inside the mother, who then gives birth to up to dozens of tiny snakes.",
+      "translation": "意思是卵在母体内 发育成新的个体后才产出。不像其他蛇产卵繁殖，多数毒蛇在母蛇体内孵卵，"
+    },
+    {
+      "id": 9,
+      "start": 56.594,
+      "end": 59.088,
+      "text": "Not glad you’re safe at home yet?",
+      "translation": "然后直接产下数十条幼蛇。"
+    },
+    {
+      "id": 10,
+      "start": 59.138,
+      "end": 66.804,
+      "text": "Vipers are also often highly venomous, with two hollow fangs that fold flat to the roofs of their mouths.",
+      "translation": "迫不及待离开安全的家了吗？毒蛇上颚两颗中空的尖牙中"
+    },
+    {
+      "id": 11,
+      "start": 66.854,
+      "end": 75.146,
+      "text": "This allows the fangs to be extra long, unfolding into imposing weapons when the viper prepares to strike.",
+      "translation": "含有致命的毒液。当毒蛇准备攻击的时候，"
+    },
+    {
+      "id": 12,
+      "start": 75.196,
+      "end": 80.401,
+      "text": "So how about we pay them a surprise visit?",
+      "translation": "这些特别长的毒牙 就成为了可怕的武器。"
+    },
+    {
+      "id": 13,
+      "start": 80.451,
+      "end": 87.2,
+      "text": "First stop: the southeastern United States, where we can hear the viper before we can see it.",
+      "translation": "那么我们给它们一个惊喜拜访如何？第一站：美国东南部，"
+    },
+    {
+      "id": 14,
+      "start": 87.25,
+      "end": 93.706,
+      "text": "The eastern diamondback rattlesnake is the largest of 36 species of rattlesnake.",
+      "translation": "未见其“蛇”先闻其声。"
+    },
+    {
+      "id": 15,
+      "start": 93.756,
+      "end": 101.422,
+      "text": "Rattlesnakes can shake their rattles up to 90 times per second to warn off predators for hours if needed.",
+      "translation": "东部菱形背纹响尾蛇是 36 种 响尾蛇中体型最大的。响尾蛇的尾巴 可以每秒摇动 90 次，"
+    },
+    {
+      "id": 16,
+      "start": 101.472,
+      "end": 109.18,
+      "text": "The rattle consists of hollow, interlocked segments made of keratin, the same substance that makes our nails and hair.",
+      "translation": "必要时可以持续数小时警告入侵者。它的尾巴由中空、 互锁的角蛋白小段组成，"
+    },
+    {
+      "id": 17,
+      "start": 109.23,
+      "end": 115.853,
+      "text": "When the snake shakes its tail, these segments hit each other, creating a shockingly loud noise.",
+      "translation": "与我们指甲、毛发的构成物质相同。当响尾蛇摇动尾巴时， 这些结构互相碰撞，"
+    },
+    {
+      "id": 18,
+      "start": 115.903,
+      "end": 126.489,
+      "text": "Now onto the mountains of western Iran, where a spider crawls across a rock, making easy prey for a passing bird— or not.",
+      "translation": "就会发出令人厌恶的响亮声音。接着来到伊朗西部的山上， 一只蜘蛛爬过岩石，"
+    },
+    {
+      "id": 19,
+      "start": 126.539,
+      "end": 140.419,
+      "text": "The spider-tailed horned viper is perfectly camouflaged, almost invisible, except for its unique bulbous tail-tip with long drooping scales that look like a leggy spider.",
+      "translation": "成为了路过鸟儿的猎物—或者相反。蛛尾拟角蝰是个 完美的伪装者，几乎如同隐身除了它带有下垂长鳞片的 圆鼓形特殊尾尖"
+    },
+    {
+      "id": 20,
+      "start": 140.469,
+      "end": 152.598,
+      "text": "Spider-tailed vipers are only about 50 centimeters long, so they can lure small birds within striking range without compromising their ability to squeeze into narrow rock crevices.",
+      "translation": "看上去就像一只长腿蜘蛛蛛尾毒蛇只有大约 50 厘米长，因此它们可以将小鸟 吸引到攻击距离内进行诱捕，"
+    },
+    {
+      "id": 21,
+      "start": 152.648,
+      "end": 161.983,
+      "text": "In the rainforests of Latin America lives a viper that couldn’t be more different from the spider-tailed viper— if you can find it.",
+      "translation": "同时不会妨碍他们躲在 狭窄的岩石缝隙中的能力。在拉丁美洲的雨林中 生活着一种毒蛇，与蛛尾毒蛇有着世界上 最大的区别—"
+    },
+    {
+      "id": 22,
+      "start": 162.033,
+      "end": 167.196,
+      "text": "It’s one of the most elusive snakes in the world: the bushmaster.",
+      "translation": "如果你还能找到其他的。那是世界上最难捕捉的一种蛇："
+    },
+    {
+      "id": 23,
+      "start": 167.246,
+      "end": 169.574,
+      "text": "The bushmaster is a pit viper.",
+      "translation": "美洲大毒蛇。"
+    },
+    {
+      "id": 24,
+      "start": 169.624,
+      "end": 183.88,
+      "text": "Between each eye and nostril, it has a heat-sensing pit with a membrane covered in highly sensitive receptors that respond to temperature changes as small as one one-thousandth of a degree Celsius.",
+      "translation": "大毒蛇是一种颊窝毒蛇。在它每侧的眼睛和鼻孔之间 有个热感应窝外面覆盖着保护膜， 里面有高度敏感的受体可以精确感受到"
+    },
+    {
+      "id": 25,
+      "start": 183.93,
+      "end": 190.261,
+      "text": "These pits gather infrared information that is integrated with visual information in the optic tectum.",
+      "translation": "千分之一摄氏度的温度变化。这些窝可以收集热红外信息"
+    },
+    {
+      "id": 26,
+      "start": 190.311,
+      "end": 201.439,
+      "text": "This allows the bushmaster to “see” the heat signature of approaching prey or predators, helping it decide whether or not to strike and strike more accurately.",
+      "translation": "并与视觉信息进行融合。使得美洲大毒蛇可以“看到”潜在猎物或捕食者的热信号，"
+    },
+    {
+      "id": 27,
+      "start": 201.489,
+      "end": 211.949,
+      "text": "This comes in handy for guarding a nest— unlike most other vipers, the bushmaster lays eggs in hollowed out tree buttresses or burrows made by other animals.",
+      "translation": "帮助它决定是否攻击 以及更准确的攻击。这也有助于守卫巢穴— —不像大多数其他毒蛇，"
+    },
+    {
+      "id": 28,
+      "start": 211.999,
+      "end": 224.253,
+      "text": "It must be large enough to defend its nest— in fact, the bushmaster is the largest viper in the world, reaching lengths of over 11 feet, with huge fangs and deadly venom.",
+      "translation": "大毒蛇把蛋产在空树洞里 或其他动物挖的洞里。洞必须足够大以便于它保护巢穴— —实际上大毒蛇是世界上最大的毒蛇，"
+    },
+    {
+      "id": 29,
+      "start": 224.303,
+      "end": 233.262,
+      "text": "Meanwhile, in the forests of sub-Saharan Africa, there’s a shorter, chunkier viper that’s even more venomous than the bushmaster.",
+      "translation": "长度超过 11 英尺， 拥有巨大的毒牙和致命的毒液。另外，在撒哈拉以南非洲的丛林里，"
+    },
+    {
+      "id": 30,
+      "start": 233.312,
+      "end": 252.907,
+      "text": "The African Gaboon viper has the longest fangs of any snake— yes, all 3,879 snake species, not just vipers— and can deliver 1,000 milligrams of venom in a single bite— enough to kill ten adult humans.",
+      "translation": "有一种稍短、稍笨重的毒蛇 比大毒蛇毒性更强。非洲加蓬蝰蛇拥有蛇类最长的尖牙，是的， 3,879 种蛇类都有， 而不仅仅是毒蛇—它一次喷射可以射出 1,000 毫克毒液—"
+    },
+    {
+      "id": 31,
+      "start": 252.957,
+      "end": 259.372,
+      "text": "Although deadly, Gaboon vipers have a reputation for being slow-moving and placid creatures.",
+      "translation": "足以杀死10个成人。尽管致命，加蓬蝰蛇却有个"
+    },
+    {
+      "id": 32,
+      "start": 259.422,
+      "end": 267.338,
+      "text": "When they do strike, they hold onto their rodent prey while the venom takes effect, then quickly swallow it down.",
+      "translation": "移动缓慢、性情平和的名声。当它们攻击时，会咬住啮齿类猎物 慢慢等待毒性发作，"
+    },
+    {
+      "id": 33,
+      "start": 267.388,
+      "end": 277.098,
+      "text": "At this point, you may be worrying about our guide— but never fear, rodents like our little desert kangaroo rat have their own skills to evade the serpent’s tooth.",
+      "translation": "然后快速把猎物吞下。说到这儿，你可能 会担心我们的向导—不用担心，小沙漠袋鼠 这种啮齿类动物"
+    },
+    {
+      "id": 34,
+      "start": 277.148,
+      "end": 290.95,
+      "text": "They stomp their feet at rattlesnakes, kick sand towards them, and evade their strikes with acrobatic leaps and powerful kicks— helping them live to guide another snake tour.",
+      "translation": "有自己逃脱蛇口的绝招。它们的脚重重的将沙子踢向毒蛇，用灵巧的跳跃 和有力的蹬踢躲避进攻—"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.045,
+      "text": "We get it, not everyone loves snakes.",
+      "end": 11.581999999999999
+    },
+    {
+      "start": 11.632,
+      "text": "You may not want to encounter one in the wild.",
+      "end": 14.960999999999999
+    },
+    {
+      "start": 15.011,
+      "text": "To each their own!",
+      "end": 16.587
+    },
+    {
+      "start": 16.637,
+      "text": "That’s why we’re here, to take you on a world tour",
+      "end": 20.133
+    },
+    {
+      "start": 20.183,
+      "text": "of some of nature’s most incredible snakes from the safety of your home—",
+      "end": 25.137999999999998
+    },
+    {
+      "start": 25.188,
+      "text": "and with your very own intrepid guide.",
+      "end": 29.224999999999998
+    },
+    {
+      "start": 29.275,
+      "text": "All the snakes we’ll be visiting belong to a group called the vipers.",
+      "end": 33.730000000000004
+    },
+    {
+      "start": 33.78,
+      "text": "As of 2021, there are 368 species of viper worldwide.",
+      "end": 39.444
+    },
+    {
+      "start": 39.494,
+      "text": "The name comes from the term viviparity, which means giving birth to live young.",
+      "end": 46.284000000000006
+    },
+    {
+      "start": 46.334,
+      "text": "Unlike most snakes, which lay eggs,",
+      "end": 48.619
+    },
+    {
+      "start": 48.669,
+      "text": "most vipers have eggs that hatch inside the mother,",
+      "end": 52.248000000000005
+    },
+    {
+      "start": 52.298,
+      "text": "who then gives birth to up to dozens of tiny snakes.",
+      "end": 56.544000000000004
+    },
+    {
+      "start": 56.594,
+      "text": "Not glad you’re safe at home yet?",
+      "end": 59.088
+    },
+    {
+      "start": 59.138,
+      "text": "Vipers are also often highly venomous,",
+      "end": 62.216
+    },
+    {
+      "start": 62.266,
+      "text": "with two hollow fangs that fold flat to the roofs of their mouths.",
+      "end": 66.804
+    },
+    {
+      "start": 66.854,
+      "text": "This allows the fangs to be extra long,",
+      "end": 69.474
+    },
+    {
+      "start": 69.524,
+      "text": "unfolding into imposing weapons when the viper prepares to strike.",
+      "end": 75.146
+    },
+    {
+      "start": 75.196,
+      "text": "So how about we pay them a surprise visit?",
+      "end": 80.401
+    },
+    {
+      "start": 80.451,
+      "text": "First stop: the southeastern United States,",
+      "end": 83.738
+    },
+    {
+      "start": 83.788,
+      "text": "where we can hear the viper before we can see it.",
+      "end": 87.2
+    },
+    {
+      "start": 87.25,
+      "text": "The eastern diamondback rattlesnake is the largest of 36 species of rattlesnake.",
+      "end": 93.706
+    },
+    {
+      "start": 93.756,
+      "text": "Rattlesnakes can shake their rattles up to 90 times per second",
+      "end": 97.62700000000001
+    },
+    {
+      "start": 97.677,
+      "text": "to warn off predators for hours if needed.",
+      "end": 101.422
+    },
+    {
+      "start": 101.472,
+      "text": "The rattle consists of hollow, interlocked segments made of keratin,",
+      "end": 105.927
+    },
+    {
+      "start": 105.977,
+      "text": "the same substance that makes our nails and hair.",
+      "end": 109.18
+    },
+    {
+      "start": 109.23,
+      "text": "When the snake shakes its tail, these segments hit each other,",
+      "end": 112.809
+    },
+    {
+      "start": 112.859,
+      "text": "creating a shockingly loud noise.",
+      "end": 115.85300000000001
+    },
+    {
+      "start": 115.903,
+      "text": "Now onto the mountains of western Iran, where a spider crawls across a rock,",
+      "end": 121.85900000000001
+    },
+    {
+      "start": 121.909,
+      "text": "making easy prey for a passing bird— or not.",
+      "end": 126.489
+    },
+    {
+      "start": 126.539,
+      "text": "The spider-tailed horned viper is perfectly camouflaged, almost invisible,",
+      "end": 132.32799999999997
+    },
+    {
+      "start": 132.378,
+      "text": "except for its unique bulbous tail-tip with long drooping scales",
+      "end": 137.5
+    },
+    {
+      "start": 137.55,
+      "text": "that look like a leggy spider.",
+      "end": 140.41899999999998
+    },
+    {
+      "start": 140.469,
+      "text": "Spider-tailed vipers are only about 50 centimeters long,",
+      "end": 144.08999999999997
+    },
+    {
+      "start": 144.14,
+      "text": "so they can lure small birds within striking range",
+      "end": 147.426
+    },
+    {
+      "start": 147.476,
+      "text": "without compromising their ability to squeeze into narrow rock crevices.",
+      "end": 152.59799999999998
+    },
+    {
+      "start": 152.648,
+      "text": "In the rainforests of Latin America lives a viper",
+      "end": 155.685
+    },
+    {
+      "start": 155.735,
+      "text": "that couldn’t be more different from the spider-tailed viper—",
+      "end": 159.73
+    },
+    {
+      "start": 159.78,
+      "text": "if you can find it.",
+      "end": 161.98299999999998
+    },
+    {
+      "start": 162.033,
+      "text": "It’s one of the most elusive snakes in the world:",
+      "end": 165.486
+    },
+    {
+      "start": 165.536,
+      "text": "the bushmaster.",
+      "end": 167.196
+    },
+    {
+      "start": 167.246,
+      "text": "The bushmaster is a pit viper.",
+      "end": 169.57399999999998
+    },
+    {
+      "start": 169.624,
+      "text": "Between each eye and nostril, it has a heat-sensing pit",
+      "end": 173.536
+    },
+    {
+      "start": 173.586,
+      "text": "with a membrane covered in highly sensitive receptors",
+      "end": 177.29
+    },
+    {
+      "start": 177.34,
+      "text": "that respond to temperature changes",
+      "end": 179.25
+    },
+    {
+      "start": 179.3,
+      "text": "as small as one one-thousandth of a degree Celsius.",
+      "end": 183.88
+    },
+    {
+      "start": 183.93,
+      "text": "These pits gather infrared information that is integrated with visual information",
+      "end": 188.634
+    },
+    {
+      "start": 188.684,
+      "text": "in the optic tectum.",
+      "end": 190.261
+    },
+    {
+      "start": 190.311,
+      "text": "This allows the bushmaster to “see” the heat signature",
+      "end": 193.84799999999998
+    },
+    {
+      "start": 193.898,
+      "text": "of approaching prey or predators,",
+      "end": 196.017
+    },
+    {
+      "start": 196.067,
+      "text": "helping it decide whether or not to strike and strike more accurately.",
+      "end": 201.439
+    },
+    {
+      "start": 201.489,
+      "text": "This comes in handy for guarding a nest—",
+      "end": 204.27499999999998
+    },
+    {
+      "start": 204.325,
+      "text": "unlike most other vipers, the bushmaster lays eggs",
+      "end": 207.57
+    },
+    {
+      "start": 207.62,
+      "text": "in hollowed out tree buttresses or burrows made by other animals.",
+      "end": 211.94899999999998
+    },
+    {
+      "start": 211.999,
+      "text": "It must be large enough to defend its nest—",
+      "end": 214.619
+    },
+    {
+      "start": 214.669,
+      "text": "in fact, the bushmaster is the largest viper in the world,",
+      "end": 217.99699999999999
+    },
+    {
+      "start": 218.047,
+      "text": "reaching lengths of over 11 feet, with huge fangs and deadly venom.",
+      "end": 224.253
+    },
+    {
+      "start": 224.303,
+      "text": "Meanwhile, in the forests of sub-Saharan Africa,",
+      "end": 227.46499999999997
+    },
+    {
+      "start": 227.515,
+      "text": "there’s a shorter, chunkier viper that’s even more venomous than the bushmaster.",
+      "end": 233.262
+    },
+    {
+      "start": 233.312,
+      "text": "The African Gaboon viper has the longest fangs of any snake—",
+      "end": 238.434
+    },
+    {
+      "start": 238.484,
+      "text": "yes, all 3,879 snake species, not just vipers—",
+      "end": 244.19
+    },
+    {
+      "start": 244.24,
+      "text": "and can deliver 1,000 milligrams of venom in a single bite—",
+      "end": 249.195
+    },
+    {
+      "start": 249.245,
+      "text": "enough to kill ten adult humans.",
+      "end": 252.90699999999998
+    },
+    {
+      "start": 252.957,
+      "text": "Although deadly, Gaboon vipers have a reputation",
+      "end": 255.91
+    },
+    {
+      "start": 255.96,
+      "text": "for being slow-moving and placid creatures.",
+      "end": 259.372
+    },
+    {
+      "start": 259.422,
+      "text": "When they do strike, they hold onto their rodent prey while the venom takes effect,",
+      "end": 264.502
+    },
+    {
+      "start": 264.552,
+      "text": "then quickly swallow it down.",
+      "end": 267.33799999999997
+    },
+    {
+      "start": 267.388,
+      "text": "At this point, you may be worrying about our guide— but never fear,",
+      "end": 271.425
+    },
+    {
+      "start": 271.475,
+      "text": "rodents like our little desert kangaroo rat have their own skills",
+      "end": 275.137
+    },
+    {
+      "start": 275.187,
+      "text": "to evade the serpent’s tooth.",
+      "end": 277.098
+    },
+    {
+      "start": 277.148,
+      "text": "They stomp their feet at rattlesnakes, kick sand towards them,",
+      "end": 280.977
+    },
+    {
+      "start": 281.027,
+      "text": "and evade their strikes with acrobatic leaps and powerful kicks—",
+      "end": 285.356
+    },
+    {
+      "start": 285.406,
+      "text": "helping them live to guide another snake tour.",
+      "end": 290.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.045,
+      "text": "我们都知道，不是所有人都喜欢蛇。",
+      "end": 11.581999999999999
+    },
+    {
+      "start": 11.632,
+      "text": "你不会希望在野外遇到一条蛇。",
+      "end": 14.960999999999999
+    },
+    {
+      "start": 15.011,
+      "text": "任何一条！",
+      "end": 16.587
+    },
+    {
+      "start": 16.637,
+      "text": "作为你私人勇敢的向导，",
+      "end": 20.133
+    },
+    {
+      "start": 20.183,
+      "text": "我们将带你离开安全的家，",
+      "end": 25.137999999999998
+    },
+    {
+      "start": 25.188,
+      "text": "去探索世界上最不可思议的蛇。",
+      "end": 29.224999999999998
+    },
+    {
+      "start": 29.275,
+      "text": "我们将拜访的都是毒蛇。",
+      "end": 33.730000000000004
+    },
+    {
+      "start": 33.78,
+      "text": "截至 2021 年， 全世界有 368 种毒蛇。",
+      "end": 39.444
+    },
+    {
+      "start": 39.494,
+      "text": "viper（毒蛇）一词来源于 viviparity（卵胎生），",
+      "end": 42.613
+    },
+    {
+      "start": 42.663,
+      "text": "意思是卵在母体内 发育成新的个体后才产出。",
+      "end": 46.284000000000006
+    },
+    {
+      "start": 46.334,
+      "text": "不像其他蛇产卵繁殖，",
+      "end": 48.619
+    },
+    {
+      "start": 48.669,
+      "text": "多数毒蛇在母蛇体内孵卵，",
+      "end": 52.248000000000005
+    },
+    {
+      "start": 52.298,
+      "text": "然后直接产下数十条幼蛇。",
+      "end": 56.544000000000004
+    },
+    {
+      "start": 56.594,
+      "text": "迫不及待离开安全的家了吗？",
+      "end": 59.088
+    },
+    {
+      "start": 59.138,
+      "text": "毒蛇上颚两颗中空的尖牙中",
+      "end": 62.216
+    },
+    {
+      "start": 62.266,
+      "text": "含有致命的毒液。",
+      "end": 66.804
+    },
+    {
+      "start": 66.854,
+      "text": "当毒蛇准备攻击的时候，",
+      "end": 69.474
+    },
+    {
+      "start": 69.524,
+      "text": "这些特别长的毒牙 就成为了可怕的武器。",
+      "end": 75.146
+    },
+    {
+      "start": 75.196,
+      "text": "那么我们给它们一个惊喜拜访如何？",
+      "end": 80.401
+    },
+    {
+      "start": 80.451,
+      "text": "第一站：美国东南部，",
+      "end": 83.738
+    },
+    {
+      "start": 83.788,
+      "text": "未见其“蛇”先闻其声。",
+      "end": 87.2
+    },
+    {
+      "start": 87.25,
+      "text": "东部菱形背纹响尾蛇是 36 种 响尾蛇中体型最大的。",
+      "end": 93.706
+    },
+    {
+      "start": 93.756,
+      "text": "响尾蛇的尾巴 可以每秒摇动 90 次，",
+      "end": 97.62700000000001
+    },
+    {
+      "start": 97.677,
+      "text": "必要时可以持续数小时警告入侵者。",
+      "end": 101.422
+    },
+    {
+      "start": 101.472,
+      "text": "它的尾巴由中空、 互锁的角蛋白小段组成，",
+      "end": 105.927
+    },
+    {
+      "start": 105.977,
+      "text": "与我们指甲、毛发的构成物质相同。",
+      "end": 109.18
+    },
+    {
+      "start": 109.23,
+      "text": "当响尾蛇摇动尾巴时， 这些结构互相碰撞，",
+      "end": 112.809
+    },
+    {
+      "start": 112.859,
+      "text": "就会发出令人厌恶的响亮声音。",
+      "end": 115.85300000000001
+    },
+    {
+      "start": 115.903,
+      "text": "接着来到伊朗西部的山上， 一只蜘蛛爬过岩石，",
+      "end": 121.85900000000001
+    },
+    {
+      "start": 121.909,
+      "text": "成为了路过鸟儿的猎物—或者相反。",
+      "end": 126.489
+    },
+    {
+      "start": 126.539,
+      "text": "蛛尾拟角蝰是个 完美的伪装者，几乎如同隐身",
+      "end": 132.32799999999997
+    },
+    {
+      "start": 132.378,
+      "text": "除了它带有下垂长鳞片的 圆鼓形特殊尾尖",
+      "end": 137.5
+    },
+    {
+      "start": 137.55,
+      "text": "看上去就像一只长腿蜘蛛",
+      "end": 140.41899999999998
+    },
+    {
+      "start": 140.469,
+      "text": "蛛尾毒蛇只有大约 50 厘米长，",
+      "end": 144.08999999999997
+    },
+    {
+      "start": 144.14,
+      "text": "因此它们可以将小鸟 吸引到攻击距离内进行诱捕，",
+      "end": 147.426
+    },
+    {
+      "start": 147.476,
+      "text": "同时不会妨碍他们躲在 狭窄的岩石缝隙中的能力。",
+      "end": 152.59799999999998
+    },
+    {
+      "start": 152.648,
+      "text": "在拉丁美洲的雨林中 生活着一种毒蛇，",
+      "end": 155.685
+    },
+    {
+      "start": 155.735,
+      "text": "与蛛尾毒蛇有着世界上 最大的区别—",
+      "end": 159.73
+    },
+    {
+      "start": 159.78,
+      "text": "如果你还能找到其他的。",
+      "end": 161.98299999999998
+    },
+    {
+      "start": 162.033,
+      "text": "那是世界上最难捕捉的一种蛇：",
+      "end": 165.486
+    },
+    {
+      "start": 165.536,
+      "text": "美洲大毒蛇。",
+      "end": 167.196
+    },
+    {
+      "start": 167.246,
+      "text": "大毒蛇是一种颊窝毒蛇。",
+      "end": 169.57399999999998
+    },
+    {
+      "start": 169.624,
+      "text": "在它每侧的眼睛和鼻孔之间 有个热感应窝",
+      "end": 173.536
+    },
+    {
+      "start": 173.586,
+      "text": "外面覆盖着保护膜， 里面有高度敏感的受体",
+      "end": 177.29
+    },
+    {
+      "start": 177.34,
+      "text": "可以精确感受到",
+      "end": 179.25
+    },
+    {
+      "start": 179.3,
+      "text": "千分之一摄氏度的温度变化。",
+      "end": 183.88
+    },
+    {
+      "start": 183.93,
+      "text": "这些窝可以收集热红外信息",
+      "end": 188.634
+    },
+    {
+      "start": 188.684,
+      "text": "并与视觉信息进行融合。",
+      "end": 190.261
+    },
+    {
+      "start": 190.311,
+      "text": "使得美洲大毒蛇可以“看到”",
+      "end": 193.84799999999998
+    },
+    {
+      "start": 193.898,
+      "text": "潜在猎物或捕食者的热信号，",
+      "end": 196.017
+    },
+    {
+      "start": 196.067,
+      "text": "帮助它决定是否攻击 以及更准确的攻击。",
+      "end": 201.439
+    },
+    {
+      "start": 201.489,
+      "text": "这也有助于守卫巢穴— —",
+      "end": 204.27499999999998
+    },
+    {
+      "start": 204.325,
+      "text": "不像大多数其他毒蛇，",
+      "end": 207.57
+    },
+    {
+      "start": 207.62,
+      "text": "大毒蛇把蛋产在空树洞里 或其他动物挖的洞里。",
+      "end": 211.94899999999998
+    },
+    {
+      "start": 211.999,
+      "text": "洞必须足够大以便于它保护巢穴— —",
+      "end": 214.619
+    },
+    {
+      "start": 214.669,
+      "text": "实际上大毒蛇是世界上最大的毒蛇，",
+      "end": 217.99699999999999
+    },
+    {
+      "start": 218.047,
+      "text": "长度超过 11 英尺， 拥有巨大的毒牙和致命的毒液。",
+      "end": 224.253
+    },
+    {
+      "start": 224.303,
+      "text": "另外，在撒哈拉以南非洲的丛林里，",
+      "end": 227.46499999999997
+    },
+    {
+      "start": 227.515,
+      "text": "有一种稍短、稍笨重的毒蛇 比大毒蛇毒性更强。",
+      "end": 233.262
+    },
+    {
+      "start": 233.312,
+      "text": "非洲加蓬蝰蛇拥有蛇类最长的尖牙，",
+      "end": 238.434
+    },
+    {
+      "start": 238.484,
+      "text": "是的， 3,879 种蛇类都有， 而不仅仅是毒蛇—",
+      "end": 244.19
+    },
+    {
+      "start": 244.24,
+      "text": "它一次喷射可以射出 1,000 毫克毒液—",
+      "end": 249.195
+    },
+    {
+      "start": 249.245,
+      "text": "足以杀死10个成人。",
+      "end": 252.90699999999998
+    },
+    {
+      "start": 252.957,
+      "text": "尽管致命，加蓬蝰蛇却有个",
+      "end": 255.91
+    },
+    {
+      "start": 255.96,
+      "text": "移动缓慢、性情平和的名声。",
+      "end": 259.372
+    },
+    {
+      "start": 259.422,
+      "text": "当它们攻击时，会咬住啮齿类猎物 慢慢等待毒性发作，",
+      "end": 264.502
+    },
+    {
+      "start": 264.552,
+      "text": "然后快速把猎物吞下。",
+      "end": 267.33799999999997
+    },
+    {
+      "start": 267.388,
+      "text": "说到这儿，你可能 会担心我们的向导—",
+      "end": 271.425
+    },
+    {
+      "start": 271.475,
+      "text": "不用担心，小沙漠袋鼠 这种啮齿类动物",
+      "end": 275.137
+    },
+    {
+      "start": 275.187,
+      "text": "有自己逃脱蛇口的绝招。",
+      "end": 277.098
+    },
+    {
+      "start": 277.148,
+      "text": "它们的脚重重的将沙子踢向毒蛇，",
+      "end": 280.977
+    },
+    {
+      "start": 281.027,
+      "text": "用灵巧的跳跃 和有力的蹬踢躲避进攻—",
+      "end": 285.356
+    },
+    {
+      "start": 285.406,
+      "text": "这样就可以活着开始下一次 蛇类之旅的向导旅程。",
+      "end": 290.95
+    }
+  ]
+};

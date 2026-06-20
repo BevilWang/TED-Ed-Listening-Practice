@@ -1,0 +1,901 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The truth about electroconvulsive therapy (ECT)",
+    "speaker": "Helen M. Farrell",
+    "duration": 255,
+    "slug": "helen_m_farrell_the_truth_about_electroconvulsive_therapy_ect",
+    "sourcePage": "https://www.ted.com/talks/helen_m_farrell_the_truth_about_electroconvulsive_therapy_ect",
+    "translationSourcePage": "https://www.ted.com/talks/helen_m_farrell_the_truth_about_electroconvulsive_therapy_ect?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/44/04/001/products/2018e-helen-m-farrell-ect-001-fallback-11b10860d57bb70fcff170603f0b5175-1200k.mp4",
+    "youtubeId": "AcmarVpo2xE",
+    "youtubeTitle": "The truth about electroconvulsive therapy (ECT) - Helen M. Farrell"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.748,
+      "end": 13.198,
+      "text": "In 1982, a young nurse was suffering from severe, unrelenting depression.",
+      "translation": "在1982年，一个年轻的护士 饱受持续的严重抑郁症困扰。"
+    },
+    {
+      "id": 2,
+      "start": 13.248,
+      "end": 19.138,
+      "text": "She couldn’t work, socialize, or even concentrate well enough to read the newspaper.",
+      "translation": "她不能工作，社交，甚至不能集中注意力阅读报纸。"
+    },
+    {
+      "id": 3,
+      "start": 19.188,
+      "end": 21.828,
+      "text": "One treatment changed everything.",
+      "translation": "一次治疗改变了一切。"
+    },
+    {
+      "id": 4,
+      "start": 21.878,
+      "end": 28.618,
+      "text": "After two courses of electroconvulsive therapy, or ECT, her symptoms lifted.",
+      "translation": "在两次电休克（ECT）疗程之后， 她的症状得到改善。"
+    },
+    {
+      "id": 5,
+      "start": 28.668,
+      "end": 33.458,
+      "text": "She went back to work, then on to graduate school, where she earned high grades.",
+      "translation": "她重新工作，然后去了 研究生院，取得高分成绩。"
+    },
+    {
+      "id": 6,
+      "start": 33.508,
+      "end": 37.868,
+      "text": "At first, she talked openly about her life changing treatment.",
+      "translation": "一开始，她公开谈论改变她人生的治疗。"
+    },
+    {
+      "id": 7,
+      "start": 37.918,
+      "end": 45.488,
+      "text": "But as she realized many people had an extremely negative impression of ECT, she stopped sharing her experience.",
+      "translation": "但当她意识到很多人 对ECT有非常负面的印象时，她不再分享经验。"
+    },
+    {
+      "id": 8,
+      "start": 45.538,
+      "end": 52.218,
+      "text": "ECT carried a deep stigma, leftover from a history that bears little resemblance to the modern procedure.",
+      "translation": "ECT背负着深深的污名，历史遗留下来的污名， 即认为它和现代做法相去甚远。"
+    },
+    {
+      "id": 9,
+      "start": 52.268,
+      "end": 55.988,
+      "text": "The therapy was first used in medicine in 1938.",
+      "translation": "该疗法在1938年第一次 在医学得到上运用。"
+    },
+    {
+      "id": 10,
+      "start": 56.038,
+      "end": 68.228,
+      "text": "In its early years, doctors administered a strong electrical current to the brain, causing a whole-body seizure during which patients might bite their tongues or even break bones.",
+      "translation": "在早期，医生会对大脑施加强电流，导致全身痉挛，期间病人会咬舌甚至折断骨头。"
+    },
+    {
+      "id": 11,
+      "start": 68.278,
+      "end": 71.278,
+      "text": "Modern ECT is very different.",
+      "translation": "现代ECT则非常不同。"
+    },
+    {
+      "id": 12,
+      "start": 71.328,
+      "end": 79.248,
+      "text": "While a patient is under general anesthesia, electrodes deliver a series of mild electrical pulses to the brain.",
+      "translation": "病人处于全身麻醉时，电极将轻微的电脉冲输进大脑。"
+    },
+    {
+      "id": 13,
+      "start": 79.298,
+      "end": 86.868,
+      "text": "This causes huge numbers of neurons to fire in unison: a brief, controlled seizure.",
+      "translation": "这使大量神经元一齐激活：带来简短、可控的发作。"
+    },
+    {
+      "id": 14,
+      "start": 86.918,
+      "end": 91.088,
+      "text": "A muscle relaxant keeps spasms from spreading to the rest of his body.",
+      "translation": "肌肉松弛剂防止痉挛蔓延全身。"
+    },
+    {
+      "id": 15,
+      "start": 91.138,
+      "end": 97.268,
+      "text": "The only physical indication of the electricity flooding the brain is a twitching foot.",
+      "translation": "电流涌入大脑的唯一身体反应是脚痉挛。"
+    },
+    {
+      "id": 16,
+      "start": 97.318,
+      "end": 105.048,
+      "text": "The treatment lasts for about a minute, and most patients are able to resume normal activities about an hour after each session.",
+      "translation": "治疗时长为一分钟， 并且大多数病人在一小时之后能恢复正常活动。"
+    },
+    {
+      "id": 17,
+      "start": 105.098,
+      "end": 117.898,
+      "text": "ECT is commonly used to treat severe cases of major depression or bipolar disorder in patients who haven’t responded to other therapies, or who have had adverse reactions to medication.",
+      "translation": "ECT主要用于治疗其他疗法无效的重度抑郁或燥郁症病人，或是对药物有不良反应的病人。"
+    },
+    {
+      "id": 18,
+      "start": 117.948,
+      "end": 123.708,
+      "text": "Half or more of those who undergo treatment experience an improvement in their symptoms.",
+      "translation": "一半及以上接受治疗的病人得到好转。"
+    },
+    {
+      "id": 19,
+      "start": 123.758,
+      "end": 129.318,
+      "text": "Most patients treated with ECT have two or three sessions per week for several weeks.",
+      "translation": "多数接受ECT的病人在连续几周内， 每周都会接受两到三次的治疗。"
+    },
+    {
+      "id": 20,
+      "start": 129.368,
+      "end": 136.748,
+      "text": "Some begin to notice an improvement in their symptoms after just one session, while others take longer to respond.",
+      "translation": "一些人仅在一次治疗后症状就有所改善，而其他人则需要更长时间。"
+    },
+    {
+      "id": 21,
+      "start": 136.798,
+      "end": 145.888,
+      "text": "Patients often continue less frequent treatments for several months to a year, and some need occasional maintenance sessions for the rest of their lives.",
+      "translation": "病人通常会继续治疗，但降低频率， 从几个月到一年不等，而有些病人在余生需要偶尔进行维持治疗。"
+    },
+    {
+      "id": 22,
+      "start": 145.938,
+      "end": 151.528,
+      "text": "Modern ECT is much safer than it used to be, but patients can still experience side effects.",
+      "translation": "现代ECT比以前更加安全，但依旧有副作用。"
+    },
+    {
+      "id": 23,
+      "start": 151.578,
+      "end": 156.058,
+      "text": "They may feel achy, fatigued, or nauseated right after treatment.",
+      "translation": "治疗之后，病人可能会感到疼痛、虚弱或恶心。"
+    },
+    {
+      "id": 24,
+      "start": 156.108,
+      "end": 162.518,
+      "text": "Some have trouble remembering what happened right before a session— for example, what they had for dinner the previous evening.",
+      "translation": "一些病人则会记不起来治疗之前发生的事，比如他们前一天晚餐吃了什么。"
+    },
+    {
+      "id": 25,
+      "start": 162.568,
+      "end": 167.208,
+      "text": "Rarely, they might have trouble remembering up to weeks and months before.",
+      "translation": "极少有的情况下， 病人会记不起几周几月前的事。"
+    },
+    {
+      "id": 26,
+      "start": 167.258,
+      "end": 171.648,
+      "text": "For most patients, this memory loss does improve over time.",
+      "translation": "大多数病人的失忆情况会随着时间改善。"
+    },
+    {
+      "id": 27,
+      "start": 171.698,
+      "end": 179.108,
+      "text": "What's fascinating is that despite its proven track record, we still don't know exactly why ECT works.",
+      "translation": "有意思的是，尽管ECT证实有效，我们依旧不知道它究竟为什么起作用。"
+    },
+    {
+      "id": 28,
+      "start": 179.158,
+      "end": 186.618,
+      "text": "Neurons in the brain communicate via electrical signals, which influence our brain chemistry, contributing to mood and behavior.",
+      "translation": "大脑中的神经元通过电信号交流，影响大脑化学性质， 进而影响情绪和行为。"
+    },
+    {
+      "id": 29,
+      "start": 186.668,
+      "end": 192.368,
+      "text": "The flood of electrical activity sparked by ECT alters that chemistry.",
+      "translation": "ECT引起的大量电子活动 改变了这种化学性质。"
+    },
+    {
+      "id": 30,
+      "start": 192.418,
+      "end": 201.128,
+      "text": "For example, ECT triggers the release of certain neurotransmitters, molecules that help carry signals between neurons and influence mental health.",
+      "translation": "例如，ECT促进释放神经递质，传递神经元之间的信号从而影响精神健康。"
+    },
+    {
+      "id": 31,
+      "start": 201.178,
+      "end": 206.958,
+      "text": "ECT also stimulates the flow of hormones that may help reduce symptoms of depression.",
+      "translation": "ECT也可以刺激荷尔蒙流动， 帮助缓解抑郁症症状。"
+    },
+    {
+      "id": 32,
+      "start": 207.008,
+      "end": 215.108,
+      "text": "Interestingly, ECT maintenance works better when paired with medication, even in patients who were resistant to medication before.",
+      "translation": "有趣的是，搭配药物可以 更好的维持ECT疗效，既是对之前抗拒药物的病人 来说也是如此。"
+    },
+    {
+      "id": 33,
+      "start": 215.158,
+      "end": 223.338,
+      "text": "As we come to a better understanding of the brain, we’ll likely be able to make ECT even more effective.",
+      "translation": "随着我们对大脑进一步了解，我们可能可以使ECT更加有效。"
+    },
+    {
+      "id": 34,
+      "start": 223.388,
+      "end": 231.958,
+      "text": "In 1995, more than a decade after her first course of ECT, the nurse decided to publish an account of her experience.",
+      "translation": "1995年，在第一次接受ECT治疗的十多年后，那名护士决定出版她的经历。"
+    },
+    {
+      "id": 35,
+      "start": 232.008,
+      "end": 244.338,
+      "text": "Because of the stigma surrounding the treatment, she worried that doing so might negatively impact her personal and professional life, but she knew ECT could make a difference for patients when all else failed.",
+      "translation": "因为这项治疗有很多骂名，她担心这样的做法或许会影响个人和职业生活，但她知道当其他疗法不管用时， ECT可以造福病人。"
+    },
+    {
+      "id": 36,
+      "start": 244.388,
+      "end": 254.95,
+      "text": "Though misperceptions about ECT persist, accounts like hers have helped make doctors and patients alike aware of the treatment’s life changing potential.",
+      "translation": "尽管关于ECT的误解依旧存在，像这名护士这样的经历 已经帮助医生和病人意识到ECT疗法很可能会改变人生。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.748,
+      "text": "In 1982, a young nurse was suffering from severe, unrelenting depression.",
+      "end": 13.197999999999999
+    },
+    {
+      "start": 13.248,
+      "text": "She couldn’t work, socialize,",
+      "end": 14.838
+    },
+    {
+      "start": 14.888,
+      "text": "or even concentrate well enough to read the newspaper.",
+      "end": 19.137999999999998
+    },
+    {
+      "start": 19.188,
+      "text": "One treatment changed everything.",
+      "end": 21.828
+    },
+    {
+      "start": 21.878,
+      "text": "After two courses of electroconvulsive therapy, or ECT, her symptoms lifted.",
+      "end": 28.618
+    },
+    {
+      "start": 28.668,
+      "text": "She went back to work, then on to graduate school, where she earned high grades.",
+      "end": 33.458000000000006
+    },
+    {
+      "start": 33.508,
+      "text": "At first, she talked openly about her life changing treatment.",
+      "end": 37.868
+    },
+    {
+      "start": 37.918,
+      "text": "But as she realized many people had an extremely negative impression of ECT,",
+      "end": 42.138000000000005
+    },
+    {
+      "start": 42.188,
+      "text": "she stopped sharing her experience.",
+      "end": 45.488
+    },
+    {
+      "start": 45.538,
+      "text": "ECT carried a deep stigma,",
+      "end": 47.678000000000004
+    },
+    {
+      "start": 47.728,
+      "text": "leftover from a history that bears little resemblance to the modern procedure.",
+      "end": 52.218
+    },
+    {
+      "start": 52.268,
+      "text": "The therapy was first used in medicine in 1938.",
+      "end": 55.988
+    },
+    {
+      "start": 56.038,
+      "text": "In its early years, doctors administered a strong electrical current to the brain,",
+      "end": 61.178000000000004
+    },
+    {
+      "start": 61.228,
+      "text": "causing a whole-body seizure during which",
+      "end": 63.948
+    },
+    {
+      "start": 63.998,
+      "text": "patients might bite their tongues or even break bones.",
+      "end": 68.22800000000001
+    },
+    {
+      "start": 68.278,
+      "text": "Modern ECT is very different.",
+      "end": 71.278
+    },
+    {
+      "start": 71.328,
+      "text": "While a patient is under general anesthesia,",
+      "end": 74.288
+    },
+    {
+      "start": 74.338,
+      "text": "electrodes deliver a series of mild electrical pulses to the brain.",
+      "end": 79.248
+    },
+    {
+      "start": 79.298,
+      "text": "This causes huge numbers of neurons to fire in unison:",
+      "end": 83.678
+    },
+    {
+      "start": 83.728,
+      "text": "a brief, controlled seizure.",
+      "end": 86.86800000000001
+    },
+    {
+      "start": 86.918,
+      "text": "A muscle relaxant keeps spasms from spreading to the rest of his body.",
+      "end": 91.08800000000001
+    },
+    {
+      "start": 91.138,
+      "text": "The only physical indication of the electricity flooding the brain",
+      "end": 95.058
+    },
+    {
+      "start": 95.108,
+      "text": "is a twitching foot.",
+      "end": 97.268
+    },
+    {
+      "start": 97.318,
+      "text": "The treatment lasts for about a minute, and most patients are able",
+      "end": 100.378
+    },
+    {
+      "start": 100.428,
+      "text": "to resume normal activities about an hour after each session.",
+      "end": 105.048
+    },
+    {
+      "start": 105.098,
+      "text": "ECT is commonly used to treat severe cases of major depression or bipolar disorder",
+      "end": 111.248
+    },
+    {
+      "start": 111.298,
+      "text": "in patients who haven’t responded to other therapies,",
+      "end": 114.578
+    },
+    {
+      "start": 114.628,
+      "text": "or who have had adverse reactions to medication.",
+      "end": 117.898
+    },
+    {
+      "start": 117.948,
+      "text": "Half or more of those who undergo treatment experience an improvement",
+      "end": 121.83800000000001
+    },
+    {
+      "start": 121.888,
+      "text": "in their symptoms.",
+      "end": 123.708
+    },
+    {
+      "start": 123.758,
+      "text": "Most patients treated with ECT have two or three sessions per week for several weeks.",
+      "end": 129.31799999999998
+    },
+    {
+      "start": 129.368,
+      "text": "Some begin to notice an improvement in their symptoms after just one session,",
+      "end": 133.85799999999998
+    },
+    {
+      "start": 133.908,
+      "text": "while others take longer to respond.",
+      "end": 136.748
+    },
+    {
+      "start": 136.798,
+      "text": "Patients often continue less frequent treatments for several months to a year,",
+      "end": 141.128
+    },
+    {
+      "start": 141.178,
+      "text": "and some need occasional maintenance sessions for the rest of their lives.",
+      "end": 145.88799999999998
+    },
+    {
+      "start": 145.938,
+      "text": "Modern ECT is much safer than it used to be,",
+      "end": 148.518
+    },
+    {
+      "start": 148.568,
+      "text": "but patients can still experience side effects.",
+      "end": 151.528
+    },
+    {
+      "start": 151.578,
+      "text": "They may feel achy, fatigued, or nauseated right after treatment.",
+      "end": 156.058
+    },
+    {
+      "start": 156.108,
+      "text": "Some have trouble remembering what happened right before a session—",
+      "end": 159.25799999999998
+    },
+    {
+      "start": 159.308,
+      "text": "for example, what they had for dinner the previous evening.",
+      "end": 162.518
+    },
+    {
+      "start": 162.568,
+      "text": "Rarely, they might have trouble remembering up to weeks and months before.",
+      "end": 167.208
+    },
+    {
+      "start": 167.258,
+      "text": "For most patients, this memory loss does improve over time.",
+      "end": 171.648
+    },
+    {
+      "start": 171.698,
+      "text": "What's fascinating is that despite its proven track record,",
+      "end": 174.768
+    },
+    {
+      "start": 174.818,
+      "text": "we still don't know exactly why ECT works.",
+      "end": 179.10799999999998
+    },
+    {
+      "start": 179.158,
+      "text": "Neurons in the brain communicate via electrical signals,",
+      "end": 181.998
+    },
+    {
+      "start": 182.048,
+      "text": "which influence our brain chemistry, contributing to mood and behavior.",
+      "end": 186.618
+    },
+    {
+      "start": 186.668,
+      "text": "The flood of electrical activity sparked by ECT alters that chemistry.",
+      "end": 192.368
+    },
+    {
+      "start": 192.418,
+      "text": "For example, ECT triggers the release of certain neurotransmitters,",
+      "end": 196.808
+    },
+    {
+      "start": 196.858,
+      "text": "molecules that help carry signals between neurons and influence mental health.",
+      "end": 201.128
+    },
+    {
+      "start": 201.178,
+      "text": "ECT also stimulates the flow of hormones that may help reduce symptoms of depression.",
+      "end": 206.958
+    },
+    {
+      "start": 207.008,
+      "text": "Interestingly, ECT maintenance works better when paired with medication,",
+      "end": 211.44799999999998
+    },
+    {
+      "start": 211.498,
+      "text": "even in patients who were resistant to medication before.",
+      "end": 215.10799999999998
+    },
+    {
+      "start": 215.158,
+      "text": "As we come to a better understanding of the brain,",
+      "end": 217.958
+    },
+    {
+      "start": 218.008,
+      "text": "we’ll likely be able to make ECT even more effective.",
+      "end": 223.338
+    },
+    {
+      "start": 223.388,
+      "text": "In 1995, more than a decade after her first course of ECT,",
+      "end": 228.07799999999997
+    },
+    {
+      "start": 228.128,
+      "text": "the nurse decided to publish an account of her experience.",
+      "end": 231.958
+    },
+    {
+      "start": 232.008,
+      "text": "Because of the stigma surrounding the treatment,",
+      "end": 233.94799999999998
+    },
+    {
+      "start": 233.998,
+      "text": "she worried that doing so might negatively impact",
+      "end": 236.468
+    },
+    {
+      "start": 236.518,
+      "text": "her personal and professional life,",
+      "end": 238.82799999999997
+    },
+    {
+      "start": 238.878,
+      "text": "but she knew ECT could make a difference for patients when all else failed.",
+      "end": 244.338
+    },
+    {
+      "start": 244.388,
+      "text": "Though misperceptions about ECT persist,",
+      "end": 247.048
+    },
+    {
+      "start": 247.098,
+      "text": "accounts like hers have helped make doctors and patients alike",
+      "end": 250.304
+    },
+    {
+      "start": 250.354,
+      "text": "aware of the treatment’s life changing potential.",
+      "end": 254.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.748,
+      "text": "在1982年，一个年轻的护士 饱受持续的严重抑郁症困扰。",
+      "end": 13.197999999999999
+    },
+    {
+      "start": 13.248,
+      "text": "她不能工作，社交，",
+      "end": 14.838
+    },
+    {
+      "start": 14.888,
+      "text": "甚至不能集中注意力阅读报纸。",
+      "end": 19.137999999999998
+    },
+    {
+      "start": 19.188,
+      "text": "一次治疗改变了一切。",
+      "end": 21.828
+    },
+    {
+      "start": 21.878,
+      "text": "在两次电休克（ECT）疗程之后， 她的症状得到改善。",
+      "end": 28.618
+    },
+    {
+      "start": 28.668,
+      "text": "她重新工作，然后去了 研究生院，取得高分成绩。",
+      "end": 33.458000000000006
+    },
+    {
+      "start": 33.508,
+      "text": "一开始，她公开谈论改变她人生的治疗。",
+      "end": 37.868
+    },
+    {
+      "start": 37.918,
+      "text": "但当她意识到很多人 对ECT有非常负面的印象时，",
+      "end": 42.138000000000005
+    },
+    {
+      "start": 42.188,
+      "text": "她不再分享经验。",
+      "end": 45.488
+    },
+    {
+      "start": 45.538,
+      "text": "ECT背负着深深的污名，",
+      "end": 47.678000000000004
+    },
+    {
+      "start": 47.728,
+      "text": "历史遗留下来的污名， 即认为它和现代做法相去甚远。",
+      "end": 52.218
+    },
+    {
+      "start": 52.268,
+      "text": "该疗法在1938年第一次 在医学得到上运用。",
+      "end": 55.988
+    },
+    {
+      "start": 56.038,
+      "text": "在早期，医生会对大脑施加强电流，",
+      "end": 61.178000000000004
+    },
+    {
+      "start": 61.228,
+      "text": "导致全身痉挛，",
+      "end": 63.948
+    },
+    {
+      "start": 63.998,
+      "text": "期间病人会咬舌甚至折断骨头。",
+      "end": 68.22800000000001
+    },
+    {
+      "start": 68.278,
+      "text": "现代ECT则非常不同。",
+      "end": 71.278
+    },
+    {
+      "start": 71.328,
+      "text": "病人处于全身麻醉时，",
+      "end": 74.288
+    },
+    {
+      "start": 74.338,
+      "text": "电极将轻微的电脉冲输进大脑。",
+      "end": 79.248
+    },
+    {
+      "start": 79.298,
+      "text": "这使大量神经元一齐激活：",
+      "end": 83.678
+    },
+    {
+      "start": 83.728,
+      "text": "带来简短、可控的发作。",
+      "end": 86.86800000000001
+    },
+    {
+      "start": 86.918,
+      "text": "肌肉松弛剂防止痉挛蔓延全身。",
+      "end": 91.08800000000001
+    },
+    {
+      "start": 91.138,
+      "text": "电流涌入大脑的唯一身体反应是",
+      "end": 95.058
+    },
+    {
+      "start": 95.108,
+      "text": "脚痉挛。",
+      "end": 97.268
+    },
+    {
+      "start": 97.318,
+      "text": "治疗时长为一分钟， 并且大多数病人",
+      "end": 100.378
+    },
+    {
+      "start": 100.428,
+      "text": "在一小时之后能恢复正常活动。",
+      "end": 105.048
+    },
+    {
+      "start": 105.098,
+      "text": "ECT主要用于治疗其他疗法无效的",
+      "end": 111.248
+    },
+    {
+      "start": 111.298,
+      "text": "重度抑郁或燥郁症病人，",
+      "end": 114.578
+    },
+    {
+      "start": 114.628,
+      "text": "或是对药物有不良反应的病人。",
+      "end": 117.898
+    },
+    {
+      "start": 117.948,
+      "text": "一半及以上接受治疗的病人",
+      "end": 121.83800000000001
+    },
+    {
+      "start": 121.888,
+      "text": "得到好转。",
+      "end": 123.708
+    },
+    {
+      "start": 123.758,
+      "text": "多数接受ECT的病人在连续几周内， 每周都会接受两到三次的治疗。",
+      "end": 129.31799999999998
+    },
+    {
+      "start": 129.368,
+      "text": "一些人仅在一次治疗后症状就有所改善，",
+      "end": 133.85799999999998
+    },
+    {
+      "start": 133.908,
+      "text": "而其他人则需要更长时间。",
+      "end": 136.748
+    },
+    {
+      "start": 136.798,
+      "text": "病人通常会继续治疗，但降低频率， 从几个月到一年不等，",
+      "end": 141.128
+    },
+    {
+      "start": 141.178,
+      "text": "而有些病人在余生需要偶尔进行维持治疗。",
+      "end": 145.88799999999998
+    },
+    {
+      "start": 145.938,
+      "text": "现代ECT比以前更加安全，",
+      "end": 148.518
+    },
+    {
+      "start": 148.568,
+      "text": "但依旧有副作用。",
+      "end": 151.528
+    },
+    {
+      "start": 151.578,
+      "text": "治疗之后，病人可能会感到疼痛、虚弱或恶心。",
+      "end": 156.058
+    },
+    {
+      "start": 156.108,
+      "text": "一些病人则会记不起来治疗之前发生的事，",
+      "end": 159.25799999999998
+    },
+    {
+      "start": 159.308,
+      "text": "比如他们前一天晚餐吃了什么。",
+      "end": 162.518
+    },
+    {
+      "start": 162.568,
+      "text": "极少有的情况下， 病人会记不起几周几月前的事。",
+      "end": 167.208
+    },
+    {
+      "start": 167.258,
+      "text": "大多数病人的失忆情况会随着时间改善。",
+      "end": 171.648
+    },
+    {
+      "start": 171.698,
+      "text": "有意思的是，尽管ECT证实有效，",
+      "end": 174.768
+    },
+    {
+      "start": 174.818,
+      "text": "我们依旧不知道它究竟为什么起作用。",
+      "end": 179.10799999999998
+    },
+    {
+      "start": 179.158,
+      "text": "大脑中的神经元通过电信号交流，",
+      "end": 181.998
+    },
+    {
+      "start": 182.048,
+      "text": "影响大脑化学性质， 进而影响情绪和行为。",
+      "end": 186.618
+    },
+    {
+      "start": 186.668,
+      "text": "ECT引起的大量电子活动 改变了这种化学性质。",
+      "end": 192.368
+    },
+    {
+      "start": 192.418,
+      "text": "例如，ECT促进释放神经递质，",
+      "end": 196.808
+    },
+    {
+      "start": 196.858,
+      "text": "传递神经元之间的信号从而影响精神健康。",
+      "end": 201.128
+    },
+    {
+      "start": 201.178,
+      "text": "ECT也可以刺激荷尔蒙流动， 帮助缓解抑郁症症状。",
+      "end": 206.958
+    },
+    {
+      "start": 207.008,
+      "text": "有趣的是，搭配药物可以 更好的维持ECT疗效，",
+      "end": 211.44799999999998
+    },
+    {
+      "start": 211.498,
+      "text": "既是对之前抗拒药物的病人 来说也是如此。",
+      "end": 215.10799999999998
+    },
+    {
+      "start": 215.158,
+      "text": "随着我们对大脑进一步了解，",
+      "end": 217.958
+    },
+    {
+      "start": 218.008,
+      "text": "我们可能可以使ECT更加有效。",
+      "end": 223.338
+    },
+    {
+      "start": 223.388,
+      "text": "1995年，在第一次接受ECT治疗的十多年后，",
+      "end": 228.07799999999997
+    },
+    {
+      "start": 228.128,
+      "text": "那名护士决定出版她的经历。",
+      "end": 231.958
+    },
+    {
+      "start": 232.008,
+      "text": "因为这项治疗有很多骂名，",
+      "end": 233.94799999999998
+    },
+    {
+      "start": 233.998,
+      "text": "她担心这样的做法或许会影响",
+      "end": 236.468
+    },
+    {
+      "start": 236.518,
+      "text": "个人和职业生活，",
+      "end": 238.82799999999997
+    },
+    {
+      "start": 238.878,
+      "text": "但她知道当其他疗法不管用时， ECT可以造福病人。",
+      "end": 244.338
+    },
+    {
+      "start": 244.388,
+      "text": "尽管关于ECT的误解依旧存在，",
+      "end": 247.048
+    },
+    {
+      "start": 247.098,
+      "text": "像这名护士这样的经历 已经帮助医生和病人意识到",
+      "end": 250.304
+    },
+    {
+      "start": 250.354,
+      "text": "ECT疗法很可能会改变人生。",
+      "end": 254.95
+    }
+  ]
+};

@@ -1,0 +1,1062 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Sherlock Holmes and the crime of the century",
+    "speaker": "Alex Rosenthal",
+    "duration": 297,
+    "slug": "alex_rosenthal_sherlock_holmes_and_the_crime_of_the_century",
+    "sourcePage": "https://www.ted.com/talks/alex_rosenthal_sherlock_holmes_and_the_crime_of_the_century",
+    "translationSourcePage": "https://www.ted.com/talks/alex_rosenthal_sherlock_holmes_and_the_crime_of_the_century?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/67/17/001/products/2022e-alex-rosenthal-sherlock-redheaded-league-001-fallback-a0a51fbc-33a9-47dc-a6ab-0cbe9f0440d6-1200k.mp4",
+    "youtubeId": "5pBGutEhZes",
+    "youtubeTitle": "Sherlock Holmes and the crime of the century - Alex Rosenthal"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.17,
+      "end": 20.133,
+      "text": "I called upon my friend, Mr. Sherlock Holmes, one day in the autumn of last year and found him in deep conversation with a very stout, florid-faced, elderly gentleman with fiery red hair.",
+      "translation": "去年秋天的某日，我拜访了好友夏洛克·福尔摩斯先生， 发现他正在和一位上了年纪却身材健壮、面色红润， 留了一头火红头发的绅士详谈。"
+    },
+    {
+      "id": 2,
+      "start": 20.183,
+      "end": 31.019,
+      "text": "Where I saw merely an unhappy tradesman, Sherlock observed a Freemason who had done manual labor, visited China, and written quite a bit recently.",
+      "translation": "在我眼中他不过是一位闷闷不乐的商人，夏洛克却发现他是一位 做过体力劳动的共济会成员，去过中国，最近写过不少东西，"
+    },
+    {
+      "id": 3,
+      "start": 31.069,
+      "end": 35.356,
+      "text": "And this last inference was at the heart of the matter.",
+      "translation": "而最后一点是问题的关键。"
+    },
+    {
+      "id": 4,
+      "start": 35.406,
+      "end": 39.569,
+      "text": "This gentleman, Mr. Jabez Wilson, was a pawnbroker.",
+      "translation": "这位绅士贾贝兹·威尔逊（Jabez Wilson） 先生曾是一位当铺老板。"
+    },
+    {
+      "id": 5,
+      "start": 39.619,
+      "end": 43.698,
+      "text": "Two months ago he answered a peculiar newspaper advertisement.",
+      "translation": "两个月前，他看到一则奇怪的报纸广告。"
+    },
+    {
+      "id": 6,
+      "start": 43.748,
+      "end": 57.17,
+      "text": "The mysterious League of Red-Headed Men had announced an opening that came with a significant cash incentive, and every red-headed man above the age of 21 in London was encouraged to apply.",
+      "translation": "神秘的红发男子联盟 宣布了一个空缺职位报酬颇为丰厚，欢迎伦敦所有 21 岁 以上的红发男子申请。"
+    },
+    {
+      "id": 7,
+      "start": 57.22,
+      "end": 67.388,
+      "text": "Wilson was hesitant to go; it seemed too strange to be true, but his assistant of recent employ, who found the ad in the first place, convinced him to.",
+      "translation": "因看似奇怪，难以置信， 使得威尔逊犹豫不决，是他最先发现这则广告的新助手说服了他去尝试。"
+    },
+    {
+      "id": 8,
+      "start": 67.438,
+      "end": 74.103,
+      "text": "Outside the League’s office, they found hundreds of men, all awaiting their shots at the position.",
+      "translation": "在联盟办公室外， 他们发现了数百名男子，都在等着争取这个机会。"
+    },
+    {
+      "id": 9,
+      "start": 74.153,
+      "end": 83.529,
+      "text": "Seeing Wilson's particularly magnificent hair, the hosts parted the red sea and ushered him through to a room with a little man.",
+      "translation": "看到威尔逊特别出众的头发，主办人带着他穿过人海， 将他领进了一个房间。"
+    },
+    {
+      "id": 10,
+      "start": 83.579,
+      "end": 92.163,
+      "text": "This interviewer, one Duncan Ross, subjected Wilson to a single, painful test, then inducted him into the League.",
+      "translation": "这位面试官邓肯·罗斯 （Duncan Ross）对威尔逊进行了一次痛苦的考验，然后将他介绍进了联盟。"
+    },
+    {
+      "id": 11,
+      "start": 92.213,
+      "end": 100.213,
+      "text": "All he had to do to receive his stipend was spend four hours here every day transcribing the encyclopedia.",
+      "translation": "为了获得报酬，他所要做的 就是每天在这里花四个小时抄写百科全书。"
+    },
+    {
+      "id": 12,
+      "start": 100.263,
+      "end": 103.591,
+      "text": "He’d be paid handsomely; much more than his day job.",
+      "translation": "他会得到丰厚的报酬； 远远超过他的日常工作。"
+    },
+    {
+      "id": 13,
+      "start": 103.641,
+      "end": 110.89,
+      "text": "Wilson, of course, accepted, and showed up to that address every day without fail for two months.",
+      "translation": "当然，威尔逊接受了，并在两个月内，每天 都无一例外地出现在那里。"
+    },
+    {
+      "id": 14,
+      "start": 110.94,
+      "end": 118.606,
+      "text": "Including today, when he was shocked to discover a sign saying that the League had been disbanded.",
+      "translation": "直到今天，他震惊地发现了一个标语，上面写着联盟已经解散。"
+    },
+    {
+      "id": 15,
+      "start": 118.656,
+      "end": 121.692,
+      "text": "Ross, meanwhile, had disappeared without a trace.",
+      "translation": "与此同时，罗斯失踪得无影无踪。"
+    },
+    {
+      "id": 16,
+      "start": 121.742,
+      "end": 128.533,
+      "text": "So Wilson turned to the one man who might make red heads or red tails of these events.",
+      "translation": "因此，威尔逊只得求助于唯一能摸清关于这些红头事件来龙去脉的人。"
+    },
+    {
+      "id": 17,
+      "start": 128.583,
+      "end": 138.251,
+      "text": "Sherlock accepted the remarkable case and whisked me to Wilson’s place of business, where his assistant, a young man named Vincent Spaulding, answered the door.",
+      "translation": "夏洛克接受了这个非同寻常的案例，带我去了威尔逊的商店，他的助手，一个名叫文森特·斯波尔丁 （Vincent Spaulding）的年轻人，接待了我们。"
+    },
+    {
+      "id": 18,
+      "start": 138.301,
+      "end": 144.465,
+      "text": "Sherlock asked him nothing more than walking directions to the Strand and concluded the interview.",
+      "translation": "夏洛克只是问了他 前往斯特兰德河的步行路线，便算是结束了问话。"
+    },
+    {
+      "id": 19,
+      "start": 144.515,
+      "end": 150.68,
+      "text": "The great detective proceeded to examine the area, then led me on a stroll around the block.",
+      "translation": "这位伟大的侦探开始调查该区域，然后带我去街区里漫步。"
+    },
+    {
+      "id": 20,
+      "start": 150.73,
+      "end": 159.522,
+      "text": "Satisfied, he instructed me, to my great surprise, to meet him at Baker Street at 10 pm to thwart a considerable crime.",
+      "translation": "令我惊讶的是，他心满意足地 指示我晚上10 点在贝克街与他见面， 以挫败一起重大犯罪。"
+    },
+    {
+      "id": 21,
+      "start": 159.572,
+      "end": 165.486,
+      "text": "I ask you this: what was the crime and who was going to commit it?",
+      "translation": "现在我问你：罪行是什么， 又是谁将犯下罪行？"
+    },
+    {
+      "id": 22,
+      "start": 165.536,
+      "end": 171.534,
+      "text": "That night, at the doorstep of 221B Baker Street, I discovered a carriage waiting.",
+      "translation": "那天晚上，在 贝克街 221B 号的门口，我发现一辆马车在等着。"
+    },
+    {
+      "id": 23,
+      "start": 171.584,
+      "end": 176.914,
+      "text": "Inside, Sherlock and two other men: a bank director and a police officer.",
+      "translation": "里面有夏洛克和另外两名男子： 一名银行行长和一名警察。"
+    },
+    {
+      "id": 24,
+      "start": 176.964,
+      "end": 180.918,
+      "text": "Sherlock explained: we’d gathered to prevent a robbery.",
+      "translation": "夏洛克解释说： 我们聚在这是为了防止抢劫。"
+    },
+    {
+      "id": 25,
+      "start": 180.968,
+      "end": 191.345,
+      "text": "Not just any robbery, the banker added; the theft of a massive quantity of French gold, on temporary storage in his bank’s subterranean vault.",
+      "translation": "这位银行家补充说， 这不是随随便便的抢劫案；而是对大量法国黄金有计谋的盗窃，这些黄金暂时存放在银行的地下金库中。"
+    },
+    {
+      "id": 26,
+      "start": 191.395,
+      "end": 200.73,
+      "text": "The carriage let us out, and there, in the cold recesses of the bank's basement, we found ... absolutely nothing of criminal consequence.",
+      "translation": "当我们下了马车，在那里， 在银行地下室寒冷的地下室里，我们发现……绝对没有犯罪迹象。"
+    },
+    {
+      "id": 27,
+      "start": 200.78,
+      "end": 205.651,
+      "text": "Sherlock told us to hide ourselves in the darkness, ready for a fight.",
+      "translation": "夏洛克叫我们躲在黑暗中，为战斗做好准备。"
+    },
+    {
+      "id": 28,
+      "start": 205.701,
+      "end": 210.698,
+      "text": "And at long last we heard a scratching, then a sliding sound.",
+      "translation": "我们终于听到了一声刮擦声， 然后是滑动的声音。"
+    },
+    {
+      "id": 29,
+      "start": 210.748,
+      "end": 221.5,
+      "text": "We leapt into action and, after a scuffle, detained two men: Wilson’s assistant Spaulding, and the man Wilson knew as Duncan Ross.",
+      "translation": "我们开始行动，在一场混战之后， 拘留了两名男子：威尔逊的助手斯波尔丁 和威尔逊认识的那位邓肯·罗斯。"
+    },
+    {
+      "id": 30,
+      "start": 221.55,
+      "end": 226.297,
+      "text": "Sherlock explained: the target all along had been the French gold.",
+      "translation": "夏洛克解释说： 目标一直就是法国黄金。"
+    },
+    {
+      "id": 31,
+      "start": 226.347,
+      "end": 233.93,
+      "text": "Spaulding knew it would be here, so he got himself employed by Wilson on account of the proximity of the pawnshop to the bank.",
+      "translation": "斯波尔丁知道它会在这里， 所以想办法让威尔逊聘用了他，因为当铺离银行很近。"
+    },
+    {
+      "id": 32,
+      "start": 233.98,
+      "end": 240.561,
+      "text": "But in order to dig a tunnel undetected, he’d need Wilson out of the way for long stretches.",
+      "translation": "但为了在不被发现 的情况下挖出一条隧道，他需要支开威尔逊，"
+    },
+    {
+      "id": 33,
+      "start": 240.611,
+      "end": 247.276,
+      "text": "And that was when he dreamed up the Red-Headed League, for which he recruited his accomplice.",
+      "translation": "这也就是为什么想出了红头联盟，为此他招募了同谋。"
+    },
+    {
+      "id": 34,
+      "start": 247.326,
+      "end": 258.537,
+      "text": "Every day while Wilson toiled away for a pittance compared to the value they’d steal, Spaulding and Ross dug their tunnel, finally reaching the bank vault today.",
+      "translation": "每天，当威尔逊辛勤工作以赚取 与他们偷走的价值相比微不足道的钱时，斯波尔丁和罗斯都在挖隧道， 终于在今天挖到了银行金库。"
+    },
+    {
+      "id": 35,
+      "start": 258.587,
+      "end": 270.132,
+      "text": "Sherlock wasn’t sure exactly what Spaulding was up to until he saw the worn and dusty knees of his trousers, and recognized him as notorious thief John Clay.",
+      "translation": "夏洛克不确定 斯波尔丁到底在干什么，直到他看见裤子上 有破旧和尘土飞扬的膝盖，并认出他是臭名昭著的小偷 约翰·克莱（John Clay）。"
+    },
+    {
+      "id": 36,
+      "start": 270.182,
+      "end": 277.556,
+      "text": "He tested the pavement by the pawn shop, and finding it hollow, rounded the block, where he discovered the true target.",
+      "translation": "他在当铺旁测试了人行道， 发现人行道是空心的，然后绕过了方块，在那里他发现了真正的目标。"
+    },
+    {
+      "id": 37,
+      "start": 277.606,
+      "end": 279.684,
+      "text": "“Poor Wilson,” I concluded.",
+      "translation": "“可怜的威尔逊，” 我总结道。"
+    },
+    {
+      "id": 38,
+      "start": 279.734,
+      "end": 283.062,
+      "text": "“Out of the best job of his life and 4 pounds per week.”",
+      "translation": "“失去了他一生中最好的工作， 每周 4 磅的工作。”"
+    },
+    {
+      "id": 39,
+      "start": 283.112,
+      "end": 296.95,
+      "text": "To which Sherlock retorted, “Have no pity, Watson; the man is richer by far in his newfound knowledge of aardvarks, Abbasids, acupuncture, and assorted other subjects that begin with the letter A.”",
+      "translation": "夏洛克反驳道： “没啥大不了，沃森；至少他对土拨鼠、阿巴斯王朝、针灸和其他各种以字母 A 开头 的主题有了更丰富的了解。”"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.17,
+      "text": "I called upon my friend, Mr. Sherlock Holmes,",
+      "end": 10.039
+    },
+    {
+      "start": 10.089,
+      "text": "one day in the autumn of last year and found him in deep conversation",
+      "end": 14.293
+    },
+    {
+      "start": 14.343,
+      "text": "with a very stout, florid-faced, elderly gentleman with fiery red hair.",
+      "end": 20.133
+    },
+    {
+      "start": 20.183,
+      "text": "Where I saw merely an unhappy tradesman,",
+      "end": 23.052
+    },
+    {
+      "start": 23.102,
+      "text": "Sherlock observed a Freemason who had done manual labor,",
+      "end": 27.14
+    },
+    {
+      "start": 27.19,
+      "text": "visited China, and written quite a bit recently.",
+      "end": 31.019
+    },
+    {
+      "start": 31.069,
+      "text": "And this last inference was at the heart of the matter.",
+      "end": 35.356
+    },
+    {
+      "start": 35.406,
+      "text": "This gentleman, Mr. Jabez Wilson, was a pawnbroker.",
+      "end": 39.569
+    },
+    {
+      "start": 39.619,
+      "text": "Two months ago he answered a peculiar newspaper advertisement.",
+      "end": 43.698
+    },
+    {
+      "start": 43.748,
+      "text": "The mysterious League of Red-Headed Men had announced an opening",
+      "end": 47.910000000000004
+    },
+    {
+      "start": 47.96,
+      "text": "that came with a significant cash incentive,",
+      "end": 51.080000000000005
+    },
+    {
+      "start": 51.13,
+      "text": "and every red-headed man above the age of 21 in London was encouraged to apply.",
+      "end": 57.17
+    },
+    {
+      "start": 57.22,
+      "text": "Wilson was hesitant to go; it seemed too strange to be true,",
+      "end": 61.549
+    },
+    {
+      "start": 61.599,
+      "text": "but his assistant of recent employ, who found the ad in the first place,",
+      "end": 65.887
+    },
+    {
+      "start": 65.937,
+      "text": "convinced him to.",
+      "end": 67.388
+    },
+    {
+      "start": 67.438,
+      "text": "Outside the League’s office, they found hundreds of men,",
+      "end": 71.10000000000001
+    },
+    {
+      "start": 71.15,
+      "text": "all awaiting their shots at the position.",
+      "end": 74.10300000000001
+    },
+    {
+      "start": 74.153,
+      "text": "Seeing Wilson's particularly magnificent hair,",
+      "end": 77.69
+    },
+    {
+      "start": 77.74,
+      "text": "the hosts parted the red sea and ushered him through to a room with a little man.",
+      "end": 83.529
+    },
+    {
+      "start": 83.579,
+      "text": "This interviewer, one Duncan Ross,",
+      "end": 86.324
+    },
+    {
+      "start": 86.374,
+      "text": "subjected Wilson to a single, painful test,",
+      "end": 89.452
+    },
+    {
+      "start": 89.502,
+      "text": "then inducted him into the League.",
+      "end": 92.163
+    },
+    {
+      "start": 92.213,
+      "text": "All he had to do to receive his stipend was spend four hours here every day",
+      "end": 97.71000000000001
+    },
+    {
+      "start": 97.76,
+      "text": "transcribing the encyclopedia.",
+      "end": 100.21300000000001
+    },
+    {
+      "start": 100.263,
+      "text": "He’d be paid handsomely; much more than his day job.",
+      "end": 103.59100000000001
+    },
+    {
+      "start": 103.641,
+      "text": "Wilson, of course, accepted,",
+      "end": 106.385
+    },
+    {
+      "start": 106.435,
+      "text": "and showed up to that address every day without fail for two months.",
+      "end": 110.89
+    },
+    {
+      "start": 110.94,
+      "text": "Including today, when he was shocked to discover a sign",
+      "end": 115.52
+    },
+    {
+      "start": 115.57,
+      "text": "saying that the League had been disbanded.",
+      "end": 118.60600000000001
+    },
+    {
+      "start": 118.656,
+      "text": "Ross, meanwhile, had disappeared without a trace.",
+      "end": 121.69200000000001
+    },
+    {
+      "start": 121.742,
+      "text": "So Wilson turned to the one man who might make red heads or red tails",
+      "end": 126.572
+    },
+    {
+      "start": 126.622,
+      "text": "of these events.",
+      "end": 128.533
+    },
+    {
+      "start": 128.583,
+      "text": "Sherlock accepted the remarkable case",
+      "end": 130.952
+    },
+    {
+      "start": 131.002,
+      "text": "and whisked me to Wilson’s place of business,",
+      "end": 133.45399999999998
+    },
+    {
+      "start": 133.504,
+      "text": "where his assistant, a young man named Vincent Spaulding,",
+      "end": 137.125
+    },
+    {
+      "start": 137.175,
+      "text": "answered the door.",
+      "end": 138.25099999999998
+    },
+    {
+      "start": 138.301,
+      "text": "Sherlock asked him nothing more than walking directions to the Strand",
+      "end": 142.255
+    },
+    {
+      "start": 142.305,
+      "text": "and concluded the interview.",
+      "end": 144.46499999999997
+    },
+    {
+      "start": 144.515,
+      "text": "The great detective proceeded to examine the area,",
+      "end": 147.593
+    },
+    {
+      "start": 147.643,
+      "text": "then led me on a stroll around the block.",
+      "end": 150.67999999999998
+    },
+    {
+      "start": 150.73,
+      "text": "Satisfied, he instructed me, to my great surprise,",
+      "end": 154.016
+    },
+    {
+      "start": 154.066,
+      "text": "to meet him at Baker Street at 10 pm to thwart a considerable crime.",
+      "end": 159.522
+    },
+    {
+      "start": 159.572,
+      "text": "I ask you this: what was the crime and who was going to commit it?",
+      "end": 165.486
+    },
+    {
+      "start": 165.536,
+      "text": "That night, at the doorstep of 221B Baker Street,",
+      "end": 169.65699999999998
+    },
+    {
+      "start": 169.707,
+      "text": "I discovered a carriage waiting.",
+      "end": 171.534
+    },
+    {
+      "start": 171.584,
+      "text": "Inside, Sherlock and two other men: a bank director and a police officer.",
+      "end": 176.914
+    },
+    {
+      "start": 176.964,
+      "text": "Sherlock explained: we’d gathered to prevent a robbery.",
+      "end": 180.91799999999998
+    },
+    {
+      "start": 180.968,
+      "text": "Not just any robbery, the banker added;",
+      "end": 183.421
+    },
+    {
+      "start": 183.471,
+      "text": "the theft of a massive quantity of French gold,",
+      "end": 187.21599999999998
+    },
+    {
+      "start": 187.266,
+      "text": "on temporary storage in his bank’s subterranean vault.",
+      "end": 191.345
+    },
+    {
+      "start": 191.395,
+      "text": "The carriage let us out, and there, in the cold recesses of the bank's basement,",
+      "end": 195.85
+    },
+    {
+      "start": 195.9,
+      "text": "we found ... absolutely nothing of criminal consequence.",
+      "end": 200.73
+    },
+    {
+      "start": 200.78,
+      "text": "Sherlock told us to hide ourselves in the darkness,",
+      "end": 204.066
+    },
+    {
+      "start": 204.116,
+      "text": "ready for a fight.",
+      "end": 205.65099999999998
+    },
+    {
+      "start": 205.701,
+      "text": "And at long last we heard a scratching, then a sliding sound.",
+      "end": 210.69799999999998
+    },
+    {
+      "start": 210.748,
+      "text": "We leapt into action and, after a scuffle, detained two men:",
+      "end": 215.036
+    },
+    {
+      "start": 215.086,
+      "text": "Wilson’s assistant Spaulding, and the man Wilson knew as Duncan Ross.",
+      "end": 221.5
+    },
+    {
+      "start": 221.55,
+      "text": "Sherlock explained: the target all along had been the French gold.",
+      "end": 226.297
+    },
+    {
+      "start": 226.347,
+      "text": "Spaulding knew it would be here, so he got himself employed by Wilson",
+      "end": 230.051
+    },
+    {
+      "start": 230.101,
+      "text": "on account of the proximity of the pawnshop to the bank.",
+      "end": 233.92999999999998
+    },
+    {
+      "start": 233.98,
+      "text": "But in order to dig a tunnel undetected,",
+      "end": 236.807
+    },
+    {
+      "start": 236.857,
+      "text": "he’d need Wilson out of the way for long stretches.",
+      "end": 240.56099999999998
+    },
+    {
+      "start": 240.611,
+      "text": "And that was when he dreamed up the Red-Headed League,",
+      "end": 244.523
+    },
+    {
+      "start": 244.573,
+      "text": "for which he recruited his accomplice.",
+      "end": 247.27599999999998
+    },
+    {
+      "start": 247.326,
+      "text": "Every day while Wilson toiled away for a pittance",
+      "end": 250.571
+    },
+    {
+      "start": 250.621,
+      "text": "compared to the value they’d steal,",
+      "end": 252.48999999999998
+    },
+    {
+      "start": 252.54,
+      "text": "Spaulding and Ross dug their tunnel, finally reaching the bank vault today.",
+      "end": 258.537
+    },
+    {
+      "start": 258.587,
+      "text": "Sherlock wasn’t sure exactly what Spaulding was up to",
+      "end": 261.87399999999997
+    },
+    {
+      "start": 261.924,
+      "text": "until he saw the worn and dusty knees of his trousers,",
+      "end": 265.294
+    },
+    {
+      "start": 265.344,
+      "text": "and recognized him as notorious thief John Clay.",
+      "end": 270.132
+    },
+    {
+      "start": 270.182,
+      "text": "He tested the pavement by the pawn shop, and finding it hollow, rounded the block,",
+      "end": 274.804
+    },
+    {
+      "start": 274.854,
+      "text": "where he discovered the true target.",
+      "end": 277.556
+    },
+    {
+      "start": 277.606,
+      "text": "“Poor Wilson,” I concluded.",
+      "end": 279.68399999999997
+    },
+    {
+      "start": 279.734,
+      "text": "“Out of the best job of his life and 4 pounds per week.”",
+      "end": 283.062
+    },
+    {
+      "start": 283.112,
+      "text": "To which Sherlock retorted, “Have no pity, Watson;",
+      "end": 286.10699999999997
+    },
+    {
+      "start": 286.157,
+      "text": "the man is richer by far in his newfound knowledge of aardvarks, Abbasids,",
+      "end": 290.82
+    },
+    {
+      "start": 290.87,
+      "text": "acupuncture, and assorted other subjects that begin with the letter A.”",
+      "end": 296.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.17,
+      "text": "去年秋天的某日，",
+      "end": 8.83
+    },
+    {
+      "start": 8.88,
+      "text": "我拜访了好友夏洛克·福尔摩斯先生， 发现他正在和一位上了年纪",
+      "end": 14.293
+    },
+    {
+      "start": 14.343,
+      "text": "却身材健壮、面色红润， 留了一头火红头发的绅士详谈。",
+      "end": 20.133
+    },
+    {
+      "start": 20.183,
+      "text": "在我眼中他不过是一位闷闷不乐的商人，",
+      "end": 23.052
+    },
+    {
+      "start": 23.102,
+      "text": "夏洛克却发现他是一位 做过体力劳动的共济会成员，",
+      "end": 27.14
+    },
+    {
+      "start": 27.19,
+      "text": "去过中国，最近写过不少东西，",
+      "end": 31.019
+    },
+    {
+      "start": 31.069,
+      "text": "而最后一点是问题的关键。",
+      "end": 35.356
+    },
+    {
+      "start": 35.406,
+      "text": "这位绅士贾贝兹·威尔逊（Jabez Wilson） 先生曾是一位当铺老板。",
+      "end": 39.569
+    },
+    {
+      "start": 39.619,
+      "text": "两个月前，他看到一则奇怪的报纸广告。",
+      "end": 43.698
+    },
+    {
+      "start": 43.748,
+      "text": "神秘的红发男子联盟 宣布了一个空缺职位",
+      "end": 47.910000000000004
+    },
+    {
+      "start": 47.96,
+      "text": "报酬颇为丰厚，",
+      "end": 51.080000000000005
+    },
+    {
+      "start": 51.13,
+      "text": "欢迎伦敦所有 21 岁 以上的红发男子申请。",
+      "end": 57.17
+    },
+    {
+      "start": 57.22,
+      "text": "因看似奇怪，难以置信， 使得威尔逊犹豫不决，",
+      "end": 61.549
+    },
+    {
+      "start": 61.599,
+      "text": "是他最先发现这则广告的新助手",
+      "end": 65.887
+    },
+    {
+      "start": 65.937,
+      "text": "说服了他去尝试。",
+      "end": 67.388
+    },
+    {
+      "start": 67.438,
+      "text": "在联盟办公室外， 他们发现了数百名男子，",
+      "end": 71.10000000000001
+    },
+    {
+      "start": 71.15,
+      "text": "都在等着争取这个机会。",
+      "end": 74.10300000000001
+    },
+    {
+      "start": 74.153,
+      "text": "看到威尔逊特别出众的头发，",
+      "end": 77.69
+    },
+    {
+      "start": 77.74,
+      "text": "主办人带着他穿过人海， 将他领进了一个房间。",
+      "end": 83.529
+    },
+    {
+      "start": 83.579,
+      "text": "这位面试官邓肯·罗斯 （Duncan Ross）",
+      "end": 86.324
+    },
+    {
+      "start": 86.374,
+      "text": "对威尔逊进行了一次痛苦的考验，",
+      "end": 89.452
+    },
+    {
+      "start": 89.502,
+      "text": "然后将他介绍进了联盟。",
+      "end": 92.163
+    },
+    {
+      "start": 92.213,
+      "text": "为了获得报酬，他所要做的 就是每天在这里花四个小时",
+      "end": 97.71000000000001
+    },
+    {
+      "start": 97.76,
+      "text": "抄写百科全书。",
+      "end": 100.21300000000001
+    },
+    {
+      "start": 100.263,
+      "text": "他会得到丰厚的报酬； 远远超过他的日常工作。",
+      "end": 103.59100000000001
+    },
+    {
+      "start": 103.641,
+      "text": "当然，威尔逊接受了，",
+      "end": 106.385
+    },
+    {
+      "start": 106.435,
+      "text": "并在两个月内，每天 都无一例外地出现在那里。",
+      "end": 110.89
+    },
+    {
+      "start": 110.94,
+      "text": "直到今天，他震惊地发现了",
+      "end": 115.52
+    },
+    {
+      "start": 115.57,
+      "text": "一个标语，上面写着联盟已经解散。",
+      "end": 118.60600000000001
+    },
+    {
+      "start": 118.656,
+      "text": "与此同时，罗斯失踪得无影无踪。",
+      "end": 121.69200000000001
+    },
+    {
+      "start": 121.742,
+      "text": "因此，威尔逊只得求助于唯一",
+      "end": 126.572
+    },
+    {
+      "start": 126.622,
+      "text": "能摸清关于这些红头事件来龙去脉的人。",
+      "end": 128.533
+    },
+    {
+      "start": 128.583,
+      "text": "夏洛克接受了这个非同寻常的案例，",
+      "end": 130.952
+    },
+    {
+      "start": 131.002,
+      "text": "带我去了威尔逊的商店，他的助手，",
+      "end": 134.37199999999999
+    },
+    {
+      "start": 134.422,
+      "text": "一个名叫文森特·斯波尔丁 （Vincent Spaulding）的年轻人，",
+      "end": 137.125
+    },
+    {
+      "start": 137.175,
+      "text": "接待了我们。",
+      "end": 138.25099999999998
+    },
+    {
+      "start": 138.301,
+      "text": "夏洛克只是问了他 前往斯特兰德河的步行路线，",
+      "end": 142.255
+    },
+    {
+      "start": 142.305,
+      "text": "便算是结束了问话。",
+      "end": 144.46499999999997
+    },
+    {
+      "start": 144.515,
+      "text": "这位伟大的侦探开始调查该区域，",
+      "end": 147.593
+    },
+    {
+      "start": 147.643,
+      "text": "然后带我去街区里漫步。",
+      "end": 150.67999999999998
+    },
+    {
+      "start": 150.73,
+      "text": "令我惊讶的是，他心满意足地 指示我晚上",
+      "end": 154.016
+    },
+    {
+      "start": 154.066,
+      "text": "10 点在贝克街与他见面， 以挫败一起重大犯罪。",
+      "end": 159.522
+    },
+    {
+      "start": 159.572,
+      "text": "现在我问你：罪行是什么， 又是谁将犯下罪行？",
+      "end": 165.486
+    },
+    {
+      "start": 165.536,
+      "text": "那天晚上，在 贝克街 221B 号的门口，",
+      "end": 169.65699999999998
+    },
+    {
+      "start": 169.707,
+      "text": "我发现一辆马车在等着。",
+      "end": 171.534
+    },
+    {
+      "start": 171.584,
+      "text": "里面有夏洛克和另外两名男子： 一名银行行长和一名警察。",
+      "end": 176.914
+    },
+    {
+      "start": 176.964,
+      "text": "夏洛克解释说： 我们聚在这是为了防止抢劫。",
+      "end": 180.91799999999998
+    },
+    {
+      "start": 180.968,
+      "text": "这位银行家补充说， 这不是随随便便的抢劫案；",
+      "end": 183.421
+    },
+    {
+      "start": 183.471,
+      "text": "而是对大量法国黄金有计谋的盗窃，",
+      "end": 187.21599999999998
+    },
+    {
+      "start": 187.266,
+      "text": "这些黄金暂时存放在银行的地下金库中。",
+      "end": 191.345
+    },
+    {
+      "start": 191.395,
+      "text": "当我们下了马车，在那里， 在银行地下室寒冷的地下室里，",
+      "end": 195.85
+    },
+    {
+      "start": 195.9,
+      "text": "我们发现……绝对没有犯罪迹象。",
+      "end": 200.73
+    },
+    {
+      "start": 200.78,
+      "text": "夏洛克叫我们躲在黑暗中，",
+      "end": 204.066
+    },
+    {
+      "start": 204.116,
+      "text": "为战斗做好准备。",
+      "end": 205.65099999999998
+    },
+    {
+      "start": 205.701,
+      "text": "我们终于听到了一声刮擦声， 然后是滑动的声音。",
+      "end": 210.69799999999998
+    },
+    {
+      "start": 210.748,
+      "text": "我们开始行动，在一场混战之后， 拘留了两名男子：",
+      "end": 215.036
+    },
+    {
+      "start": 215.086,
+      "text": "威尔逊的助手斯波尔丁 和威尔逊认识的那位邓肯·罗斯。",
+      "end": 221.5
+    },
+    {
+      "start": 221.55,
+      "text": "夏洛克解释说： 目标一直就是法国黄金。",
+      "end": 226.297
+    },
+    {
+      "start": 226.347,
+      "text": "斯波尔丁知道它会在这里， 所以想办法让威尔逊聘用了他，",
+      "end": 230.051
+    },
+    {
+      "start": 230.101,
+      "text": "因为当铺离银行很近。",
+      "end": 233.92999999999998
+    },
+    {
+      "start": 233.98,
+      "text": "但为了在不被发现 的情况下挖出一条隧道，",
+      "end": 236.807
+    },
+    {
+      "start": 236.857,
+      "text": "他需要支开威尔逊，",
+      "end": 240.56099999999998
+    },
+    {
+      "start": 240.611,
+      "text": "这也就是为什么想出了红头联盟，",
+      "end": 244.523
+    },
+    {
+      "start": 244.573,
+      "text": "为此他招募了同谋。",
+      "end": 247.27599999999998
+    },
+    {
+      "start": 247.326,
+      "text": "每天，当威尔逊辛勤工作以赚取 与他们偷走的价值",
+      "end": 250.571
+    },
+    {
+      "start": 250.621,
+      "text": "相比微不足道的钱时，",
+      "end": 252.48999999999998
+    },
+    {
+      "start": 252.54,
+      "text": "斯波尔丁和罗斯都在挖隧道， 终于在今天挖到了银行金库。",
+      "end": 258.537
+    },
+    {
+      "start": 258.587,
+      "text": "夏洛克不确定 斯波尔丁到底在干什么，",
+      "end": 261.87399999999997
+    },
+    {
+      "start": 261.924,
+      "text": "直到他看见裤子上 有破旧和尘土飞扬的膝盖，",
+      "end": 265.294
+    },
+    {
+      "start": 265.344,
+      "text": "并认出他是臭名昭著的小偷 约翰·克莱（John Clay）。",
+      "end": 270.132
+    },
+    {
+      "start": 270.182,
+      "text": "他在当铺旁测试了人行道， 发现人行道是空心的，然后绕过了方块，",
+      "end": 274.804
+    },
+    {
+      "start": 274.854,
+      "text": "在那里他发现了真正的目标。",
+      "end": 277.556
+    },
+    {
+      "start": 277.606,
+      "text": "“可怜的威尔逊，” 我总结道。",
+      "end": 279.68399999999997
+    },
+    {
+      "start": 279.734,
+      "text": "“失去了他一生中最好的工作， 每周 4 磅的工作。”",
+      "end": 283.062
+    },
+    {
+      "start": 283.112,
+      "text": "夏洛克反驳道： “没啥大不了，沃森；",
+      "end": 286.10699999999997
+    },
+    {
+      "start": 286.157,
+      "text": "至少他对土拨鼠、阿巴斯王朝、",
+      "end": 290.82
+    },
+    {
+      "start": 290.87,
+      "text": "针灸和其他各种以字母 A 开头 的主题有了更丰富的了解。”",
+      "end": 296.95
+    }
+  ]
+};

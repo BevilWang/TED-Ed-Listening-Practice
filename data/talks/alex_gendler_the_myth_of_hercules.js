@@ -1,0 +1,1514 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The myth of Hercules",
+    "speaker": "Alex Gendler",
+    "duration": 462,
+    "slug": "alex_gendler_the_myth_of_hercules",
+    "sourcePage": "https://www.ted.com/talks/alex_gendler_the_myth_of_hercules",
+    "translationSourcePage": "https://www.ted.com/talks/alex_gendler_the_myth_of_hercules?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/43/44/006/products/2018e-alex-gendler-labors-of-hercules-006-fallback-da7618ff772e45c3d3c3bfad27d7f2ee-1200k.mp4",
+    "youtubeId": "nIIjhAuC76g",
+    "youtubeTitle": "The myth of Hercules: 12 labors in 8-bits - Alex Gendler"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 11.597,
+      "end": 22.627,
+      "text": "Hercules, son of Zeus and champion of humankind, gazed in horror as he realized he had just committed the most unspeakable crime imaginable.",
+      "translation": "宙斯之子，人类王者赫拉克勒斯惊恐地瞪大了双眼，意识到自己刚刚犯下了 难以想象的可怕罪行。"
+    },
+    {
+      "id": 2,
+      "start": 22.677,
+      "end": 32.16,
+      "text": "The goddess Hera, who hated Hercules for being born of her husband’s adultery, had stricken him with a temporary curse of madness.",
+      "translation": "女神赫拉因痛恨赫拉克勒斯， 她丈夫的私生子，施法让他陷入短暂的癫狂状态，"
+    },
+    {
+      "id": 3,
+      "start": 32.21,
+      "end": 35.17,
+      "text": "And his own family were the casualties.",
+      "translation": "赫拉克勒斯的家人因此受害。"
+    },
+    {
+      "id": 4,
+      "start": 35.22,
+      "end": 48.625,
+      "text": "Consumed by grief, Hercules sought out the Oracle of Delphi, who told him the path to atonement lay with his cousin, King Eurystheus of Tiryns, a favorite of Hera’s.",
+      "translation": "赫拉克勒斯怀着悲痛 寻求德尔菲的神谕，被指点了一条救赎之路——即找到他的表兄，也是赫拉的宠信， 梯林斯的国王欧律斯透斯。"
+    },
+    {
+      "id": 5,
+      "start": 48.675,
+      "end": 59.813,
+      "text": "Eurystheus hoped to humiliate Hercules with ten impossible tasks that pitted him against invincible monsters and unfathomable forces.",
+      "translation": "欧律斯透斯计划用十项 不可能完成的任务羞辱赫拉克勒斯，这些任务包含难以战胜的怪兽，和深不可测的力量。"
+    },
+    {
+      "id": 6,
+      "start": 59.863,
+      "end": 68.877,
+      "text": "Instead, the king set the stage for an epic series of adventures that would come to be known as the Labors of Hercules.",
+      "translation": "国王此举反而成就了 一系列史诗探险，后来被称为赫拉克勒斯的伟业。"
+    },
+    {
+      "id": 7,
+      "start": 68.927,
+      "end": 76.447,
+      "text": "The first labor was to slay the Nemean Lion, who kidnapped women and devoured warriors.",
+      "translation": "第一项任务是杀死涅墨亚的狮子，这头狮子掳掠妇女，吞食战士，"
+    },
+    {
+      "id": 8,
+      "start": 76.497,
+      "end": 88.712,
+      "text": "Its golden fur was impervious to arrows, but Hercules cornered the lion in its dark cave, stunned it with a club, and strangled it with his bare hands.",
+      "translation": "连弓箭都无法穿透它的金色皮毛，但赫拉克勒斯将狮子 围困到黑暗的洞穴，用棍棒将其打晕，并徒手掐死了狮子。"
+    },
+    {
+      "id": 9,
+      "start": 88.762,
+      "end": 98.379,
+      "text": "He found no tool sharp enough to skin the beast, until the goddess Athena suggested using one of its own claws.",
+      "translation": "他找不到可以剥狮子皮的锋利工具，直到雅典娜建议他用狮爪剥下狮皮。"
+    },
+    {
+      "id": 10,
+      "start": 98.429,
+      "end": 108.008,
+      "text": "Hercules returned to Tiryns wearing the lion’s hide, frightening King Eurystheus so much that he hid in a wine jar.",
+      "translation": "赫拉克勒斯穿着这张兽皮返回梯林斯，吓得国王欧律斯透斯 躲到了红酒桶中。"
+    },
+    {
+      "id": 11,
+      "start": 108.058,
+      "end": 113.873,
+      "text": "From then on, Hercules was ordered to present his trophies at a safe distance.",
+      "translation": "从那以后，赫拉克勒斯被要求只能站在安全的距离展示他的战利品。"
+    },
+    {
+      "id": 12,
+      "start": 113.923,
+      "end": 120.066,
+      "text": "The second target was the Lernaean Hydra, a giant serpent with many heads.",
+      "translation": "第二个目标是水蛇海德拉， 一条长着多个脑袋的巨蟒。"
+    },
+    {
+      "id": 13,
+      "start": 120.116,
+      "end": 126.58,
+      "text": "Hercules fought fiercely, but every time he cut one head off, two more grew in its place.",
+      "translation": "赫拉克勒斯与之激烈地搏斗，但每当他砍掉一个蛇头， 原来的地方会重新长出两个头。"
+    },
+    {
+      "id": 14,
+      "start": 126.63,
+      "end": 135.925,
+      "text": "The battle was hopeless until his nephew Iolaus thought to cauterize the necks with fire, keeping the heads from regrowing.",
+      "translation": "战胜的希望渺茫，这时，赫拉克勒斯的侄子伊奥劳斯 提议用火来烧断蛇颈，阻止蛇头重新长出来。"
+    },
+    {
+      "id": 15,
+      "start": 135.975,
+      "end": 140.339,
+      "text": "The dead serpent’s remains became the Hydra constellation.",
+      "translation": "死掉的毒蛇尸体化为了长蛇座。"
+    },
+    {
+      "id": 16,
+      "start": 140.389,
+      "end": 146.307,
+      "text": "Instead of slaying a beast, Hercules next had to catch one, alive.",
+      "translation": "接下来的任务不是去杀猛兽， 而是要活捉牝鹿，"
+    },
+    {
+      "id": 17,
+      "start": 146.357,
+      "end": 151.916,
+      "text": "The Ceryneian Hind was a female deer so fast it could outrun an arrow.",
+      "translation": "刻律涅牝鹿是一种雌性鹿， 速度极快，可以躲过弓箭。"
+    },
+    {
+      "id": 18,
+      "start": 151.966,
+      "end": 158.989,
+      "text": "Hercules tracked it for a year, finally trapping it in the northern land of Hyperborea.",
+      "translation": "赫拉克勒斯追踪了它一整年，最终在亥帕波尼亚北部困住了它。"
+    },
+    {
+      "id": 19,
+      "start": 159.039,
+      "end": 165.607,
+      "text": "The animal turned out to be sacred to Artemis, goddess of the hunt, and Hercules swore to return it.",
+      "translation": "这只牝鹿竟是狩猎女神 阿尔忒弥斯的坐骑，赫拉克勒斯发誓一定会还回来。"
+    },
+    {
+      "id": 20,
+      "start": 165.657,
+      "end": 173.946,
+      "text": "When Eurystheus saw the hind, he demanded to keep it instead, but as soon as Hercules let go, the animal ran to its mistress.",
+      "translation": "但欧律斯透斯一看到牝鹿， 便要求将其留为己用，但是赫拉克勒斯刚一松手， 牝鹿便跑向了它的女主人。"
+    },
+    {
+      "id": 21,
+      "start": 173.996,
+      "end": 179.839,
+      "text": "Thus, Hercules completed his task without breaking his promise.",
+      "translation": "因此赫拉克勒斯既完成了任务， 也没有食言。"
+    },
+    {
+      "id": 22,
+      "start": 179.889,
+      "end": 186.09,
+      "text": "The fourth mission was to capture the Erymanthian boar, which had ravaged many fields.",
+      "translation": "第四项任务是 抓住厄律曼托斯的野猪，这头野猪践踏了许多田地。"
+    },
+    {
+      "id": 23,
+      "start": 186.14,
+      "end": 193.672,
+      "text": "Advised by the wise centaur Chiron, Hercules trapped it by chasing it into thick snow.",
+      "translation": "赫拉克勒斯按照半人马喀戎的建议，将野猪赶到积雪深厚的地方抓住了它。"
+    },
+    {
+      "id": 24,
+      "start": 193.722,
+      "end": 198.603,
+      "text": "For the fifth task, there were no animals, just their leftovers.",
+      "translation": "第五项任务不是动物， 而是动物的排泄物。"
+    },
+    {
+      "id": 25,
+      "start": 198.653,
+      "end": 205.742,
+      "text": "The stables where King Augeas kept his hundreds of divine cattle had not been maintained in ages.",
+      "translation": "国王奥吉亚斯的牛棚里 养着上百头神牛，数年来未曾打理，"
+    },
+    {
+      "id": 26,
+      "start": 205.792,
+      "end": 212.45,
+      "text": "Hercules promised to clean them in one day if he could keep one-tenth of the livestock.",
+      "translation": "赫拉克勒斯承诺在一天之内 将牛棚清洗完毕，条件是分给他十分之一的牛群。"
+    },
+    {
+      "id": 27,
+      "start": 212.5,
+      "end": 215.086,
+      "text": "Augeas expected the hero to fail.",
+      "translation": "奥吉亚斯认定赫拉克勒斯会失败。"
+    },
+    {
+      "id": 28,
+      "start": 215.136,
+      "end": 224.733,
+      "text": "Instead, Hercules dug massive trenches, rerouting two nearby rivers to flow through the stables until they were spotless.",
+      "translation": "但是，赫拉克勒斯挖了 一条巨大的沟渠，将两条附近的河流引经牛棚，直到将牛棚彻底冲洗干净。"
+    },
+    {
+      "id": 29,
+      "start": 224.783,
+      "end": 230.978,
+      "text": "Next came three more beastly foes, each requiring a clever strategy to defeat.",
+      "translation": "接下来要面对的是 三个更加残忍的对手，每一个都需要智谋来取胜。"
+    },
+    {
+      "id": 30,
+      "start": 231.028,
+      "end": 244.358,
+      "text": "The carnivorous Stymphalian birds nested in an impenetrable swamp, but Hercules used Athena’s special rattle to frighten them into the air, at which point he shot them down.",
+      "translation": "斯廷法利斯怪鸟 巢居在深不可测的沼泽，赫拉克勒斯在雅典娜的帮助下 用特殊的声响惊飞鸟群，之后瞄准飞起的鸟将其击落。"
+    },
+    {
+      "id": 31,
+      "start": 244.408,
+      "end": 252.821,
+      "text": "No mortal could stand before the Cretan bull’s mad rampage, but a chokehold from behind did the trick.",
+      "translation": "没有哪个凡人能挑战 疯狂肆虐的克里特公牛，但他从牛的背后 套住牛脖子制服了它。"
+    },
+    {
+      "id": 32,
+      "start": 252.871,
+      "end": 264.013,
+      "text": "And the mad King Diomedes, who had trained his horses to devour his guests, got a taste of his own medicine when Hercules wrestled him into his own stables.",
+      "translation": "接下来是疯王狄俄墨得斯，他训练食人马吃掉来宾，但最终却自食苦果。赫拉克勒斯把他扔到了马厩中，"
+    },
+    {
+      "id": 33,
+      "start": 264.063,
+      "end": 271.067,
+      "text": "The ensuing feast calmed the beasts enough for Hercules to bind their mouths.",
+      "translation": "食人马匹安静下来大快朵颐， 赫拉克勒斯借此机会绑住马嘴。"
+    },
+    {
+      "id": 34,
+      "start": 271.117,
+      "end": 279.046,
+      "text": "But the ninth labor involved someone more dangerous than any beast, Hippolyta, Queen of the Amazons.",
+      "translation": "第九项任务涉及到 比任何野兽都更可怕的人，亚马逊女王希波吕忒。"
+    },
+    {
+      "id": 35,
+      "start": 279.096,
+      "end": 286.438,
+      "text": "Hercules was to retrieve the belt given to her by her father Ares, the god of war.",
+      "translation": "赫拉克勒斯前去取回 女王之父战神阿瑞斯赠给她的腰带。"
+    },
+    {
+      "id": 36,
+      "start": 286.488,
+      "end": 298.125,
+      "text": "He sailed to the Amazon land of Themyscira prepared for battle, but the queen was so impressed with the hero and his exploits that she gave the belt willingly.",
+      "translation": "他航行到特弥斯奇拉的 亚马逊准备战斗时，女王被赫拉克勒斯的英雄事迹打动，自愿交出了腰带。"
+    },
+    {
+      "id": 37,
+      "start": 298.175,
+      "end": 308.585,
+      "text": "For his tenth labor, Hercules had to steal a herd of magical red cattle from Geryon, a giant with three heads and three bodies.",
+      "translation": "到了第十项考验，赫拉克勒斯需要从革律翁那里 偷回一群赤色疯牛，革律翁是拥有三个身体和 三个头的巨人。"
+    },
+    {
+      "id": 38,
+      "start": 308.635,
+      "end": 315.026,
+      "text": "On his way, Hercules was so annoyed by the Libyan desert heat that he shot an arrow at the Sun.",
+      "translation": "路途中，赫拉克勒斯被 利比亚沙漠的酷热折磨的心烦，于是便向太阳射了一箭。"
+    },
+    {
+      "id": 39,
+      "start": 315.076,
+      "end": 324.532,
+      "text": "The sun god Helios admired the hero’s strength and lent his chariot for the journey to the island of Erytheia.",
+      "translation": "太阳神赫利俄斯欣赏这位英雄的力量，把四马金车借给了他前往厄律忒亚岛。"
+    },
+    {
+      "id": 40,
+      "start": 324.582,
+      "end": 332.509,
+      "text": "There, Hercules fought off Geryon’s herdsman and his two-headed dog, before killing the giant himself.",
+      "translation": "赫拉克勒斯先与放牧人，还有双头猎狗搏斗， 最后杀死了巨人革律翁。"
+    },
+    {
+      "id": 41,
+      "start": 332.559,
+      "end": 334.129,
+      "text": "That should have been the end.",
+      "translation": "任务本应到此为止。"
+    },
+    {
+      "id": 42,
+      "start": 334.179,
+      "end": 344.915,
+      "text": "But Eurystheus announced that two labors hadn’t counted: the Hydra, because Iolaus had helped Hercules kill it, and the stables, because he’d accepted payment.",
+      "translation": "但欧律斯透斯宣布其中两项不算数：一项是毒蛇海德拉， 因为伊奥劳斯帮助了赫拉克勒斯，另一项是清洗牛棚， 因为他接受了赏赐。"
+    },
+    {
+      "id": 43,
+      "start": 344.965,
+      "end": 353.75,
+      "text": "And so, the hero set about his eleventh task, obtaining golden apples from the garden of the Hesperides nymphs.",
+      "translation": "于是这位英雄踏上旅程 完成第十一项任务——从赫斯帕里得斯仙女的花园中 摘取金苹果。"
+    },
+    {
+      "id": 44,
+      "start": 353.8,
+      "end": 363.194,
+      "text": "Hercules began by catching the Old Man of the Sea and holding the shape-shifting water-god until he revealed the garden’s location.",
+      "translation": "赫拉克勒斯先是抓住了海神，让这位能够改变水形态的神 说出花园的地点。"
+    },
+    {
+      "id": 45,
+      "start": 363.244,
+      "end": 368.446,
+      "text": "Once there, the hero found the titan Atlas holding up the heavens.",
+      "translation": "到达那里后，他发现 阿特拉斯巨人背负青天。"
+    },
+    {
+      "id": 46,
+      "start": 368.496,
+      "end": 373.452,
+      "text": "Hercules offered to take his place if Atlas would retrieve the apples.",
+      "translation": "他提议若阿特拉斯能够拿到金苹果， 他愿代替阿特拉斯的扛着青天。"
+    },
+    {
+      "id": 47,
+      "start": 373.502,
+      "end": 382.336,
+      "text": "Atlas eagerly complied, but Hercules then tricked him into trading places again, escaping with apples in hand.",
+      "translation": "阿特拉斯欣然同意，但赫拉克勒斯 之后又用计让他重新扛起青天，赫拉克勒斯拿着苹果逃跑了。"
+    },
+    {
+      "id": 48,
+      "start": 382.386,
+      "end": 390.876,
+      "text": "The twelfth and final task was to bring back Cerberus, the three-headed hound guarding the underworld.",
+      "translation": "第十二项，也是最终一项任务是 把刻耳柏洛斯带回来。这是一只守卫底地底世界的三头猎犬，"
+    },
+    {
+      "id": 49,
+      "start": 390.926,
+      "end": 396.902,
+      "text": "Helped by Hermes and Athena, Hercules descended and met Hades himself.",
+      "translation": "在赫尔墨斯和雅典娜的帮助下， 赫拉克勒斯见到了冥王哈德斯。"
+    },
+    {
+      "id": 50,
+      "start": 396.952,
+      "end": 406.6,
+      "text": "The lord of the dead allowed Hercules to take the beast if he could do it without weapons, which he achieved by grabbing all three of its heads at once.",
+      "translation": "冥王允许赫拉克勒斯带走猎犬，前提是他不能使用武器，赫拉克勒斯同时抓住 猎犬的三个脑袋，制服了它。"
+    },
+    {
+      "id": 51,
+      "start": 406.65,
+      "end": 414.523,
+      "text": "When he presented the hound to a horrified Eurystheus, the king finally declared the hero’s service complete.",
+      "translation": "当他将猎犬呈现给欧律斯透斯国王时， 国王大为震惊，并最终宣布赫拉克勒斯的任务 全部完成。"
+    },
+    {
+      "id": 52,
+      "start": 414.573,
+      "end": 424.078,
+      "text": "After 12 years of toil, Hercules had redeemed the tragic deaths of his family and earned a place in the divine pantheon.",
+      "translation": "经过了12年的辛劳，赫拉克勒斯从家族惨死的悲剧中 得到了救赎，并在万神庙中赢得了一席之地。"
+    },
+    {
+      "id": 53,
+      "start": 424.128,
+      "end": 427.685,
+      "text": "But his victory held an even deeper importance.",
+      "translation": "他的胜利还具有更深层次的意义，"
+    },
+    {
+      "id": 54,
+      "start": 427.735,
+      "end": 441.251,
+      "text": "In overcoming the chaotic and monstrous forces of the world, the hero swept away what remained of the Titans’ primordial order, reshaping it into one where humanity could thrive.",
+      "translation": "在面对世界上混乱可怕的力量时，这位英雄打破了神族的原始秩序，创造了让人类繁衍的秩序。"
+    },
+    {
+      "id": 55,
+      "start": 441.301,
+      "end": 461.95,
+      "text": "Through his labors, Hercules tamed the world’s madness by atoning for his own.",
+      "translation": "通过这些任务，赫拉克勒斯为自己赎了罪， 也训诫了世界上其他暴行。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 11.597,
+      "text": "Hercules, son of Zeus and champion of humankind,",
+      "end": 15.414
+    },
+    {
+      "start": 15.464,
+      "text": "gazed in horror as he realized",
+      "end": 17.826
+    },
+    {
+      "start": 17.876,
+      "text": "he had just committed the most unspeakable crime imaginable.",
+      "end": 22.627
+    },
+    {
+      "start": 22.677,
+      "text": "The goddess Hera, who hated Hercules for being born of her husband’s adultery,",
+      "end": 28.128999999999998
+    },
+    {
+      "start": 28.179,
+      "text": "had stricken him with a temporary curse of madness.",
+      "end": 32.160000000000004
+    },
+    {
+      "start": 32.21,
+      "text": "And his own family were the casualties.",
+      "end": 35.17
+    },
+    {
+      "start": 35.22,
+      "text": "Consumed by grief, Hercules sought out the Oracle of Delphi,",
+      "end": 39.816
+    },
+    {
+      "start": 39.866,
+      "text": "who told him the path to atonement lay with his cousin,",
+      "end": 43.907000000000004
+    },
+    {
+      "start": 43.957,
+      "text": "King Eurystheus of Tiryns, a favorite of Hera’s.",
+      "end": 48.625
+    },
+    {
+      "start": 48.675,
+      "text": "Eurystheus hoped to humiliate Hercules with ten impossible tasks",
+      "end": 53.841
+    },
+    {
+      "start": 53.891,
+      "text": "that pitted him against invincible monsters",
+      "end": 56.636
+    },
+    {
+      "start": 56.686,
+      "text": "and unfathomable forces.",
+      "end": 59.813
+    },
+    {
+      "start": 59.863,
+      "text": "Instead, the king set the stage for an epic series of adventures",
+      "end": 64.01100000000001
+    },
+    {
+      "start": 64.061,
+      "text": "that would come to be known as the Labors of Hercules.",
+      "end": 68.87700000000001
+    },
+    {
+      "start": 68.927,
+      "text": "The first labor was to slay the Nemean Lion,",
+      "end": 72.831
+    },
+    {
+      "start": 72.881,
+      "text": "who kidnapped women and devoured warriors.",
+      "end": 76.447
+    },
+    {
+      "start": 76.497,
+      "text": "Its golden fur was impervious to arrows,",
+      "end": 80.616
+    },
+    {
+      "start": 80.666,
+      "text": "but Hercules cornered the lion in its dark cave,",
+      "end": 83.94800000000001
+    },
+    {
+      "start": 83.998,
+      "text": "stunned it with a club,",
+      "end": 86.07300000000001
+    },
+    {
+      "start": 86.123,
+      "text": "and strangled it with his bare hands.",
+      "end": 88.712
+    },
+    {
+      "start": 88.762,
+      "text": "He found no tool sharp enough to skin the beast,",
+      "end": 92.401
+    },
+    {
+      "start": 92.451,
+      "text": "until the goddess Athena suggested using one of its own claws.",
+      "end": 98.379
+    },
+    {
+      "start": 98.429,
+      "text": "Hercules returned to Tiryns wearing the lion’s hide,",
+      "end": 102.187
+    },
+    {
+      "start": 102.237,
+      "text": "frightening King Eurystheus so much that he hid in a wine jar.",
+      "end": 108.00800000000001
+    },
+    {
+      "start": 108.058,
+      "text": "From then on, Hercules was ordered",
+      "end": 110.07600000000001
+    },
+    {
+      "start": 110.126,
+      "text": "to present his trophies at a safe distance.",
+      "end": 113.873
+    },
+    {
+      "start": 113.923,
+      "text": "The second target was the Lernaean Hydra, a giant serpent with many heads.",
+      "end": 120.066
+    },
+    {
+      "start": 120.116,
+      "text": "Hercules fought fiercely,",
+      "end": 121.946
+    },
+    {
+      "start": 121.996,
+      "text": "but every time he cut one head off, two more grew in its place.",
+      "end": 126.58
+    },
+    {
+      "start": 126.63,
+      "text": "The battle was hopeless",
+      "end": 128.262
+    },
+    {
+      "start": 128.312,
+      "text": "until his nephew Iolaus thought to cauterize the necks with fire,",
+      "end": 132.94299999999998
+    },
+    {
+      "start": 132.993,
+      "text": "keeping the heads from regrowing.",
+      "end": 135.92499999999998
+    },
+    {
+      "start": 135.975,
+      "text": "The dead serpent’s remains became the Hydra constellation.",
+      "end": 140.339
+    },
+    {
+      "start": 140.389,
+      "text": "Instead of slaying a beast, Hercules next had to catch one, alive.",
+      "end": 146.307
+    },
+    {
+      "start": 146.357,
+      "text": "The Ceryneian Hind was a female deer so fast it could outrun an arrow.",
+      "end": 151.916
+    },
+    {
+      "start": 151.966,
+      "text": "Hercules tracked it for a year,",
+      "end": 154.12099999999998
+    },
+    {
+      "start": 154.171,
+      "text": "finally trapping it in the northern land of Hyperborea.",
+      "end": 158.98899999999998
+    },
+    {
+      "start": 159.039,
+      "text": "The animal turned out to be sacred to Artemis, goddess of the hunt,",
+      "end": 162.97
+    },
+    {
+      "start": 163.02,
+      "text": "and Hercules swore to return it.",
+      "end": 165.607
+    },
+    {
+      "start": 165.657,
+      "text": "When Eurystheus saw the hind, he demanded to keep it instead,",
+      "end": 169.773
+    },
+    {
+      "start": 169.823,
+      "text": "but as soon as Hercules let go, the animal ran to its mistress.",
+      "end": 173.946
+    },
+    {
+      "start": 173.996,
+      "text": "Thus, Hercules completed his task without breaking his promise.",
+      "end": 179.839
+    },
+    {
+      "start": 179.889,
+      "text": "The fourth mission was to capture the Erymanthian boar,",
+      "end": 183.595
+    },
+    {
+      "start": 183.645,
+      "text": "which had ravaged many fields.",
+      "end": 186.08999999999997
+    },
+    {
+      "start": 186.14,
+      "text": "Advised by the wise centaur Chiron,",
+      "end": 189.916
+    },
+    {
+      "start": 189.966,
+      "text": "Hercules trapped it by chasing it into thick snow.",
+      "end": 193.672
+    },
+    {
+      "start": 193.722,
+      "text": "For the fifth task, there were no animals, just their leftovers.",
+      "end": 198.60299999999998
+    },
+    {
+      "start": 198.653,
+      "text": "The stables where King Augeas kept his hundreds of divine cattle",
+      "end": 203.374
+    },
+    {
+      "start": 203.424,
+      "text": "had not been maintained in ages.",
+      "end": 205.742
+    },
+    {
+      "start": 205.792,
+      "text": "Hercules promised to clean them in one day",
+      "end": 209.25
+    },
+    {
+      "start": 209.3,
+      "text": "if he could keep one-tenth of the livestock.",
+      "end": 212.45
+    },
+    {
+      "start": 212.5,
+      "text": "Augeas expected the hero to fail.",
+      "end": 215.08599999999998
+    },
+    {
+      "start": 215.136,
+      "text": "Instead, Hercules dug massive trenches,",
+      "end": 218.19199999999998
+    },
+    {
+      "start": 218.242,
+      "text": "rerouting two nearby rivers to flow through the stables",
+      "end": 222.326
+    },
+    {
+      "start": 222.376,
+      "text": "until they were spotless.",
+      "end": 224.73299999999998
+    },
+    {
+      "start": 224.783,
+      "text": "Next came three more beastly foes,",
+      "end": 227.696
+    },
+    {
+      "start": 227.746,
+      "text": "each requiring a clever strategy to defeat.",
+      "end": 230.97799999999998
+    },
+    {
+      "start": 231.028,
+      "text": "The carnivorous Stymphalian birds nested in an impenetrable swamp,",
+      "end": 237.28099999999998
+    },
+    {
+      "start": 237.331,
+      "text": "but Hercules used Athena’s special rattle to frighten them into the air,",
+      "end": 241.486
+    },
+    {
+      "start": 241.536,
+      "text": "at which point he shot them down.",
+      "end": 244.35799999999998
+    },
+    {
+      "start": 244.408,
+      "text": "No mortal could stand before the Cretan bull’s mad rampage,",
+      "end": 248.594
+    },
+    {
+      "start": 248.644,
+      "text": "but a chokehold from behind did the trick.",
+      "end": 252.821
+    },
+    {
+      "start": 252.871,
+      "text": "And the mad King Diomedes,",
+      "end": 255.12099999999998
+    },
+    {
+      "start": 255.171,
+      "text": "who had trained his horses to devour his guests,",
+      "end": 258.526
+    },
+    {
+      "start": 258.576,
+      "text": "got a taste of his own medicine",
+      "end": 260.51
+    },
+    {
+      "start": 260.56,
+      "text": "when Hercules wrestled him into his own stables.",
+      "end": 264.013
+    },
+    {
+      "start": 264.063,
+      "text": "The ensuing feast calmed the beasts enough for Hercules to bind their mouths.",
+      "end": 271.067
+    },
+    {
+      "start": 271.117,
+      "text": "But the ninth labor involved someone more dangerous than any beast,",
+      "end": 276.006
+    },
+    {
+      "start": 276.056,
+      "text": "Hippolyta, Queen of the Amazons.",
+      "end": 279.046
+    },
+    {
+      "start": 279.096,
+      "text": "Hercules was to retrieve the belt given to her by her father Ares, the god of war.",
+      "end": 286.438
+    },
+    {
+      "start": 286.488,
+      "text": "He sailed to the Amazon land of Themyscira prepared for battle,",
+      "end": 291.292
+    },
+    {
+      "start": 291.342,
+      "text": "but the queen was so impressed with the hero and his exploits",
+      "end": 295.106
+    },
+    {
+      "start": 295.156,
+      "text": "that she gave the belt willingly.",
+      "end": 298.125
+    },
+    {
+      "start": 298.175,
+      "text": "For his tenth labor,",
+      "end": 300.03
+    },
+    {
+      "start": 300.08,
+      "text": "Hercules had to steal a herd of magical red cattle from Geryon,",
+      "end": 305.098
+    },
+    {
+      "start": 305.148,
+      "text": "a giant with three heads and three bodies.",
+      "end": 308.585
+    },
+    {
+      "start": 308.635,
+      "text": "On his way, Hercules was so annoyed by the Libyan desert heat",
+      "end": 312.849
+    },
+    {
+      "start": 312.899,
+      "text": "that he shot an arrow at the Sun.",
+      "end": 315.026
+    },
+    {
+      "start": 315.076,
+      "text": "The sun god Helios admired the hero’s strength",
+      "end": 319.269
+    },
+    {
+      "start": 319.319,
+      "text": "and lent his chariot for the journey to the island of Erytheia.",
+      "end": 324.532
+    },
+    {
+      "start": 324.582,
+      "text": "There, Hercules fought off Geryon’s herdsman",
+      "end": 327.666
+    },
+    {
+      "start": 327.716,
+      "text": "and his two-headed dog, before killing the giant himself.",
+      "end": 332.509
+    },
+    {
+      "start": 332.559,
+      "text": "That should have been the end.",
+      "end": 334.12899999999996
+    },
+    {
+      "start": 334.179,
+      "text": "But Eurystheus announced that two labors hadn’t counted:",
+      "end": 337.532
+    },
+    {
+      "start": 337.582,
+      "text": "the Hydra, because Iolaus had helped Hercules kill it,",
+      "end": 341.137
+    },
+    {
+      "start": 341.187,
+      "text": "and the stables, because he’d accepted payment.",
+      "end": 344.91499999999996
+    },
+    {
+      "start": 344.965,
+      "text": "And so, the hero set about his eleventh task,",
+      "end": 348.70599999999996
+    },
+    {
+      "start": 348.756,
+      "text": "obtaining golden apples from the garden of the Hesperides nymphs.",
+      "end": 353.75
+    },
+    {
+      "start": 353.8,
+      "text": "Hercules began by catching the Old Man of the Sea",
+      "end": 357.584
+    },
+    {
+      "start": 357.634,
+      "text": "and holding the shape-shifting water-god until he revealed the garden’s location.",
+      "end": 363.194
+    },
+    {
+      "start": 363.244,
+      "text": "Once there, the hero found the titan Atlas holding up the heavens.",
+      "end": 368.44599999999997
+    },
+    {
+      "start": 368.496,
+      "text": "Hercules offered to take his place if Atlas would retrieve the apples.",
+      "end": 373.452
+    },
+    {
+      "start": 373.502,
+      "text": "Atlas eagerly complied, but Hercules then tricked him into trading places again,",
+      "end": 378.62
+    },
+    {
+      "start": 378.67,
+      "text": "escaping with apples in hand.",
+      "end": 382.336
+    },
+    {
+      "start": 382.386,
+      "text": "The twelfth and final task was to bring back Cerberus,",
+      "end": 387.352
+    },
+    {
+      "start": 387.402,
+      "text": "the three-headed hound guarding the underworld.",
+      "end": 390.876
+    },
+    {
+      "start": 390.926,
+      "text": "Helped by Hermes and Athena, Hercules descended and met Hades himself.",
+      "end": 396.902
+    },
+    {
+      "start": 396.952,
+      "text": "The lord of the dead allowed Hercules to take the beast",
+      "end": 400.303
+    },
+    {
+      "start": 400.353,
+      "text": "if he could do it without weapons,",
+      "end": 402.248
+    },
+    {
+      "start": 402.298,
+      "text": "which he achieved by grabbing all three of its heads at once.",
+      "end": 406.59999999999997
+    },
+    {
+      "start": 406.65,
+      "text": "When he presented the hound to a horrified Eurystheus,",
+      "end": 410.35499999999996
+    },
+    {
+      "start": 410.405,
+      "text": "the king finally declared the hero’s service complete.",
+      "end": 414.52299999999997
+    },
+    {
+      "start": 414.573,
+      "text": "After 12 years of toil,",
+      "end": 417.657
+    },
+    {
+      "start": 417.707,
+      "text": "Hercules had redeemed the tragic deaths of his family",
+      "end": 421.10699999999997
+    },
+    {
+      "start": 421.157,
+      "text": "and earned a place in the divine pantheon.",
+      "end": 424.078
+    },
+    {
+      "start": 424.128,
+      "text": "But his victory held an even deeper importance.",
+      "end": 427.685
+    },
+    {
+      "start": 427.735,
+      "text": "In overcoming the chaotic and monstrous forces of the world,",
+      "end": 431.913
+    },
+    {
+      "start": 431.963,
+      "text": "the hero swept away what remained of the Titans’ primordial order,",
+      "end": 437.293
+    },
+    {
+      "start": 437.343,
+      "text": "reshaping it into one where humanity could thrive.",
+      "end": 441.251
+    },
+    {
+      "start": 441.301,
+      "text": "Through his labors,",
+      "end": 442.68
+    },
+    {
+      "start": 442.73,
+      "text": "Hercules tamed the world’s madness by atoning for his own.",
+      "end": 461.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 11.597,
+      "text": "宙斯之子，人类王者赫拉克勒斯",
+      "end": 15.414
+    },
+    {
+      "start": 15.464,
+      "text": "惊恐地瞪大了双眼，",
+      "end": 17.166
+    },
+    {
+      "start": 17.216,
+      "text": "意识到自己刚刚犯下了 难以想象的可怕罪行。",
+      "end": 22.627
+    },
+    {
+      "start": 22.677,
+      "text": "女神赫拉因痛恨赫拉克勒斯， 她丈夫的私生子，",
+      "end": 28.128999999999998
+    },
+    {
+      "start": 28.179,
+      "text": "施法让他陷入短暂的癫狂状态，",
+      "end": 32.160000000000004
+    },
+    {
+      "start": 32.21,
+      "text": "赫拉克勒斯的家人因此受害。",
+      "end": 35.17
+    },
+    {
+      "start": 35.22,
+      "text": "赫拉克勒斯怀着悲痛 寻求德尔菲的神谕，",
+      "end": 39.816
+    },
+    {
+      "start": 39.866,
+      "text": "被指点了一条救赎之路——",
+      "end": 42.697
+    },
+    {
+      "start": 42.747,
+      "text": "即找到他的表兄，也是赫拉的宠信， 梯林斯的国王欧律斯透斯。",
+      "end": 48.625
+    },
+    {
+      "start": 48.675,
+      "text": "欧律斯透斯计划用十项 不可能完成的任务羞辱赫拉克勒斯，",
+      "end": 53.841
+    },
+    {
+      "start": 53.891,
+      "text": "这些任务包含难以战胜的怪兽，",
+      "end": 56.636
+    },
+    {
+      "start": 56.686,
+      "text": "和深不可测的力量。",
+      "end": 59.813
+    },
+    {
+      "start": 59.863,
+      "text": "国王此举反而成就了 一系列史诗探险，",
+      "end": 64.01100000000001
+    },
+    {
+      "start": 64.061,
+      "text": "后来被称为赫拉克勒斯的伟业。",
+      "end": 68.87700000000001
+    },
+    {
+      "start": 68.927,
+      "text": "第一项任务是杀死涅墨亚的狮子，",
+      "end": 72.831
+    },
+    {
+      "start": 72.881,
+      "text": "这头狮子掳掠妇女，吞食战士，",
+      "end": 76.447
+    },
+    {
+      "start": 76.497,
+      "text": "连弓箭都无法穿透它的金色皮毛，",
+      "end": 80.616
+    },
+    {
+      "start": 80.666,
+      "text": "但赫拉克勒斯将狮子 围困到黑暗的洞穴，",
+      "end": 83.94800000000001
+    },
+    {
+      "start": 83.998,
+      "text": "用棍棒将其打晕，",
+      "end": 86.07300000000001
+    },
+    {
+      "start": 86.123,
+      "text": "并徒手掐死了狮子。",
+      "end": 88.712
+    },
+    {
+      "start": 88.762,
+      "text": "他找不到可以剥狮子皮的锋利工具，",
+      "end": 92.401
+    },
+    {
+      "start": 92.451,
+      "text": "直到雅典娜建议他用狮爪剥下狮皮。",
+      "end": 98.379
+    },
+    {
+      "start": 98.429,
+      "text": "赫拉克勒斯穿着这张兽皮返回梯林斯，",
+      "end": 102.187
+    },
+    {
+      "start": 102.237,
+      "text": "吓得国王欧律斯透斯 躲到了红酒桶中。",
+      "end": 108.00800000000001
+    },
+    {
+      "start": 108.058,
+      "text": "从那以后，赫拉克勒斯被要求",
+      "end": 110.07600000000001
+    },
+    {
+      "start": 110.126,
+      "text": "只能站在安全的距离展示他的战利品。",
+      "end": 113.873
+    },
+    {
+      "start": 113.923,
+      "text": "第二个目标是水蛇海德拉， 一条长着多个脑袋的巨蟒。",
+      "end": 120.066
+    },
+    {
+      "start": 120.116,
+      "text": "赫拉克勒斯与之激烈地搏斗，",
+      "end": 121.946
+    },
+    {
+      "start": 121.996,
+      "text": "但每当他砍掉一个蛇头， 原来的地方会重新长出两个头。",
+      "end": 126.58
+    },
+    {
+      "start": 126.63,
+      "text": "战胜的希望渺茫，",
+      "end": 128.262
+    },
+    {
+      "start": 128.312,
+      "text": "这时，赫拉克勒斯的侄子伊奥劳斯 提议用火来烧断蛇颈，",
+      "end": 132.94299999999998
+    },
+    {
+      "start": 132.993,
+      "text": "阻止蛇头重新长出来。",
+      "end": 135.92499999999998
+    },
+    {
+      "start": 135.975,
+      "text": "死掉的毒蛇尸体化为了长蛇座。",
+      "end": 140.339
+    },
+    {
+      "start": 140.389,
+      "text": "接下来的任务不是去杀猛兽， 而是要活捉牝鹿，",
+      "end": 146.307
+    },
+    {
+      "start": 146.357,
+      "text": "刻律涅牝鹿是一种雌性鹿， 速度极快，可以躲过弓箭。",
+      "end": 151.916
+    },
+    {
+      "start": 151.966,
+      "text": "赫拉克勒斯追踪了它一整年，",
+      "end": 154.12099999999998
+    },
+    {
+      "start": 154.171,
+      "text": "最终在亥帕波尼亚北部困住了它。",
+      "end": 158.98899999999998
+    },
+    {
+      "start": 159.039,
+      "text": "这只牝鹿竟是狩猎女神 阿尔忒弥斯的坐骑，",
+      "end": 162.97
+    },
+    {
+      "start": 163.02,
+      "text": "赫拉克勒斯发誓一定会还回来。",
+      "end": 165.607
+    },
+    {
+      "start": 165.657,
+      "text": "但欧律斯透斯一看到牝鹿， 便要求将其留为己用，",
+      "end": 169.773
+    },
+    {
+      "start": 169.823,
+      "text": "但是赫拉克勒斯刚一松手， 牝鹿便跑向了它的女主人。",
+      "end": 173.946
+    },
+    {
+      "start": 173.996,
+      "text": "因此赫拉克勒斯既完成了任务， 也没有食言。",
+      "end": 179.839
+    },
+    {
+      "start": 179.889,
+      "text": "第四项任务是 抓住厄律曼托斯的野猪，",
+      "end": 183.595
+    },
+    {
+      "start": 183.645,
+      "text": "这头野猪践踏了许多田地。",
+      "end": 186.08999999999997
+    },
+    {
+      "start": 186.14,
+      "text": "赫拉克勒斯按照半人马喀戎的建议，",
+      "end": 189.916
+    },
+    {
+      "start": 189.966,
+      "text": "将野猪赶到积雪深厚的地方抓住了它。",
+      "end": 193.672
+    },
+    {
+      "start": 193.722,
+      "text": "第五项任务不是动物， 而是动物的排泄物。",
+      "end": 198.60299999999998
+    },
+    {
+      "start": 198.653,
+      "text": "国王奥吉亚斯的牛棚里 养着上百头神牛，",
+      "end": 203.374
+    },
+    {
+      "start": 203.424,
+      "text": "数年来未曾打理，",
+      "end": 205.742
+    },
+    {
+      "start": 205.792,
+      "text": "赫拉克勒斯承诺在一天之内 将牛棚清洗完毕，",
+      "end": 209.25
+    },
+    {
+      "start": 209.3,
+      "text": "条件是分给他十分之一的牛群。",
+      "end": 212.45
+    },
+    {
+      "start": 212.5,
+      "text": "奥吉亚斯认定赫拉克勒斯会失败。",
+      "end": 215.08599999999998
+    },
+    {
+      "start": 215.136,
+      "text": "但是，赫拉克勒斯挖了 一条巨大的沟渠，",
+      "end": 218.19199999999998
+    },
+    {
+      "start": 218.242,
+      "text": "将两条附近的河流引经牛棚，",
+      "end": 222.326
+    },
+    {
+      "start": 222.376,
+      "text": "直到将牛棚彻底冲洗干净。",
+      "end": 224.73299999999998
+    },
+    {
+      "start": 224.783,
+      "text": "接下来要面对的是 三个更加残忍的对手，",
+      "end": 227.696
+    },
+    {
+      "start": 227.746,
+      "text": "每一个都需要智谋来取胜。",
+      "end": 230.97799999999998
+    },
+    {
+      "start": 231.028,
+      "text": "斯廷法利斯怪鸟 巢居在深不可测的沼泽，",
+      "end": 237.28099999999998
+    },
+    {
+      "start": 237.331,
+      "text": "赫拉克勒斯在雅典娜的帮助下 用特殊的声响惊飞鸟群，",
+      "end": 241.486
+    },
+    {
+      "start": 241.536,
+      "text": "之后瞄准飞起的鸟将其击落。",
+      "end": 244.35799999999998
+    },
+    {
+      "start": 244.408,
+      "text": "没有哪个凡人能挑战 疯狂肆虐的克里特公牛，",
+      "end": 248.594
+    },
+    {
+      "start": 248.644,
+      "text": "但他从牛的背后 套住牛脖子制服了它。",
+      "end": 252.821
+    },
+    {
+      "start": 252.871,
+      "text": "接下来是疯王狄俄墨得斯，",
+      "end": 255.12099999999998
+    },
+    {
+      "start": 255.171,
+      "text": "他训练食人马吃掉来宾，",
+      "end": 258.526
+    },
+    {
+      "start": 258.576,
+      "text": "但最终却自食苦果。",
+      "end": 260.51
+    },
+    {
+      "start": 260.56,
+      "text": "赫拉克勒斯把他扔到了马厩中，",
+      "end": 264.013
+    },
+    {
+      "start": 264.063,
+      "text": "食人马匹安静下来大快朵颐， 赫拉克勒斯借此机会绑住马嘴。",
+      "end": 271.067
+    },
+    {
+      "start": 271.117,
+      "text": "第九项任务涉及到 比任何野兽都更可怕的人，",
+      "end": 276.006
+    },
+    {
+      "start": 276.056,
+      "text": "亚马逊女王希波吕忒。",
+      "end": 279.046
+    },
+    {
+      "start": 279.096,
+      "text": "赫拉克勒斯前去取回 女王之父战神阿瑞斯赠给她的腰带。",
+      "end": 286.438
+    },
+    {
+      "start": 286.488,
+      "text": "他航行到特弥斯奇拉的 亚马逊准备战斗时，",
+      "end": 291.292
+    },
+    {
+      "start": 291.342,
+      "text": "女王被赫拉克勒斯的英雄事迹打动，",
+      "end": 295.106
+    },
+    {
+      "start": 295.156,
+      "text": "自愿交出了腰带。",
+      "end": 298.125
+    },
+    {
+      "start": 298.175,
+      "text": "到了第十项考验，",
+      "end": 300.03
+    },
+    {
+      "start": 300.08,
+      "text": "赫拉克勒斯需要从革律翁那里 偷回一群赤色疯牛，",
+      "end": 305.098
+    },
+    {
+      "start": 305.148,
+      "text": "革律翁是拥有三个身体和 三个头的巨人。",
+      "end": 308.585
+    },
+    {
+      "start": 308.635,
+      "text": "路途中，赫拉克勒斯被 利比亚沙漠的酷热折磨的心烦，",
+      "end": 312.849
+    },
+    {
+      "start": 312.899,
+      "text": "于是便向太阳射了一箭。",
+      "end": 315.026
+    },
+    {
+      "start": 315.076,
+      "text": "太阳神赫利俄斯欣赏这位英雄的力量，",
+      "end": 319.269
+    },
+    {
+      "start": 319.319,
+      "text": "把四马金车借给了他前往厄律忒亚岛。",
+      "end": 324.532
+    },
+    {
+      "start": 324.582,
+      "text": "赫拉克勒斯先与放牧人，",
+      "end": 329.13599999999997
+    },
+    {
+      "start": 329.186,
+      "text": "还有双头猎狗搏斗， 最后杀死了巨人革律翁。",
+      "end": 332.509
+    },
+    {
+      "start": 332.559,
+      "text": "任务本应到此为止。",
+      "end": 334.12899999999996
+    },
+    {
+      "start": 334.179,
+      "text": "但欧律斯透斯宣布其中两项不算数：",
+      "end": 337.532
+    },
+    {
+      "start": 337.582,
+      "text": "一项是毒蛇海德拉， 因为伊奥劳斯帮助了赫拉克勒斯，",
+      "end": 341.137
+    },
+    {
+      "start": 341.187,
+      "text": "另一项是清洗牛棚， 因为他接受了赏赐。",
+      "end": 344.91499999999996
+    },
+    {
+      "start": 344.965,
+      "text": "于是这位英雄踏上旅程 完成第十一项任务——",
+      "end": 348.70599999999996
+    },
+    {
+      "start": 348.756,
+      "text": "从赫斯帕里得斯仙女的花园中 摘取金苹果。",
+      "end": 353.75
+    },
+    {
+      "start": 353.8,
+      "text": "赫拉克勒斯先是抓住了海神，",
+      "end": 357.584
+    },
+    {
+      "start": 357.634,
+      "text": "让这位能够改变水形态的神 说出花园的地点。",
+      "end": 363.194
+    },
+    {
+      "start": 363.244,
+      "text": "到达那里后，他发现 阿特拉斯巨人背负青天。",
+      "end": 368.44599999999997
+    },
+    {
+      "start": 368.496,
+      "text": "他提议若阿特拉斯能够拿到金苹果， 他愿代替阿特拉斯的扛着青天。",
+      "end": 373.452
+    },
+    {
+      "start": 373.502,
+      "text": "阿特拉斯欣然同意，但赫拉克勒斯 之后又用计让他重新扛起青天，",
+      "end": 378.62
+    },
+    {
+      "start": 378.67,
+      "text": "赫拉克勒斯拿着苹果逃跑了。",
+      "end": 382.336
+    },
+    {
+      "start": 382.386,
+      "text": "第十二项，也是最终一项任务是 把刻耳柏洛斯带回来。",
+      "end": 387.352
+    },
+    {
+      "start": 387.402,
+      "text": "这是一只守卫底地底世界的三头猎犬，",
+      "end": 390.876
+    },
+    {
+      "start": 390.926,
+      "text": "在赫尔墨斯和雅典娜的帮助下， 赫拉克勒斯见到了冥王哈德斯。",
+      "end": 396.902
+    },
+    {
+      "start": 396.952,
+      "text": "冥王允许赫拉克勒斯带走猎犬，",
+      "end": 400.303
+    },
+    {
+      "start": 400.353,
+      "text": "前提是他不能使用武器，",
+      "end": 402.248
+    },
+    {
+      "start": 402.298,
+      "text": "赫拉克勒斯同时抓住 猎犬的三个脑袋，制服了它。",
+      "end": 406.59999999999997
+    },
+    {
+      "start": 406.65,
+      "text": "当他将猎犬呈现给欧律斯透斯国王时， 国王大为震惊，",
+      "end": 410.35499999999996
+    },
+    {
+      "start": 410.405,
+      "text": "并最终宣布赫拉克勒斯的任务 全部完成。",
+      "end": 414.52299999999997
+    },
+    {
+      "start": 414.573,
+      "text": "经过了12年的辛劳，",
+      "end": 417.657
+    },
+    {
+      "start": 417.707,
+      "text": "赫拉克勒斯从家族惨死的悲剧中 得到了救赎，",
+      "end": 421.10699999999997
+    },
+    {
+      "start": 421.157,
+      "text": "并在万神庙中赢得了一席之地。",
+      "end": 424.078
+    },
+    {
+      "start": 424.128,
+      "text": "他的胜利还具有更深层次的意义，",
+      "end": 427.685
+    },
+    {
+      "start": 427.735,
+      "text": "在面对世界上混乱可怕的力量时，",
+      "end": 431.913
+    },
+    {
+      "start": 431.963,
+      "text": "这位英雄打破了神族的原始秩序，",
+      "end": 437.293
+    },
+    {
+      "start": 437.343,
+      "text": "创造了让人类繁衍的秩序。",
+      "end": 441.251
+    },
+    {
+      "start": 441.301,
+      "text": "通过这些任务，",
+      "end": 442.68
+    },
+    {
+      "start": 442.73,
+      "text": "赫拉克勒斯为自己赎了罪， 也训诫了世界上其他暴行。",
+      "end": 461.95
+    }
+  ]
+};

@@ -1,0 +1,934 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "4 signs of emotional abuse",
+    "speaker": "Viann Nguyen-Feng",
+    "duration": 269,
+    "slug": "viann_nguyen_feng_4_signs_of_emotional_abuse",
+    "sourcePage": "https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse",
+    "translationSourcePage": "https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/59/30/001/products/2021e-viann-nguyen-feng-emotional-abuse-001-fallback-d62e7661f59fc5523ec493bd851d9545-1200k.mp4",
+    "youtubeId": "x2Q_kYyCH9Q",
+    "youtubeTitle": "4 signs of emotional abuse - Viann Nguyen-Feng"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 10.006,
+      "end": 19.716,
+      "text": "Emotional abuse can be incredibly damaging, increasing a person’s chances of developing depression and anxiety sometimes for decades after the fact.",
+      "translation": "情绪虐待有着难以置信的危害，会增加一个人患有 抑郁症与焦虑症的可能性。有时候，它的影响 可以持续数十年之久。"
+    },
+    {
+      "id": 2,
+      "start": 19.766,
+      "end": 28.224,
+      "text": "Broadly speaking, emotional abuse involves one person controlling another by undermining their sense of self-worth and personal agency.",
+      "translation": "一般来说，情绪虐待涉及 一个人控制另一个人的手段。这是通过破坏人的自我价值感 与个人能动性来实现的。"
+    },
+    {
+      "id": 3,
+      "start": 28.274,
+      "end": 37.025,
+      "text": "But emotionally abusive behaviors can be subtle and difficult to spot, both from within and outside the abusive relationship.",
+      "translation": "可是，情绪虐待的行为可能是微妙而很难从虐待关系内外发现。"
+    },
+    {
+      "id": 4,
+      "start": 37.075,
+      "end": 58.588,
+      "text": "That’s partly because emotional abuse often exploits or creates power imbalances between individuals, especially in relationships where safety, care, and trust are supposed to be guaranteed, like the relationship between a caregiver and a child, healthcare provider and patient, teacher and student, or intimate partners.",
+      "translation": "部分原因是情绪虐待经常利用或者造成人之间的权力不平等。尤其是在应该保证安全、关怀、信任的关系中。比如，看护者与孩子、医疗保健提供者与患者、教师与学生 或亲密伴侣之间的关系。"
+    },
+    {
+      "id": 5,
+      "start": 58.638,
+      "end": 64.635,
+      "text": "It’s especially insidious because it often makes people doubt their perceptions of their own mistreatment.",
+      "translation": "这种虐待特别隐伏，因为这常常使人们怀疑自己受到虐待的直觉。"
+    },
+    {
+      "id": 6,
+      "start": 64.685,
+      "end": 73.436,
+      "text": "So let’s walk through some of the most common signs of emotional abuse, to make these behaviors and patterns easier to spot in real life.",
+      "translation": "现在我们来了解一些 最常见的情绪虐待迹象，以便让这些行为和模式更容易 在现实生活中被发现。"
+    },
+    {
+      "id": 7,
+      "start": 73.486,
+      "end": 89.911,
+      "text": "First, the content of someone’s words: criticism that’s out of proportion to a situation, excessively harsh or personal, or makes sweeping generalizations or baseless negative predictions for the future is a warning sign of emotional abuse.",
+      "translation": "一，说话的内容：不符合实际情况、 过分严厉、个人的批评或出一概而论、对未来有着毫无根据的负面预测，都是情绪虐待的危险信号"
+    },
+    {
+      "id": 8,
+      "start": 89.961,
+      "end": 103.925,
+      "text": "Statements like, “You always make such stupid decisions,” “You never do anything right,” and “Nobody else will ever love you,” aren’t constructive; they’re never warranted, and someone’s use of them is a red flag.",
+      "translation": "这样的陈述， “你总是做出糟糕的决定”“你永远不会做任何事情”， “没有其他人会喜欢你”那些都既不建设性，也不合理当有人使用那些时， 那就是一个危险信号。"
+    },
+    {
+      "id": 9,
+      "start": 103.975,
+      "end": 113.226,
+      "text": "Second, tone and non-verbal cues: yelling, ignoring and showing contempt through body language are all ways to degrade someone.",
+      "translation": "二，语气，非语言暗示：大吼大叫、忽略、 通过身体语言表示轻视等等都是贬低某人的方式。"
+    },
+    {
+      "id": 10,
+      "start": 113.276,
+      "end": 127.073,
+      "text": "Dismissive behaviors like eye rolling, glaring, or refusal to make eye contact, along with refusing to speak to someone or acknowledge their presence— sometimes called “the silent treatment”— can all feature in patterns of emotional abuse.",
+      "translation": "对人不屑的态度或行为，比如翻白眼、 怒视的双眼或拒绝进行眼神交流以及拒绝与人闲聊或承认某人的存在这种态度经常被称为 “沉默对待”都可以在情绪虐待模式中表现出来。"
+    },
+    {
+      "id": 11,
+      "start": 127.123,
+      "end": 134.33,
+      "text": "These behaviors can painfully transform the meaning of spoken statements that might otherwise seem benign.",
+      "translation": "这些行为会痛苦地改变原本似乎是良好的口头发言的含义。"
+    },
+    {
+      "id": 12,
+      "start": 134.38,
+      "end": 149.512,
+      "text": "Third, how someone reacts to being told they’ve said or done something hurtful can give important insight: do they apologize sincerely and act differently in the future, or do they dismiss and minimize the pain they’ve caused?",
+      "translation": "三，当你告诉某人 他们说错话或做错事时，其反应可以提供重要的见解：他们是否对此表示诚挚的歉意 并在未来改变自己的态度或忽略并减轻他们已造成的痛苦呢？"
+    },
+    {
+      "id": 13,
+      "start": 149.562,
+      "end": 157.103,
+      "text": "It’s common for abusers to try to undermine their target’s perceptions of events— this is sometimes referred to as “gaslighting.”",
+      "translation": "虐待者经常试试破坏受害者对事件的感知这常常被称为《煤气灯效应》"
+    },
+    {
+      "id": 14,
+      "start": 157.153,
+      "end": 176.205,
+      "text": "Following up demeaning, humiliating, or threatening remarks with comments that dismiss the impact of those remarks, like “I’m just trying to help you improve yourself— you should be grateful,” or “It’s really you that’s selfish and manipulative— you’re<i> </i>hurting me,” are examples of this behavior.",
+      "translation": "一般出现在仇恨、 侮辱或威胁性的言论以及否认这些言论的影响“我只帮你提升自己， 你应该心存感激。”或者 “自私、操纵的人，才是你， 你伤害了我。”都是此行为的例子。"
+    },
+    {
+      "id": 15,
+      "start": 176.255,
+      "end": 183.588,
+      "text": "Lastly, when someone directs any of these behaviors at you, take note of whether this is part of a pattern of behavior from them.",
+      "translation": "最后，当有人对你做出这种行为时，记下这是否是他们行为模式的一部分"
+    },
+    {
+      "id": 16,
+      "start": 183.638,
+      "end": 193.306,
+      "text": "A one-time incident of name-calling or a demeaning insult might not be emotional abuse, while repetition over time can have a much more serious impact.",
+      "translation": "一次骂人或侮辱不一定是情绪虐待，而随着时间的推移重复 可能会产生更严重的影响。"
+    },
+    {
+      "id": 17,
+      "start": 193.356,
+      "end": 204.734,
+      "text": "Both frequency, how often these behaviors occur in a given period of time, and duration, or how long they last, whether days or years, can contribute to the severity of the abuse.",
+      "translation": "这些行为在一定时间内 发生了多少次？持续多久呢，是几天还是几年，都可能导致虐待的严重程度。"
+    },
+    {
+      "id": 18,
+      "start": 204.784,
+      "end": 218.748,
+      "text": "It’s also important to remember that abusers rarely engage in abusive behaviors 100% of the time— moments of kindness or calm don’t invalidate moments of abuse, but are actually part of the cycle of emotional manipulation.",
+      "translation": "而且一定要牢记，施虐者施虐者很少100%的参与虐待行为-善良或安详的时刻 也不会使虐待时刻无效，反而，那些时刻其实是 情绪操控循环的一部分。"
+    },
+    {
+      "id": 19,
+      "start": 218.798,
+      "end": 224.795,
+      "text": "So what can you do if you think you or someone you care about is experiencing emotional abuse?",
+      "translation": "那么，如果你、熟人或你关心的人正在遭受情绪虐待的话， 你该怎么办呢？"
+    },
+    {
+      "id": 20,
+      "start": 224.845,
+      "end": 233.638,
+      "text": "Maintaining interpersonal ties with people other than the abuser is crucial, as abusers often try to isolate their targets from others close to them.",
+      "translation": "除了施虐者者以外，与别的人 保持良好的人际关系是非常重要的因为施虐者往往尽量 防止受害者接近其他人。"
+    },
+    {
+      "id": 21,
+      "start": 233.688,
+      "end": 242.688,
+      "text": "If you think you might be experiencing emotional abuse, consider sharing your experiences with a trusted friend or relative to get outside support.",
+      "translation": "如果你自己可能正在遭受情绪虐待，就试试把你的经历告诉 可信赖的朋友或家人。以得到外界支持"
+    },
+    {
+      "id": 22,
+      "start": 242.738,
+      "end": 249.111,
+      "text": "Or you can seek local or national confidential advocacy centers that can provide helpful resources.",
+      "translation": "还可以寻求当地或国家 机密的倡导中心的帮助将为你提供有用的资源。"
+    },
+    {
+      "id": 23,
+      "start": 249.161,
+      "end": 253.241,
+      "text": "And if you think someone you know is being emotionally abused, check in with them.",
+      "translation": "如果熟人正在遭受情绪虐待跟那个人保持联系"
+    },
+    {
+      "id": 24,
+      "start": 253.291,
+      "end": 258.746,
+      "text": "Let them know you’re thinking of them and that you're ready to listen whenever they'd like to share.",
+      "translation": "让他知道你关心他。并且无论何时他想分享心情 你都愿意倾听。"
+    },
+    {
+      "id": 25,
+      "start": 258.796,
+      "end": 268.95,
+      "text": "While emotional abusers may convince people that they deserve to be mistreated, nobody does: everyone deserves kindness and respect.",
+      "translation": "尽管情绪虐待者可能 会说服受害者他应该受到虐待，但其实，没有人应该受到的， 每个人都应得到善意和尊敬。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 10.006,
+      "text": "Emotional abuse can be incredibly damaging,",
+      "end": 12.290999999999999
+    },
+    {
+      "start": 12.341,
+      "text": "increasing a person’s chances of developing depression and anxiety",
+      "end": 16.044999999999998
+    },
+    {
+      "start": 16.095,
+      "text": "sometimes for decades after the fact.",
+      "end": 19.715999999999998
+    },
+    {
+      "start": 19.766,
+      "text": "Broadly speaking, emotional abuse involves one person controlling another",
+      "end": 24.137
+    },
+    {
+      "start": 24.187,
+      "text": "by undermining their sense of self-worth and personal agency.",
+      "end": 28.224
+    },
+    {
+      "start": 28.274,
+      "text": "But emotionally abusive behaviors can be subtle and difficult to spot,",
+      "end": 32.145
+    },
+    {
+      "start": 32.195,
+      "text": "both from within and outside the abusive relationship.",
+      "end": 37.025000000000006
+    },
+    {
+      "start": 37.075,
+      "text": "That’s partly because emotional abuse often exploits",
+      "end": 40.319
+    },
+    {
+      "start": 40.369,
+      "text": "or creates power imbalances between individuals,",
+      "end": 43.656000000000006
+    },
+    {
+      "start": 43.706,
+      "text": "especially in relationships where safety, care, and trust",
+      "end": 47.869
+    },
+    {
+      "start": 47.919,
+      "text": "are supposed to be guaranteed,",
+      "end": 50.121
+    },
+    {
+      "start": 50.171,
+      "text": "like the relationship between a caregiver and a child,",
+      "end": 53.332
+    },
+    {
+      "start": 53.382,
+      "text": "healthcare provider and patient, teacher and student, or intimate partners.",
+      "end": 58.588
+    },
+    {
+      "start": 58.638,
+      "text": "It’s especially insidious because it often makes people doubt",
+      "end": 61.507000000000005
+    },
+    {
+      "start": 61.557,
+      "text": "their perceptions of their own mistreatment.",
+      "end": 64.635
+    },
+    {
+      "start": 64.685,
+      "text": "So let’s walk through some of the most common signs of emotional abuse,",
+      "end": 68.765
+    },
+    {
+      "start": 68.815,
+      "text": "to make these behaviors and patterns easier to spot in real life.",
+      "end": 73.436
+    },
+    {
+      "start": 73.486,
+      "text": "First, the content of someone’s words:",
+      "end": 77.065
+    },
+    {
+      "start": 77.115,
+      "text": "criticism that’s out of proportion to a situation,",
+      "end": 79.776
+    },
+    {
+      "start": 79.826,
+      "text": "excessively harsh or personal, or makes sweeping generalizations",
+      "end": 83.863
+    },
+    {
+      "start": 83.913,
+      "text": "or baseless negative predictions for the future",
+      "end": 86.491
+    },
+    {
+      "start": 86.541,
+      "text": "is a warning sign of emotional abuse.",
+      "end": 89.911
+    },
+    {
+      "start": 89.961,
+      "text": "Statements like, “You always make such stupid decisions,”",
+      "end": 93.956
+    },
+    {
+      "start": 94.006,
+      "text": "“You never do anything right,” and “Nobody else will ever love you,”",
+      "end": 98.044
+    },
+    {
+      "start": 98.094,
+      "text": "aren’t constructive; they’re never warranted,",
+      "end": 100.58800000000001
+    },
+    {
+      "start": 100.638,
+      "text": "and someone’s use of them is a red flag.",
+      "end": 103.925
+    },
+    {
+      "start": 103.975,
+      "text": "Second, tone and non-verbal cues:",
+      "end": 107.26100000000001
+    },
+    {
+      "start": 107.311,
+      "text": "yelling, ignoring and showing contempt through body language are all ways",
+      "end": 111.516
+    },
+    {
+      "start": 111.566,
+      "text": "to degrade someone.",
+      "end": 113.226
+    },
+    {
+      "start": 113.276,
+      "text": "Dismissive behaviors like eye rolling, glaring, or refusal to make eye contact,",
+      "end": 118.022
+    },
+    {
+      "start": 118.072,
+      "text": "along with refusing to speak to someone or acknowledge their presence—",
+      "end": 121.4
+    },
+    {
+      "start": 121.45,
+      "text": "sometimes called “the silent treatment”—",
+      "end": 123.82000000000001
+    },
+    {
+      "start": 123.87,
+      "text": "can all feature in patterns of emotional abuse.",
+      "end": 127.07300000000001
+    },
+    {
+      "start": 127.123,
+      "text": "These behaviors can painfully transform",
+      "end": 129.325
+    },
+    {
+      "start": 129.375,
+      "text": "the meaning of spoken statements that might otherwise seem benign.",
+      "end": 134.32999999999998
+    },
+    {
+      "start": 134.38,
+      "text": "Third, how someone reacts to being told they’ve said",
+      "end": 137.542
+    },
+    {
+      "start": 137.592,
+      "text": "or done something hurtful can give important insight:",
+      "end": 141.629
+    },
+    {
+      "start": 141.679,
+      "text": "do they apologize sincerely and act differently in the future,",
+      "end": 146.00799999999998
+    },
+    {
+      "start": 146.058,
+      "text": "or do they dismiss and minimize the pain they’ve caused?",
+      "end": 149.512
+    },
+    {
+      "start": 149.562,
+      "text": "It’s common for abusers to try to undermine",
+      "end": 151.84799999999998
+    },
+    {
+      "start": 151.898,
+      "text": "their target’s perceptions of events—",
+      "end": 154.183
+    },
+    {
+      "start": 154.233,
+      "text": "this is sometimes referred to as “gaslighting.”",
+      "end": 157.10299999999998
+    },
+    {
+      "start": 157.153,
+      "text": "Following up demeaning, humiliating, or threatening remarks",
+      "end": 160.356
+    },
+    {
+      "start": 160.406,
+      "text": "with comments that dismiss the impact of those remarks,",
+      "end": 163.69299999999998
+    },
+    {
+      "start": 163.743,
+      "text": "like “I’m just trying to help you improve yourself— you should be grateful,”",
+      "end": 168.03
+    },
+    {
+      "start": 168.08,
+      "text": "or “It’s really you that’s selfish and manipulative— you’re<i> </i>hurting me,”",
+      "end": 173.619
+    },
+    {
+      "start": 173.669,
+      "text": "are examples of this behavior.",
+      "end": 176.20499999999998
+    },
+    {
+      "start": 176.255,
+      "text": "Lastly, when someone directs any of these behaviors at you,",
+      "end": 179.70899999999997
+    },
+    {
+      "start": 179.759,
+      "text": "take note of whether this is part of a pattern of behavior from them.",
+      "end": 183.588
+    },
+    {
+      "start": 183.638,
+      "text": "A one-time incident of name-calling or a demeaning insult",
+      "end": 186.88299999999998
+    },
+    {
+      "start": 186.933,
+      "text": "might not be emotional abuse,",
+      "end": 188.885
+    },
+    {
+      "start": 188.935,
+      "text": "while repetition over time can have a much more serious impact.",
+      "end": 193.30599999999998
+    },
+    {
+      "start": 193.356,
+      "text": "Both frequency, how often these behaviors occur in a given period of time,",
+      "end": 197.768
+    },
+    {
+      "start": 197.818,
+      "text": "and duration, or how long they last, whether days or years,",
+      "end": 201.606
+    },
+    {
+      "start": 201.656,
+      "text": "can contribute to the severity of the abuse.",
+      "end": 204.73399999999998
+    },
+    {
+      "start": 204.784,
+      "text": "It’s also important to remember that abusers rarely engage",
+      "end": 207.612
+    },
+    {
+      "start": 207.662,
+      "text": "in abusive behaviors 100% of the time—",
+      "end": 210.61499999999998
+    },
+    {
+      "start": 210.665,
+      "text": "moments of kindness or calm don’t invalidate moments of abuse,",
+      "end": 214.619
+    },
+    {
+      "start": 214.669,
+      "text": "but are actually part of the cycle of emotional manipulation.",
+      "end": 218.748
+    },
+    {
+      "start": 218.798,
+      "text": "So what can you do if you think you or someone you care about",
+      "end": 222.00099999999998
+    },
+    {
+      "start": 222.051,
+      "text": "is experiencing emotional abuse?",
+      "end": 224.795
+    },
+    {
+      "start": 224.845,
+      "text": "Maintaining interpersonal ties with people other than the abuser is crucial,",
+      "end": 229.54999999999998
+    },
+    {
+      "start": 229.6,
+      "text": "as abusers often try to isolate their targets from others close to them.",
+      "end": 233.63799999999998
+    },
+    {
+      "start": 233.688,
+      "text": "If you think you might be experiencing emotional abuse,",
+      "end": 236.515
+    },
+    {
+      "start": 236.565,
+      "text": "consider sharing your experiences with a trusted friend or relative",
+      "end": 240.22799999999998
+    },
+    {
+      "start": 240.278,
+      "text": "to get outside support.",
+      "end": 242.688
+    },
+    {
+      "start": 242.738,
+      "text": "Or you can seek local or national confidential advocacy centers",
+      "end": 246.44199999999998
+    },
+    {
+      "start": 246.492,
+      "text": "that can provide helpful resources.",
+      "end": 249.111
+    },
+    {
+      "start": 249.161,
+      "text": "And if you think someone you know is being emotionally abused,",
+      "end": 252.03099999999998
+    },
+    {
+      "start": 252.081,
+      "text": "check in with them.",
+      "end": 253.24099999999999
+    },
+    {
+      "start": 253.291,
+      "text": "Let them know you’re thinking of them",
+      "end": 255.034
+    },
+    {
+      "start": 255.084,
+      "text": "and that you're ready to listen whenever they'd like to share.",
+      "end": 258.746
+    },
+    {
+      "start": 258.796,
+      "text": "While emotional abusers may convince people that they deserve to be mistreated,",
+      "end": 263.167
+    },
+    {
+      "start": 263.217,
+      "text": "nobody does: everyone deserves kindness and respect.",
+      "end": 268.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 10.006,
+      "text": "情绪虐待有着难以置信的危害，",
+      "end": 12.290999999999999
+    },
+    {
+      "start": 12.341,
+      "text": "会增加一个人患有 抑郁症与焦虑症的可能性。",
+      "end": 16.044999999999998
+    },
+    {
+      "start": 16.095,
+      "text": "有时候，它的影响 可以持续数十年之久。",
+      "end": 19.715999999999998
+    },
+    {
+      "start": 19.766,
+      "text": "一般来说，情绪虐待涉及 一个人控制另一个人的手段。",
+      "end": 24.137
+    },
+    {
+      "start": 24.187,
+      "text": "这是通过破坏人的自我价值感 与个人能动性来实现的。",
+      "end": 28.224
+    },
+    {
+      "start": 28.274,
+      "text": "可是，情绪虐待的行为可能是微妙",
+      "end": 32.145
+    },
+    {
+      "start": 32.195,
+      "text": "而很难从虐待关系内外发现。",
+      "end": 37.025000000000006
+    },
+    {
+      "start": 37.075,
+      "text": "部分原因是情绪虐待经常利用",
+      "end": 40.319
+    },
+    {
+      "start": 40.369,
+      "text": "或者造成人之间的权力不平等。",
+      "end": 43.656000000000006
+    },
+    {
+      "start": 43.706,
+      "text": "尤其是在应该保证安全、",
+      "end": 47.869
+    },
+    {
+      "start": 47.919,
+      "text": "关怀、信任的关系中。",
+      "end": 50.121
+    },
+    {
+      "start": 50.171,
+      "text": "比如，看护者与孩子、",
+      "end": 53.332
+    },
+    {
+      "start": 53.382,
+      "text": "医疗保健提供者与患者、教师与学生 或亲密伴侣之间的关系。",
+      "end": 58.588
+    },
+    {
+      "start": 58.638,
+      "text": "这种虐待特别隐伏，因为这常常",
+      "end": 61.507000000000005
+    },
+    {
+      "start": 61.557,
+      "text": "使人们怀疑自己受到虐待的直觉。",
+      "end": 64.635
+    },
+    {
+      "start": 64.685,
+      "text": "现在我们来了解一些 最常见的情绪虐待迹象，",
+      "end": 68.765
+    },
+    {
+      "start": 68.815,
+      "text": "以便让这些行为和模式更容易 在现实生活中被发现。",
+      "end": 73.436
+    },
+    {
+      "start": 73.486,
+      "text": "一，说话的内容：",
+      "end": 77.065
+    },
+    {
+      "start": 77.115,
+      "text": "不符合实际情况、 过分严厉、个人的批评",
+      "end": 79.776
+    },
+    {
+      "start": 79.826,
+      "text": "或出一概而论、",
+      "end": 83.863
+    },
+    {
+      "start": 83.913,
+      "text": "对未来有着毫无根据的负面预测，",
+      "end": 86.491
+    },
+    {
+      "start": 86.541,
+      "text": "都是情绪虐待的危险信号",
+      "end": 89.911
+    },
+    {
+      "start": 89.961,
+      "text": "这样的陈述， “你总是做出糟糕的决定”",
+      "end": 93.956
+    },
+    {
+      "start": 94.006,
+      "text": "“你永远不会做任何事情”， “没有其他人会喜欢你”",
+      "end": 98.044
+    },
+    {
+      "start": 98.094,
+      "text": "那些都既不建设性，也不合理",
+      "end": 100.58800000000001
+    },
+    {
+      "start": 100.638,
+      "text": "当有人使用那些时， 那就是一个危险信号。",
+      "end": 103.925
+    },
+    {
+      "start": 103.975,
+      "text": "二，语气，非语言暗示：",
+      "end": 107.26100000000001
+    },
+    {
+      "start": 107.311,
+      "text": "大吼大叫、忽略、 通过身体语言表示轻视等等",
+      "end": 111.516
+    },
+    {
+      "start": 111.566,
+      "text": "都是贬低某人的方式。",
+      "end": 113.226
+    },
+    {
+      "start": 113.276,
+      "text": "对人不屑的态度或行为，比如翻白眼、 怒视的双眼或拒绝进行眼神交流",
+      "end": 118.022
+    },
+    {
+      "start": 118.072,
+      "text": "以及拒绝与人闲聊或承认某人的存在",
+      "end": 121.4
+    },
+    {
+      "start": 121.45,
+      "text": "这种态度经常被称为 “沉默对待”",
+      "end": 123.82000000000001
+    },
+    {
+      "start": 123.87,
+      "text": "都可以在情绪虐待模式中表现出来。",
+      "end": 127.07300000000001
+    },
+    {
+      "start": 127.123,
+      "text": "这些行为会痛苦地改变",
+      "end": 129.325
+    },
+    {
+      "start": 129.375,
+      "text": "原本似乎是良好的口头发言的含义。",
+      "end": 134.32999999999998
+    },
+    {
+      "start": 134.38,
+      "text": "三，当你告诉某人 他们说错话或做错事时，",
+      "end": 137.542
+    },
+    {
+      "start": 137.592,
+      "text": "其反应可以提供重要的见解：",
+      "end": 141.629
+    },
+    {
+      "start": 141.679,
+      "text": "他们是否对此表示诚挚的歉意 并在未来改变自己的态度",
+      "end": 146.00799999999998
+    },
+    {
+      "start": 146.058,
+      "text": "或忽略并减轻他们已造成的痛苦呢？",
+      "end": 149.512
+    },
+    {
+      "start": 149.562,
+      "text": "虐待者经常试试破坏",
+      "end": 151.84799999999998
+    },
+    {
+      "start": 151.898,
+      "text": "受害者对事件的感知",
+      "end": 154.183
+    },
+    {
+      "start": 154.233,
+      "text": "这常常被称为《煤气灯效应》",
+      "end": 157.10299999999998
+    },
+    {
+      "start": 157.153,
+      "text": "一般出现在仇恨、 侮辱或威胁性的言论",
+      "end": 160.356
+    },
+    {
+      "start": 160.406,
+      "text": "以及否认这些言论的影响",
+      "end": 163.69299999999998
+    },
+    {
+      "start": 163.743,
+      "text": "“我只帮你提升自己， 你应该心存感激。”",
+      "end": 168.03
+    },
+    {
+      "start": 168.08,
+      "text": "或者 “自私、操纵的人，才是你， 你伤害了我。”",
+      "end": 173.619
+    },
+    {
+      "start": 173.669,
+      "text": "都是此行为的例子。",
+      "end": 176.20499999999998
+    },
+    {
+      "start": 176.255,
+      "text": "最后，当有人对你做出这种行为时，",
+      "end": 179.70899999999997
+    },
+    {
+      "start": 179.759,
+      "text": "记下这是否是他们行为模式的一部分",
+      "end": 183.588
+    },
+    {
+      "start": 183.638,
+      "text": "一次骂人或侮辱",
+      "end": 186.88299999999998
+    },
+    {
+      "start": 186.933,
+      "text": "不一定是情绪虐待，",
+      "end": 188.885
+    },
+    {
+      "start": 188.935,
+      "text": "而随着时间的推移重复 可能会产生更严重的影响。",
+      "end": 193.30599999999998
+    },
+    {
+      "start": 193.356,
+      "text": "这些行为在一定时间内 发生了多少次？",
+      "end": 197.768
+    },
+    {
+      "start": 197.818,
+      "text": "持续多久呢，是几天还是几年，",
+      "end": 201.606
+    },
+    {
+      "start": 201.656,
+      "text": "都可能导致虐待的严重程度。",
+      "end": 204.73399999999998
+    },
+    {
+      "start": 204.784,
+      "text": "而且一定要牢记，施虐者施虐者",
+      "end": 207.612
+    },
+    {
+      "start": 207.662,
+      "text": "很少100%的参与虐待行为-",
+      "end": 210.61499999999998
+    },
+    {
+      "start": 210.665,
+      "text": "善良或安详的时刻 也不会使虐待时刻无效，",
+      "end": 214.619
+    },
+    {
+      "start": 214.669,
+      "text": "反而，那些时刻其实是 情绪操控循环的一部分。",
+      "end": 218.748
+    },
+    {
+      "start": 218.798,
+      "text": "那么，如果你、熟人或你关心的人",
+      "end": 222.00099999999998
+    },
+    {
+      "start": 222.051,
+      "text": "正在遭受情绪虐待的话， 你该怎么办呢？",
+      "end": 224.795
+    },
+    {
+      "start": 224.845,
+      "text": "除了施虐者者以外，与别的人 保持良好的人际关系是非常重要的",
+      "end": 229.54999999999998
+    },
+    {
+      "start": 229.6,
+      "text": "因为施虐者往往尽量 防止受害者接近其他人。",
+      "end": 233.63799999999998
+    },
+    {
+      "start": 233.688,
+      "text": "如果你自己可能正在遭受情绪虐待，",
+      "end": 236.515
+    },
+    {
+      "start": 236.565,
+      "text": "就试试把你的经历告诉 可信赖的朋友或家人。",
+      "end": 240.22799999999998
+    },
+    {
+      "start": 240.278,
+      "text": "以得到外界支持",
+      "end": 242.688
+    },
+    {
+      "start": 242.738,
+      "text": "还可以寻求当地或国家 机密的倡导中心的帮助",
+      "end": 246.44199999999998
+    },
+    {
+      "start": 246.492,
+      "text": "将为你提供有用的资源。",
+      "end": 249.111
+    },
+    {
+      "start": 249.161,
+      "text": "如果熟人正在遭受情绪虐待",
+      "end": 252.03099999999998
+    },
+    {
+      "start": 252.081,
+      "text": "跟那个人保持联系",
+      "end": 253.24099999999999
+    },
+    {
+      "start": 253.291,
+      "text": "让他知道你关心他。",
+      "end": 255.034
+    },
+    {
+      "start": 255.084,
+      "text": "并且无论何时他想分享心情 你都愿意倾听。",
+      "end": 258.746
+    },
+    {
+      "start": 258.796,
+      "text": "尽管情绪虐待者可能 会说服受害者他应该受到虐待，",
+      "end": 263.167
+    },
+    {
+      "start": 263.217,
+      "text": "但其实，没有人应该受到的， 每个人都应得到善意和尊敬。",
+      "end": 268.95
+    }
+  ]
+};

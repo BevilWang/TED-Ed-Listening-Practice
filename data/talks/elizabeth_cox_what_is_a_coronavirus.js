@@ -1,0 +1,1103 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "What is a coronavirus?",
+    "speaker": "Elizabeth Cox",
+    "duration": 295,
+    "slug": "elizabeth_cox_what_is_a_coronavirus",
+    "sourcePage": "https://www.ted.com/talks/elizabeth_cox_what_is_a_coronavirus",
+    "translationSourcePage": "https://www.ted.com/talks/elizabeth_cox_what_is_a_coronavirus?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/51/03/001/products/2020e-elizabeth-cox-what-is-acoronavirus-001-fallback-c8afa4533646b0e86c25483b84edf234-1200k.mp4",
+    "youtubeId": "D9tTi-CDjDU",
+    "youtubeTitle": "What is a coronavirus? - Elizabeth Cox"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.828,
+      "end": 16.476,
+      "text": "For almost a decade, scientists chased the source of a deadly new virus through China’s tallest mountains and most isolated caverns.",
+      "translation": "在近十年间，从中国的 最高峰到最偏远的洞穴里，科学家们一直在追寻一种 新型致命病毒的源头。"
+    },
+    {
+      "id": 2,
+      "start": 16.526,
+      "end": 21.206,
+      "text": "They finally found it here: in the bats of Shitou Cave.",
+      "translation": "他们最终在“石头洞”的蝙蝠 身上找到了答案。"
+    },
+    {
+      "id": 3,
+      "start": 21.256,
+      "end": 30.689,
+      "text": "The virus in question was a coronavirus that caused an epidemic of severe acute respiratory syndrome, or SARS, in 2003.",
+      "translation": "人们所找寻的病毒是 一种在 2003 年引发了严重急性呼吸系统 综合症流行病，简称非典型肺炎（SARS）的冠状病毒。"
+    },
+    {
+      "id": 4,
+      "start": 30.739,
+      "end": 38.183,
+      "text": "Coronaviruses are a group of viruses covered in little protein spikes that look like a crown— or \"corona\" in Latin.",
+      "translation": "冠状病毒是一群表面有着 棘突蛋白的病毒，看起来很像皇冠——在拉丁文中意为“冠状物”。"
+    },
+    {
+      "id": 5,
+      "start": 38.233,
+      "end": 41.163,
+      "text": "There are hundreds of known coronaviruses.",
+      "translation": "目前已知的冠状病毒有数百种。"
+    },
+    {
+      "id": 6,
+      "start": 41.213,
+      "end": 45.27,
+      "text": "Seven of them infect humans, and can cause disease.",
+      "translation": "其中的七种可以传染给人类 并且引起疾病。"
+    },
+    {
+      "id": 7,
+      "start": 45.32,
+      "end": 56.809,
+      "text": "The coronavirus SARS-CoV causes SARS, MERS-CoV causes MERS, and SARS-CoV-2 causes the disease COVID-19.",
+      "translation": "冠状病毒 SARS-CoV 可引起非典型肺炎， MERS-CoV 可引起中东呼吸系统综合征，而 SARS-CoV-2 则可引起 新型冠状病毒肺炎（COVID-19）。"
+    },
+    {
+      "id": 8,
+      "start": 56.859,
+      "end": 65.273,
+      "text": "Of the seven human coronaviruses, four cause colds, mild, highly contagious infections of the nose and throat.",
+      "translation": "七种会感染人类的冠状病毒中， 有四种会导致感冒，即症状温和 且具有高传染性的鼻喉感染。"
+    },
+    {
+      "id": 9,
+      "start": 65.323,
+      "end": 70.031,
+      "text": "Two infect the lungs, and cause much more severe illnesses.",
+      "translation": "有两种会感染肺部并且 引起更严重的疾病。"
+    },
+    {
+      "id": 10,
+      "start": 70.081,
+      "end": 78.879,
+      "text": "The seventh, which causes COVID-19, has features of each: it spreads easily, but can severely impact the lungs.",
+      "translation": "引起 COVID-19 的第七种病毒 综合了上述两类的特征：不仅极易传播， 而且会严重地影响肺部。"
+    },
+    {
+      "id": 11,
+      "start": 78.929,
+      "end": 83.611,
+      "text": "When an infected person coughs, droplets containing the virus spray out.",
+      "translation": "当受感染者咳嗽时，含有病毒 的飞沫就会喷溅而出。"
+    },
+    {
+      "id": 12,
+      "start": 83.661,
+      "end": 88.446,
+      "text": "The virus can infect a new person when the droplets enter their nose or mouth.",
+      "translation": "当飞沫进入其他人的鼻腔或口腔时， 这些人就会被病毒感染。"
+    },
+    {
+      "id": 13,
+      "start": 88.496,
+      "end": 93.406,
+      "text": "Coronaviruses transmit best in enclosed spaces, where people are close together.",
+      "translation": "冠状病毒在封闭的 空间内最易传播，在这些地方人与人之间距离很近。"
+    },
+    {
+      "id": 14,
+      "start": 93.456,
+      "end": 103.694,
+      "text": "Cold weather keeps their delicate casing from drying out, enabling the virus to survive for longer between hosts, while UV exposure from sunlight may damage it.",
+      "translation": "寒冷的天气可以防止病毒的 精密外壳变干，使得它们在宿主之间 传播时能够存活更长时间。但是紫外线的照射 可能会消灭它们。"
+    },
+    {
+      "id": 15,
+      "start": 103.744,
+      "end": 107.434,
+      "text": "These seasonal variations matter more for established viruses.",
+      "translation": "这些季节上的变化对于 已经存在的病毒影响更大。"
+    },
+    {
+      "id": 16,
+      "start": 107.484,
+      "end": 115.343,
+      "text": "But because no one is yet immune to a new virus, it has so many potential hosts that it doesn’t need ideal conditions to spread.",
+      "translation": "但是因为至今没有任何人 对新出现的病毒免疫，所以它有很多不需要在理想环境下 就可以感染的潜在宿主。"
+    },
+    {
+      "id": 17,
+      "start": 115.393,
+      "end": 125.486,
+      "text": "In the body, the protein spikes embed in the host’s cells and fuse with them— enabling the virus to hijack the host cell’s machinery to replicate its own genes.",
+      "translation": "进入人体后，棘突蛋白会嵌入 宿主的细胞内并与它们融合——这个过程让病毒能够控制 宿主细胞的运转体系，以复制其自身的遗传基因。"
+    },
+    {
+      "id": 18,
+      "start": 125.536,
+      "end": 128.566,
+      "text": "Coronaviruses store their genes on RNA.",
+      "translation": "冠状病毒把它们的基因 储存在 RNA 内。"
+    },
+    {
+      "id": 19,
+      "start": 128.616,
+      "end": 132.633,
+      "text": "All viruses are either RNA viruses or DNA viruses.",
+      "translation": "所有病毒都是 RNA 或者 DNA 病毒。"
+    },
+    {
+      "id": 20,
+      "start": 132.683,
+      "end": 140.209,
+      "text": "RNA viruses tend to be smaller, with fewer genes, meaning they infect many hosts and replicate quickly in those hosts.",
+      "translation": "RNA 病毒通常更小， 携带更少的基因，这意味着它们可以感染众多宿主， 并且在宿主体内快速复制。"
+    },
+    {
+      "id": 21,
+      "start": 140.259,
+      "end": 147.01,
+      "text": "In general, RNA viruses don’t have a proofreading mechanism, whereas DNA viruses do.",
+      "translation": "一般来说，RNA 病毒没有校对机制，而 DNA 病毒则有。"
+    },
+    {
+      "id": 22,
+      "start": 147.06,
+      "end": 153.355,
+      "text": "So when an RNA virus replicates, it’s much more likely to have mistakes called mutations.",
+      "translation": "因此，当 RNA 病毒进行自我复制时，更有可能发生错误，即所谓的“突变”。"
+    },
+    {
+      "id": 23,
+      "start": 153.405,
+      "end": 157.287,
+      "text": "Many of these mutations are useless or even harmful.",
+      "translation": "大多数的突变都是对其自身 无用，甚至是无益的。"
+    },
+    {
+      "id": 24,
+      "start": 157.337,
+      "end": 162.907,
+      "text": "But some make the virus better suited for certain environments— like a new host species.",
+      "translation": "但是有一些变异可以帮助病毒 更加适应某些特定的环境——比如说新的宿主物种。"
+    },
+    {
+      "id": 25,
+      "start": 162.957,
+      "end": 167.379,
+      "text": "Epidemics often occur when a virus jumps from animals to humans.",
+      "translation": "传染病通常在病毒从动物 传染到人类时出现，"
+    },
+    {
+      "id": 26,
+      "start": 167.429,
+      "end": 175.826,
+      "text": "This is true of the RNA viruses that caused the Ebola, Zika, and SARS epidemics, and the COVID-19 pandemic.",
+      "translation": "比如由 RNA 病毒导致的埃博拉、寨卡和非典传染病，以及 COVID-19 全球性大流行病。"
+    },
+    {
+      "id": 27,
+      "start": 175.876,
+      "end": 185.271,
+      "text": "Once in humans, the virus still mutates— usually not enough to create a new virus, but enough to create variations, or strains, of the original one.",
+      "translation": "进入人体以后， 病毒仍然会发生突变——虽然这种突变不足以 创造新型的病毒，但足以使原本的病毒 产生变化，或产生新株系。"
+    },
+    {
+      "id": 28,
+      "start": 185.321,
+      "end": 189.925,
+      "text": "Coronaviruses have a few key differences from most RNA viruses.",
+      "translation": "相比大多数 RNA 病毒， 冠状病毒有几个主要的差别。"
+    },
+    {
+      "id": 29,
+      "start": 189.975,
+      "end": 193.283,
+      "text": "They’re some of the largest, meaning they have the most genes.",
+      "translation": "它们是体积最大的 RNA 病毒， 有着最多的遗传基因，"
+    },
+    {
+      "id": 30,
+      "start": 193.333,
+      "end": 196.881,
+      "text": "That creates more opportunity for harmful mutations.",
+      "translation": "也就更可能出现 对自身有害的变异。"
+    },
+    {
+      "id": 31,
+      "start": 196.931,
+      "end": 205.017,
+      "text": "To counteract this risk, coronaviruses have a unique feature: an enzyme that checks for replication errors and corrects mistakes.",
+      "translation": "为了抵消这种风险，冠状病毒 展现出了一种独有的特性：一种可以检验基因复制错误 并进行纠正的酶。"
+    },
+    {
+      "id": 32,
+      "start": 205.067,
+      "end": 211.317,
+      "text": "This makes coronaviruses much more stable, with a slower mutation rate, than other RNA viruses.",
+      "translation": "这一特征使得冠状病毒 比其他 RNA 病毒的突变速度更加缓慢， 因此更加稳定。"
+    },
+    {
+      "id": 33,
+      "start": 211.367,
+      "end": 218.807,
+      "text": "While this may sound formidable, the slow mutation rate is actually a promising sign when it comes to disarming them.",
+      "translation": "虽然这可能听上去很可怕，但是当涉及到削弱其致病性，其缓慢的突变速率 实际上是一个很好的现象。"
+    },
+    {
+      "id": 34,
+      "start": 218.857,
+      "end": 227.347,
+      "text": "After an infection, our immune systems can recognize germs and destroy them more quickly if they infect us again so they don’t make us sick.",
+      "translation": "在被感染以后，我们的 免疫系统可以识别病菌，并且在它们再次感染我们时 快速地摧毁它们，从而起到免疫效果。"
+    },
+    {
+      "id": 35,
+      "start": 227.397,
+      "end": 233.667,
+      "text": "But mutations can make a virus less recognizable to our immune systems— and therefore more difficult to fight off.",
+      "translation": "但是突变会让病毒变得更不易 被我们的免疫系统察觉——因此也就更难去击溃它们。"
+    },
+    {
+      "id": 36,
+      "start": 233.717,
+      "end": 241.427,
+      "text": "They can also make antiviral drugs and vaccines less effective, because they’re tailored very specifically to a virus.",
+      "translation": "它们也会使抗病毒药品 和疫苗的效果大打折扣，因为这些药物都是 为每种病毒而特别定制的。"
+    },
+    {
+      "id": 37,
+      "start": 241.477,
+      "end": 249.198,
+      "text": "That’s why we need a new flu vaccine every year— the influenza virus mutates so quickly that new strains pop up constantly.",
+      "translation": "这就是为什么我们每年都 需要研发新的流感疫苗——因为流感病毒的突变发生得太快， 新株系会持续地出现。"
+    },
+    {
+      "id": 38,
+      "start": 249.248,
+      "end": 260.976,
+      "text": "The slower mutation rate of coronaviruses means our immune systems, drugs, and vaccines might be able to recognize them for longer after infection, and therefore protect us better.",
+      "translation": "冠状病毒更慢的突变速率意味着人体的免疫系统、药品以及疫苗也许在感染之后的 更长时间内依然可以辨别它们，从而更好地保护我们的健康。"
+    },
+    {
+      "id": 39,
+      "start": 261.026,
+      "end": 265.66,
+      "text": "Still, we don’t know how long our bodies remain immune to different coronaviruses.",
+      "translation": "目前，我们还不知道被冠状病毒感染后， 人体的免疫时间能持续多久。"
+    },
+    {
+      "id": 40,
+      "start": 265.71,
+      "end": 269.561,
+      "text": "There’s never been an approved treatment or vaccine for a coronavirus.",
+      "translation": "对于冠状病毒，我们也尚未研发出 被证实有效的治疗方法或者疫苗。"
+    },
+    {
+      "id": 41,
+      "start": 269.611,
+      "end": 280.317,
+      "text": "We haven’t focused on treating the ones that cause colds, and though scientists began developing treatments for SARS and MERS, the epidemics ended before those treatments completed clinical trials.",
+      "translation": "我们还从未专注于应对 引起感冒的冠状病毒，虽然科学家们已经开始钻研 非典和中东呼吸综合征的治疗方法，但是疫情都在治疗方案 尚未完成临床实验时就结束了。"
+    },
+    {
+      "id": 42,
+      "start": 280.367,
+      "end": 294.95,
+      "text": "As we continue to encroach on other animals’ habitats, some scientists say a new coronavirus jumping to humans is inevitable— but if we investigate these unknowns, it doesn’t have to be devastating.",
+      "translation": "随着我们继续不断侵占 其它动物的栖息地，科学家们宣称，新型冠状病毒 从动物传染给人类是无法避免的——但如果我们调查清楚这些未知事物， 就可以避免大规模的破坏性后果。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.828,
+      "text": "For almost a decade, scientists chased the source of a deadly new virus",
+      "end": 12.475999999999999
+    },
+    {
+      "start": 12.526,
+      "text": "through China’s tallest mountains and most isolated caverns.",
+      "end": 16.476
+    },
+    {
+      "start": 16.526,
+      "text": "They finally found it here: in the bats of Shitou Cave.",
+      "end": 21.206
+    },
+    {
+      "start": 21.256,
+      "text": "The virus in question was a coronavirus",
+      "end": 23.436
+    },
+    {
+      "start": 23.486,
+      "text": "that caused an epidemic of severe acute respiratory syndrome,",
+      "end": 27.439
+    },
+    {
+      "start": 27.489,
+      "text": "or SARS, in 2003.",
+      "end": 30.689
+    },
+    {
+      "start": 30.739,
+      "text": "Coronaviruses are a group of viruses",
+      "end": 32.839000000000006
+    },
+    {
+      "start": 32.889,
+      "text": "covered in little protein spikes that look like a crown—",
+      "end": 36.383
+    },
+    {
+      "start": 36.433,
+      "text": "or \"corona\" in Latin.",
+      "end": 38.183
+    },
+    {
+      "start": 38.233,
+      "text": "There are hundreds of known coronaviruses.",
+      "end": 41.163000000000004
+    },
+    {
+      "start": 41.213,
+      "text": "Seven of them infect humans, and can cause disease.",
+      "end": 45.27
+    },
+    {
+      "start": 45.32,
+      "text": "The coronavirus SARS-CoV causes SARS, MERS-CoV causes MERS,",
+      "end": 51.816
+    },
+    {
+      "start": 51.866,
+      "text": "and SARS-CoV-2 causes the disease COVID-19.",
+      "end": 56.809000000000005
+    },
+    {
+      "start": 56.859,
+      "text": "Of the seven human coronaviruses, four cause colds,",
+      "end": 61.179
+    },
+    {
+      "start": 61.229,
+      "text": "mild, highly contagious infections of the nose and throat.",
+      "end": 65.273
+    },
+    {
+      "start": 65.323,
+      "text": "Two infect the lungs, and cause much more severe illnesses.",
+      "end": 70.031
+    },
+    {
+      "start": 70.081,
+      "text": "The seventh, which causes COVID-19, has features of each:",
+      "end": 74.521
+    },
+    {
+      "start": 74.571,
+      "text": "it spreads easily, but can severely impact the lungs.",
+      "end": 78.879
+    },
+    {
+      "start": 78.929,
+      "text": "When an infected person coughs, droplets containing the virus spray out.",
+      "end": 83.611
+    },
+    {
+      "start": 83.661,
+      "text": "The virus can infect a new person when the droplets enter their nose or mouth.",
+      "end": 88.446
+    },
+    {
+      "start": 88.496,
+      "text": "Coronaviruses transmit best in enclosed spaces,",
+      "end": 91.736
+    },
+    {
+      "start": 91.786,
+      "text": "where people are close together.",
+      "end": 93.406
+    },
+    {
+      "start": 93.456,
+      "text": "Cold weather keeps their delicate casing from drying out,",
+      "end": 96.816
+    },
+    {
+      "start": 96.866,
+      "text": "enabling the virus to survive for longer between hosts,",
+      "end": 100.10600000000001
+    },
+    {
+      "start": 100.156,
+      "text": "while UV exposure from sunlight may damage it.",
+      "end": 103.694
+    },
+    {
+      "start": 103.744,
+      "text": "These seasonal variations matter more for established viruses.",
+      "end": 107.434
+    },
+    {
+      "start": 107.484,
+      "text": "But because no one is yet immune to a new virus,",
+      "end": 110.34400000000001
+    },
+    {
+      "start": 110.394,
+      "text": "it has so many potential hosts that it doesn’t need ideal conditions to spread.",
+      "end": 115.343
+    },
+    {
+      "start": 115.393,
+      "text": "In the body, the protein spikes embed in the host’s cells and fuse with them—",
+      "end": 119.976
+    },
+    {
+      "start": 120.026,
+      "text": "enabling the virus to hijack the host cell’s machinery",
+      "end": 122.846
+    },
+    {
+      "start": 122.896,
+      "text": "to replicate its own genes.",
+      "end": 125.486
+    },
+    {
+      "start": 125.536,
+      "text": "Coronaviruses store their genes on RNA.",
+      "end": 128.566
+    },
+    {
+      "start": 128.616,
+      "text": "All viruses are either RNA viruses or DNA viruses.",
+      "end": 132.63299999999998
+    },
+    {
+      "start": 132.683,
+      "text": "RNA viruses tend to be smaller, with fewer genes,",
+      "end": 135.654
+    },
+    {
+      "start": 135.704,
+      "text": "meaning they infect many hosts and replicate quickly in those hosts.",
+      "end": 140.20899999999997
+    },
+    {
+      "start": 140.259,
+      "text": "In general, RNA viruses don’t have a proofreading mechanism,",
+      "end": 144.41
+    },
+    {
+      "start": 144.46,
+      "text": "whereas DNA viruses do.",
+      "end": 147.01
+    },
+    {
+      "start": 147.06,
+      "text": "So when an RNA virus replicates,",
+      "end": 149.31
+    },
+    {
+      "start": 149.36,
+      "text": "it’s much more likely to have mistakes called mutations.",
+      "end": 153.355
+    },
+    {
+      "start": 153.405,
+      "text": "Many of these mutations are useless or even harmful.",
+      "end": 157.28699999999998
+    },
+    {
+      "start": 157.337,
+      "text": "But some make the virus better suited for certain environments—",
+      "end": 160.417
+    },
+    {
+      "start": 160.467,
+      "text": "like a new host species.",
+      "end": 162.90699999999998
+    },
+    {
+      "start": 162.957,
+      "text": "Epidemics often occur when a virus jumps from animals to humans.",
+      "end": 167.379
+    },
+    {
+      "start": 167.429,
+      "text": "This is true of the RNA viruses that caused",
+      "end": 169.923
+    },
+    {
+      "start": 169.973,
+      "text": "the Ebola, Zika, and SARS epidemics, and the COVID-19 pandemic.",
+      "end": 175.826
+    },
+    {
+      "start": 175.876,
+      "text": "Once in humans, the virus still mutates—",
+      "end": 178.68599999999998
+    },
+    {
+      "start": 178.736,
+      "text": "usually not enough to create a new virus,",
+      "end": 180.946
+    },
+    {
+      "start": 180.996,
+      "text": "but enough to create variations, or strains, of the original one.",
+      "end": 185.271
+    },
+    {
+      "start": 185.321,
+      "text": "Coronaviruses have a few key differences from most RNA viruses.",
+      "end": 189.92499999999998
+    },
+    {
+      "start": 189.975,
+      "text": "They’re some of the largest, meaning they have the most genes.",
+      "end": 193.283
+    },
+    {
+      "start": 193.333,
+      "text": "That creates more opportunity for harmful mutations.",
+      "end": 196.881
+    },
+    {
+      "start": 196.931,
+      "text": "To counteract this risk, coronaviruses have a unique feature:",
+      "end": 201.017
+    },
+    {
+      "start": 201.067,
+      "text": "an enzyme that checks for replication errors and corrects mistakes.",
+      "end": 205.017
+    },
+    {
+      "start": 205.067,
+      "text": "This makes coronaviruses much more stable,",
+      "end": 207.707
+    },
+    {
+      "start": 207.757,
+      "text": "with a slower mutation rate, than other RNA viruses.",
+      "end": 211.31699999999998
+    },
+    {
+      "start": 211.367,
+      "text": "While this may sound formidable,",
+      "end": 213.587
+    },
+    {
+      "start": 213.637,
+      "text": "the slow mutation rate is actually a promising sign",
+      "end": 216.56699999999998
+    },
+    {
+      "start": 216.617,
+      "text": "when it comes to disarming them.",
+      "end": 218.807
+    },
+    {
+      "start": 218.857,
+      "text": "After an infection, our immune systems can recognize germs",
+      "end": 222.167
+    },
+    {
+      "start": 222.217,
+      "text": "and destroy them more quickly if they infect us again",
+      "end": 225.25699999999998
+    },
+    {
+      "start": 225.307,
+      "text": "so they don’t make us sick.",
+      "end": 227.34699999999998
+    },
+    {
+      "start": 227.397,
+      "text": "But mutations can make a virus less recognizable to our immune systems—",
+      "end": 231.087
+    },
+    {
+      "start": 231.137,
+      "text": "and therefore more difficult to fight off.",
+      "end": 233.667
+    },
+    {
+      "start": 233.717,
+      "text": "They can also make antiviral drugs and vaccines less effective,",
+      "end": 237.56699999999998
+    },
+    {
+      "start": 237.617,
+      "text": "because they’re tailored very specifically to a virus.",
+      "end": 241.427
+    },
+    {
+      "start": 241.477,
+      "text": "That’s why we need a new flu vaccine every year—",
+      "end": 244.367
+    },
+    {
+      "start": 244.417,
+      "text": "the influenza virus mutates so quickly that new strains pop up constantly.",
+      "end": 249.19799999999998
+    },
+    {
+      "start": 249.248,
+      "text": "The slower mutation rate of coronaviruses means",
+      "end": 251.88799999999998
+    },
+    {
+      "start": 251.938,
+      "text": "our immune systems, drugs, and vaccines",
+      "end": 254.628
+    },
+    {
+      "start": 254.678,
+      "text": "might be able to recognize them for longer after infection,",
+      "end": 258.116
+    },
+    {
+      "start": 258.166,
+      "text": "and therefore protect us better.",
+      "end": 260.976
+    },
+    {
+      "start": 261.026,
+      "text": "Still, we don’t know how long our bodies remain immune to different coronaviruses.",
+      "end": 265.65999999999997
+    },
+    {
+      "start": 265.71,
+      "text": "There’s never been an approved treatment or vaccine for a coronavirus.",
+      "end": 269.561
+    },
+    {
+      "start": 269.611,
+      "text": "We haven’t focused on treating the ones that cause colds,",
+      "end": 272.281
+    },
+    {
+      "start": 272.331,
+      "text": "and though scientists began developing treatments for SARS and MERS,",
+      "end": 276.041
+    },
+    {
+      "start": 276.091,
+      "text": "the epidemics ended before those treatments completed clinical trials.",
+      "end": 280.317
+    },
+    {
+      "start": 280.367,
+      "text": "As we continue to encroach on other animals’ habitats,",
+      "end": 283.437
+    },
+    {
+      "start": 283.487,
+      "text": "some scientists say a new coronavirus jumping to humans is inevitable—",
+      "end": 288.57
+    },
+    {
+      "start": 288.62,
+      "text": "but if we investigate these unknowns, it doesn’t have to be devastating.",
+      "end": 294.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.828,
+      "text": "在近十年间，从中国的 最高峰到最偏远的洞穴里，",
+      "end": 12.475999999999999
+    },
+    {
+      "start": 12.526,
+      "text": "科学家们一直在追寻一种 新型致命病毒的源头。",
+      "end": 16.529999999999998
+    },
+    {
+      "start": 16.58,
+      "text": "他们最终在“石头洞”的蝙蝠 身上找到了答案。",
+      "end": 21.206
+    },
+    {
+      "start": 21.256,
+      "text": "人们所找寻的病毒是 一种在 2003 年引发了",
+      "end": 25.026
+    },
+    {
+      "start": 25.076,
+      "text": "严重急性呼吸系统 综合症流行病，",
+      "end": 27.439
+    },
+    {
+      "start": 27.489,
+      "text": "简称非典型肺炎（SARS）的冠状病毒。",
+      "end": 30.689
+    },
+    {
+      "start": 30.739,
+      "text": "冠状病毒是一群表面有着 棘突蛋白的病毒，",
+      "end": 35.034000000000006
+    },
+    {
+      "start": 35.084,
+      "text": "看起来很像皇冠——",
+      "end": 36.383
+    },
+    {
+      "start": 36.433,
+      "text": "在拉丁文中意为“冠状物”。",
+      "end": 38.183
+    },
+    {
+      "start": 38.233,
+      "text": "目前已知的冠状病毒有数百种。",
+      "end": 41.163000000000004
+    },
+    {
+      "start": 41.213,
+      "text": "其中的七种可以传染给人类 并且引起疾病。",
+      "end": 45.27
+    },
+    {
+      "start": 45.32,
+      "text": "冠状病毒 SARS-CoV 可引起非典型肺炎， MERS-CoV 可引起中东呼吸系统综合征，",
+      "end": 51.816
+    },
+    {
+      "start": 51.866,
+      "text": "而 SARS-CoV-2 则可引起 新型冠状病毒肺炎（COVID-19）。",
+      "end": 56.809000000000005
+    },
+    {
+      "start": 56.859,
+      "text": "七种会感染人类的冠状病毒中， 有四种会导致感冒，",
+      "end": 61.179
+    },
+    {
+      "start": 61.229,
+      "text": "即症状温和 且具有高传染性的鼻喉感染。",
+      "end": 65.273
+    },
+    {
+      "start": 65.323,
+      "text": "有两种会感染肺部并且 引起更严重的疾病。",
+      "end": 70.031
+    },
+    {
+      "start": 70.081,
+      "text": "引起 COVID-19 的第七种病毒 综合了上述两类的特征：",
+      "end": 74.521
+    },
+    {
+      "start": 74.571,
+      "text": "不仅极易传播， 而且会严重地影响肺部。",
+      "end": 78.879
+    },
+    {
+      "start": 78.929,
+      "text": "当受感染者咳嗽时，含有病毒 的飞沫就会喷溅而出。",
+      "end": 83.611
+    },
+    {
+      "start": 83.661,
+      "text": "当飞沫进入其他人的鼻腔或口腔时， 这些人就会被病毒感染。",
+      "end": 88.446
+    },
+    {
+      "start": 88.496,
+      "text": "冠状病毒在封闭的 空间内最易传播，",
+      "end": 91.736
+    },
+    {
+      "start": 91.786,
+      "text": "在这些地方人与人之间距离很近。",
+      "end": 93.406
+    },
+    {
+      "start": 93.456,
+      "text": "寒冷的天气可以防止病毒的 精密外壳变干，",
+      "end": 96.816
+    },
+    {
+      "start": 96.866,
+      "text": "使得它们在宿主之间 传播时能够存活更长时间。",
+      "end": 100.10600000000001
+    },
+    {
+      "start": 100.156,
+      "text": "但是紫外线的照射 可能会消灭它们。",
+      "end": 103.694
+    },
+    {
+      "start": 103.744,
+      "text": "这些季节上的变化对于 已经存在的病毒影响更大。",
+      "end": 107.434
+    },
+    {
+      "start": 107.484,
+      "text": "但是因为至今没有任何人 对新出现的病毒免疫，",
+      "end": 110.34400000000001
+    },
+    {
+      "start": 110.394,
+      "text": "所以它有很多不需要在理想环境下 就可以感染的潜在宿主。",
+      "end": 115.343
+    },
+    {
+      "start": 115.393,
+      "text": "进入人体后，棘突蛋白会嵌入 宿主的细胞内并与它们融合——",
+      "end": 119.976
+    },
+    {
+      "start": 120.026,
+      "text": "这个过程让病毒能够控制 宿主细胞的运转体系，",
+      "end": 122.846
+    },
+    {
+      "start": 122.896,
+      "text": "以复制其自身的遗传基因。",
+      "end": 125.486
+    },
+    {
+      "start": 125.536,
+      "text": "冠状病毒把它们的基因 储存在 RNA 内。",
+      "end": 128.566
+    },
+    {
+      "start": 128.616,
+      "text": "所有病毒都是 RNA 或者 DNA 病毒。",
+      "end": 132.63299999999998
+    },
+    {
+      "start": 132.683,
+      "text": "RNA 病毒通常更小， 携带更少的基因，",
+      "end": 135.654
+    },
+    {
+      "start": 135.704,
+      "text": "这意味着它们可以感染众多宿主， 并且在宿主体内快速复制。",
+      "end": 140.20899999999997
+    },
+    {
+      "start": 140.259,
+      "text": "一般来说，RNA 病毒没有校对机制，",
+      "end": 144.41
+    },
+    {
+      "start": 144.46,
+      "text": "而 DNA 病毒则有。",
+      "end": 147.01
+    },
+    {
+      "start": 147.06,
+      "text": "因此，当 RNA 病毒进行自我复制时，",
+      "end": 149.31
+    },
+    {
+      "start": 149.36,
+      "text": "更有可能发生错误，即所谓的“突变”。",
+      "end": 153.355
+    },
+    {
+      "start": 153.405,
+      "text": "大多数的突变都是对其自身 无用，甚至是无益的。",
+      "end": 157.28699999999998
+    },
+    {
+      "start": 157.337,
+      "text": "但是有一些变异可以帮助病毒 更加适应某些特定的环境——",
+      "end": 160.417
+    },
+    {
+      "start": 160.467,
+      "text": "比如说新的宿主物种。",
+      "end": 162.90699999999998
+    },
+    {
+      "start": 162.957,
+      "text": "传染病通常在病毒从动物 传染到人类时出现，",
+      "end": 167.379
+    },
+    {
+      "start": 167.429,
+      "text": "比如由 RNA 病毒导致的",
+      "end": 169.923
+    },
+    {
+      "start": 169.973,
+      "text": "埃博拉、寨卡和非典传染病，以及 COVID-19 全球性大流行病。",
+      "end": 175.826
+    },
+    {
+      "start": 175.876,
+      "text": "进入人体以后， 病毒仍然会发生突变——",
+      "end": 178.68599999999998
+    },
+    {
+      "start": 178.736,
+      "text": "虽然这种突变不足以 创造新型的病毒，",
+      "end": 180.946
+    },
+    {
+      "start": 180.996,
+      "text": "但足以使原本的病毒 产生变化，或产生新株系。",
+      "end": 185.271
+    },
+    {
+      "start": 185.321,
+      "text": "相比大多数 RNA 病毒， 冠状病毒有几个主要的差别。",
+      "end": 189.92499999999998
+    },
+    {
+      "start": 189.975,
+      "text": "它们是体积最大的 RNA 病毒， 有着最多的遗传基因，",
+      "end": 193.283
+    },
+    {
+      "start": 193.333,
+      "text": "也就更可能出现 对自身有害的变异。",
+      "end": 196.881
+    },
+    {
+      "start": 196.931,
+      "text": "为了抵消这种风险，冠状病毒 展现出了一种独有的特性：",
+      "end": 201.017
+    },
+    {
+      "start": 201.067,
+      "text": "一种可以检验基因复制错误 并进行纠正的酶。",
+      "end": 205.017
+    },
+    {
+      "start": 205.067,
+      "text": "这一特征使得冠状病毒 比其他 RNA 病毒的",
+      "end": 207.707
+    },
+    {
+      "start": 207.757,
+      "text": "突变速度更加缓慢， 因此更加稳定。",
+      "end": 211.31699999999998
+    },
+    {
+      "start": 211.367,
+      "text": "虽然这可能听上去很可怕，",
+      "end": 213.587
+    },
+    {
+      "start": 213.637,
+      "text": "但是当涉及到削弱其致病性，",
+      "end": 216.56699999999998
+    },
+    {
+      "start": 216.617,
+      "text": "其缓慢的突变速率 实际上是一个很好的现象。",
+      "end": 218.807
+    },
+    {
+      "start": 218.857,
+      "text": "在被感染以后，我们的 免疫系统可以识别病菌，",
+      "end": 222.167
+    },
+    {
+      "start": 222.217,
+      "text": "并且在它们再次感染我们时 快速地摧毁它们，",
+      "end": 225.25699999999998
+    },
+    {
+      "start": 225.307,
+      "text": "从而起到免疫效果。",
+      "end": 227.34699999999998
+    },
+    {
+      "start": 227.397,
+      "text": "但是突变会让病毒变得更不易 被我们的免疫系统察觉——",
+      "end": 231.087
+    },
+    {
+      "start": 231.137,
+      "text": "因此也就更难去击溃它们。",
+      "end": 233.667
+    },
+    {
+      "start": 233.717,
+      "text": "它们也会使抗病毒药品 和疫苗的效果大打折扣，",
+      "end": 237.56699999999998
+    },
+    {
+      "start": 237.617,
+      "text": "因为这些药物都是 为每种病毒而特别定制的。",
+      "end": 241.427
+    },
+    {
+      "start": 241.477,
+      "text": "这就是为什么我们每年都 需要研发新的流感疫苗——",
+      "end": 244.367
+    },
+    {
+      "start": 244.417,
+      "text": "因为流感病毒的突变发生得太快， 新株系会持续地出现。",
+      "end": 249.19799999999998
+    },
+    {
+      "start": 249.248,
+      "text": "冠状病毒更慢的突变速率意味着",
+      "end": 251.88799999999998
+    },
+    {
+      "start": 251.938,
+      "text": "人体的免疫系统、药品以及疫苗",
+      "end": 254.628
+    },
+    {
+      "start": 254.678,
+      "text": "也许在感染之后的 更长时间内依然可以辨别它们，",
+      "end": 258.116
+    },
+    {
+      "start": 258.166,
+      "text": "从而更好地保护我们的健康。",
+      "end": 260.976
+    },
+    {
+      "start": 261.026,
+      "text": "目前，我们还不知道被冠状病毒感染后， 人体的免疫时间能持续多久。",
+      "end": 265.65999999999997
+    },
+    {
+      "start": 265.71,
+      "text": "对于冠状病毒，我们也尚未研发出 被证实有效的治疗方法或者疫苗。",
+      "end": 269.561
+    },
+    {
+      "start": 269.611,
+      "text": "我们还从未专注于应对 引起感冒的冠状病毒，",
+      "end": 272.281
+    },
+    {
+      "start": 272.331,
+      "text": "虽然科学家们已经开始钻研 非典和中东呼吸综合征的治疗方法，",
+      "end": 276.041
+    },
+    {
+      "start": 276.091,
+      "text": "但是疫情都在治疗方案 尚未完成临床实验时就结束了。",
+      "end": 280.317
+    },
+    {
+      "start": 280.367,
+      "text": "随着我们继续不断侵占 其它动物的栖息地，",
+      "end": 283.437
+    },
+    {
+      "start": 283.487,
+      "text": "科学家们宣称，新型冠状病毒 从动物传染给人类是无法避免的——",
+      "end": 288.57
+    },
+    {
+      "start": 288.62,
+      "text": "但如果我们调查清楚这些未知事物， 就可以避免大规模的破坏性后果。",
+      "end": 294.95
+    }
+  ]
+};

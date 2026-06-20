@@ -1,0 +1,1056 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Should you care what your parents think?",
+    "speaker": " TED-Ed",
+    "duration": 327,
+    "slug": "ted_ed_should_you_care_what_your_parents_think",
+    "sourcePage": "https://www.ted.com/talks/ted_ed_should_you_care_what_your_parents_think",
+    "translationSourcePage": "https://www.ted.com/talks/ted_ed_should_you_care_what_your_parents_think?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/62/27/001/products/2022e-dan-kwartler-romeo-and-juliet-effect-001-fallback-0875f85ae2cd916a03003ae8cccb0903-1200k.mp4",
+    "youtubeId": "ABYBtcM2D28",
+    "youtubeTitle": "Should you care what your parents think?"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 8.588,
+      "end": 16.295,
+      "text": "If I told you not to press this big red button, what would you do?",
+      "translation": "如果我告诉你 别按这个红色的大按钮，你会做什么？"
+    },
+    {
+      "id": 2,
+      "start": 16.345,
+      "end": 22.301,
+      "text": "For many people, there’s no greater motivation to do something than being told they can’t.",
+      "translation": "对很多人来说， 做某事的动机没什么能比得过被告知不能。"
+    },
+    {
+      "id": 3,
+      "start": 22.351,
+      "end": 29.017,
+      "text": "So, what is it about being told “no” that triggers this response?",
+      "translation": "那么，被告知“别” 为什么能引起这个反应？"
+    },
+    {
+      "id": 4,
+      "start": 29.067,
+      "end": 36.691,
+      "text": "One of the most enduring explanations for this behavior is what psychologists call reactance theory.",
+      "translation": "针对这个行为的最持久的解释之一是被心理学家所说的阻抗理论。"
+    },
+    {
+      "id": 5,
+      "start": 36.741,
+      "end": 48.745,
+      "text": "Reactance is a motivational state that occurs when people feel their freedom is being threatened, and it compels them to take actions they see as restoring that freedom.",
+      "translation": "阻抗理论就是一个动机状态发生在人们感觉他们的自由 被威胁的时候，使他们做出他们觉得 自由会被归还的行动。"
+    },
+    {
+      "id": 6,
+      "start": 48.795,
+      "end": 59.672,
+      "text": "Sometimes this emerges as general frustration or direct argument, but the most straightforward response is to simply do the thing they were told not to.",
+      "translation": "有时候它会以普遍的挫败感或 直接争论出现，但最直接的反应就是去做被告知别做的事情。"
+    },
+    {
+      "id": 7,
+      "start": 59.722,
+      "end": 70.183,
+      "text": "This behavior plays out in public spaces, like when people ignore health campaigns they perceive as overbearing, and in private spaces, like parent-child relationships.",
+      "translation": "这样的态度会出现在公共场所，就像人们忽略 他们认为霸道的健康运动，和在私人空间， 就像父母和孩子的关系。"
+    },
+    {
+      "id": 8,
+      "start": 70.233,
+      "end": 77.732,
+      "text": "However, there are situations where something being forbidden actually makes it less tempting.",
+      "translation": "不过，在一些情况下， 当一件事情不被允许时，其实会减少它的吸引力。"
+    },
+    {
+      "id": 9,
+      "start": 77.782,
+      "end": 91.954,
+      "text": "In 1972, psychologists at the University of Colorado wanted to know if a romantic relationship facing parental disapproval was more likely to strengthen or crumble under the pressure.",
+      "translation": "1972 年，科罗拉多大学的心理学家想知道一个浪漫关系面对父母的反对是更有可能因为压力 而变得坚强还是垮掉。"
+    },
+    {
+      "id": 10,
+      "start": 92.004,
+      "end": 102.59,
+      "text": "To answer this question, they surveyed 140 couples, varying widely in measures of happiness, but all fairly serious in terms of commitment.",
+      "translation": "为了回答这个问题， 他们调查了 140 对情侣，他们的幸福程度有很大的差别，但在承诺方面都是相当认真。"
+    },
+    {
+      "id": 11,
+      "start": 102.64,
+      "end": 109.68,
+      "text": "Only some couples reported perceived parental opposition to their relationship over the study’s six-month period.",
+      "translation": "只有一些情侣报告了， 在研究的六个月期间，感觉到父母对情侣关系的反对，"
+    },
+    {
+      "id": 12,
+      "start": 109.73,
+      "end": 115.812,
+      "text": "But those that did also reported a steady increase in love for one another.",
+      "translation": "但是他们也报告了爱情的稳定增加。"
+    },
+    {
+      "id": 13,
+      "start": 115.862,
+      "end": 127.657,
+      "text": "The researchers named this trend the Romeo and Juliet Effect after literature’s most famous forbidden lovers and concluded that the results were largely motivated by reactance.",
+      "translation": "研究人员把这个趋势 叫做罗密欧与朱丽叶效应，名字来源于 文学史中最著名的禁忌恋人，并判定研究结果是 情侣关系由阻抗理论大大推动。"
+    },
+    {
+      "id": 14,
+      "start": 127.707,
+      "end": 135.498,
+      "text": "But in the decades since this publication, most follow-up studies have suggested the opposite is true.",
+      "translation": "但自结果公布以来的几十年，大多数的后续研究 都提出了相反的结果才是对的。"
+    },
+    {
+      "id": 15,
+      "start": 135.548,
+      "end": 146.217,
+      "text": "In fact, the long-term success of a romantic relationship can be predicted by the perceived approval or disapproval of the couple’s friends and family.",
+      "translation": "实际上，恋爱关系的长期成功可以通过这对情侣的朋友和家人的 赞成或不赞成来预测。这个趋势被称为网络效应。"
+    },
+    {
+      "id": 16,
+      "start": 146.267,
+      "end": 151.222,
+      "text": "This trend is known as the Social Network Effect.",
+      "translation": "那么，为什么阻抗理论不能 战胜网络效应？"
+    },
+    {
+      "id": 17,
+      "start": 151.272,
+      "end": 155.977,
+      "text": "So why doesn’t reactance win out over the Social Network Effect?",
+      "translation": "你可以说是因为我们重视现存的关系"
+    },
+    {
+      "id": 18,
+      "start": 156.027,
+      "end": 161.691,
+      "text": "You might think it’s because we value our existing relationships over our potential relationships.",
+      "translation": "更胜于我们的潜在关系。但是在大多数的情况下， 反对的朋友和家人"
+    },
+    {
+      "id": 19,
+      "start": 161.741,
+      "end": 170.7,
+      "text": "But in most cases, disapproving friends and family are just voicing negative opinions or passively not supporting a relationship.",
+      "translation": "只是说出消极的意见或者 消极地不支持一个关系。这很少是一个我们或者他们的 戏剧性选择。"
+    },
+    {
+      "id": 20,
+      "start": 170.75,
+      "end": 174.495,
+      "text": "It’s rarely a dramatic choice of us or them.",
+      "translation": "当谈到父母，"
+    },
+    {
+      "id": 21,
+      "start": 174.545,
+      "end": 189.343,
+      "text": "And when it comes to parents, most people with good relationships with their parents feel they can ignore their parent’s advice without serious consequences, while people with bad parental relationships often don’t care what they think anyway.",
+      "translation": "大多数和父母关系好的人感觉可以忽略父母的意见 而没有严重后果，而和父母关系不好的人常常不在乎父母的看法。所以如果说不被认可的关系 是更有可能失败的，"
+    },
+    {
+      "id": 22,
+      "start": 189.393,
+      "end": 197.059,
+      "text": "So if disapproved relationships are more likely to fail, does this mean we’re not willing to fight to date who we want?",
+      "translation": "这意味着我们不愿意 为了与想要的人约会而斗争吗?其实，它可能因人而异。"
+    },
+    {
+      "id": 23,
+      "start": 197.109,
+      "end": 200.688,
+      "text": "Well, it might vary from person to person.",
+      "translation": "有一个理论就是其实有两种阻抗："
+    },
+    {
+      "id": 24,
+      "start": 200.738,
+      "end": 215.87,
+      "text": "One theory is that there’s actually two types of reactance: defiant reactance, which is impulsively doing the opposite of what we’re told, and independent reactance, which reflects our deeper desire to make our own choices.",
+      "translation": "反抗阻抗， 就是冲动地做与我们被告知相反的，和独立阻抗， 它反映做出自己的选择的更深渴望。比如说，如果你告诉 一个反抗阻抗高的人小点声，"
+    },
+    {
+      "id": 25,
+      "start": 215.92,
+      "end": 224.337,
+      "text": "For example, if you tell someone with high defiant reactance to lower their voice, they’ll probably start shouting.",
+      "translation": "他们很有可能开始大喊。然而一个独立阻抗高的人很有可能"
+    },
+    {
+      "id": 26,
+      "start": 224.387,
+      "end": 233.221,
+      "text": "Whereas someone with high independent reactance is more likely to simply ignore the request and do what they believe is appropriate.",
+      "translation": "忽略你的要求并作觉得合适的。所以当谈到不被认可的关系，"
+    },
+    {
+      "id": 27,
+      "start": 233.271,
+      "end": 246.943,
+      "text": "So when it comes to relationship disapproval, a defiant person might respond by pursuing their romance in secret, but that doesn’t change how the group’s opinion negatively impacts their relationship.",
+      "translation": "反抗阻抗的人的反应 会是偷偷地继续谈恋爱，但是这个不改变大家的意见会对他们的关系产生不好的影响。相反的，性格独立的人有能力"
+    },
+    {
+      "id": 28,
+      "start": 246.993,
+      "end": 258.037,
+      "text": "Conversely, someone with a particularly independent personality might be capable of ignoring their friends’ concerns and loving whomever they want.",
+      "translation": "忽略朋友的担心及爱他想爱的人。反抗阻抗和独立阻抗的想法 是比较新的，"
+    },
+    {
+      "id": 29,
+      "start": 258.087,
+      "end": 268.798,
+      "text": "The idea of defiant and independent reactance is fairly new, and researchers are still working to uncover all the motivations behind the Social Network Effect.",
+      "translation": "研究人员正在努力揭露网络效应的动机。但是那些理论帮助 指明一个重要的关系，"
+    },
+    {
+      "id": 30,
+      "start": 268.848,
+      "end": 277.848,
+      "text": "But these theories help illuminate the important relationship between reactance and our competing needs for independence and inclusion.",
+      "translation": "就是阻抗和我们对 独立与包容的竞争需求。我们怎么平衡那些愿望 因个人和文化而异。"
+    },
+    {
+      "id": 31,
+      "start": 277.898,
+      "end": 283.062,
+      "text": "How we balance these desires varies across individuals and cultures.",
+      "translation": "但是不管我们多么易受到阻抗，"
+    },
+    {
+      "id": 32,
+      "start": 283.112,
+      "end": 292.53,
+      "text": "But no matter how prone to reactance we may be, our social networks are vital to our sense of identity and well-being.",
+      "translation": "我们的社交网络 对我们的认同感和幸福感很重要。这个尤其符合我们的恋爱关系。"
+    },
+    {
+      "id": 33,
+      "start": 292.58,
+      "end": 296.659,
+      "text": "This is especially true in our romantic relationships.",
+      "translation": "研究发现来自亲密的人的支持"
+    },
+    {
+      "id": 34,
+      "start": 296.709,
+      "end": 304.041,
+      "text": "Studies have found that support from a few close companions can help buffer against disapproval from others.",
+      "translation": "可以缓冲别人的反对。一旦找到支持的社交网络，"
+    },
+    {
+      "id": 35,
+      "start": 304.091,
+      "end": 310.214,
+      "text": "And most relationships do better once the individuals involved find supportive social networks.",
+      "translation": "大多数关系会变得更好。这个结果可能比不上 禁忌恋情的浪漫，"
+    },
+    {
+      "id": 36,
+      "start": 310.264,
+      "end": 326.95,
+      "text": "This outcome might not seem as romantic as a forbidden love affair, but it’s actually in keeping with the story of Romeo and Juliet, whose embattled relationship couldn't endure the threats of extreme disapproval.",
+      "translation": "大多数关系会变得更好。这个结果可能比不上 禁忌恋情的浪漫，但是，它其实符合 罗密欧与朱丽叶的故事，他们为恋情的抗争终究没有抵住 极端反对的威胁。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 8.588,
+      "text": "If I told you not to press this big red button,",
+      "end": 14.501999999999999
+    },
+    {
+      "start": 14.552,
+      "text": "what would you do?",
+      "end": 16.294999999999998
+    },
+    {
+      "start": 16.345,
+      "text": "For many people, there’s no greater motivation to do something",
+      "end": 19.924
+    },
+    {
+      "start": 19.974,
+      "text": "than being told they can’t.",
+      "end": 22.301
+    },
+    {
+      "start": 22.351,
+      "text": "So, what is it about being told “no” that triggers this response?",
+      "end": 29.017
+    },
+    {
+      "start": 29.067,
+      "text": "One of the most enduring explanations for this behavior",
+      "end": 32.437000000000005
+    },
+    {
+      "start": 32.487,
+      "text": "is what psychologists call reactance theory.",
+      "end": 36.691
+    },
+    {
+      "start": 36.741,
+      "text": "Reactance is a motivational state that occurs",
+      "end": 40.111000000000004
+    },
+    {
+      "start": 40.161,
+      "text": "when people feel their freedom is being threatened,",
+      "end": 43.406000000000006
+    },
+    {
+      "start": 43.456,
+      "text": "and it compels them to take actions they see as restoring that freedom.",
+      "end": 48.745000000000005
+    },
+    {
+      "start": 48.795,
+      "text": "Sometimes this emerges as general frustration or direct argument,",
+      "end": 53.458000000000006
+    },
+    {
+      "start": 53.508,
+      "text": "but the most straightforward response",
+      "end": 55.585
+    },
+    {
+      "start": 55.635,
+      "text": "is to simply do the thing they were told not to.",
+      "end": 59.672000000000004
+    },
+    {
+      "start": 59.722,
+      "text": "This behavior plays out in public spaces,",
+      "end": 62.300000000000004
+    },
+    {
+      "start": 62.35,
+      "text": "like when people ignore health campaigns they perceive as overbearing,",
+      "end": 66.054
+    },
+    {
+      "start": 66.104,
+      "text": "and in private spaces, like parent-child relationships.",
+      "end": 70.183
+    },
+    {
+      "start": 70.233,
+      "text": "However, there are situations where something being forbidden",
+      "end": 74.312
+    },
+    {
+      "start": 74.362,
+      "text": "actually makes it less tempting.",
+      "end": 77.732
+    },
+    {
+      "start": 77.782,
+      "text": "In 1972, psychologists at the University of Colorado",
+      "end": 82.403
+    },
+    {
+      "start": 82.453,
+      "text": "wanted to know if a romantic relationship facing parental disapproval",
+      "end": 87.325
+    },
+    {
+      "start": 87.375,
+      "text": "was more likely to strengthen or crumble under the pressure.",
+      "end": 91.95400000000001
+    },
+    {
+      "start": 92.004,
+      "text": "To answer this question, they surveyed 140 couples,",
+      "end": 96.209
+    },
+    {
+      "start": 96.259,
+      "text": "varying widely in measures of happiness,",
+      "end": 98.753
+    },
+    {
+      "start": 98.803,
+      "text": "but all fairly serious in terms of commitment.",
+      "end": 102.59
+    },
+    {
+      "start": 102.64,
+      "text": "Only some couples reported perceived parental opposition to their relationship",
+      "end": 107.38600000000001
+    },
+    {
+      "start": 107.436,
+      "text": "over the study’s six-month period.",
+      "end": 109.68
+    },
+    {
+      "start": 109.73,
+      "text": "But those that did also reported a steady increase in love for one another.",
+      "end": 115.812
+    },
+    {
+      "start": 115.862,
+      "text": "The researchers named this trend the Romeo and Juliet Effect",
+      "end": 120.441
+    },
+    {
+      "start": 120.491,
+      "text": "after literature’s most famous forbidden lovers",
+      "end": 123.486
+    },
+    {
+      "start": 123.536,
+      "text": "and concluded that the results were largely motivated by reactance.",
+      "end": 127.657
+    },
+    {
+      "start": 127.707,
+      "text": "But in the decades since this publication,",
+      "end": 130.368
+    },
+    {
+      "start": 130.418,
+      "text": "most follow-up studies have suggested the opposite is true.",
+      "end": 135.498
+    },
+    {
+      "start": 135.548,
+      "text": "In fact, the long-term success of a romantic relationship",
+      "end": 139.25199999999998
+    },
+    {
+      "start": 139.302,
+      "text": "can be predicted by the perceived approval or disapproval",
+      "end": 143.464
+    },
+    {
+      "start": 143.514,
+      "text": "of the couple’s friends and family.",
+      "end": 146.21699999999998
+    },
+    {
+      "start": 146.267,
+      "text": "This trend is known as the Social Network Effect.",
+      "end": 151.22199999999998
+    },
+    {
+      "start": 151.272,
+      "text": "So why doesn’t reactance win out over the Social Network Effect?",
+      "end": 155.97699999999998
+    },
+    {
+      "start": 156.027,
+      "text": "You might think it’s because we value our existing relationships",
+      "end": 159.147
+    },
+    {
+      "start": 159.197,
+      "text": "over our potential relationships.",
+      "end": 161.691
+    },
+    {
+      "start": 161.741,
+      "text": "But in most cases, disapproving friends and family",
+      "end": 165.444
+    },
+    {
+      "start": 165.494,
+      "text": "are just voicing negative opinions or passively not supporting a relationship.",
+      "end": 170.7
+    },
+    {
+      "start": 170.75,
+      "text": "It’s rarely a dramatic choice of us or them.",
+      "end": 174.49499999999998
+    },
+    {
+      "start": 174.545,
+      "text": "And when it comes to parents,",
+      "end": 176.12199999999999
+    },
+    {
+      "start": 176.172,
+      "text": "most people with good relationships with their parents",
+      "end": 178.708
+    },
+    {
+      "start": 178.758,
+      "text": "feel they can ignore their parent’s advice without serious consequences,",
+      "end": 183.629
+    },
+    {
+      "start": 183.679,
+      "text": "while people with bad parental relationships",
+      "end": 186.25699999999998
+    },
+    {
+      "start": 186.307,
+      "text": "often don’t care what they think anyway.",
+      "end": 189.343
+    },
+    {
+      "start": 189.393,
+      "text": "So if disapproved relationships are more likely to fail,",
+      "end": 193.34699999999998
+    },
+    {
+      "start": 193.397,
+      "text": "does this mean we’re not willing to fight to date who we want?",
+      "end": 197.059
+    },
+    {
+      "start": 197.109,
+      "text": "Well, it might vary from person to person.",
+      "end": 200.688
+    },
+    {
+      "start": 200.738,
+      "text": "One theory is that there’s actually two types of reactance:",
+      "end": 204.90099999999998
+    },
+    {
+      "start": 204.951,
+      "text": "defiant reactance, which is impulsively doing the opposite of what we’re told,",
+      "end": 209.53
+    },
+    {
+      "start": 209.58,
+      "text": "and independent reactance, which reflects our deeper desire to make our own choices.",
+      "end": 215.86999999999998
+    },
+    {
+      "start": 215.92,
+      "text": "For example, if you tell someone with high defiant reactance to lower their voice,",
+      "end": 221.70899999999997
+    },
+    {
+      "start": 221.759,
+      "text": "they’ll probably start shouting.",
+      "end": 224.337
+    },
+    {
+      "start": 224.387,
+      "text": "Whereas someone with high independent reactance is more likely",
+      "end": 228.08999999999997
+    },
+    {
+      "start": 228.14,
+      "text": "to simply ignore the request and do what they believe is appropriate.",
+      "end": 233.22099999999998
+    },
+    {
+      "start": 233.271,
+      "text": "So when it comes to relationship disapproval,",
+      "end": 236.09799999999998
+    },
+    {
+      "start": 236.148,
+      "text": "a defiant person might respond by pursuing their romance in secret,",
+      "end": 240.93699999999998
+    },
+    {
+      "start": 240.987,
+      "text": "but that doesn’t change how the group’s opinion",
+      "end": 243.314
+    },
+    {
+      "start": 243.364,
+      "text": "negatively impacts their relationship.",
+      "end": 246.94299999999998
+    },
+    {
+      "start": 246.993,
+      "text": "Conversely, someone with a particularly independent personality might be capable",
+      "end": 252.53099999999998
+    },
+    {
+      "start": 252.581,
+      "text": "of ignoring their friends’ concerns and loving whomever they want.",
+      "end": 258.037
+    },
+    {
+      "start": 258.087,
+      "text": "The idea of defiant and independent reactance is fairly new,",
+      "end": 262.75
+    },
+    {
+      "start": 262.8,
+      "text": "and researchers are still working to uncover all the motivations",
+      "end": 266.045
+    },
+    {
+      "start": 266.095,
+      "text": "behind the Social Network Effect.",
+      "end": 268.798
+    },
+    {
+      "start": 268.848,
+      "text": "But these theories help illuminate the important relationship",
+      "end": 271.96799999999996
+    },
+    {
+      "start": 272.018,
+      "text": "between reactance and our competing needs for independence and inclusion.",
+      "end": 277.848
+    },
+    {
+      "start": 277.898,
+      "text": "How we balance these desires varies across individuals and cultures.",
+      "end": 283.062
+    },
+    {
+      "start": 283.112,
+      "text": "But no matter how prone to reactance we may be,",
+      "end": 286.48199999999997
+    },
+    {
+      "start": 286.532,
+      "text": "our social networks are vital to our sense of identity and well-being.",
+      "end": 292.53
+    },
+    {
+      "start": 292.58,
+      "text": "This is especially true in our romantic relationships.",
+      "end": 296.659
+    },
+    {
+      "start": 296.709,
+      "text": "Studies have found that support from a few close companions",
+      "end": 300.621
+    },
+    {
+      "start": 300.671,
+      "text": "can help buffer against disapproval from others.",
+      "end": 304.041
+    },
+    {
+      "start": 304.091,
+      "text": "And most relationships do better once the individuals involved",
+      "end": 307.378
+    },
+    {
+      "start": 307.428,
+      "text": "find supportive social networks.",
+      "end": 310.214
+    },
+    {
+      "start": 310.264,
+      "text": "This outcome might not seem as romantic as a forbidden love affair,",
+      "end": 314.635
+    },
+    {
+      "start": 314.685,
+      "text": "but it’s actually in keeping with the story of Romeo and Juliet,",
+      "end": 319.181
+    },
+    {
+      "start": 319.231,
+      "text": "whose embattled relationship couldn't endure the threats of extreme disapproval.",
+      "end": 326.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 8.588,
+      "text": "如果我告诉你 别按这个红色的大按钮，",
+      "end": 14.501999999999999
+    },
+    {
+      "start": 14.552,
+      "text": "你会做什么？",
+      "end": 16.294999999999998
+    },
+    {
+      "start": 16.345,
+      "text": "对很多人来说， 做某事的动机",
+      "end": 19.924
+    },
+    {
+      "start": 19.974,
+      "text": "没什么能比得过被告知不能。",
+      "end": 22.301
+    },
+    {
+      "start": 22.351,
+      "text": "那么，被告知“别” 为什么能引起这个反应？",
+      "end": 29.017
+    },
+    {
+      "start": 29.067,
+      "text": "针对这个行为的最持久的解释之一",
+      "end": 32.437000000000005
+    },
+    {
+      "start": 32.487,
+      "text": "是被心理学家所说的阻抗理论。",
+      "end": 36.691
+    },
+    {
+      "start": 36.741,
+      "text": "阻抗理论就是一个动机状态",
+      "end": 40.111000000000004
+    },
+    {
+      "start": 40.161,
+      "text": "发生在人们感觉他们的自由 被威胁的时候，",
+      "end": 43.406000000000006
+    },
+    {
+      "start": 43.456,
+      "text": "使他们做出他们觉得 自由会被归还的行动。",
+      "end": 48.745000000000005
+    },
+    {
+      "start": 48.795,
+      "text": "有时候它会以普遍的挫败感或 直接争论出现，",
+      "end": 53.458000000000006
+    },
+    {
+      "start": 53.508,
+      "text": "但最直接的反应",
+      "end": 55.585
+    },
+    {
+      "start": 55.635,
+      "text": "就是去做被告知别做的事情。",
+      "end": 59.672000000000004
+    },
+    {
+      "start": 59.722,
+      "text": "这样的态度会出现在公共场所，",
+      "end": 62.300000000000004
+    },
+    {
+      "start": 62.35,
+      "text": "就像人们忽略 他们认为霸道的健康运动，",
+      "end": 66.054
+    },
+    {
+      "start": 66.104,
+      "text": "和在私人空间， 就像父母和孩子的关系。",
+      "end": 70.183
+    },
+    {
+      "start": 70.233,
+      "text": "不过，在一些情况下， 当一件事情不被允许时，",
+      "end": 74.312
+    },
+    {
+      "start": 74.362,
+      "text": "其实会减少它的吸引力。",
+      "end": 77.732
+    },
+    {
+      "start": 77.782,
+      "text": "1972 年，科罗拉多大学的心理学家",
+      "end": 82.403
+    },
+    {
+      "start": 82.453,
+      "text": "想知道一个浪漫关系面对父母的反对",
+      "end": 87.325
+    },
+    {
+      "start": 87.375,
+      "text": "是更有可能因为压力 而变得坚强还是垮掉。",
+      "end": 91.95400000000001
+    },
+    {
+      "start": 92.004,
+      "text": "为了回答这个问题， 他们调查了 140 对情侣，",
+      "end": 96.209
+    },
+    {
+      "start": 96.259,
+      "text": "他们的幸福程度有很大的差别，",
+      "end": 98.753
+    },
+    {
+      "start": 98.803,
+      "text": "但在承诺方面都是相当认真。",
+      "end": 102.59
+    },
+    {
+      "start": 102.64,
+      "text": "只有一些情侣报告了， 在研究的六个月期间，",
+      "end": 107.38600000000001
+    },
+    {
+      "start": 107.436,
+      "text": "感觉到父母对情侣关系的反对，",
+      "end": 109.68
+    },
+    {
+      "start": 109.73,
+      "text": "但是他们也报告了爱情的稳定增加。",
+      "end": 115.812
+    },
+    {
+      "start": 115.862,
+      "text": "研究人员把这个趋势 叫做罗密欧与朱丽叶效应，",
+      "end": 120.441
+    },
+    {
+      "start": 120.491,
+      "text": "名字来源于 文学史中最著名的禁忌恋人，",
+      "end": 123.486
+    },
+    {
+      "start": 123.536,
+      "text": "并判定研究结果是 情侣关系由阻抗理论大大推动。",
+      "end": 127.657
+    },
+    {
+      "start": 127.707,
+      "text": "但自结果公布以来的几十年，",
+      "end": 130.368
+    },
+    {
+      "start": 130.418,
+      "text": "大多数的后续研究 都提出了相反的结果才是对的。",
+      "end": 135.498
+    },
+    {
+      "start": 135.548,
+      "text": "实际上，恋爱关系的长期成功",
+      "end": 139.25199999999998
+    },
+    {
+      "start": 139.302,
+      "text": "可以通过这对情侣的朋友和家人的 赞成或不赞成来预测。",
+      "end": 146.21699999999998
+    },
+    {
+      "start": 146.267,
+      "text": "这个趋势被称为网络效应。",
+      "end": 151.22199999999998
+    },
+    {
+      "start": 151.272,
+      "text": "那么，为什么阻抗理论不能 战胜网络效应？",
+      "end": 155.97699999999998
+    },
+    {
+      "start": 156.027,
+      "text": "你可以说是因为我们重视现存的关系",
+      "end": 159.147
+    },
+    {
+      "start": 159.197,
+      "text": "更胜于我们的潜在关系。",
+      "end": 161.691
+    },
+    {
+      "start": 161.741,
+      "text": "但是在大多数的情况下， 反对的朋友和家人",
+      "end": 165.444
+    },
+    {
+      "start": 165.494,
+      "text": "只是说出消极的意见或者 消极地不支持一个关系。",
+      "end": 170.7
+    },
+    {
+      "start": 170.75,
+      "text": "这很少是一个我们或者他们的 戏剧性选择。",
+      "end": 174.49499999999998
+    },
+    {
+      "start": 174.545,
+      "text": "当谈到父母，",
+      "end": 176.12199999999999
+    },
+    {
+      "start": 176.172,
+      "text": "大多数和父母关系好的人",
+      "end": 178.708
+    },
+    {
+      "start": 178.758,
+      "text": "感觉可以忽略父母的意见 而没有严重后果，",
+      "end": 183.629
+    },
+    {
+      "start": 183.679,
+      "text": "而和父母关系不好的人",
+      "end": 186.25699999999998
+    },
+    {
+      "start": 186.307,
+      "text": "常常不在乎父母的看法。",
+      "end": 189.343
+    },
+    {
+      "start": 189.393,
+      "text": "所以如果说不被认可的关系 是更有可能失败的，",
+      "end": 193.34699999999998
+    },
+    {
+      "start": 193.397,
+      "text": "这意味着我们不愿意 为了与想要的人约会而斗争吗?",
+      "end": 197.059
+    },
+    {
+      "start": 197.109,
+      "text": "其实，它可能因人而异。",
+      "end": 200.688
+    },
+    {
+      "start": 200.738,
+      "text": "有一个理论就是其实有两种阻抗：",
+      "end": 204.90099999999998
+    },
+    {
+      "start": 204.951,
+      "text": "反抗阻抗， 就是冲动地做与我们被告知相反的，",
+      "end": 209.53
+    },
+    {
+      "start": 209.58,
+      "text": "和独立阻抗， 它反映做出自己的选择的更深渴望。",
+      "end": 215.86999999999998
+    },
+    {
+      "start": 215.92,
+      "text": "比如说，如果你告诉 一个反抗阻抗高的人小点声，",
+      "end": 221.70899999999997
+    },
+    {
+      "start": 221.759,
+      "text": "他们很有可能开始大喊。",
+      "end": 224.337
+    },
+    {
+      "start": 224.387,
+      "text": "然而一个独立阻抗高的人很有可能",
+      "end": 228.08999999999997
+    },
+    {
+      "start": 228.14,
+      "text": "忽略你的要求并作觉得合适的。",
+      "end": 233.22099999999998
+    },
+    {
+      "start": 233.271,
+      "text": "所以当谈到不被认可的关系，",
+      "end": 236.09799999999998
+    },
+    {
+      "start": 236.148,
+      "text": "反抗阻抗的人的反应 会是偷偷地继续谈恋爱，",
+      "end": 240.93699999999998
+    },
+    {
+      "start": 240.987,
+      "text": "但是这个不改变大家的意见会",
+      "end": 243.314
+    },
+    {
+      "start": 243.364,
+      "text": "对他们的关系产生不好的影响。",
+      "end": 246.94299999999998
+    },
+    {
+      "start": 246.993,
+      "text": "相反的，性格独立的人有能力",
+      "end": 252.53099999999998
+    },
+    {
+      "start": 252.581,
+      "text": "忽略朋友的担心及爱他想爱的人。",
+      "end": 258.037
+    },
+    {
+      "start": 258.087,
+      "text": "反抗阻抗和独立阻抗的想法 是比较新的，",
+      "end": 262.75
+    },
+    {
+      "start": 262.8,
+      "text": "研究人员正在努力揭露",
+      "end": 266.045
+    },
+    {
+      "start": 266.095,
+      "text": "网络效应的动机。",
+      "end": 268.798
+    },
+    {
+      "start": 268.848,
+      "text": "但是那些理论帮助 指明一个重要的关系，",
+      "end": 271.96799999999996
+    },
+    {
+      "start": 272.018,
+      "text": "就是阻抗和我们对 独立与包容的竞争需求。",
+      "end": 277.848
+    },
+    {
+      "start": 277.898,
+      "text": "我们怎么平衡那些愿望 因个人和文化而异。",
+      "end": 283.062
+    },
+    {
+      "start": 283.112,
+      "text": "但是不管我们多么易受到阻抗，",
+      "end": 286.48199999999997
+    },
+    {
+      "start": 286.532,
+      "text": "我们的社交网络 对我们的认同感和幸福感很重要。",
+      "end": 292.53
+    },
+    {
+      "start": 292.58,
+      "text": "这个尤其符合我们的恋爱关系。",
+      "end": 296.659
+    },
+    {
+      "start": 296.709,
+      "text": "研究发现来自亲密的人的支持",
+      "end": 300.621
+    },
+    {
+      "start": 300.671,
+      "text": "可以缓冲别人的反对。",
+      "end": 304.041
+    },
+    {
+      "start": 304.091,
+      "text": "一旦找到支持的社交网络，",
+      "end": 307.378
+    },
+    {
+      "start": 307.428,
+      "text": "大多数关系会变得更好。",
+      "end": 310.214
+    },
+    {
+      "start": 310.264,
+      "text": "这个结果可能比不上 禁忌恋情的浪漫，",
+      "end": 314.635
+    },
+    {
+      "start": 314.685,
+      "text": "但是，它其实符合 罗密欧与朱丽叶的故事，",
+      "end": 319.181
+    },
+    {
+      "start": 319.231,
+      "text": "他们为恋情的抗争终究没有抵住 极端反对的威胁。",
+      "end": 326.95
+    }
+  ]
+};

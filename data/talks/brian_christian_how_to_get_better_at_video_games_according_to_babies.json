@@ -1,0 +1,1026 @@
+{
+  "meta": {
+    "title": "How to get better at video games, according to babies",
+    "speaker": "Brian Christian",
+    "duration": 293,
+    "slug": "brian_christian_how_to_get_better_at_video_games_according_to_babies",
+    "sourcePage": "https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies",
+    "translationSourcePage": "https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/56/57/002/products/2021e-brian-christian-ai-game-play-002-fallback-5ecd4e4163b93b4e78ac63ab58d7a93b-1200k.mp4",
+    "youtubeId": "PP8Zc778B8s",
+    "youtubeTitle": "How to get better at video games, according to babies - Brian Christian"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 8.871,
+      "end": 15.946,
+      "text": "In 2013, a group of researchers at DeepMind in London had set their sights on a grand challenge.",
+      "translation": "2013年一群伦敦 DeepMind公司的研究者把目光放在一大挑战上。"
+    },
+    {
+      "id": 2,
+      "start": 15.996,
+      "end": 24.613,
+      "text": "They wanted to create an AI system that could beat, not just a single Atari game, but every Atari game.",
+      "translation": "他们想要创建一个人工智能系统， 不仅能胜一个，而是能够全部完胜雅达利 （Atari）游戏。"
+    },
+    {
+      "id": 3,
+      "start": 24.663,
+      "end": 33.904,
+      "text": "They developed a system they called Deep Q Networks, or DQN, and less than two years later, it was superhuman.",
+      "translation": "他们开发了个名叫 强化学习的网络（DQN），在不到两年，它超越人类。"
+    },
+    {
+      "id": 4,
+      "start": 33.954,
+      "end": 48.112,
+      "text": "DQN was getting scores 13 times better than professional human games testers at “Breakout,” 17 times better at “Boxing,” and 25 times better at “Video Pinball.”",
+      "translation": "DQN打砖块游戏（Breakout）的得分比人类专业游戏玩家高13倍，在拳击游戏中高17倍， 在电子弹珠台中高25倍。"
+    },
+    {
+      "id": 5,
+      "start": 48.162,
+      "end": 52.446,
+      "text": "But there was one notable, and glaring, exception.",
+      "translation": "但有一很明显的例外。"
+    },
+    {
+      "id": 6,
+      "start": 52.496,
+      "end": 61.362,
+      "text": "When playing “Montezuma’s Revenge” DQN couldn’t score a single point, even after playing for weeks.",
+      "translation": "玩游戏《Montezuma’s Revenge》时， DQN一分都拿不到，即便玩了几周后。"
+    },
+    {
+      "id": 7,
+      "start": 61.412,
+      "end": 67.154,
+      "text": "What was it that made this particular game so vexingly difficult for AI?",
+      "translation": "是什么让这个特别的游戏 对人工智能这么难胜？"
+    },
+    {
+      "id": 8,
+      "start": 67.204,
+      "end": 70.488,
+      "text": "And what would it take to solve it?",
+      "translation": "需要采取什么来解决它？"
+    },
+    {
+      "id": 9,
+      "start": 70.538,
+      "end": 73.696,
+      "text": "Spoiler alert: babies.",
+      "translation": "剧透警告：婴儿。"
+    },
+    {
+      "id": 10,
+      "start": 73.746,
+      "end": 76.113,
+      "text": "We’ll come back to that in a minute.",
+      "translation": "我们1分钟后回来。"
+    },
+    {
+      "id": 11,
+      "start": 76.163,
+      "end": 86.738,
+      "text": "Playing Atari games with AI involves what’s called reinforcement learning, where the system is designed to maximize some kind of numerical rewards.",
+      "translation": "人工智能玩雅达利游戏 涉及到强化学习，在这里系统被设计为 最大化某种量化的奖励。"
+    },
+    {
+      "id": 12,
+      "start": 86.788,
+      "end": 90.696,
+      "text": "In this case, those rewards were simply the game's points.",
+      "translation": "在这个例子中，这些奖励是游戏分数。"
+    },
+    {
+      "id": 13,
+      "start": 90.746,
+      "end": 98.029,
+      "text": "This underlying goal drives the system to learn which buttons to press and when to press them to get the most points.",
+      "translation": "这个潜在的目标驱使系统 学习按哪个按键以及何时去按来获得最高分数。"
+    },
+    {
+      "id": 14,
+      "start": 98.079,
+      "end": 109.238,
+      "text": "Some systems use model-based approaches, where they have a model of the environment that they can use to predict what will happen next once they take a certain action.",
+      "translation": "一些系统使用基于模型的方法， 它们有一个环境的模型这样它们就能用来预测 一旦它们采取特定行动后，下一步会发生什么。"
+    },
+    {
+      "id": 15,
+      "start": 109.288,
+      "end": 112.654,
+      "text": "DQN, however, is model free.",
+      "translation": "然而，DQN没有任何模型。"
+    },
+    {
+      "id": 16,
+      "start": 112.704,
+      "end": 123.821,
+      "text": "Instead of explicitly modeling its environment, it just learns to predict, based on the images on screen, how many future points it can expect to earn by pressing different buttons.",
+      "translation": "与其明确地建模环境，它只需要基于屏幕上的图像学习预测，它们按不同的键能够 期望获得多少分数。"
+    },
+    {
+      "id": 17,
+      "start": 123.871,
+      "end": 131.988,
+      "text": "For instance, “if the ball is here and I move left, more points, but if I move right, no more points.”",
+      "translation": "例如，“如果球在这里， 我向左移就得更多的分数，但如果向右移就不得分。”"
+    },
+    {
+      "id": 18,
+      "start": 132.038,
+      "end": 136.654,
+      "text": "But learning these connections requires a lot of trial and error.",
+      "translation": "但学习这些联系需要大量的试错。"
+    },
+    {
+      "id": 19,
+      "start": 136.704,
+      "end": 146.654,
+      "text": "The DQN system would start by mashing buttons randomly, and then slowly piece together which buttons to mash when in order to maximize its score.",
+      "translation": "DQN系统从随意敲按键开始，然后慢慢拼凑 何时需要敲哪个按键才能够得到最高分。"
+    },
+    {
+      "id": 20,
+      "start": 146.704,
+      "end": 154.071,
+      "text": "But in playing “Montezuma’s Revenge,” this approach of random button-mashing fell flat on its face.",
+      "translation": "但在玩《Montezuma’s Revenge》时，这种随意敲按键的方法彻底失效了。"
+    },
+    {
+      "id": 21,
+      "start": 154.121,
+      "end": 160.821,
+      "text": "A player would have to perform this entire sequence just to score their first points at the very end.",
+      "translation": "玩家得做完这整个序列动作才能最终得到第一分。"
+    },
+    {
+      "id": 22,
+      "start": 160.871,
+      "end": 163.488,
+      "text": "A mistake? Game over.",
+      "translation": "犯个错误？游戏结束。"
+    },
+    {
+      "id": 23,
+      "start": 163.538,
+      "end": 167.696,
+      "text": "So how could DQN even know it was on the right track?",
+      "translation": "那么DQN如何知道它在正确的道路上？"
+    },
+    {
+      "id": 24,
+      "start": 167.746,
+      "end": 170.696,
+      "text": "This is where babies come in.",
+      "translation": "婴儿上场的时候到了。"
+    },
+    {
+      "id": 25,
+      "start": 170.746,
+      "end": 177.529,
+      "text": "In studies, infants consistently look longer at pictures they haven’t seen before than ones they have.",
+      "translation": "在研究中，婴儿看没见过的图片要比见过的图片花更多的时间。"
+    },
+    {
+      "id": 26,
+      "start": 177.579,
+      "end": 182.071,
+      "text": "There just seems to be something intrinsically rewarding about novelty.",
+      "translation": "新奇似乎就是某种内在奖励。"
+    },
+    {
+      "id": 27,
+      "start": 182.121,
+      "end": 186.446,
+      "text": "This behavior has been essential in understanding the infant mind.",
+      "translation": "这种行为对于理解 婴儿的心理至关重要。"
+    },
+    {
+      "id": 28,
+      "start": 186.496,
+      "end": 192.071,
+      "text": "It also turned out to be the secret to beating “Montezuma’s Revenge.”",
+      "translation": "这正好也是玩好 《Montezuma’s Revenge》游戏的秘密。"
+    },
+    {
+      "id": 29,
+      "start": 192.121,
+      "end": 200.654,
+      "text": "The DeepMind researchers worked out an ingenious way to plug this preference for novelty into reinforcement learning.",
+      "translation": "DeepMind研究人员找到 巧妙的方法将这种对新奇事物的偏好 插入到强化学习中。"
+    },
+    {
+      "id": 30,
+      "start": 200.704,
+      "end": 209.654,
+      "text": "They made it so that unusual or new images appearing on the screen were every bit as rewarding as real in-game points.",
+      "translation": "他们让不同寻常 或新的图片出现在屏幕中时与真正的游戏积分一样有奖励意义。"
+    },
+    {
+      "id": 31,
+      "start": 209.704,
+      "end": 214.529,
+      "text": "Suddenly, DQN was behaving totally differently from before.",
+      "translation": "突然之间，DQN的行为 完全跟起初不一样了。"
+    },
+    {
+      "id": 32,
+      "start": 214.579,
+      "end": 228.113,
+      "text": "It wanted to explore the room it was in, to grab the key and escape through the locked door— not because it was worth 100 points, but for the same reason we would: to see what was on the other side.",
+      "translation": "它想要探索所处的房间，去抓住钥匙并 通过锁住的门逃出去——不是因为这价值100分，而是跟我们的理由一样： 去看看另一边有什么。"
+    },
+    {
+      "id": 33,
+      "start": 228.163,
+      "end": 238.404,
+      "text": "With this new drive, DQN not only managed to grab that first key— it explored all the way through 15 of the temple’s 24 chambers.",
+      "translation": "通过这种新的激励，DQN不仅 能够抓住第一把钥匙——它还在24个房间中，探索了15个房间。"
+    },
+    {
+      "id": 34,
+      "start": 238.454,
+      "end": 243.863,
+      "text": "But emphasizing novelty-based rewards can sometimes create more problems than it solves.",
+      "translation": "但强调基于新奇的奖励有时候 会带来比它解决的问题更多的问题。"
+    },
+    {
+      "id": 35,
+      "start": 243.913,
+      "end": 249.946,
+      "text": "A novelty-seeking system that’s played a game too long will eventually lose motivation.",
+      "translation": "一个新颖性探索的系统 如果玩游戏太久最终会失去动力。"
+    },
+    {
+      "id": 36,
+      "start": 249.996,
+      "end": 253.571,
+      "text": "If it’s seen it all before, why go anywhere?",
+      "translation": "如果这都是以前见过的， 为什么还要去呢？"
+    },
+    {
+      "id": 37,
+      "start": 253.621,
+      "end": 258.904,
+      "text": "Alternately, if it encounters, say, a television, it will freeze.",
+      "translation": "换之，假如它遇到电视， 它就会停下来。"
+    },
+    {
+      "id": 38,
+      "start": 258.954,
+      "end": 263.154,
+      "text": "The constant novel images are essentially paralyzing.",
+      "translation": "不断出现的新奇图像基本让人瘫痪。"
+    },
+    {
+      "id": 39,
+      "start": 263.204,
+      "end": 267.029,
+      "text": "The ideas and inspiration here go in both directions.",
+      "translation": "这个想法和启发是双向的。"
+    },
+    {
+      "id": 40,
+      "start": 267.079,
+      "end": 278.738,
+      "text": "AI researchers stuck on a practical problem, like how to get DQN to beat a difficult game, are turning increasingly to experts in human intelligence for ideas.",
+      "translation": "人工智能研究人员被一个问题困住了，比如如何让DQN打赢一个不同的游戏，逐渐变成了探索人类的思想智能。"
+    },
+    {
+      "id": 41,
+      "start": 278.788,
+      "end": 292.95,
+      "text": "At the same time, AI is giving us new insights into the ways we get stuck and unstuck: into boredom, depression, and addiction, along with curiosity, creativity, and play.",
+      "translation": "同时，人工智能给我们提供了新的视角， 让我们了解如何陷入和摆脱困境：变得无聊、沮丧和上瘾，还有好奇心、创造力和玩乐。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 8.871,
+      "text": "In 2013, a group of researchers at DeepMind in London",
+      "end": 13.113
+    },
+    {
+      "start": 13.163,
+      "text": "had set their sights on a grand challenge.",
+      "end": 15.946
+    },
+    {
+      "start": 15.996,
+      "text": "They wanted to create an AI system that could beat,",
+      "end": 19.238
+    },
+    {
+      "start": 19.288,
+      "text": "not just a single Atari game, but every Atari game.",
+      "end": 24.613
+    },
+    {
+      "start": 24.663,
+      "text": "They developed a system they called Deep Q Networks, or DQN,",
+      "end": 29.779
+    },
+    {
+      "start": 29.829,
+      "text": "and less than two years later, it was superhuman.",
+      "end": 33.904
+    },
+    {
+      "start": 33.954,
+      "text": "DQN was getting scores 13 times better",
+      "end": 38.071000000000005
+    },
+    {
+      "start": 38.121,
+      "text": "than professional human games testers at “Breakout,”",
+      "end": 41.612
+    },
+    {
+      "start": 41.662,
+      "text": "17 times better at “Boxing,” and 25 times better at “Video Pinball.”",
+      "end": 48.112
+    },
+    {
+      "start": 48.162,
+      "text": "But there was one notable, and glaring, exception.",
+      "end": 52.446000000000005
+    },
+    {
+      "start": 52.496,
+      "text": "When playing “Montezuma’s Revenge” DQN couldn’t score a single point,",
+      "end": 58.487
+    },
+    {
+      "start": 58.537,
+      "text": "even after playing for weeks.",
+      "end": 61.362
+    },
+    {
+      "start": 61.412,
+      "text": "What was it that made this particular game so vexingly difficult for AI?",
+      "end": 67.154
+    },
+    {
+      "start": 67.204,
+      "text": "And what would it take to solve it?",
+      "end": 70.488
+    },
+    {
+      "start": 70.538,
+      "text": "Spoiler alert: babies.",
+      "end": 73.696
+    },
+    {
+      "start": 73.746,
+      "text": "We’ll come back to that in a minute.",
+      "end": 76.113
+    },
+    {
+      "start": 76.163,
+      "text": "Playing Atari games with AI involves what’s called reinforcement learning,",
+      "end": 81.821
+    },
+    {
+      "start": 81.871,
+      "text": "where the system is designed to maximize some kind of numerical rewards.",
+      "end": 86.738
+    },
+    {
+      "start": 86.788,
+      "text": "In this case, those rewards were simply the game's points.",
+      "end": 90.696
+    },
+    {
+      "start": 90.746,
+      "text": "This underlying goal drives the system to learn which buttons to press",
+      "end": 95.029
+    },
+    {
+      "start": 95.079,
+      "text": "and when to press them to get the most points.",
+      "end": 98.029
+    },
+    {
+      "start": 98.079,
+      "text": "Some systems use model-based approaches, where they have a model of the environment",
+      "end": 103.571
+    },
+    {
+      "start": 103.621,
+      "text": "that they can use to predict what will happen next",
+      "end": 106.696
+    },
+    {
+      "start": 106.746,
+      "text": "once they take a certain action.",
+      "end": 109.238
+    },
+    {
+      "start": 109.288,
+      "text": "DQN, however, is model free.",
+      "end": 112.654
+    },
+    {
+      "start": 112.704,
+      "text": "Instead of explicitly modeling its environment,",
+      "end": 115.238
+    },
+    {
+      "start": 115.288,
+      "text": "it just learns to predict, based on the images on screen,",
+      "end": 118.696
+    },
+    {
+      "start": 118.746,
+      "text": "how many future points it can expect to earn by pressing different buttons.",
+      "end": 123.821
+    },
+    {
+      "start": 123.871,
+      "text": "For instance, “if the ball is here and I move left, more points,",
+      "end": 128.613
+    },
+    {
+      "start": 128.663,
+      "text": "but if I move right, no more points.”",
+      "end": 131.988
+    },
+    {
+      "start": 132.038,
+      "text": "But learning these connections requires a lot of trial and error.",
+      "end": 136.654
+    },
+    {
+      "start": 136.704,
+      "text": "The DQN system would start by mashing buttons randomly,",
+      "end": 140.488
+    },
+    {
+      "start": 140.538,
+      "text": "and then slowly piece together which buttons to mash when",
+      "end": 144.029
+    },
+    {
+      "start": 144.079,
+      "text": "in order to maximize its score.",
+      "end": 146.654
+    },
+    {
+      "start": 146.704,
+      "text": "But in playing “Montezuma’s Revenge,”",
+      "end": 149.029
+    },
+    {
+      "start": 149.079,
+      "text": "this approach of random button-mashing fell flat on its face.",
+      "end": 154.071
+    },
+    {
+      "start": 154.121,
+      "text": "A player would have to perform this entire sequence",
+      "end": 157.071
+    },
+    {
+      "start": 157.121,
+      "text": "just to score their first points at the very end.",
+      "end": 160.821
+    },
+    {
+      "start": 160.871,
+      "text": "A mistake? Game over.",
+      "end": 163.488
+    },
+    {
+      "start": 163.538,
+      "text": "So how could DQN even know it was on the right track?",
+      "end": 167.696
+    },
+    {
+      "start": 167.746,
+      "text": "This is where babies come in.",
+      "end": 170.696
+    },
+    {
+      "start": 170.746,
+      "text": "In studies, infants consistently look longer at pictures",
+      "end": 174.571
+    },
+    {
+      "start": 174.621,
+      "text": "they haven’t seen before than ones they have.",
+      "end": 177.529
+    },
+    {
+      "start": 177.579,
+      "text": "There just seems to be something intrinsically rewarding about novelty.",
+      "end": 182.071
+    },
+    {
+      "start": 182.121,
+      "text": "This behavior has been essential in understanding the infant mind.",
+      "end": 186.446
+    },
+    {
+      "start": 186.496,
+      "text": "It also turned out to be the secret to beating “Montezuma’s Revenge.”",
+      "end": 192.071
+    },
+    {
+      "start": 192.121,
+      "text": "The DeepMind researchers worked out an ingenious way",
+      "end": 195.779
+    },
+    {
+      "start": 195.829,
+      "text": "to plug this preference for novelty into reinforcement learning.",
+      "end": 200.654
+    },
+    {
+      "start": 200.704,
+      "text": "They made it so that unusual or new images appearing on the screen",
+      "end": 205.196
+    },
+    {
+      "start": 205.246,
+      "text": "were every bit as rewarding as real in-game points.",
+      "end": 209.654
+    },
+    {
+      "start": 209.704,
+      "text": "Suddenly, DQN was behaving totally differently from before.",
+      "end": 214.529
+    },
+    {
+      "start": 214.579,
+      "text": "It wanted to explore the room it was in,",
+      "end": 216.863
+    },
+    {
+      "start": 216.913,
+      "text": "to grab the key and escape through the locked door—",
+      "end": 219.571
+    },
+    {
+      "start": 219.621,
+      "text": "not because it was worth 100 points,",
+      "end": 222.279
+    },
+    {
+      "start": 222.329,
+      "text": "but for the same reason we would: to see what was on the other side.",
+      "end": 228.113
+    },
+    {
+      "start": 228.163,
+      "text": "With this new drive, DQN not only managed to grab that first key—",
+      "end": 233.363
+    },
+    {
+      "start": 233.413,
+      "text": "it explored all the way through 15 of the temple’s 24 chambers.",
+      "end": 238.404
+    },
+    {
+      "start": 238.454,
+      "text": "But emphasizing novelty-based rewards can sometimes create more problems",
+      "end": 242.613
+    },
+    {
+      "start": 242.663,
+      "text": "than it solves.",
+      "end": 243.863
+    },
+    {
+      "start": 243.913,
+      "text": "A novelty-seeking system that’s played a game too long",
+      "end": 247.071
+    },
+    {
+      "start": 247.121,
+      "text": "will eventually lose motivation.",
+      "end": 249.946
+    },
+    {
+      "start": 249.996,
+      "text": "If it’s seen it all before, why go anywhere?",
+      "end": 253.571
+    },
+    {
+      "start": 253.621,
+      "text": "Alternately, if it encounters, say, a television, it will freeze.",
+      "end": 258.904
+    },
+    {
+      "start": 258.954,
+      "text": "The constant novel images are essentially paralyzing.",
+      "end": 263.154
+    },
+    {
+      "start": 263.204,
+      "text": "The ideas and inspiration here go in both directions.",
+      "end": 267.029
+    },
+    {
+      "start": 267.079,
+      "text": "AI researchers stuck on a practical problem,",
+      "end": 270.154
+    },
+    {
+      "start": 270.204,
+      "text": "like how to get DQN to beat a difficult game,",
+      "end": 273.488
+    },
+    {
+      "start": 273.538,
+      "text": "are turning increasingly to experts in human intelligence for ideas.",
+      "end": 278.738
+    },
+    {
+      "start": 278.788,
+      "text": "At the same time,",
+      "end": 279.863
+    },
+    {
+      "start": 279.913,
+      "text": "AI is giving us new insights into the ways we get stuck and unstuck:",
+      "end": 285.279
+    },
+    {
+      "start": 285.329,
+      "text": "into boredom, depression, and addiction,",
+      "end": 288.07099999999997
+    },
+    {
+      "start": 288.121,
+      "text": "along with curiosity, creativity, and play.",
+      "end": 292.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 8.871,
+      "text": "2013年一群伦敦 DeepMind公司的研究者",
+      "end": 13.113
+    },
+    {
+      "start": 13.163,
+      "text": "把目光放在一大挑战上。",
+      "end": 15.946
+    },
+    {
+      "start": 15.996,
+      "text": "他们想要创建一个人工智能系统， 不仅能胜一个，",
+      "end": 21.445999999999998
+    },
+    {
+      "start": 21.496,
+      "text": "而是能够全部完胜雅达利 （Atari）游戏。",
+      "end": 24.613
+    },
+    {
+      "start": 24.663,
+      "text": "他们开发了个名叫 强化学习的网络（DQN），",
+      "end": 29.779
+    },
+    {
+      "start": 29.829,
+      "text": "在不到两年，它超越人类。",
+      "end": 33.904
+    },
+    {
+      "start": 33.954,
+      "text": "DQN打砖块游戏（Breakout）的得分",
+      "end": 38.071000000000005
+    },
+    {
+      "start": 38.121,
+      "text": "比人类专业游戏玩家高13倍，",
+      "end": 41.612
+    },
+    {
+      "start": 41.662,
+      "text": "在拳击游戏中高17倍， 在电子弹珠台中高25倍。",
+      "end": 48.112
+    },
+    {
+      "start": 48.162,
+      "text": "但有一很明显的例外。",
+      "end": 52.446000000000005
+    },
+    {
+      "start": 52.496,
+      "text": "玩游戏《Montezuma’s Revenge》时， DQN一分都拿不到，",
+      "end": 58.487
+    },
+    {
+      "start": 58.537,
+      "text": "即便玩了几周后。",
+      "end": 61.362
+    },
+    {
+      "start": 61.412,
+      "text": "是什么让这个特别的游戏 对人工智能这么难胜？",
+      "end": 67.154
+    },
+    {
+      "start": 67.204,
+      "text": "需要采取什么来解决它？",
+      "end": 70.488
+    },
+    {
+      "start": 70.538,
+      "text": "剧透警告：婴儿。",
+      "end": 73.696
+    },
+    {
+      "start": 73.746,
+      "text": "我们1分钟后回来。",
+      "end": 76.113
+    },
+    {
+      "start": 76.163,
+      "text": "人工智能玩雅达利游戏 涉及到强化学习，",
+      "end": 81.821
+    },
+    {
+      "start": 81.871,
+      "text": "在这里系统被设计为 最大化某种量化的奖励。",
+      "end": 86.738
+    },
+    {
+      "start": 86.788,
+      "text": "在这个例子中，这些奖励是游戏分数。",
+      "end": 90.696
+    },
+    {
+      "start": 90.746,
+      "text": "这个潜在的目标驱使系统 学习按哪个按键",
+      "end": 95.029
+    },
+    {
+      "start": 95.079,
+      "text": "以及何时去按来获得最高分数。",
+      "end": 98.029
+    },
+    {
+      "start": 98.079,
+      "text": "一些系统使用基于模型的方法， 它们有一个环境的模型",
+      "end": 103.571
+    },
+    {
+      "start": 103.621,
+      "text": "这样它们就能用来预测 一旦它们采取特定行动后，",
+      "end": 106.696
+    },
+    {
+      "start": 106.746,
+      "text": "下一步会发生什么。",
+      "end": 109.238
+    },
+    {
+      "start": 109.288,
+      "text": "然而，DQN没有任何模型。",
+      "end": 112.654
+    },
+    {
+      "start": 112.704,
+      "text": "与其明确地建模环境，",
+      "end": 115.238
+    },
+    {
+      "start": 115.288,
+      "text": "它只需要基于屏幕上的图像学习预测，",
+      "end": 118.696
+    },
+    {
+      "start": 118.746,
+      "text": "它们按不同的键能够 期望获得多少分数。",
+      "end": 123.821
+    },
+    {
+      "start": 123.871,
+      "text": "例如，“如果球在这里， 我向左移就得更多的分数，",
+      "end": 128.613
+    },
+    {
+      "start": 128.663,
+      "text": "但如果向右移就不得分。”",
+      "end": 131.988
+    },
+    {
+      "start": 132.038,
+      "text": "但学习这些联系需要大量的试错。",
+      "end": 136.654
+    },
+    {
+      "start": 136.704,
+      "text": "DQN系统从随意敲按键开始，",
+      "end": 140.488
+    },
+    {
+      "start": 140.538,
+      "text": "然后慢慢拼凑 何时需要敲哪个按键",
+      "end": 144.029
+    },
+    {
+      "start": 144.079,
+      "text": "才能够得到最高分。",
+      "end": 146.654
+    },
+    {
+      "start": 146.704,
+      "text": "但在玩《Montezuma’s Revenge》时，",
+      "end": 149.029
+    },
+    {
+      "start": 149.079,
+      "text": "这种随意敲按键的方法彻底失效了。",
+      "end": 154.071
+    },
+    {
+      "start": 154.121,
+      "text": "玩家得做完这整个序列动作",
+      "end": 157.071
+    },
+    {
+      "start": 157.121,
+      "text": "才能最终得到第一分。",
+      "end": 160.821
+    },
+    {
+      "start": 160.871,
+      "text": "犯个错误？游戏结束。",
+      "end": 163.488
+    },
+    {
+      "start": 163.538,
+      "text": "那么DQN如何知道它在正确的道路上？",
+      "end": 167.696
+    },
+    {
+      "start": 167.746,
+      "text": "婴儿上场的时候到了。",
+      "end": 170.696
+    },
+    {
+      "start": 170.746,
+      "text": "在研究中，婴儿看没见过的图片要比",
+      "end": 174.571
+    },
+    {
+      "start": 174.621,
+      "text": "见过的图片花更多的时间。",
+      "end": 177.529
+    },
+    {
+      "start": 177.579,
+      "text": "新奇似乎就是某种内在奖励。",
+      "end": 182.071
+    },
+    {
+      "start": 182.121,
+      "text": "这种行为对于理解 婴儿的心理至关重要。",
+      "end": 186.446
+    },
+    {
+      "start": 186.496,
+      "text": "这正好也是玩好 《Montezuma’s Revenge》游戏的秘密。",
+      "end": 192.071
+    },
+    {
+      "start": 192.121,
+      "text": "DeepMind研究人员找到 巧妙的方法",
+      "end": 195.779
+    },
+    {
+      "start": 195.829,
+      "text": "将这种对新奇事物的偏好 插入到强化学习中。",
+      "end": 200.654
+    },
+    {
+      "start": 200.704,
+      "text": "他们让不同寻常 或新的图片出现在屏幕中时",
+      "end": 205.196
+    },
+    {
+      "start": 205.246,
+      "text": "与真正的游戏积分一样有奖励意义。",
+      "end": 209.654
+    },
+    {
+      "start": 209.704,
+      "text": "突然之间，DQN的行为 完全跟起初不一样了。",
+      "end": 214.529
+    },
+    {
+      "start": 214.579,
+      "text": "它想要探索所处的房间，",
+      "end": 216.863
+    },
+    {
+      "start": 216.913,
+      "text": "去抓住钥匙并 通过锁住的门逃出去——",
+      "end": 219.571
+    },
+    {
+      "start": 219.621,
+      "text": "不是因为这价值100分，",
+      "end": 222.279
+    },
+    {
+      "start": 222.329,
+      "text": "而是跟我们的理由一样： 去看看另一边有什么。",
+      "end": 228.113
+    },
+    {
+      "start": 228.163,
+      "text": "通过这种新的激励，DQN不仅 能够抓住第一把钥匙——",
+      "end": 233.363
+    },
+    {
+      "start": 233.413,
+      "text": "它还在24个房间中，探索了15个房间。",
+      "end": 238.404
+    },
+    {
+      "start": 238.454,
+      "text": "但强调基于新奇的奖励有时候 会带来比它解决的问题",
+      "end": 242.613
+    },
+    {
+      "start": 242.663,
+      "text": "更多的问题。",
+      "end": 243.863
+    },
+    {
+      "start": 243.913,
+      "text": "一个新颖性探索的系统 如果玩游戏太久",
+      "end": 247.071
+    },
+    {
+      "start": 247.121,
+      "text": "最终会失去动力。",
+      "end": 249.946
+    },
+    {
+      "start": 249.996,
+      "text": "如果这都是以前见过的， 为什么还要去呢？",
+      "end": 253.571
+    },
+    {
+      "start": 253.621,
+      "text": "换之，假如它遇到电视， 它就会停下来。",
+      "end": 258.904
+    },
+    {
+      "start": 258.954,
+      "text": "不断出现的新奇图像基本让人瘫痪。",
+      "end": 263.154
+    },
+    {
+      "start": 263.204,
+      "text": "这个想法和启发是双向的。",
+      "end": 267.029
+    },
+    {
+      "start": 267.079,
+      "text": "人工智能研究人员被一个问题困住了，",
+      "end": 270.154
+    },
+    {
+      "start": 270.204,
+      "text": "比如如何让DQN打赢一个不同的游戏，",
+      "end": 273.488
+    },
+    {
+      "start": 273.538,
+      "text": "逐渐变成了探索人类的思想智能。",
+      "end": 278.738
+    },
+    {
+      "start": 278.788,
+      "text": "同时，",
+      "end": 279.863
+    },
+    {
+      "start": 279.913,
+      "text": "人工智能给我们提供了新的视角， 让我们了解如何陷入和摆脱困境：",
+      "end": 285.279
+    },
+    {
+      "start": 285.329,
+      "text": "变得无聊、沮丧和上瘾，",
+      "end": 288.07099999999997
+    },
+    {
+      "start": 288.121,
+      "text": "还有好奇心、创造力和玩乐。",
+      "end": 292.95
+    }
+  ]
+}

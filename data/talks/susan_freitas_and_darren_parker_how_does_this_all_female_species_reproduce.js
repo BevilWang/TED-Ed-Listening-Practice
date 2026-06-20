@@ -1,0 +1,1180 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "How does this all-female species reproduce?",
+    "speaker": "Susan Freitas and Darren Parker",
+    "duration": 342,
+    "slug": "susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce",
+    "sourcePage": "https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce",
+    "translationSourcePage": "https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/63/91/001/products/2022e-susan-freitas-and-darren-parker-parthenogenesis-001-fallback-2322a5d864d1aa227e4329a5bac0e2ae-1200k.mp4",
+    "youtubeId": "hdkcXqQPMdM",
+    "youtubeTitle": "How does this all-female species reproduce? - Susana Freitas and Darren Parker"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.128,
+      "end": 15.712,
+      "text": "In 2021, workers at a Sardinian aquarium were stunned by the birth of a smoothhound shark, who they called Ispera.",
+      "translation": "2021 年，撒丁岛一家水族馆的 工作人员惊奇地发现一条星鲨出生了， 并给它起名为 Ispera。"
+    },
+    {
+      "id": 2,
+      "start": 15.762,
+      "end": 22.26,
+      "text": "What shocked them was that, for the last decade, Ispera’s mother had been living only with other females.",
+      "translation": "令人震惊的是，过去十年里，Ispera 的母亲一直只和 其它雌性鲨鱼生活在一起。"
+    },
+    {
+      "id": 3,
+      "start": 22.31,
+      "end": 37.817,
+      "text": "But it’s actually entirely possible that Ispera had no father— and the reason why that is also explains other biological curiosities, like the existence of an all-female lizard species.",
+      "translation": "但 Ispera 没有父亲是完全有可能的，而其背后的原因也可以 解释其它奇特的生物，比如全雌性的蜥蜴物种的存在。"
+    },
+    {
+      "id": 4,
+      "start": 37.867,
+      "end": 45.908,
+      "text": "Usually sexual species have sex cells that contain half the number of chromosomes required to create a viable embryo.",
+      "translation": "有性繁殖的物种通常有性细胞，包含形成胚胎所需的一半染色体。"
+    },
+    {
+      "id": 5,
+      "start": 45.958,
+      "end": 52.457,
+      "text": "So an egg cell must be fertilized by a sperm cell to form two full sets of chromosomes.",
+      "translation": "因此，卵细胞必须由精子受精才能形成两套完整的染色体。"
+    },
+    {
+      "id": 6,
+      "start": 52.507,
+      "end": 64.135,
+      "text": "But some species that have sex cells can undergo a type of asexual reproduction called parthenogenesis— meaning “virgin origin” in Greek.",
+      "translation": "不过，一些具有性细胞的物种可以进行一种无性繁殖， 即“孤雌生殖” (parthenogenesis)，在希腊语中是“处女起源”的意思。"
+    },
+    {
+      "id": 7,
+      "start": 64.185,
+      "end": 72.435,
+      "text": "In parthenogenesis, an embryo develops from an unfertilized egg cell that doubles its own chromosome count.",
+      "translation": "在孤雌生殖中， 胚胎由未受精的卵细胞在染色体数目翻倍后发育而来。"
+    },
+    {
+      "id": 8,
+      "start": 72.485,
+      "end": 81.903,
+      "text": "In fact, some animals only ever undergo parthenogenesis, while others can reproduce both sexually and parthenogenetically.",
+      "translation": "实际上，有些动物只进行孤雌生殖，而另些则既可以进行有性繁殖， 也能进行孤雌生殖。"
+    },
+    {
+      "id": 9,
+      "start": 81.953,
+      "end": 85.865,
+      "text": "It's actually more common than previously thought.",
+      "translation": "这种现象比先前认为的更常见。"
+    },
+    {
+      "id": 10,
+      "start": 85.915,
+      "end": 98.127,
+      "text": "More than 80 different sexual vertebrate species— including Komodo dragons and certain kinds of turkeys, pythons, and sharks— have surprised us by occasionally reproducing this way.",
+      "translation": "超过80种不同的有性脊椎动物，包括科摩多巨蜥和 一些火鸡、蟒蛇、鲨鱼等，偶尔会以这种令人惊讶的方式繁殖。"
+    },
+    {
+      "id": 11,
+      "start": 98.177,
+      "end": 104.884,
+      "text": "These discoveries were usually made when females unexpectedly gave birth in captivity.",
+      "translation": "这些现象往往是通过被捕的雌性动物意外分娩发现的。"
+    },
+    {
+      "id": 12,
+      "start": 104.934,
+      "end": 111.974,
+      "text": "Ispera’s birth, for one, may have been the first account of parthenogenesis in smoothhound sharks.",
+      "translation": "Ispera 的诞生则是记录中的第一例星鲨孤雌生殖。"
+    },
+    {
+      "id": 13,
+      "start": 112.024,
+      "end": 118.856,
+      "text": "Scientists also confirmed that parthenogenesis was taking place in some wild snake populations.",
+      "translation": "科学家们也发现，孤雌生殖还会在某些野生蛇类种群中发生。"
+    },
+    {
+      "id": 14,
+      "start": 118.906,
+      "end": 130.034,
+      "text": "But just how many fatherless creatures are running, slithering, and swimming around out there is unknown: it’s a tough thing to track without population-wide genetic analyses.",
+      "translation": "但是，没有人知道 世界上到底有多少无父亲的生物在四处游走：由于缺乏种群范围内的遗传分析， 追踪变得非常困难。"
+    },
+    {
+      "id": 15,
+      "start": 130.084,
+      "end": 132.662,
+      "text": "So, why is it happening at all?",
+      "translation": "那么， 这到底为什么发生呢？"
+    },
+    {
+      "id": 16,
+      "start": 132.712,
+      "end": 141.587,
+      "text": "Scientists think parthenogenesis could be evolutionarily beneficial in some contexts because, well, sex can be a drag.",
+      "translation": "科学家们认为，孤雌生殖有时候 在进化上更有利，因为交配可以成为一种负担。"
+    },
+    {
+      "id": 17,
+      "start": 141.637,
+      "end": 153.724,
+      "text": "Mating and its associated demands and rituals can be time- and energy-intensive, leave individuals vulnerable to predators, and even be fatal.",
+      "translation": "交配和其相关的需求规范 需要大量的时间和能量，使个体易受到捕食者的伤害， 甚至会致命。"
+    },
+    {
+      "id": 18,
+      "start": 153.774,
+      "end": 158.02,
+      "text": "Parthenogenesis, meanwhile, requires only one parent.",
+      "translation": "而孤雌生殖只需要一位父母。"
+    },
+    {
+      "id": 19,
+      "start": 158.07,
+      "end": 169.198,
+      "text": "Mayflies can sometimes default to parthenogenesis if there are no males available, which is especially handy because they’ve only got a day or so to reproduce before dying.",
+      "translation": "蜉蝣在没有雄性存在的条件下可以转为孤雌生殖，这非常方便，因为它们在死亡前只有一天左右的时间进行繁殖。"
+    },
+    {
+      "id": 20,
+      "start": 169.248,
+      "end": 172.326,
+      "text": "It can also help rapidly expand a population.",
+      "translation": "这也能帮助迅速扩大种群。"
+    },
+    {
+      "id": 21,
+      "start": 172.376,
+      "end": 181.669,
+      "text": "In the summer, when food is abundant, pea aphids can rely on parthenogenesis, allowing their population to explode under favorable conditions.",
+      "translation": "在夏季食物充足的时候，豌豆蚜可以孤雌生殖，让种群数量在有利环境中迅速膨胀。"
+    },
+    {
+      "id": 22,
+      "start": 181.719,
+      "end": 184.797,
+      "text": "And in the autumn, they switch back to sex.",
+      "translation": "到了秋季，它们就会回归有性生殖。"
+    },
+    {
+      "id": 23,
+      "start": 184.847,
+      "end": 193.639,
+      "text": "But some aphids, katydids, lizards, geckos, and snakes only ever reproduce via parthenogenesis.",
+      "translation": "而有些蚜虫、蝈蝈、 蜥蜴、壁虎、蛇等只进行孤雌生殖。"
+    },
+    {
+      "id": 24,
+      "start": 193.689,
+      "end": 198.06,
+      "text": "So, why do other animals bother with sex?",
+      "translation": "那么，为什么还需要有性生殖呢？"
+    },
+    {
+      "id": 25,
+      "start": 198.11,
+      "end": 204.025,
+      "text": "Scientists hypothesize that sex makes up for its shortcomings with long-term gains.",
+      "translation": "科学家们提出假说， 认为有性生殖的长期收益能弥补不足。"
+    },
+    {
+      "id": 26,
+      "start": 204.075,
+      "end": 209.113,
+      "text": "It allows individuals to mix their genes, leading to greater genetic diversity.",
+      "translation": "有性繁殖能混合不同个体的基因， 从而提高遗传多样性。"
+    },
+    {
+      "id": 27,
+      "start": 209.163,
+      "end": 220.124,
+      "text": "That way, when the going gets tough, beneficial mutations can be selected and harmful ones can be removed without ending the entire population.",
+      "translation": "这样，当环境变得不利于生存时，自然选择可以保留有益突变、剔除有害突变，而不至于让整个种群灭绝。"
+    },
+    {
+      "id": 28,
+      "start": 220.174,
+      "end": 227.882,
+      "text": "In a parthenogenetic population, on the other hand, individuals can only reproduce using their own genetic material.",
+      "translation": "另一方面，在孤雌生殖的群体中，个体只能利用自身的遗传物质进行繁殖。"
+    },
+    {
+      "id": 29,
+      "start": 227.932,
+      "end": 232.261,
+      "text": "According to a theory called Muller’s ratchet, that’s not good.",
+      "translation": "根据穆勒棘轮效应，这不是好事。"
+    },
+    {
+      "id": 30,
+      "start": 232.311,
+      "end": 245.316,
+      "text": "The theory predicts that parthenogenetic lineages will accumulate harmful mutations over time and eventually, after thousands of generations, will reach a point of so-called mutational meltdown.",
+      "translation": "此理论推测，孤雌生殖的血族 会逐渐积累有害突变，最终在几千代以后，达到所谓的“变异熔断”。"
+    },
+    {
+      "id": 31,
+      "start": 245.366,
+      "end": 254.7,
+      "text": "At this stage, individuals will be so compromised that they can't reproduce, so the population will nosedive, leading to extinction.",
+      "translation": "到这个节点，个体已经非常受损， 无法再继续繁殖，种群数量将猛跌造成灭绝。"
+    },
+    {
+      "id": 32,
+      "start": 254.75,
+      "end": 258.913,
+      "text": "We haven’t yet seen this entire process unfold in nature.",
+      "translation": "我们还没在自然界中 观察到整个过程发生，"
+    },
+    {
+      "id": 33,
+      "start": 258.963,
+      "end": 268.714,
+      "text": "But scientists have observed an accumulation of harmful mutations in parthenogenetic stick insects that are absent in their sexual relatives.",
+      "translation": "但科学家们已经发现， 一种孤雌生殖的粘虫在缺乏性伴侣时 积累起有害的变异。"
+    },
+    {
+      "id": 34,
+      "start": 268.764,
+      "end": 273.219,
+      "text": "Only time will tell whether this will cause their extinction.",
+      "translation": "只有时间才能证明， 这是否会导致它们的灭绝。"
+    },
+    {
+      "id": 35,
+      "start": 273.269,
+      "end": 279.976,
+      "text": "Otherwise, some parthenogenetic species appear to have ways of circumventing a mutational meltdown.",
+      "translation": "不过，一些孤雌生殖的物种 似乎有策略规避变异熔断。"
+    },
+    {
+      "id": 36,
+      "start": 280.026,
+      "end": 289.652,
+      "text": "New Mexico whiptail lizards came about when two different lizard species hybridized, creating this new all-female species.",
+      "translation": "新墨西哥鞭尾蜥是通过两种不同蜥蜴的杂交形成，是一种新的全雌性物种。"
+    },
+    {
+      "id": 37,
+      "start": 289.702,
+      "end": 297.368,
+      "text": "As hybrids, their genome is a combination of the different sets of chromosomes from their two parent species.",
+      "translation": "作为杂交种，它们的基因组分别是由两个亲代物种的染色体组合而成。"
+    },
+    {
+      "id": 38,
+      "start": 297.418,
+      "end": 304.959,
+      "text": "This gives them a high level of genetic diversity, which may allow them to survive long into the future.",
+      "translation": "这使它们具有高度的遗传多样性，也许有助于未来的长期生存。"
+    },
+    {
+      "id": 39,
+      "start": 305.009,
+      "end": 312.008,
+      "text": "Bdelloid rotifers, meanwhile, have been reproducing parthenogenetically for 60 million years.",
+      "translation": "与此同时，蛭形轮虫已经孤雌生殖了近 6000 万年。"
+    },
+    {
+      "id": 40,
+      "start": 312.058,
+      "end": 315.97,
+      "text": "They might have managed this by taking in foreign genetic material.",
+      "translation": "它们可能是通过吸收外来的遗传物质 以避免变异熔断。"
+    },
+    {
+      "id": 41,
+      "start": 316.02,
+      "end": 324.27,
+      "text": "Indeed, about 10% of their genes comes from other organisms, like fungi, bacteria, and algae.",
+      "translation": "实际上，它们大概 10% 的 基因来自其它生物，像真菌、细菌、藻类等。"
+    },
+    {
+      "id": 42,
+      "start": 324.32,
+      "end": 330.985,
+      "text": "How exactly they do this is unclear, but whatever the trick is, it seems to be working.",
+      "translation": "这其中的过程无人了解，但不论如何，这种方法似乎有作用。"
+    },
+    {
+      "id": 43,
+      "start": 331.035,
+      "end": 341.95,
+      "text": "To totally untangle the mysteries of reproduction, we’ll need more research— and probably a few more surprises like Ispera.",
+      "translation": "为了完全揭开繁殖的奥秘，我们需要更多研究——以及像 Ispera 这样的意外。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.128,
+      "text": "In 2021, workers at a Sardinian aquarium were stunned by the birth",
+      "end": 12.040999999999999
+    },
+    {
+      "start": 12.091,
+      "text": "of a smoothhound shark, who they called Ispera.",
+      "end": 15.712
+    },
+    {
+      "start": 15.762,
+      "text": "What shocked them was that, for the last decade,",
+      "end": 18.631
+    },
+    {
+      "start": 18.681,
+      "text": "Ispera’s mother had been living only with other females.",
+      "end": 22.259999999999998
+    },
+    {
+      "start": 22.31,
+      "text": "But it’s actually entirely possible that Ispera had no father—",
+      "end": 27.348
+    },
+    {
+      "start": 27.398,
+      "text": "and the reason why that is also explains other biological curiosities,",
+      "end": 32.979000000000006
+    },
+    {
+      "start": 33.029,
+      "text": "like the existence of an all-female lizard species.",
+      "end": 37.817
+    },
+    {
+      "start": 37.867,
+      "text": "Usually sexual species have sex cells that contain",
+      "end": 41.112
+    },
+    {
+      "start": 41.162,
+      "text": "half the number of chromosomes required to create a viable embryo.",
+      "end": 45.908
+    },
+    {
+      "start": 45.958,
+      "text": "So an egg cell must be fertilized by a sperm cell",
+      "end": 49.287000000000006
+    },
+    {
+      "start": 49.337,
+      "text": "to form two full sets of chromosomes.",
+      "end": 52.457
+    },
+    {
+      "start": 52.507,
+      "text": "But some species that have sex cells can undergo",
+      "end": 55.418000000000006
+    },
+    {
+      "start": 55.468,
+      "text": "a type of asexual reproduction called parthenogenesis—",
+      "end": 60.59
+    },
+    {
+      "start": 60.64,
+      "text": "meaning “virgin origin” in Greek.",
+      "end": 64.135
+    },
+    {
+      "start": 64.185,
+      "text": "In parthenogenesis, an embryo develops from an unfertilized egg cell",
+      "end": 69.14
+    },
+    {
+      "start": 69.19,
+      "text": "that doubles its own chromosome count.",
+      "end": 72.435
+    },
+    {
+      "start": 72.485,
+      "text": "In fact, some animals only ever undergo parthenogenesis,",
+      "end": 76.773
+    },
+    {
+      "start": 76.823,
+      "text": "while others can reproduce both sexually and parthenogenetically.",
+      "end": 81.903
+    },
+    {
+      "start": 81.953,
+      "text": "It's actually more common than previously thought.",
+      "end": 85.86500000000001
+    },
+    {
+      "start": 85.915,
+      "text": "More than 80 different sexual vertebrate species—",
+      "end": 89.11800000000001
+    },
+    {
+      "start": 89.168,
+      "text": "including Komodo dragons and certain kinds of turkeys, pythons, and sharks—",
+      "end": 94.04
+    },
+    {
+      "start": 94.09,
+      "text": "have surprised us by occasionally reproducing this way.",
+      "end": 98.12700000000001
+    },
+    {
+      "start": 98.177,
+      "text": "These discoveries were usually made when females",
+      "end": 100.96300000000001
+    },
+    {
+      "start": 101.013,
+      "text": "unexpectedly gave birth in captivity.",
+      "end": 104.884
+    },
+    {
+      "start": 104.934,
+      "text": "Ispera’s birth, for one, may have been the first account",
+      "end": 108.429
+    },
+    {
+      "start": 108.479,
+      "text": "of parthenogenesis in smoothhound sharks.",
+      "end": 111.974
+    },
+    {
+      "start": 112.024,
+      "text": "Scientists also confirmed that parthenogenesis was taking place",
+      "end": 116.02
+    },
+    {
+      "start": 116.07,
+      "text": "in some wild snake populations.",
+      "end": 118.85600000000001
+    },
+    {
+      "start": 118.906,
+      "text": "But just how many fatherless creatures are running, slithering, and swimming",
+      "end": 123.069
+    },
+    {
+      "start": 123.119,
+      "text": "around out there is unknown:",
+      "end": 125.029
+    },
+    {
+      "start": 125.079,
+      "text": "it’s a tough thing to track without population-wide genetic analyses.",
+      "end": 130.034
+    },
+    {
+      "start": 130.084,
+      "text": "So, why is it happening at all?",
+      "end": 132.66199999999998
+    },
+    {
+      "start": 132.712,
+      "text": "Scientists think parthenogenesis could be evolutionarily beneficial",
+      "end": 136.833
+    },
+    {
+      "start": 136.883,
+      "text": "in some contexts because, well, sex can be a drag.",
+      "end": 141.587
+    },
+    {
+      "start": 141.637,
+      "text": "Mating and its associated demands and rituals can be time- and energy-intensive,",
+      "end": 148.469
+    },
+    {
+      "start": 148.519,
+      "text": "leave individuals vulnerable to predators, and even be fatal.",
+      "end": 153.724
+    },
+    {
+      "start": 153.774,
+      "text": "Parthenogenesis, meanwhile, requires only one parent.",
+      "end": 158.01999999999998
+    },
+    {
+      "start": 158.07,
+      "text": "Mayflies can sometimes default to parthenogenesis",
+      "end": 161.399
+    },
+    {
+      "start": 161.449,
+      "text": "if there are no males available,",
+      "end": 163.44199999999998
+    },
+    {
+      "start": 163.492,
+      "text": "which is especially handy because they’ve only got a day or so",
+      "end": 166.612
+    },
+    {
+      "start": 166.662,
+      "text": "to reproduce before dying.",
+      "end": 169.19799999999998
+    },
+    {
+      "start": 169.248,
+      "text": "It can also help rapidly expand a population.",
+      "end": 172.326
+    },
+    {
+      "start": 172.376,
+      "text": "In the summer, when food is abundant,",
+      "end": 174.32799999999997
+    },
+    {
+      "start": 174.378,
+      "text": "pea aphids can rely on parthenogenesis,",
+      "end": 177.415
+    },
+    {
+      "start": 177.465,
+      "text": "allowing their population to explode under favorable conditions.",
+      "end": 181.66899999999998
+    },
+    {
+      "start": 181.719,
+      "text": "And in the autumn, they switch back to sex.",
+      "end": 184.797
+    },
+    {
+      "start": 184.847,
+      "text": "But some aphids, katydids, lizards, geckos, and snakes",
+      "end": 189.343
+    },
+    {
+      "start": 189.393,
+      "text": "only ever reproduce via parthenogenesis.",
+      "end": 193.63899999999998
+    },
+    {
+      "start": 193.689,
+      "text": "So, why do other animals bother with sex?",
+      "end": 198.06
+    },
+    {
+      "start": 198.11,
+      "text": "Scientists hypothesize that sex makes up for its shortcomings with long-term gains.",
+      "end": 204.02499999999998
+    },
+    {
+      "start": 204.075,
+      "text": "It allows individuals to mix their genes, leading to greater genetic diversity.",
+      "end": 209.113
+    },
+    {
+      "start": 209.163,
+      "text": "That way, when the going gets tough,",
+      "end": 211.48999999999998
+    },
+    {
+      "start": 211.54,
+      "text": "beneficial mutations can be selected and harmful ones can be removed",
+      "end": 216.36999999999998
+    },
+    {
+      "start": 216.42,
+      "text": "without ending the entire population.",
+      "end": 220.124
+    },
+    {
+      "start": 220.174,
+      "text": "In a parthenogenetic population, on the other hand,",
+      "end": 223.37699999999998
+    },
+    {
+      "start": 223.427,
+      "text": "individuals can only reproduce using their own genetic material.",
+      "end": 227.88199999999998
+    },
+    {
+      "start": 227.932,
+      "text": "According to a theory called Muller’s ratchet,",
+      "end": 230.76
+    },
+    {
+      "start": 230.81,
+      "text": "that’s not good.",
+      "end": 232.261
+    },
+    {
+      "start": 232.311,
+      "text": "The theory predicts that parthenogenetic lineages will accumulate harmful mutations",
+      "end": 237.308
+    },
+    {
+      "start": 237.358,
+      "text": "over time and eventually, after thousands of generations,",
+      "end": 241.14499999999998
+    },
+    {
+      "start": 241.195,
+      "text": "will reach a point of so-called mutational meltdown.",
+      "end": 245.316
+    },
+    {
+      "start": 245.366,
+      "text": "At this stage, individuals will be so compromised that they can't reproduce,",
+      "end": 250.112
+    },
+    {
+      "start": 250.162,
+      "text": "so the population will nosedive, leading to extinction.",
+      "end": 254.7
+    },
+    {
+      "start": 254.75,
+      "text": "We haven’t yet seen this entire process unfold in nature.",
+      "end": 258.913
+    },
+    {
+      "start": 258.963,
+      "text": "But scientists have observed an accumulation of harmful mutations",
+      "end": 263.501
+    },
+    {
+      "start": 263.551,
+      "text": "in parthenogenetic stick insects that are absent in their sexual relatives.",
+      "end": 268.714
+    },
+    {
+      "start": 268.764,
+      "text": "Only time will tell whether this will cause their extinction.",
+      "end": 273.219
+    },
+    {
+      "start": 273.269,
+      "text": "Otherwise, some parthenogenetic species appear to have ways of circumventing",
+      "end": 278.349
+    },
+    {
+      "start": 278.399,
+      "text": "a mutational meltdown.",
+      "end": 279.976
+    },
+    {
+      "start": 280.026,
+      "text": "New Mexico whiptail lizards came about",
+      "end": 283.104
+    },
+    {
+      "start": 283.154,
+      "text": "when two different lizard species hybridized,",
+      "end": 286.23199999999997
+    },
+    {
+      "start": 286.282,
+      "text": "creating this new all-female species.",
+      "end": 289.652
+    },
+    {
+      "start": 289.702,
+      "text": "As hybrids, their genome is a combination of the different sets of chromosomes",
+      "end": 294.407
+    },
+    {
+      "start": 294.457,
+      "text": "from their two parent species.",
+      "end": 297.368
+    },
+    {
+      "start": 297.418,
+      "text": "This gives them a high level of genetic diversity,",
+      "end": 300.955
+    },
+    {
+      "start": 301.005,
+      "text": "which may allow them to survive long into the future.",
+      "end": 304.959
+    },
+    {
+      "start": 305.009,
+      "text": "Bdelloid rotifers, meanwhile, have been reproducing parthenogenetically",
+      "end": 309.79699999999997
+    },
+    {
+      "start": 309.847,
+      "text": "for 60 million years.",
+      "end": 312.008
+    },
+    {
+      "start": 312.058,
+      "text": "They might have managed this by taking in foreign genetic material.",
+      "end": 315.96999999999997
+    },
+    {
+      "start": 316.02,
+      "text": "Indeed, about 10% of their genes comes from other organisms,",
+      "end": 321.017
+    },
+    {
+      "start": 321.067,
+      "text": "like fungi, bacteria, and algae.",
+      "end": 324.27
+    },
+    {
+      "start": 324.32,
+      "text": "How exactly they do this is unclear,",
+      "end": 327.02299999999997
+    },
+    {
+      "start": 327.073,
+      "text": "but whatever the trick is, it seems to be working.",
+      "end": 330.985
+    },
+    {
+      "start": 331.035,
+      "text": "To totally untangle the mysteries of reproduction,",
+      "end": 334.28
+    },
+    {
+      "start": 334.33,
+      "text": "we’ll need more research—",
+      "end": 336.198
+    },
+    {
+      "start": 336.248,
+      "text": "and probably a few more surprises like Ispera.",
+      "end": 341.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.128,
+      "text": "2021 年，撒丁岛一家水族馆的 工作人员惊奇地发现",
+      "end": 12.040999999999999
+    },
+    {
+      "start": 12.091,
+      "text": "一条星鲨出生了， 并给它起名为 Ispera。",
+      "end": 15.712
+    },
+    {
+      "start": 15.762,
+      "text": "令人震惊的是，过去十年里，",
+      "end": 18.631
+    },
+    {
+      "start": 18.681,
+      "text": "Ispera 的母亲一直只和 其它雌性鲨鱼生活在一起。",
+      "end": 22.259999999999998
+    },
+    {
+      "start": 22.31,
+      "text": "但 Ispera 没有父亲是完全有可能的，",
+      "end": 27.348
+    },
+    {
+      "start": 27.398,
+      "text": "而其背后的原因也可以 解释其它奇特的生物，",
+      "end": 32.979000000000006
+    },
+    {
+      "start": 33.029,
+      "text": "比如全雌性的蜥蜴物种的存在。",
+      "end": 37.817
+    },
+    {
+      "start": 37.867,
+      "text": "有性繁殖的物种通常有性细胞，",
+      "end": 41.112
+    },
+    {
+      "start": 41.162,
+      "text": "包含形成胚胎所需的一半染色体。",
+      "end": 45.908
+    },
+    {
+      "start": 45.958,
+      "text": "因此，卵细胞必须由精子受精",
+      "end": 49.287000000000006
+    },
+    {
+      "start": 49.337,
+      "text": "才能形成两套完整的染色体。",
+      "end": 52.457
+    },
+    {
+      "start": 52.507,
+      "text": "不过，一些具有性细胞的物种",
+      "end": 55.418000000000006
+    },
+    {
+      "start": 55.468,
+      "text": "可以进行一种无性繁殖， 即“孤雌生殖” (parthenogenesis)，",
+      "end": 60.59
+    },
+    {
+      "start": 60.64,
+      "text": "在希腊语中是“处女起源”的意思。",
+      "end": 64.135
+    },
+    {
+      "start": 64.185,
+      "text": "在孤雌生殖中， 胚胎由未受精的卵细胞",
+      "end": 69.14
+    },
+    {
+      "start": 69.19,
+      "text": "在染色体数目翻倍后发育而来。",
+      "end": 72.435
+    },
+    {
+      "start": 72.485,
+      "text": "实际上，有些动物只进行孤雌生殖，",
+      "end": 76.773
+    },
+    {
+      "start": 76.823,
+      "text": "而另些则既可以进行有性繁殖， 也能进行孤雌生殖。",
+      "end": 81.903
+    },
+    {
+      "start": 81.953,
+      "text": "这种现象比先前认为的更常见。",
+      "end": 85.86500000000001
+    },
+    {
+      "start": 85.915,
+      "text": "超过80种不同的有性脊椎动物，",
+      "end": 89.11800000000001
+    },
+    {
+      "start": 89.168,
+      "text": "包括科摩多巨蜥和 一些火鸡、蟒蛇、鲨鱼等，",
+      "end": 94.04
+    },
+    {
+      "start": 94.09,
+      "text": "偶尔会以这种令人惊讶的方式繁殖。",
+      "end": 98.12700000000001
+    },
+    {
+      "start": 98.177,
+      "text": "这些现象往往是通过被捕的雌性动物",
+      "end": 100.96300000000001
+    },
+    {
+      "start": 101.013,
+      "text": "意外分娩发现的。",
+      "end": 104.884
+    },
+    {
+      "start": 104.934,
+      "text": "Ispera 的诞生则是记录中的",
+      "end": 108.429
+    },
+    {
+      "start": 108.479,
+      "text": "第一例星鲨孤雌生殖。",
+      "end": 111.974
+    },
+    {
+      "start": 112.024,
+      "text": "科学家们也发现，孤雌生殖还会",
+      "end": 116.02
+    },
+    {
+      "start": 116.07,
+      "text": "在某些野生蛇类种群中发生。",
+      "end": 118.85600000000001
+    },
+    {
+      "start": 118.906,
+      "text": "但是，没有人知道 世界上到底有多少",
+      "end": 123.069
+    },
+    {
+      "start": 123.119,
+      "text": "无父亲的生物在四处游走：",
+      "end": 125.029
+    },
+    {
+      "start": 125.079,
+      "text": "由于缺乏种群范围内的遗传分析， 追踪变得非常困难。",
+      "end": 130.034
+    },
+    {
+      "start": 130.084,
+      "text": "那么， 这到底为什么发生呢？",
+      "end": 132.66199999999998
+    },
+    {
+      "start": 132.712,
+      "text": "科学家们认为，孤雌生殖有时候 在进化上更有利，",
+      "end": 136.833
+    },
+    {
+      "start": 136.883,
+      "text": "因为交配可以成为一种负担。",
+      "end": 141.587
+    },
+    {
+      "start": 141.637,
+      "text": "交配和其相关的需求规范 需要大量的时间和能量，",
+      "end": 148.469
+    },
+    {
+      "start": 148.519,
+      "text": "使个体易受到捕食者的伤害， 甚至会致命。",
+      "end": 153.724
+    },
+    {
+      "start": 153.774,
+      "text": "而孤雌生殖只需要一位父母。",
+      "end": 158.01999999999998
+    },
+    {
+      "start": 158.07,
+      "text": "蜉蝣在没有雄性存在的条件下",
+      "end": 161.399
+    },
+    {
+      "start": 161.449,
+      "text": "可以转为孤雌生殖，",
+      "end": 163.44199999999998
+    },
+    {
+      "start": 163.492,
+      "text": "这非常方便，因为它们在死亡前",
+      "end": 166.612
+    },
+    {
+      "start": 166.662,
+      "text": "只有一天左右的时间进行繁殖。",
+      "end": 169.19799999999998
+    },
+    {
+      "start": 169.248,
+      "text": "这也能帮助迅速扩大种群。",
+      "end": 172.326
+    },
+    {
+      "start": 172.376,
+      "text": "在夏季食物充足的时候，",
+      "end": 174.32799999999997
+    },
+    {
+      "start": 174.378,
+      "text": "豌豆蚜可以孤雌生殖，",
+      "end": 177.415
+    },
+    {
+      "start": 177.465,
+      "text": "让种群数量在有利环境中迅速膨胀。",
+      "end": 181.66899999999998
+    },
+    {
+      "start": 181.719,
+      "text": "到了秋季，它们就会回归有性生殖。",
+      "end": 184.797
+    },
+    {
+      "start": 184.847,
+      "text": "而有些蚜虫、蝈蝈、 蜥蜴、壁虎、蛇等",
+      "end": 189.343
+    },
+    {
+      "start": 189.393,
+      "text": "只进行孤雌生殖。",
+      "end": 193.63899999999998
+    },
+    {
+      "start": 193.689,
+      "text": "那么，为什么还需要有性生殖呢？",
+      "end": 198.06
+    },
+    {
+      "start": 198.11,
+      "text": "科学家们提出假说， 认为有性生殖的长期收益能弥补不足。",
+      "end": 204.02499999999998
+    },
+    {
+      "start": 204.075,
+      "text": "有性繁殖能混合不同个体的基因， 从而提高遗传多样性。",
+      "end": 209.113
+    },
+    {
+      "start": 209.163,
+      "text": "这样，当环境变得不利于生存时，",
+      "end": 211.48999999999998
+    },
+    {
+      "start": 211.54,
+      "text": "自然选择可以保留有益突变、剔除有害突变，",
+      "end": 216.36999999999998
+    },
+    {
+      "start": 216.42,
+      "text": "而不至于让整个种群灭绝。",
+      "end": 220.124
+    },
+    {
+      "start": 220.174,
+      "text": "另一方面，在孤雌生殖的群体中，",
+      "end": 223.37699999999998
+    },
+    {
+      "start": 223.427,
+      "text": "个体只能利用自身的遗传物质进行繁殖。",
+      "end": 227.88199999999998
+    },
+    {
+      "start": 227.932,
+      "text": "根据穆勒棘轮效应，",
+      "end": 230.76
+    },
+    {
+      "start": 230.81,
+      "text": "这不是好事。",
+      "end": 232.261
+    },
+    {
+      "start": 232.311,
+      "text": "此理论推测，孤雌生殖的血族 会逐渐积累有害突变，",
+      "end": 237.308
+    },
+    {
+      "start": 237.358,
+      "text": "最终在几千代以后，",
+      "end": 241.14499999999998
+    },
+    {
+      "start": 241.195,
+      "text": "达到所谓的“变异熔断”。",
+      "end": 245.316
+    },
+    {
+      "start": 245.366,
+      "text": "到这个节点，个体已经非常受损， 无法再继续繁殖，",
+      "end": 250.112
+    },
+    {
+      "start": 250.162,
+      "text": "种群数量将猛跌造成灭绝。",
+      "end": 254.7
+    },
+    {
+      "start": 254.75,
+      "text": "我们还没在自然界中 观察到整个过程发生，",
+      "end": 258.913
+    },
+    {
+      "start": 258.963,
+      "text": "但科学家们已经发现， 一种孤雌生殖的粘虫",
+      "end": 263.501
+    },
+    {
+      "start": 263.551,
+      "text": "在缺乏性伴侣时 积累起有害的变异。",
+      "end": 268.714
+    },
+    {
+      "start": 268.764,
+      "text": "只有时间才能证明， 这是否会导致它们的灭绝。",
+      "end": 273.219
+    },
+    {
+      "start": 273.269,
+      "text": "不过，一些孤雌生殖的物种 似乎有策略规避",
+      "end": 278.349
+    },
+    {
+      "start": 278.399,
+      "text": "变异熔断。",
+      "end": 279.976
+    },
+    {
+      "start": 280.026,
+      "text": "新墨西哥鞭尾蜥是通过",
+      "end": 283.104
+    },
+    {
+      "start": 283.154,
+      "text": "两种不同蜥蜴的杂交形成，",
+      "end": 286.23199999999997
+    },
+    {
+      "start": 286.282,
+      "text": "是一种新的全雌性物种。",
+      "end": 289.652
+    },
+    {
+      "start": 289.702,
+      "text": "作为杂交种，它们的基因组分别是由两个",
+      "end": 294.407
+    },
+    {
+      "start": 294.457,
+      "text": "亲代物种的染色体组合而成。",
+      "end": 297.368
+    },
+    {
+      "start": 297.418,
+      "text": "这使它们具有高度的遗传多样性，",
+      "end": 300.955
+    },
+    {
+      "start": 301.005,
+      "text": "也许有助于未来的长期生存。",
+      "end": 304.959
+    },
+    {
+      "start": 305.009,
+      "text": "与此同时，蛭形轮虫已经孤雌生殖了",
+      "end": 309.79699999999997
+    },
+    {
+      "start": 309.847,
+      "text": "近 6000 万年。",
+      "end": 312.008
+    },
+    {
+      "start": 312.058,
+      "text": "它们可能是通过吸收外来的遗传物质 以避免变异熔断。",
+      "end": 315.96999999999997
+    },
+    {
+      "start": 316.02,
+      "text": "实际上，它们大概 10% 的 基因来自其它生物，",
+      "end": 321.017
+    },
+    {
+      "start": 321.067,
+      "text": "像真菌、细菌、藻类等。",
+      "end": 324.27
+    },
+    {
+      "start": 324.32,
+      "text": "这其中的过程无人了解，",
+      "end": 327.02299999999997
+    },
+    {
+      "start": 327.073,
+      "text": "但不论如何，这种方法似乎有作用。",
+      "end": 330.985
+    },
+    {
+      "start": 331.035,
+      "text": "为了完全揭开繁殖的奥秘，",
+      "end": 334.28
+    },
+    {
+      "start": 334.33,
+      "text": "我们需要更多研究——",
+      "end": 336.198
+    },
+    {
+      "start": 336.248,
+      "text": "以及像 Ispera 这样的意外。",
+      "end": 341.95
+    }
+  ]
+};

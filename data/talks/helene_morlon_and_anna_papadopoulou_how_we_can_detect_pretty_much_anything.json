@@ -1,0 +1,1137 @@
+{
+  "meta": {
+    "title": "How we can detect pretty much anything",
+    "speaker": "Hélène Morlon and Anna Papadopoulou",
+    "duration": 339,
+    "slug": "helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything",
+    "sourcePage": "https://www.ted.com/talks/helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything",
+    "translationSourcePage": "https://www.ted.com/talks/helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/55/18/002/products/2021e-helene-morlon-anna-papadopoulou-environmental-dna-002-fallback-5a468e207b409a9577ed124b0bdc46df-1200k.mp4",
+    "youtubeId": "bdwU_ZPk1cY",
+    "youtubeTitle": "How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.829,
+      "end": 16.696,
+      "text": "For years, scientists have been staking out this remote forest in Montana for an animal that’s notoriously tricky to find.",
+      "translation": "多年以来，科学家们一直致力于 在蒙大拿州的这片偏僻的森林里追踪一种难以寻觅的动物。"
+    },
+    {
+      "id": 2,
+      "start": 16.746,
+      "end": 23.613,
+      "text": "Camera traps haven’t offered definitive evidence, and even experts can't identify its tracks with certainty.",
+      "translation": "红外相机的拍摄并不能提供确切的证据。甚至连相关专家也无法确定它的踪迹。"
+    },
+    {
+      "id": 3,
+      "start": 23.663,
+      "end": 30.279,
+      "text": "But within the past decades, researchers have developed methods that can detect even the most elusive species.",
+      "translation": "然而在过去的几十年里，研究者们已经开发出了 许多监测那些最为神出鬼没的物种的方法。"
+    },
+    {
+      "id": 4,
+      "start": 30.329,
+      "end": 36.946,
+      "text": "And so, in 2018, these scientists took a sample from some conspicuous snow tracks.",
+      "translation": "因此在 2018 年，这些科学家们从那些 显而易见的雪地足迹中提取了相关样本。"
+    },
+    {
+      "id": 5,
+      "start": 36.996,
+      "end": 44.487,
+      "text": "Lab tests showed conclusive results: the Canada lynx was indeed present in the area.",
+      "translation": "检测的结果确切地表明：加拿大猞猁的确曾在这片区域内活动。"
+    },
+    {
+      "id": 6,
+      "start": 44.537,
+      "end": 52.696,
+      "text": "Without seeing the cat, scientists had proof it was there because of environmental DNA or eDNA.",
+      "translation": "在没有肉眼观测到其出现的情况下， 科学家们仍能断定它的存在，归功于环境 DNA，也就是 eDNA。"
+    },
+    {
+      "id": 7,
+      "start": 52.746,
+      "end": 63.696,
+      "text": "Using a technique called DNA metabarcoding, researchers can take a sample from the environment and learn which organisms are in it or have recently passed through it.",
+      "translation": "通过使用 DNA 复合条形码这技术，研究者们可以通过检测从环境中所收集到的样本，进而得知该样本中包含哪些物种 或是近期哪些物种经过此地。"
+    },
+    {
+      "id": 8,
+      "start": 63.746,
+      "end": 65.904,
+      "text": "The world is covered in DNA.",
+      "translation": "世界上遍布着 DNA。"
+    },
+    {
+      "id": 9,
+      "start": 65.954,
+      "end": 70.821,
+      "text": "It’s all around us— on the ground, at the bottom of the ocean, and up in the clouds.",
+      "translation": "到处都是，在陆地上，深海里，还是云霄之上，都存在。"
+    },
+    {
+      "id": 10,
+      "start": 70.871,
+      "end": 74.613,
+      "text": "Multicellular organisms are constantly shedding cells.",
+      "translation": "多细胞生物的细胞不断地脱落。"
+    },
+    {
+      "id": 11,
+      "start": 74.663,
+      "end": 79.404,
+      "text": "But until recently, eDNA wasn’t very useful to us.",
+      "translation": "但是环境 DNA 直到最近方为我们所用。"
+    },
+    {
+      "id": 12,
+      "start": 79.454,
+      "end": 87.238,
+      "text": "Traditional scientific techniques couldn’t parse environmental samples containing mixed genetic material from multiple species.",
+      "translation": "传统的技术无法解析环境的样本，如果样本混合了多种生物的遗传物质。"
+    },
+    {
+      "id": 13,
+      "start": 87.288,
+      "end": 90.863,
+      "text": "But DNA metabarcoding can.",
+      "translation": "幸运的是，“DNA 复合条形码” 可以帮我们解决这个难题。"
+    },
+    {
+      "id": 14,
+      "start": 90.913,
+      "end": 94.988,
+      "text": "DNA begins to degrade once it’s exposed to the environment.",
+      "translation": "一旦暴露在环境中，DNA 会自行开始降解。"
+    },
+    {
+      "id": 15,
+      "start": 95.038,
+      "end": 99.363,
+      "text": "In the ocean, for example, it may only persist for a few days.",
+      "translation": "例如，在海洋中，只需几天时间就降解了。"
+    },
+    {
+      "id": 16,
+      "start": 99.413,
+      "end": 105.196,
+      "text": "So in many contexts, eDNA is useful for telling us about the recent past.",
+      "translation": "因此，在多数情况下，环境 DNA 对我们了解近期活动起到十分重要的作用。"
+    },
+    {
+      "id": 17,
+      "start": 105.246,
+      "end": 119.113,
+      "text": "The process of DNA metabarcoding starts with an environmental sample like a core of soil, a vial of water, some feces, an insect trap, or even the blood from leeches’ stomachs.",
+      "translation": "在使用 DNA 复合条形码之前， 我们需要收集相关环境样本。像是一份核心土壤，一小瓶水， 一些排泄物，一个捕虫器，甚至是来自水蛭胃里的血液 都能作为很好的样本。"
+    },
+    {
+      "id": 18,
+      "start": 119.163,
+      "end": 130.821,
+      "text": "Researchers then sift out everything aside from DNA by blending the sample up and using enzymes that break down cellular proteins and release DNA, which they purify.",
+      "translation": "研究者接着混合样本， 排除里头不是 DNA 的物质。用酶分解细胞中的蛋白质释出 DNA，将其纯化。"
+    },
+    {
+      "id": 19,
+      "start": 130.871,
+      "end": 135.238,
+      "text": "The result is a “soup” of all the DNA in the sample.",
+      "translation": "最终得到一份包含所有 DNA 样本的 “汤”。"
+    },
+    {
+      "id": 20,
+      "start": 135.288,
+      "end": 144.446,
+      "text": "Scientists then apply the polymerase chain reaction or PCR, which uses artificial DNA strands called universal primers.",
+      "translation": "接着科学家们应用聚合酶链式反应，简称 PCR，使用一种被称为通用引物的人工合成 DNA 链。"
+    },
+    {
+      "id": 21,
+      "start": 144.496,
+      "end": 153.779,
+      "text": "These primers bind to DNA sequences that are similar across species, then amplify genetic barcodes that are species-specific.",
+      "translation": "这些引物会结合不同物种间相似的 DNA 序列，然后扩增出具有物种特异性的基因条形码。"
+    },
+    {
+      "id": 22,
+      "start": 153.829,
+      "end": 160.196,
+      "text": "High-throughput sequencing then reads millions of these DNA fragments, simultaneously.",
+      "translation": "高通量测序随即读取 数以百万计 DNA 片段的信息，并行运作。"
+    },
+    {
+      "id": 23,
+      "start": 160.246,
+      "end": 172.654,
+      "text": "And finally, researchers compare them to reference databases and identify how many and which species are present— or if they’ve found entirely new ones.",
+      "translation": "最后，研究者们会将这些信息 与参考数据库中的数据进行比较，辨识出有多少已知的存在物种，抑或发现了全新的物种。"
+    },
+    {
+      "id": 24,
+      "start": 172.704,
+      "end": 179.821,
+      "text": "This method has led to the discovery of tens of thousands of species over the past decade.",
+      "translation": "这个方法已帮助我们发现了数以万计的物种，在过去的十几年中。"
+    },
+    {
+      "id": 25,
+      "start": 179.871,
+      "end": 188.779,
+      "text": "While metabarcoding can detect elusive animals like the Canada lynx, it can also help scientists identify invasive species.",
+      "translation": "DNA 复合条形码不仅可以帮助科学家 监测像加拿大猞猁这样行踪不定的动物，也帮助科学家识别那些入侵的物种。"
+    },
+    {
+      "id": 26,
+      "start": 188.829,
+      "end": 195.113,
+      "text": "In Yosemite, researchers used eDNA to track and remove invasive bullfrogs.",
+      "translation": "在优胜美地国家公园，研究者用环境 DNA 来追踪和清除入侵的牛蛙物种。"
+    },
+    {
+      "id": 27,
+      "start": 195.163,
+      "end": 207.821,
+      "text": "Once no trace of these amphibians remained, they reintroduced a threatened native species, California red-legged frogs, which had disappeared from the area some 50 years prior.",
+      "translation": "一旦这些两栖动物的踪迹不复存在，他们重新引入一种已濒临绝种的 本地物种，加州红腿蛙。该物种在大约 50 年前从该地区消失了。"
+    },
+    {
+      "id": 28,
+      "start": 207.871,
+      "end": 212.946,
+      "text": "Likewise, DNA metabarcoding can be used to monitor biodiversity.",
+      "translation": "同样地，DNA 复合条形码 还能用于监测生物多样性。"
+    },
+    {
+      "id": 29,
+      "start": 212.996,
+      "end": 221.446,
+      "text": "For example, using traditional approaches, categorizing all of the insects in a hectare of rainforest can take decades.",
+      "translation": "例如，若是使用传统的方法来对一公顷左右雨林中的所有物种分类， 可能会需要耗费长达数十年的时间。"
+    },
+    {
+      "id": 30,
+      "start": 221.496,
+      "end": 226.529,
+      "text": "But DNA from insect traps could yield these results in just a few months.",
+      "translation": "但是用来自昆虫诱捕器的 DNA 仅需几个月就可以收获结果。"
+    },
+    {
+      "id": 31,
+      "start": 226.579,
+      "end": 232.946,
+      "text": "One study compared insects from adjacent forest and plantation sites within China’s Yunnan province.",
+      "translation": "目前，已有一项研究比较邻近森林 和种植园内昆虫物种的不同，地点在中国云南省内。"
+    },
+    {
+      "id": 32,
+      "start": 232.996,
+      "end": 240.779,
+      "text": "It quickly found that not only were plantations less diverse, but deforestation affected insect groups unequally.",
+      "translation": "研究很快发现，不仅种植园内的多样性较差，而且毁林对不同的昆虫种群有着不同的影响。"
+    },
+    {
+      "id": 33,
+      "start": 240.829,
+      "end": 247.029,
+      "text": "Grasshoppers thrived in cleared areas while specialist forest beetles declined.",
+      "translation": "蚱蜢可以在清理过的区域内茁壮成长， 而森林甲虫的数量却在逐渐下降。"
+    },
+    {
+      "id": 34,
+      "start": 247.079,
+      "end": 252.988,
+      "text": "Using eDNA, scientists are able to investigate complex ecosystem interactions.",
+      "translation": "通过使用环境 DNA，科学家们能够调查复杂的生态系统之间的相互作用。"
+    },
+    {
+      "id": 35,
+      "start": 253.038,
+      "end": 257.113,
+      "text": "Tracking thousands of insects as they visit flowers is impossible.",
+      "translation": "想要追踪数以千计接近花朵的昆虫几乎不可能。"
+    },
+    {
+      "id": 36,
+      "start": 257.163,
+      "end": 264.988,
+      "text": "Instead, researchers can study the DNA left on flowers and insects to map pollination networks.",
+      "translation": "取而代之，研究者可以通过检测 留在花和昆虫身上的 DNA，进而绘制它们授粉的网络图。"
+    },
+    {
+      "id": 37,
+      "start": 265.038,
+      "end": 273.071,
+      "text": "Before these techniques were available, we didn’t really know how much pollination was happening at night because we couldn’t observe it.",
+      "translation": "未有这些技术之前，我们并不清楚 有多少夜间授粉活动，因为我们无法直接观察。"
+    },
+    {
+      "id": 38,
+      "start": 273.121,
+      "end": 278.404,
+      "text": "Now scientists understand that moths are important nocturnal pollinators.",
+      "translation": "如今科学家已能确定飞蛾种群 是十分重要的夜间传粉者。"
+    },
+    {
+      "id": 39,
+      "start": 278.454,
+      "end": 283.404,
+      "text": "eDNA can even tell stories of long extinct species.",
+      "translation": "环境 DNA 甚至可以告诉我们 关于那些早已灭绝的物种的故事。"
+    },
+    {
+      "id": 40,
+      "start": 283.454,
+      "end": 289.779,
+      "text": "Cold, dry, and low oxygen conditions are perfect for preserving genetic material.",
+      "translation": "寒冷，干燥和低氧的环境 是保存遗传物质的完美条件。"
+    },
+    {
+      "id": 41,
+      "start": 289.829,
+      "end": 303.238,
+      "text": "By digging deep into the Arctic permafrost, researchers found 50,000 year old DNA, which they matched to the nutrient-rich plants found in the stomachs of woolly mammoths.",
+      "translation": "通过深入挖掘北极的永久冻土层，研究人员发现了大约 5 万年前的 DNA 物质，发现其与具有极高营养价值的植物匹配，是在长毛象胃中发现的（植物）。"
+    },
+    {
+      "id": 42,
+      "start": 303.288,
+      "end": 314.863,
+      "text": "With eDNA, they also found that less nutritious grasses colonized the Arctic steppe during the last ice age, potentially contributing to the mammoth decline.",
+      "translation": "通过环境 DNA，研究者还发现那些缺乏营养价值的草在最后一个冰河时期内于北极草原上肆意生长，极可能加速了长毛象种群数量的减少。"
+    },
+    {
+      "id": 43,
+      "start": 314.913,
+      "end": 328.196,
+      "text": "As we face another period of climate change— this time due to human activities— understanding our planet’s rapidly shifting biodiversity will be crucial to protecting it.",
+      "translation": "鉴于我们正处于另一个气候变化的阶段，而这一次却是由于人类活动所造成，了解我们地球生物多样性正快速改变将会是后续保护它的关键。"
+    },
+    {
+      "id": 44,
+      "start": 328.246,
+      "end": 338.95,
+      "text": "Fortunately, eDNA and metabarcoding give us the tools to document rapid change in real time.",
+      "translation": "值得庆幸的是，环境 DNA 和 DNA 复合条形码赋予了我们实时记录变幻莫测的生物多样性的能力。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.829,
+      "text": "For years, scientists have been staking out this remote forest in Montana",
+      "end": 12.696
+    },
+    {
+      "start": 12.746,
+      "text": "for an animal that’s notoriously tricky to find.",
+      "end": 16.695999999999998
+    },
+    {
+      "start": 16.746,
+      "text": "Camera traps haven’t offered definitive evidence,",
+      "end": 19.238
+    },
+    {
+      "start": 19.288,
+      "text": "and even experts can't identify its tracks with certainty.",
+      "end": 23.613
+    },
+    {
+      "start": 23.663,
+      "text": "But within the past decades,",
+      "end": 25.279
+    },
+    {
+      "start": 25.329,
+      "text": "researchers have developed methods that can detect even the most elusive species.",
+      "end": 30.279
+    },
+    {
+      "start": 30.329,
+      "text": "And so, in 2018, these scientists took a sample from some conspicuous snow tracks.",
+      "end": 36.946000000000005
+    },
+    {
+      "start": 36.996,
+      "text": "Lab tests showed conclusive results:",
+      "end": 40.154
+    },
+    {
+      "start": 40.204,
+      "text": "the Canada lynx was indeed present in the area.",
+      "end": 44.487
+    },
+    {
+      "start": 44.537,
+      "text": "Without seeing the cat, scientists had proof it was there",
+      "end": 48.321000000000005
+    },
+    {
+      "start": 48.371,
+      "text": "because of environmental DNA or eDNA.",
+      "end": 52.696000000000005
+    },
+    {
+      "start": 52.746,
+      "text": "Using a technique called DNA metabarcoding,",
+      "end": 55.987
+    },
+    {
+      "start": 56.037,
+      "text": "researchers can take a sample from the environment",
+      "end": 58.737
+    },
+    {
+      "start": 58.787,
+      "text": "and learn which organisms are in it or have recently passed through it.",
+      "end": 63.696000000000005
+    },
+    {
+      "start": 63.746,
+      "text": "The world is covered in DNA.",
+      "end": 65.904
+    },
+    {
+      "start": 65.954,
+      "text": "It’s all around us—",
+      "end": 67.321
+    },
+    {
+      "start": 67.371,
+      "text": "on the ground, at the bottom of the ocean, and up in the clouds.",
+      "end": 70.821
+    },
+    {
+      "start": 70.871,
+      "text": "Multicellular organisms are constantly shedding cells.",
+      "end": 74.613
+    },
+    {
+      "start": 74.663,
+      "text": "But until recently, eDNA wasn’t very useful to us.",
+      "end": 79.404
+    },
+    {
+      "start": 79.454,
+      "text": "Traditional scientific techniques couldn’t parse environmental samples",
+      "end": 83.279
+    },
+    {
+      "start": 83.329,
+      "text": "containing mixed genetic material from multiple species.",
+      "end": 87.238
+    },
+    {
+      "start": 87.288,
+      "text": "But DNA metabarcoding can.",
+      "end": 90.863
+    },
+    {
+      "start": 90.913,
+      "text": "DNA begins to degrade once it’s exposed to the environment.",
+      "end": 94.988
+    },
+    {
+      "start": 95.038,
+      "text": "In the ocean, for example, it may only persist for a few days.",
+      "end": 99.363
+    },
+    {
+      "start": 99.413,
+      "text": "So in many contexts, eDNA is useful for telling us about the recent past.",
+      "end": 105.196
+    },
+    {
+      "start": 105.246,
+      "text": "The process of DNA metabarcoding starts with an environmental sample",
+      "end": 109.696
+    },
+    {
+      "start": 109.746,
+      "text": "like a core of soil, a vial of water, some feces, an insect trap,",
+      "end": 115.321
+    },
+    {
+      "start": 115.371,
+      "text": "or even the blood from leeches’ stomachs.",
+      "end": 119.113
+    },
+    {
+      "start": 119.163,
+      "text": "Researchers then sift out everything aside from DNA by blending the sample up",
+      "end": 124.113
+    },
+    {
+      "start": 124.163,
+      "text": "and using enzymes that break down cellular proteins and release DNA,",
+      "end": 128.738
+    },
+    {
+      "start": 128.788,
+      "text": "which they purify.",
+      "end": 130.821
+    },
+    {
+      "start": 130.871,
+      "text": "The result is a “soup” of all the DNA in the sample.",
+      "end": 135.238
+    },
+    {
+      "start": 135.288,
+      "text": "Scientists then apply the polymerase chain reaction or PCR,",
+      "end": 139.613
+    },
+    {
+      "start": 139.663,
+      "text": "which uses artificial DNA strands called universal primers.",
+      "end": 144.446
+    },
+    {
+      "start": 144.496,
+      "text": "These primers bind to DNA sequences that are similar across species,",
+      "end": 148.738
+    },
+    {
+      "start": 148.788,
+      "text": "then amplify genetic barcodes that are species-specific.",
+      "end": 153.779
+    },
+    {
+      "start": 153.829,
+      "text": "High-throughput sequencing then reads millions of these DNA fragments,",
+      "end": 158.404
+    },
+    {
+      "start": 158.454,
+      "text": "simultaneously.",
+      "end": 160.196
+    },
+    {
+      "start": 160.246,
+      "text": "And finally, researchers compare them to reference databases",
+      "end": 164.446
+    },
+    {
+      "start": 164.496,
+      "text": "and identify how many and which species are present—",
+      "end": 168.238
+    },
+    {
+      "start": 168.288,
+      "text": "or if they’ve found entirely new ones.",
+      "end": 172.654
+    },
+    {
+      "start": 172.704,
+      "text": "This method has led to the discovery of tens of thousands of species",
+      "end": 177.071
+    },
+    {
+      "start": 177.121,
+      "text": "over the past decade.",
+      "end": 179.821
+    },
+    {
+      "start": 179.871,
+      "text": "While metabarcoding can detect elusive animals like the Canada lynx,",
+      "end": 184.196
+    },
+    {
+      "start": 184.246,
+      "text": "it can also help scientists identify invasive species.",
+      "end": 188.779
+    },
+    {
+      "start": 188.829,
+      "text": "In Yosemite, researchers used eDNA to track and remove invasive bullfrogs.",
+      "end": 195.113
+    },
+    {
+      "start": 195.163,
+      "text": "Once no trace of these amphibians remained,",
+      "end": 197.571
+    },
+    {
+      "start": 197.621,
+      "text": "they reintroduced a threatened native species, California red-legged frogs,",
+      "end": 203.113
+    },
+    {
+      "start": 203.163,
+      "text": "which had disappeared from the area some 50 years prior.",
+      "end": 207.821
+    },
+    {
+      "start": 207.871,
+      "text": "Likewise, DNA metabarcoding can be used to monitor biodiversity.",
+      "end": 212.946
+    },
+    {
+      "start": 212.996,
+      "text": "For example, using traditional approaches,",
+      "end": 215.821
+    },
+    {
+      "start": 215.871,
+      "text": "categorizing all of the insects in a hectare of rainforest can take decades.",
+      "end": 221.446
+    },
+    {
+      "start": 221.496,
+      "text": "But DNA from insect traps could yield these results in just a few months.",
+      "end": 226.529
+    },
+    {
+      "start": 226.579,
+      "text": "One study compared insects from adjacent forest and plantation sites",
+      "end": 230.404
+    },
+    {
+      "start": 230.454,
+      "text": "within China’s Yunnan province.",
+      "end": 232.946
+    },
+    {
+      "start": 232.996,
+      "text": "It quickly found that not only were plantations less diverse,",
+      "end": 236.946
+    },
+    {
+      "start": 236.996,
+      "text": "but deforestation affected insect groups unequally.",
+      "end": 240.779
+    },
+    {
+      "start": 240.829,
+      "text": "Grasshoppers thrived in cleared areas while specialist forest beetles declined.",
+      "end": 247.029
+    },
+    {
+      "start": 247.079,
+      "text": "Using eDNA, scientists are able to investigate",
+      "end": 250.279
+    },
+    {
+      "start": 250.329,
+      "text": "complex ecosystem interactions.",
+      "end": 252.988
+    },
+    {
+      "start": 253.038,
+      "text": "Tracking thousands of insects as they visit flowers is impossible.",
+      "end": 257.113
+    },
+    {
+      "start": 257.163,
+      "text": "Instead, researchers can study the DNA left on flowers and insects",
+      "end": 262.113
+    },
+    {
+      "start": 262.163,
+      "text": "to map pollination networks.",
+      "end": 264.988
+    },
+    {
+      "start": 265.038,
+      "text": "Before these techniques were available, we didn’t really know how much pollination",
+      "end": 269.488
+    },
+    {
+      "start": 269.538,
+      "text": "was happening at night because we couldn’t observe it.",
+      "end": 273.07099999999997
+    },
+    {
+      "start": 273.121,
+      "text": "Now scientists understand that moths are important nocturnal pollinators.",
+      "end": 278.404
+    },
+    {
+      "start": 278.454,
+      "text": "eDNA can even tell stories of long extinct species.",
+      "end": 283.404
+    },
+    {
+      "start": 283.454,
+      "text": "Cold, dry, and low oxygen conditions are perfect for preserving genetic material.",
+      "end": 289.779
+    },
+    {
+      "start": 289.829,
+      "text": "By digging deep into the Arctic permafrost,",
+      "end": 292.613
+    },
+    {
+      "start": 292.663,
+      "text": "researchers found 50,000 year old DNA,",
+      "end": 296.94599999999997
+    },
+    {
+      "start": 296.996,
+      "text": "which they matched to the nutrient-rich plants",
+      "end": 299.988
+    },
+    {
+      "start": 300.038,
+      "text": "found in the stomachs of woolly mammoths.",
+      "end": 303.238
+    },
+    {
+      "start": 303.288,
+      "text": "With eDNA, they also found that less nutritious grasses",
+      "end": 307.529
+    },
+    {
+      "start": 307.579,
+      "text": "colonized the Arctic steppe during the last ice age,",
+      "end": 310.82099999999997
+    },
+    {
+      "start": 310.871,
+      "text": "potentially contributing to the mammoth decline.",
+      "end": 314.863
+    },
+    {
+      "start": 314.913,
+      "text": "As we face another period of climate change—",
+      "end": 317.94599999999997
+    },
+    {
+      "start": 317.996,
+      "text": "this time due to human activities—",
+      "end": 320.82099999999997
+    },
+    {
+      "start": 320.871,
+      "text": "understanding our planet’s rapidly shifting biodiversity",
+      "end": 324.94599999999997
+    },
+    {
+      "start": 324.996,
+      "text": "will be crucial to protecting it.",
+      "end": 328.19599999999997
+    },
+    {
+      "start": 328.246,
+      "text": "Fortunately, eDNA and metabarcoding",
+      "end": 331.44599999999997
+    },
+    {
+      "start": 331.496,
+      "text": "give us the tools to document rapid change in real time.",
+      "end": 338.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.829,
+      "text": "多年以来，科学家们一直致力于 在蒙大拿州的这片偏僻的森林里",
+      "end": 12.696
+    },
+    {
+      "start": 12.746,
+      "text": "追踪一种难以寻觅的动物。",
+      "end": 16.695999999999998
+    },
+    {
+      "start": 16.746,
+      "text": "红外相机的拍摄并不能提供确切的证据。",
+      "end": 19.238
+    },
+    {
+      "start": 19.288,
+      "text": "甚至连相关专家也无法确定它的踪迹。",
+      "end": 23.613
+    },
+    {
+      "start": 23.663,
+      "text": "然而在过去的几十年里，",
+      "end": 25.279
+    },
+    {
+      "start": 25.329,
+      "text": "研究者们已经开发出了 许多监测那些最为神出鬼没的物种的方法。",
+      "end": 30.279
+    },
+    {
+      "start": 30.329,
+      "text": "因此在 2018 年，这些科学家们从那些 显而易见的雪地足迹中提取了相关样本。",
+      "end": 36.946000000000005
+    },
+    {
+      "start": 36.996,
+      "text": "检测的结果确切地表明：",
+      "end": 40.154
+    },
+    {
+      "start": 40.204,
+      "text": "加拿大猞猁的确曾在这片区域内活动。",
+      "end": 44.487
+    },
+    {
+      "start": 44.537,
+      "text": "在没有肉眼观测到其出现的情况下， 科学家们仍能断定它的存在，",
+      "end": 48.321000000000005
+    },
+    {
+      "start": 48.371,
+      "text": "归功于环境 DNA，也就是 eDNA。",
+      "end": 52.696000000000005
+    },
+    {
+      "start": 52.746,
+      "text": "通过使用 DNA 复合条形码这技术，",
+      "end": 55.987
+    },
+    {
+      "start": 56.037,
+      "text": "研究者们可以通过检测从环境中所收集到的样本，",
+      "end": 58.737
+    },
+    {
+      "start": 58.787,
+      "text": "进而得知该样本中包含哪些物种 或是近期哪些物种经过此地。",
+      "end": 63.696000000000005
+    },
+    {
+      "start": 63.746,
+      "text": "世界上遍布着 DNA。",
+      "end": 65.904
+    },
+    {
+      "start": 65.954,
+      "text": "到处都是，",
+      "end": 67.321
+    },
+    {
+      "start": 67.371,
+      "text": "在陆地上，深海里，还是云霄之上，都存在。",
+      "end": 70.821
+    },
+    {
+      "start": 70.871,
+      "text": "多细胞生物的细胞不断地脱落。",
+      "end": 74.613
+    },
+    {
+      "start": 74.663,
+      "text": "但是环境 DNA 直到最近方为我们所用。",
+      "end": 79.404
+    },
+    {
+      "start": 79.454,
+      "text": "传统的技术无法解析环境的样本，",
+      "end": 83.279
+    },
+    {
+      "start": 83.329,
+      "text": "如果样本混合了多种生物的遗传物质。",
+      "end": 87.238
+    },
+    {
+      "start": 87.288,
+      "text": "幸运的是，“DNA 复合条形码” 可以帮我们解决这个难题。",
+      "end": 90.863
+    },
+    {
+      "start": 90.913,
+      "text": "一旦暴露在环境中，DNA 会自行开始降解。",
+      "end": 94.988
+    },
+    {
+      "start": 95.038,
+      "text": "例如，在海洋中，只需几天时间就降解了。",
+      "end": 99.363
+    },
+    {
+      "start": 99.413,
+      "text": "因此，在多数情况下，环境 DNA 对我们了解近期活动起到十分重要的作用。",
+      "end": 105.196
+    },
+    {
+      "start": 105.246,
+      "text": "在使用 DNA 复合条形码之前， 我们需要收集相关环境样本。",
+      "end": 109.696
+    },
+    {
+      "start": 109.746,
+      "text": "像是一份核心土壤，一小瓶水， 一些排泄物，一个捕虫器，",
+      "end": 115.321
+    },
+    {
+      "start": 115.371,
+      "text": "甚至是来自水蛭胃里的血液 都能作为很好的样本。",
+      "end": 119.113
+    },
+    {
+      "start": 119.163,
+      "text": "研究者接着混合样本， 排除里头不是 DNA 的物质。",
+      "end": 124.113
+    },
+    {
+      "start": 124.163,
+      "text": "用酶分解细胞中的蛋白质释出 DNA，",
+      "end": 128.738
+    },
+    {
+      "start": 128.788,
+      "text": "将其纯化。",
+      "end": 130.821
+    },
+    {
+      "start": 130.871,
+      "text": "最终得到一份包含所有 DNA 样本的 “汤”。",
+      "end": 135.238
+    },
+    {
+      "start": 135.288,
+      "text": "接着科学家们应用聚合酶链式反应，简称 PCR，",
+      "end": 139.613
+    },
+    {
+      "start": 139.663,
+      "text": "使用一种被称为通用引物的人工合成 DNA 链。",
+      "end": 144.446
+    },
+    {
+      "start": 144.496,
+      "text": "这些引物会结合不同物种间相似的 DNA 序列，",
+      "end": 148.738
+    },
+    {
+      "start": 148.788,
+      "text": "然后扩增出具有物种特异性的基因条形码。",
+      "end": 153.779
+    },
+    {
+      "start": 153.829,
+      "text": "高通量测序随即读取 数以百万计 DNA 片段的信息，",
+      "end": 158.404
+    },
+    {
+      "start": 158.454,
+      "text": "并行运作。",
+      "end": 160.196
+    },
+    {
+      "start": 160.246,
+      "text": "最后，研究者们会将这些信息 与参考数据库中的数据进行比较，",
+      "end": 164.446
+    },
+    {
+      "start": 164.496,
+      "text": "辨识出有多少已知的存在物种，",
+      "end": 168.238
+    },
+    {
+      "start": 168.288,
+      "text": "抑或发现了全新的物种。",
+      "end": 172.654
+    },
+    {
+      "start": 172.704,
+      "text": "这个方法已帮助我们发现了数以万计的物种，",
+      "end": 177.071
+    },
+    {
+      "start": 177.121,
+      "text": "在过去的十几年中。",
+      "end": 179.821
+    },
+    {
+      "start": 179.871,
+      "text": "DNA 复合条形码不仅可以帮助科学家 监测像加拿大猞猁这样行踪不定的动物，",
+      "end": 184.196
+    },
+    {
+      "start": 184.246,
+      "text": "也帮助科学家识别那些入侵的物种。",
+      "end": 188.779
+    },
+    {
+      "start": 188.829,
+      "text": "在优胜美地国家公园，研究者用环境 DNA 来追踪和清除入侵的牛蛙物种。",
+      "end": 195.113
+    },
+    {
+      "start": 195.163,
+      "text": "一旦这些两栖动物的踪迹不复存在，",
+      "end": 197.571
+    },
+    {
+      "start": 197.621,
+      "text": "他们重新引入一种已濒临绝种的 本地物种，加州红腿蛙。",
+      "end": 203.113
+    },
+    {
+      "start": 203.163,
+      "text": "该物种在大约 50 年前从该地区消失了。",
+      "end": 207.821
+    },
+    {
+      "start": 207.871,
+      "text": "同样地，DNA 复合条形码 还能用于监测生物多样性。",
+      "end": 212.946
+    },
+    {
+      "start": 212.996,
+      "text": "例如，若是使用传统的方法",
+      "end": 215.821
+    },
+    {
+      "start": 215.871,
+      "text": "来对一公顷左右雨林中的所有物种分类， 可能会需要耗费长达数十年的时间。",
+      "end": 221.446
+    },
+    {
+      "start": 221.496,
+      "text": "但是用来自昆虫诱捕器的 DNA 仅需几个月就可以收获结果。",
+      "end": 226.529
+    },
+    {
+      "start": 226.579,
+      "text": "目前，已有一项研究比较邻近森林 和种植园内昆虫物种的不同，",
+      "end": 230.404
+    },
+    {
+      "start": 230.454,
+      "text": "地点在中国云南省内。",
+      "end": 232.946
+    },
+    {
+      "start": 232.996,
+      "text": "研究很快发现，不仅种植园内的多样性较差，",
+      "end": 236.946
+    },
+    {
+      "start": 236.996,
+      "text": "而且毁林对不同的昆虫种群有着不同的影响。",
+      "end": 240.779
+    },
+    {
+      "start": 240.829,
+      "text": "蚱蜢可以在清理过的区域内茁壮成长， 而森林甲虫的数量却在逐渐下降。",
+      "end": 247.029
+    },
+    {
+      "start": 247.079,
+      "text": "通过使用环境 DNA，科学家们能够调查",
+      "end": 250.279
+    },
+    {
+      "start": 250.329,
+      "text": "复杂的生态系统之间的相互作用。",
+      "end": 252.988
+    },
+    {
+      "start": 253.038,
+      "text": "想要追踪数以千计接近花朵的昆虫几乎不可能。",
+      "end": 257.113
+    },
+    {
+      "start": 257.163,
+      "text": "取而代之，研究者可以通过检测 留在花和昆虫身上的 DNA，",
+      "end": 262.113
+    },
+    {
+      "start": 262.163,
+      "text": "进而绘制它们授粉的网络图。",
+      "end": 264.988
+    },
+    {
+      "start": 265.038,
+      "text": "未有这些技术之前，我们并不清楚 有多少夜间授粉活动，",
+      "end": 269.488
+    },
+    {
+      "start": 269.538,
+      "text": "因为我们无法直接观察。",
+      "end": 273.07099999999997
+    },
+    {
+      "start": 273.121,
+      "text": "如今科学家已能确定飞蛾种群 是十分重要的夜间传粉者。",
+      "end": 278.57099999999997
+    },
+    {
+      "start": 278.621,
+      "text": "环境 DNA 甚至可以告诉我们 关于那些早已灭绝的物种的故事。",
+      "end": 283.404
+    },
+    {
+      "start": 283.454,
+      "text": "寒冷，干燥和低氧的环境 是保存遗传物质的完美条件。",
+      "end": 289.779
+    },
+    {
+      "start": 289.829,
+      "text": "通过深入挖掘北极的永久冻土层，",
+      "end": 292.613
+    },
+    {
+      "start": 292.663,
+      "text": "研究人员发现了大约 5 万年前的 DNA 物质，",
+      "end": 296.94599999999997
+    },
+    {
+      "start": 296.996,
+      "text": "发现其与具有极高营养价值的植物匹配，",
+      "end": 299.988
+    },
+    {
+      "start": 300.038,
+      "text": "是在长毛象胃中发现的（植物）。",
+      "end": 303.238
+    },
+    {
+      "start": 303.288,
+      "text": "通过环境 DNA，研究者还发现那些缺乏营养价值的草",
+      "end": 307.529
+    },
+    {
+      "start": 307.579,
+      "text": "在最后一个冰河时期内于北极草原上肆意生长，",
+      "end": 310.82099999999997
+    },
+    {
+      "start": 310.871,
+      "text": "极可能加速了长毛象种群数量的减少。",
+      "end": 314.863
+    },
+    {
+      "start": 314.913,
+      "text": "鉴于我们正处于另一个气候变化的阶段，",
+      "end": 317.94599999999997
+    },
+    {
+      "start": 317.996,
+      "text": "而这一次却是由于人类活动所造成，",
+      "end": 320.82099999999997
+    },
+    {
+      "start": 320.871,
+      "text": "了解我们地球生物多样性正快速改变",
+      "end": 324.94599999999997
+    },
+    {
+      "start": 324.996,
+      "text": "将会是后续保护它的关键。",
+      "end": 328.19599999999997
+    },
+    {
+      "start": 328.246,
+      "text": "值得庆幸的是，环境 DNA 和 DNA 复合条形码",
+      "end": 331.613
+    },
+    {
+      "start": 331.663,
+      "text": "赋予了我们实时记录变幻莫测的生物多样性的能力。",
+      "end": 338.95
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The race to decode a mysterious language",
+    "speaker": "Susan Lupack",
+    "duration": 264,
+    "slug": "susan_lupack_the_race_to_decode_a_mysterious_language",
+    "sourcePage": "https://www.ted.com/talks/susan_lupack_the_race_to_decode_a_mysterious_language",
+    "translationSourcePage": "https://www.ted.com/talks/susan_lupack_the_race_to_decode_a_mysterious_language?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/47/67/001/products/2020e-susan-lupack-linear-001-fallback-4c0f7c6a80554065614d78ee5c3c62fb-1200k.mp4",
+    "youtubeId": "iePEw_cHp8s",
+    "youtubeTitle": "The race to decode a mysterious language - Susan Lupack"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.6,
+      "end": 16.612,
+      "text": "In the early 1900s on the island of Crete, British archaeologist Sir Arthur Evans uncovered nearly 3,000 tablets inscribed with strange symbols.",
+      "translation": "在 20 世纪初的克里特岛上，英国考古学家亚瑟·伊文斯爵士 （Arthur Evans）发现了将近 3000 块刻写着奇怪符号的泥板。"
+    },
+    {
+      "id": 2,
+      "start": 16.662,
+      "end": 21.872,
+      "text": "He thought these symbols represented the language spoken by Europe’s oldest civilization.",
+      "translation": "他猜测这些符号代表着 欧洲最古老的文明所使用的语言。"
+    },
+    {
+      "id": 3,
+      "start": 21.922,
+      "end": 25.872,
+      "text": "Their meaning would elude scholars for 50 years.",
+      "translation": "这些符号的含义让学者们 摸索了整整五十年。"
+    },
+    {
+      "id": 4,
+      "start": 25.922,
+      "end": 32.803,
+      "text": "Evans discovered these tablets amid the colorful frescoes and maze-like hallways of the palace of Knossos.",
+      "translation": "伊文斯是在克诺索斯宫殿 色彩绚丽的壁画和迷宫般的走廊中 发现这些泥板的。"
+    },
+    {
+      "id": 5,
+      "start": 32.853,
+      "end": 38.733,
+      "text": "He called the civilization Minoan— after the mythical Cretan ruler, King Minos.",
+      "translation": "他把这个文明叫做米诺斯文明——这个名称出自神话中 克里特的统治者，米诺斯国王。"
+    },
+    {
+      "id": 6,
+      "start": 38.783,
+      "end": 47.296,
+      "text": "He thought the script, dubbed Linear B, represented the Minoan language, and scholars all over the world came up with their own theories.",
+      "translation": "他猜想这种被称作“线形文字 B”的文本 代表了米诺斯文明的语言，而全世界的学者则众说纷纭。"
+    },
+    {
+      "id": 7,
+      "start": 47.346,
+      "end": 49.886,
+      "text": "Was it the lost language of the Etruscans?",
+      "translation": "这是伊特鲁里亚人失落的语言吗？"
+    },
+    {
+      "id": 8,
+      "start": 49.936,
+      "end": 53.346,
+      "text": "Or perhaps it represented an early form of Basque?",
+      "translation": "还是巴斯克语的一种早期形态？"
+    },
+    {
+      "id": 9,
+      "start": 53.396,
+      "end": 63.306,
+      "text": "The mystery intensified because Evans guarded the tablets closely–– only 200 of the inscriptions were published during his lifetime–– but he couldn’t decipher the script.",
+      "translation": "由于伊文斯对那些泥板戒备森严， 这些文字愈发显得神秘莫测——在他生前，仅有两百块 刻字泥板公诸于众——而他却无法破解这种文字。"
+    },
+    {
+      "id": 10,
+      "start": 63.356,
+      "end": 78.346,
+      "text": "However, he did make two accurate observations: the tablets were administrative records, and the script was a syllabary, where each symbol represented both a consonant and a vowel, mixed with characters that each represented a whole word.",
+      "translation": "不过，他的确做出了 两项准确的观察：这些泥板是行政记录； 文字是音节文字，其中的每个符号 都代表了一个辅音加元音，并融进了一些代表整词的字符。"
+    },
+    {
+      "id": 11,
+      "start": 78.396,
+      "end": 87.196,
+      "text": "Evans worked on Linear B for three decades before a scholar from Brooklyn, New York, named Alice Kober set out to solve the mystery.",
+      "translation": "在伊文斯对线形文字 B 研究到第三十个年头时，一位来自纽约布鲁克林的学者，"
+    },
+    {
+      "id": 12,
+      "start": 87.246,
+      "end": 93.446,
+      "text": "Kober was a professor of Classics at Brooklyn College when few women held such positions.",
+      "translation": "爱丽丝 · 科博（Alice Kober） 决心揭开这个未解之谜。科博是布鲁克林学院的古典学教授， 当时仅有极少数女性能位居这样的职位。"
+    },
+    {
+      "id": 13,
+      "start": 93.496,
+      "end": 100.176,
+      "text": "To help in her quest, she taught herself many languages–– knowledge she knew she would need to decipher Linear B.",
+      "translation": "为了她的理想追求， 她自学了很多门外语——她知道在破解线形文字 B 时 需要用到这些知识储备。"
+    },
+    {
+      "id": 14,
+      "start": 100.226,
+      "end": 103.886,
+      "text": "For the next two decades, she analyzed the symbols.",
+      "translation": "在接下来的二十多年里， 她对那些符号进行了分析。"
+    },
+    {
+      "id": 15,
+      "start": 103.936,
+      "end": 109.416,
+      "text": "Working from the few available inscriptions, she recorded how often each symbol appeared.",
+      "translation": "她钻研了为数不多的铭文，记录了每个字符出现的频率，"
+    },
+    {
+      "id": 16,
+      "start": 109.466,
+      "end": 113.216,
+      "text": "Then she recorded how frequently each symbol appeared next to another.",
+      "translation": "以及每对字符彼此相邻的频率。"
+    },
+    {
+      "id": 17,
+      "start": 113.266,
+      "end": 120.346,
+      "text": "She stored her findings on scrap paper in cigarette cartons because writing supplies were scarce during the Second World War.",
+      "translation": "她把自己的发现记录在碎纸片上， 保存在香烟盒里，因为在二战期间， 书写用品非常稀缺。"
+    },
+    {
+      "id": 18,
+      "start": 120.396,
+      "end": 127.096,
+      "text": "By analyzing these frequencies, she discovered that Linear B relied on word endings to give its sentences grammar.",
+      "translation": "通过分析这些字符的出现频率，她发现线形文字 B 是通过单词词尾的变化来改变句子的语法。"
+    },
+    {
+      "id": 19,
+      "start": 127.146,
+      "end": 135.196,
+      "text": "From this she began to build a chart of the relations between the signs, coming closer than anyone before to deciphering Linear B.",
+      "translation": "由此，她开始制作一份符号关系表，比之前的任何人都更接近 对线形文字 B 的破译。"
+    },
+    {
+      "id": 20,
+      "start": 135.246,
+      "end": 140.88,
+      "text": "But she died, probably of cancer, in 1950 at the age of 43.",
+      "translation": "但她却在 1950 年 疑似死于癌症，享年 43 岁。"
+    },
+    {
+      "id": 21,
+      "start": 140.93,
+      "end": 148.18,
+      "text": "While Kober was analyzing the Knossos tablets, an architect named Michael Ventris was also working to crack Linear B.",
+      "translation": "在科博研究克诺索斯泥板的期间，一名叫迈克·文特里斯（Michael Ventris）的 建筑师也在试图破解线形文字 B。"
+    },
+    {
+      "id": 22,
+      "start": 148.23,
+      "end": 153.34,
+      "text": "He had become obsessed with Linear B as a schoolboy after hearing Evans speak.",
+      "translation": "他在孩提时听过伊文斯的演讲， 由此对线形文字 B 产生了浓厚的兴趣。"
+    },
+    {
+      "id": 23,
+      "start": 153.39,
+      "end": 157.936,
+      "text": "He even worked on deciphering the script while serving in World War II.",
+      "translation": "他甚至在二战服役期间 还在对铭文进行解读。"
+    },
+    {
+      "id": 24,
+      "start": 157.986,
+      "end": 169.449,
+      "text": "After the war, Ventris built on Kober’s grid using a newly published cache of Linear B inscriptions excavated from a different archeological site called Pylos, on mainland Greece.",
+      "translation": "战后，文特里斯进一步完善了 科博的字符关系表，他参照了新公布的 一批线形文字 B 铭文，这批泥板是在希腊大陆上的 另一处遗迹皮洛斯出土的。"
+    },
+    {
+      "id": 25,
+      "start": 169.499,
+      "end": 179.592,
+      "text": "His real breakthrough came when he compared the tablets from Pylos with those from Knossos and saw that certain words appeared on tablets from one site but not the other.",
+      "translation": "他在对比皮洛斯和 克诺索斯两地的泥板时取得了关键突破：他发现某些词只出现在 其中一处遗址的泥板上。"
+    },
+    {
+      "id": 26,
+      "start": 179.642,
+      "end": 185.212,
+      "text": "He wondered if those words represented the names of places specific to each location.",
+      "translation": "他猜想那些词语是否代表了两个地点各自特有的地名。"
+    },
+    {
+      "id": 27,
+      "start": 185.262,
+      "end": 194.536,
+      "text": "He knew that over centuries, place names tend to remain constant, and decided to compare Linear B to an ancient syllabary from the island of Cyprus.",
+      "translation": "他知道，即使历经数个世纪， 地名也大多保持不变，于是他决定将线形文字 B和塞浦路斯岛上的 古代音节文字进行对比。"
+    },
+    {
+      "id": 28,
+      "start": 194.586,
+      "end": 203.296,
+      "text": "The Cypriot script was used hundreds of years after Linear B, but some of the symbols were similar— he wondered if the sounds would be similar, too.",
+      "translation": "塞浦路斯文字比线形文字 B 晚诞生了几百年，但其中一些字符比较相似——他猜想它们的发音是否也会相似。"
+    },
+    {
+      "id": 29,
+      "start": 203.346,
+      "end": 214.366,
+      "text": "When Ventris plugged some of the sounds of the Cypriot syllabary into the Linear B inscriptions, he came up with the word Knossos, the name of the city where Evans had discovered his tablets.",
+      "translation": "当文特里斯将塞浦路斯 音节文字的某些发音代入到线形文字 B 中时，他得到了“克诺索斯”这个词，也就是伊文斯发现泥板的 城市的名字。"
+    },
+    {
+      "id": 30,
+      "start": 214.416,
+      "end": 224.171,
+      "text": "In a domino effect, Ventris unraveled Linear B, with each word revealing more clearly that the language of Linear B was not Minoan, but Greek.",
+      "translation": "如多米诺骨牌一般，文特里斯 环环相扣地破译了线形文字 B，每个词都愈发清晰地表明 线形文字 B并不是米诺斯语，而是希腊语。"
+    },
+    {
+      "id": 31,
+      "start": 224.221,
+      "end": 228.69,
+      "text": "Ventris died in a car crash four years later, at the age of 34.",
+      "translation": "文特里斯在四年后的 一场车祸中丧生，终年 34 岁。"
+    },
+    {
+      "id": 32,
+      "start": 228.74,
+      "end": 232.35,
+      "text": "But his discovery rewrote a chapter of history.",
+      "translation": "但他的发现重写了历史的篇章。"
+    },
+    {
+      "id": 33,
+      "start": 232.4,
+      "end": 239.34,
+      "text": "Evans had insisted that the Minoans conquered the mainland Greeks, and that was why examples of Linear B were found on the mainland.",
+      "translation": "伊文斯曾坚持认为， 米诺斯人征服了希腊大陆，因此才能在大陆上 发现线形文字 B 的范本。"
+    },
+    {
+      "id": 34,
+      "start": 239.39,
+      "end": 250.189,
+      "text": "But the discovery that Linear B represented Greek, and not Minoan, showed that the opposite had happened: mainland Greeks invaded Crete and adopted the Minoan script for their own language.",
+      "translation": "但线形文字 B 属于希腊语， 而非米诺斯语这一发现揭示了事实恰恰相反：大陆上的希腊人入侵了克里特岛， 并借用了米诺斯文字作为自己的语言。"
+    },
+    {
+      "id": 35,
+      "start": 250.239,
+      "end": 252.639,
+      "text": "But the story isn’t over yet.",
+      "translation": "然而故事尚未结束。"
+    },
+    {
+      "id": 36,
+      "start": 252.689,
+      "end": 259.829,
+      "text": "The actual language of the Minoans, represented by another script called Linear A, has yet to be deciphered.",
+      "translation": "米诺斯人实际使用的语言——另一种叫做线形文字 A 的文本，还尚未被破解。"
+    },
+    {
+      "id": 37,
+      "start": 259.879,
+      "end": 263.95,
+      "text": "It remains a mystery— at least for now.",
+      "translation": "它依然是未解之谜—— 至少到目前为止。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.6,
+      "text": "In the early 1900s on the island of Crete,",
+      "end": 9.58
+    },
+    {
+      "start": 9.63,
+      "text": "British archaeologist Sir Arthur Evans uncovered nearly 3,000 tablets",
+      "end": 14.122
+    },
+    {
+      "start": 14.172,
+      "text": "inscribed with strange symbols.",
+      "end": 16.612
+    },
+    {
+      "start": 16.662,
+      "text": "He thought these symbols represented the language spoken",
+      "end": 19.381999999999998
+    },
+    {
+      "start": 19.432,
+      "text": "by Europe’s oldest civilization.",
+      "end": 21.872
+    },
+    {
+      "start": 21.922,
+      "text": "Their meaning would elude scholars for 50 years.",
+      "end": 25.872
+    },
+    {
+      "start": 25.922,
+      "text": "Evans discovered these tablets amid the colorful frescoes",
+      "end": 29.163
+    },
+    {
+      "start": 29.213,
+      "text": "and maze-like hallways of the palace of Knossos.",
+      "end": 32.803000000000004
+    },
+    {
+      "start": 32.853,
+      "text": "He called the civilization Minoan—",
+      "end": 35.353
+    },
+    {
+      "start": 35.403,
+      "text": "after the mythical Cretan ruler, King Minos.",
+      "end": 38.733000000000004
+    },
+    {
+      "start": 38.783,
+      "text": "He thought the script, dubbed Linear B, represented the Minoan language,",
+      "end": 43.289
+    },
+    {
+      "start": 43.339,
+      "text": "and scholars all over the world came up with their own theories.",
+      "end": 47.296
+    },
+    {
+      "start": 47.346,
+      "text": "Was it the lost language of the Etruscans?",
+      "end": 49.886
+    },
+    {
+      "start": 49.936,
+      "text": "Or perhaps it represented an early form of Basque?",
+      "end": 53.346000000000004
+    },
+    {
+      "start": 53.396,
+      "text": "The mystery intensified because Evans guarded the tablets closely––",
+      "end": 57.346000000000004
+    },
+    {
+      "start": 57.396,
+      "text": "only 200 of the inscriptions were published during his lifetime––",
+      "end": 61.006
+    },
+    {
+      "start": 61.056,
+      "text": "but he couldn’t decipher the script.",
+      "end": 63.306000000000004
+    },
+    {
+      "start": 63.356,
+      "text": "However, he did make two accurate observations:",
+      "end": 67.186
+    },
+    {
+      "start": 67.236,
+      "text": "the tablets were administrative records, and the script was a syllabary,",
+      "end": 71.306
+    },
+    {
+      "start": 71.356,
+      "text": "where each symbol represented both a consonant and a vowel,",
+      "end": 74.756
+    },
+    {
+      "start": 74.806,
+      "text": "mixed with characters that each represented a whole word.",
+      "end": 78.346
+    },
+    {
+      "start": 78.396,
+      "text": "Evans worked on Linear B for three decades before a scholar from Brooklyn, New York,",
+      "end": 83.676
+    },
+    {
+      "start": 83.726,
+      "text": "named Alice Kober set out to solve the mystery.",
+      "end": 87.196
+    },
+    {
+      "start": 87.246,
+      "text": "Kober was a professor of Classics at Brooklyn College",
+      "end": 90.396
+    },
+    {
+      "start": 90.446,
+      "text": "when few women held such positions.",
+      "end": 93.446
+    },
+    {
+      "start": 93.496,
+      "text": "To help in her quest, she taught herself many languages––",
+      "end": 96.846
+    },
+    {
+      "start": 96.896,
+      "text": "knowledge she knew she would need to decipher Linear B.",
+      "end": 100.176
+    },
+    {
+      "start": 100.226,
+      "text": "For the next two decades, she analyzed the symbols.",
+      "end": 103.88600000000001
+    },
+    {
+      "start": 103.936,
+      "text": "Working from the few available inscriptions,",
+      "end": 106.38600000000001
+    },
+    {
+      "start": 106.436,
+      "text": "she recorded how often each symbol appeared.",
+      "end": 109.416
+    },
+    {
+      "start": 109.466,
+      "text": "Then she recorded how frequently each symbol appeared next to another.",
+      "end": 113.21600000000001
+    },
+    {
+      "start": 113.266,
+      "text": "She stored her findings on scrap paper in cigarette cartons",
+      "end": 116.63600000000001
+    },
+    {
+      "start": 116.686,
+      "text": "because writing supplies were scarce during the Second World War.",
+      "end": 120.346
+    },
+    {
+      "start": 120.396,
+      "text": "By analyzing these frequencies,",
+      "end": 122.10600000000001
+    },
+    {
+      "start": 122.156,
+      "text": "she discovered that Linear B relied on word endings",
+      "end": 125.196
+    },
+    {
+      "start": 125.246,
+      "text": "to give its sentences grammar.",
+      "end": 127.096
+    },
+    {
+      "start": 127.146,
+      "text": "From this she began to build a chart of the relations between the signs,",
+      "end": 131.196
+    },
+    {
+      "start": 131.246,
+      "text": "coming closer than anyone before to deciphering Linear B.",
+      "end": 135.196
+    },
+    {
+      "start": 135.246,
+      "text": "But she died, probably of cancer, in 1950 at the age of 43.",
+      "end": 140.88
+    },
+    {
+      "start": 140.93,
+      "text": "While Kober was analyzing the Knossos tablets,",
+      "end": 143.48
+    },
+    {
+      "start": 143.53,
+      "text": "an architect named Michael Ventris was also working to crack Linear B.",
+      "end": 148.17999999999998
+    },
+    {
+      "start": 148.23,
+      "text": "He had become obsessed with Linear B as a schoolboy after hearing Evans speak.",
+      "end": 153.33999999999997
+    },
+    {
+      "start": 153.39,
+      "text": "He even worked on deciphering the script while serving in World War II.",
+      "end": 157.93599999999998
+    },
+    {
+      "start": 157.986,
+      "text": "After the war, Ventris built on Kober’s grid",
+      "end": 160.926
+    },
+    {
+      "start": 160.976,
+      "text": "using a newly published cache of Linear B inscriptions",
+      "end": 164.166
+    },
+    {
+      "start": 164.216,
+      "text": "excavated from a different archeological site called Pylos, on mainland Greece.",
+      "end": 169.44899999999998
+    },
+    {
+      "start": 169.499,
+      "text": "His real breakthrough came when he compared the tablets from Pylos",
+      "end": 172.85899999999998
+    },
+    {
+      "start": 172.909,
+      "text": "with those from Knossos",
+      "end": 174.45899999999997
+    },
+    {
+      "start": 174.509,
+      "text": "and saw that certain words appeared on tablets from one site but not the other.",
+      "end": 179.59199999999998
+    },
+    {
+      "start": 179.642,
+      "text": "He wondered if those words represented the names of places",
+      "end": 182.742
+    },
+    {
+      "start": 182.792,
+      "text": "specific to each location.",
+      "end": 185.212
+    },
+    {
+      "start": 185.262,
+      "text": "He knew that over centuries, place names tend to remain constant,",
+      "end": 189.042
+    },
+    {
+      "start": 189.092,
+      "text": "and decided to compare Linear B",
+      "end": 190.742
+    },
+    {
+      "start": 190.792,
+      "text": "to an ancient syllabary from the island of Cyprus.",
+      "end": 194.536
+    },
+    {
+      "start": 194.586,
+      "text": "The Cypriot script was used hundreds of years after Linear B,",
+      "end": 198.486
+    },
+    {
+      "start": 198.536,
+      "text": "but some of the symbols were similar—",
+      "end": 200.546
+    },
+    {
+      "start": 200.596,
+      "text": "he wondered if the sounds would be similar, too.",
+      "end": 203.296
+    },
+    {
+      "start": 203.346,
+      "text": "When Ventris plugged some of the sounds of the Cypriot syllabary",
+      "end": 206.476
+    },
+    {
+      "start": 206.526,
+      "text": "into the Linear B inscriptions,",
+      "end": 208.37599999999998
+    },
+    {
+      "start": 208.426,
+      "text": "he came up with the word Knossos,",
+      "end": 210.566
+    },
+    {
+      "start": 210.616,
+      "text": "the name of the city where Evans had discovered his tablets.",
+      "end": 214.36599999999999
+    },
+    {
+      "start": 214.416,
+      "text": "In a domino effect, Ventris unraveled Linear B,",
+      "end": 217.74599999999998
+    },
+    {
+      "start": 217.796,
+      "text": "with each word revealing more clearly that the language of Linear B",
+      "end": 221.391
+    },
+    {
+      "start": 221.441,
+      "text": "was not Minoan, but Greek.",
+      "end": 224.171
+    },
+    {
+      "start": 224.221,
+      "text": "Ventris died in a car crash four years later, at the age of 34.",
+      "end": 228.69
+    },
+    {
+      "start": 228.74,
+      "text": "But his discovery rewrote a chapter of history.",
+      "end": 232.35
+    },
+    {
+      "start": 232.4,
+      "text": "Evans had insisted that the Minoans conquered the mainland Greeks,",
+      "end": 235.85
+    },
+    {
+      "start": 235.9,
+      "text": "and that was why examples of Linear B were found on the mainland.",
+      "end": 239.33999999999997
+    },
+    {
+      "start": 239.39,
+      "text": "But the discovery that Linear B represented Greek, and not Minoan,",
+      "end": 243.07999999999998
+    },
+    {
+      "start": 243.13,
+      "text": "showed that the opposite had happened:",
+      "end": 245.07999999999998
+    },
+    {
+      "start": 245.13,
+      "text": "mainland Greeks invaded Crete and adopted the Minoan script for their own language.",
+      "end": 250.189
+    },
+    {
+      "start": 250.239,
+      "text": "But the story isn’t over yet.",
+      "end": 252.63899999999998
+    },
+    {
+      "start": 252.689,
+      "text": "The actual language of the Minoans,",
+      "end": 254.839
+    },
+    {
+      "start": 254.889,
+      "text": "represented by another script called Linear A,",
+      "end": 257.789
+    },
+    {
+      "start": 257.839,
+      "text": "has yet to be deciphered.",
+      "end": 259.829
+    },
+    {
+      "start": 259.879,
+      "text": "It remains a mystery— at least for now.",
+      "end": 263.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.6,
+      "text": "在 20 世纪初的克里特岛上，",
+      "end": 9.58
+    },
+    {
+      "start": 9.63,
+      "text": "英国考古学家亚瑟·伊文斯爵士 （Arthur Evans）发现了将近 3000 块",
+      "end": 14.122
+    },
+    {
+      "start": 14.172,
+      "text": "刻写着奇怪符号的泥板。",
+      "end": 16.612
+    },
+    {
+      "start": 16.662,
+      "text": "他猜测这些符号代表着 欧洲最古老的文明",
+      "end": 19.381999999999998
+    },
+    {
+      "start": 19.432,
+      "text": "所使用的语言。",
+      "end": 21.872
+    },
+    {
+      "start": 21.922,
+      "text": "这些符号的含义让学者们 摸索了整整五十年。",
+      "end": 25.872
+    },
+    {
+      "start": 25.922,
+      "text": "伊文斯是在克诺索斯宫殿 色彩绚丽的壁画",
+      "end": 29.163
+    },
+    {
+      "start": 29.213,
+      "text": "和迷宫般的走廊中 发现这些泥板的。",
+      "end": 32.803000000000004
+    },
+    {
+      "start": 32.853,
+      "text": "他把这个文明叫做米诺斯文明——",
+      "end": 35.353
+    },
+    {
+      "start": 35.403,
+      "text": "这个名称出自神话中 克里特的统治者，米诺斯国王。",
+      "end": 38.733000000000004
+    },
+    {
+      "start": 38.783,
+      "text": "他猜想这种被称作“线形文字 B”的文本 代表了米诺斯文明的语言，",
+      "end": 43.289
+    },
+    {
+      "start": 43.339,
+      "text": "而全世界的学者则众说纷纭。",
+      "end": 47.296
+    },
+    {
+      "start": 47.346,
+      "text": "这是伊特鲁里亚人失落的语言吗？",
+      "end": 49.886
+    },
+    {
+      "start": 49.936,
+      "text": "还是巴斯克语的一种早期形态？",
+      "end": 53.346000000000004
+    },
+    {
+      "start": 53.396,
+      "text": "由于伊文斯对那些泥板戒备森严， 这些文字愈发显得神秘莫测——",
+      "end": 57.346000000000004
+    },
+    {
+      "start": 57.396,
+      "text": "在他生前，仅有两百块 刻字泥板公诸于众——",
+      "end": 61.006
+    },
+    {
+      "start": 61.056,
+      "text": "而他却无法破解这种文字。",
+      "end": 63.306000000000004
+    },
+    {
+      "start": 63.356,
+      "text": "不过，他的确做出了 两项准确的观察：",
+      "end": 67.186
+    },
+    {
+      "start": 67.236,
+      "text": "这些泥板是行政记录； 文字是音节文字，",
+      "end": 71.306
+    },
+    {
+      "start": 71.356,
+      "text": "其中的每个符号 都代表了一个辅音加元音，",
+      "end": 74.756
+    },
+    {
+      "start": 74.806,
+      "text": "并融进了一些代表整词的字符。",
+      "end": 78.346
+    },
+    {
+      "start": 78.396,
+      "text": "在伊文斯对线形文字 B 研究到第三十个年头时，",
+      "end": 81.311
+    },
+    {
+      "start": 81.361,
+      "text": "一位来自纽约布鲁克林的学者，",
+      "end": 83.676
+    },
+    {
+      "start": 83.726,
+      "text": "爱丽丝 · 科博（Alice Kober） 决心揭开这个未解之谜。",
+      "end": 87.196
+    },
+    {
+      "start": 87.246,
+      "text": "科博是布鲁克林学院的古典学教授， 当时仅有极少数女性能位居这样的职位。",
+      "end": 93.446
+    },
+    {
+      "start": 93.496,
+      "text": "为了她的理想追求， 她自学了很多门外语——",
+      "end": 96.846
+    },
+    {
+      "start": 96.896,
+      "text": "她知道在破解线形文字 B 时 需要用到这些知识储备。",
+      "end": 100.176
+    },
+    {
+      "start": 100.226,
+      "text": "在接下来的二十多年里， 她对那些符号进行了分析。",
+      "end": 103.88600000000001
+    },
+    {
+      "start": 103.936,
+      "text": "她钻研了为数不多的铭文，",
+      "end": 106.38600000000001
+    },
+    {
+      "start": 106.436,
+      "text": "记录了每个字符出现的频率，",
+      "end": 109.416
+    },
+    {
+      "start": 109.466,
+      "text": "以及每对字符彼此相邻的频率。",
+      "end": 113.21600000000001
+    },
+    {
+      "start": 113.266,
+      "text": "她把自己的发现记录在碎纸片上， 保存在香烟盒里，",
+      "end": 116.63600000000001
+    },
+    {
+      "start": 116.686,
+      "text": "因为在二战期间， 书写用品非常稀缺。",
+      "end": 120.346
+    },
+    {
+      "start": 120.396,
+      "text": "通过分析这些字符的出现频率，",
+      "end": 122.10600000000001
+    },
+    {
+      "start": 122.156,
+      "text": "她发现线形文字 B 是通过单词词尾的变化",
+      "end": 125.196
+    },
+    {
+      "start": 125.246,
+      "text": "来改变句子的语法。",
+      "end": 127.096
+    },
+    {
+      "start": 127.146,
+      "text": "由此，她开始制作一份符号关系表，",
+      "end": 131.196
+    },
+    {
+      "start": 131.246,
+      "text": "比之前的任何人都更接近 对线形文字 B 的破译。",
+      "end": 135.196
+    },
+    {
+      "start": 135.246,
+      "text": "但她却在 1950 年 疑似死于癌症，享年 43 岁。",
+      "end": 140.88
+    },
+    {
+      "start": 140.93,
+      "text": "在科博研究克诺索斯泥板的期间，",
+      "end": 143.48
+    },
+    {
+      "start": 143.53,
+      "text": "一名叫迈克·文特里斯（Michael Ventris）的 建筑师也在试图破解线形文字 B。",
+      "end": 148.17999999999998
+    },
+    {
+      "start": 148.23,
+      "text": "他在孩提时听过伊文斯的演讲， 由此对线形文字 B 产生了浓厚的兴趣。",
+      "end": 153.33999999999997
+    },
+    {
+      "start": 153.39,
+      "text": "他甚至在二战服役期间 还在对铭文进行解读。",
+      "end": 157.93599999999998
+    },
+    {
+      "start": 157.986,
+      "text": "战后，文特里斯进一步完善了 科博的字符关系表，",
+      "end": 160.926
+    },
+    {
+      "start": 160.976,
+      "text": "他参照了新公布的 一批线形文字 B 铭文，",
+      "end": 164.166
+    },
+    {
+      "start": 164.216,
+      "text": "这批泥板是在希腊大陆上的 另一处遗迹皮洛斯出土的。",
+      "end": 169.44899999999998
+    },
+    {
+      "start": 169.499,
+      "text": "他在对比皮洛斯和 克诺索斯两地的泥板时",
+      "end": 172.85899999999998
+    },
+    {
+      "start": 172.909,
+      "text": "取得了关键突破：",
+      "end": 174.45899999999997
+    },
+    {
+      "start": 174.509,
+      "text": "他发现某些词只出现在 其中一处遗址的泥板上。",
+      "end": 179.59199999999998
+    },
+    {
+      "start": 179.642,
+      "text": "他猜想那些词语是否代表了",
+      "end": 182.582
+    },
+    {
+      "start": 182.632,
+      "text": "两个地点各自特有的地名。",
+      "end": 185.212
+    },
+    {
+      "start": 185.262,
+      "text": "他知道，即使历经数个世纪， 地名也大多保持不变，",
+      "end": 189.042
+    },
+    {
+      "start": 189.092,
+      "text": "于是他决定将线形文字 B",
+      "end": 190.742
+    },
+    {
+      "start": 190.792,
+      "text": "和塞浦路斯岛上的 古代音节文字进行对比。",
+      "end": 194.536
+    },
+    {
+      "start": 194.586,
+      "text": "塞浦路斯文字比线形文字 B 晚诞生了几百年，",
+      "end": 198.486
+    },
+    {
+      "start": 198.536,
+      "text": "但其中一些字符比较相似——",
+      "end": 200.546
+    },
+    {
+      "start": 200.596,
+      "text": "他猜想它们的发音是否也会相似。",
+      "end": 203.296
+    },
+    {
+      "start": 203.346,
+      "text": "当文特里斯将塞浦路斯 音节文字的某些发音",
+      "end": 206.476
+    },
+    {
+      "start": 206.526,
+      "text": "代入到线形文字 B 中时，",
+      "end": 208.37599999999998
+    },
+    {
+      "start": 208.426,
+      "text": "他得到了“克诺索斯”这个词，",
+      "end": 210.566
+    },
+    {
+      "start": 210.616,
+      "text": "也就是伊文斯发现泥板的 城市的名字。",
+      "end": 214.36599999999999
+    },
+    {
+      "start": 214.416,
+      "text": "如多米诺骨牌一般，文特里斯 环环相扣地破译了线形文字 B，",
+      "end": 217.74599999999998
+    },
+    {
+      "start": 217.796,
+      "text": "每个词都愈发清晰地表明 线形文字 B",
+      "end": 221.391
+    },
+    {
+      "start": 221.441,
+      "text": "并不是米诺斯语，而是希腊语。",
+      "end": 224.171
+    },
+    {
+      "start": 224.221,
+      "text": "文特里斯在四年后的 一场车祸中丧生，终年 34 岁。",
+      "end": 228.69
+    },
+    {
+      "start": 228.74,
+      "text": "但他的发现重写了历史的篇章。",
+      "end": 232.35
+    },
+    {
+      "start": 232.4,
+      "text": "伊文斯曾坚持认为， 米诺斯人征服了希腊大陆，",
+      "end": 235.85
+    },
+    {
+      "start": 235.9,
+      "text": "因此才能在大陆上 发现线形文字 B 的范本。",
+      "end": 239.33999999999997
+    },
+    {
+      "start": 239.39,
+      "text": "但线形文字 B 属于希腊语， 而非米诺斯语这一发现",
+      "end": 243.07999999999998
+    },
+    {
+      "start": 243.13,
+      "text": "揭示了事实恰恰相反：",
+      "end": 245.07999999999998
+    },
+    {
+      "start": 245.13,
+      "text": "大陆上的希腊人入侵了克里特岛， 并借用了米诺斯文字作为自己的语言。",
+      "end": 250.189
+    },
+    {
+      "start": 250.239,
+      "text": "然而故事尚未结束。",
+      "end": 252.63899999999998
+    },
+    {
+      "start": 252.689,
+      "text": "米诺斯人实际使用的语言——",
+      "end": 254.839
+    },
+    {
+      "start": 254.889,
+      "text": "另一种叫做线形文字 A 的文本，",
+      "end": 257.789
+    },
+    {
+      "start": 257.839,
+      "text": "还尚未被破解。",
+      "end": 259.829
+    },
+    {
+      "start": 259.879,
+      "text": "它依然是未解之谜—— 至少到目前为止。",
+      "end": 263.95
+    }
+  ]
+};

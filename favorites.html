@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>我的收藏</title>
+    <link rel="stylesheet" href="home.css" />
+    <link rel="stylesheet" href="favorites.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <h1>我的收藏</h1>
+        <p id="favoriteMeta">正在加载收藏…</p>
+      </header>
+
+      <section class="toolbar">
+        <a class="link-btn secondary" href="home.html">返回首页</a>
+      </section>
+
+      <p class="storage-note">
+        收藏数据仅保存在你当前浏览器的本地缓存（localStorage）中，不会上传服务器，也不会跨设备或跨浏览器同步。清除浏览器缓存、更换设备或使用其他浏览器后，收藏将会丢失。
+      </p>
+
+      <section>
+        <div id="favoriteList" class="talk-list"></div>
+      </section>
+    </main>
+
+    <script src="favorites.js?v=20260210-4"></script>
+  </body>
+</html>

@@ -1,0 +1,995 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The epic of Gilgamesh, the king who tried to conquer death",
+    "speaker": "Soraya Field Fiorio",
+    "duration": 307,
+    "slug": "soraya_field_fiorio_the_epic_of_gilgamesh_the_king_who_tried_to_conquer_death",
+    "sourcePage": "https://www.ted.com/talks/soraya_field_fiorio_the_epic_of_gilgamesh_the_king_who_tried_to_conquer_death",
+    "translationSourcePage": "https://www.ted.com/talks/soraya_field_fiorio_the_epic_of_gilgamesh_the_king_who_tried_to_conquer_death?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/53/83/003/products/2020e-soraya-field-fiorio-epic-of-gilgamesh-003-fallback-c718c8cc8f771d368a74969edc228123-1200k.mp4",
+    "youtubeId": "BV9t3Cp18Rc",
+    "youtubeTitle": "The epic of Gilgamesh, the king who tried to conquer death - Soraya Field Fiorio"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.913,
+      "end": 20.113,
+      "text": "In 1849, in the ancient city of Nineveh in northern Iraq, archaeologists sifted through dusty remains, hoping to find records to prove that Bible stories were true.",
+      "translation": "1849 年，在北伊拉克的尼尼微古城，考古学家们在沙尘弥漫的遗迹中筛土，希望能找到可以证实圣经故事的记录。"
+    },
+    {
+      "id": 2,
+      "start": 20.163,
+      "end": 24.946,
+      "text": "What they found instead was one of the oldest libraries in the world.",
+      "translation": "而他们发现的却是 世界上最古老的图书馆之一。"
+    },
+    {
+      "id": 3,
+      "start": 24.996,
+      "end": 37.112,
+      "text": "Inscribed on crumbling clay tablets was a 4,000-year-old story so riveting the first person to translate it started stripping from excitement.",
+      "translation": "在碎裂的泥板上刻着 一个四千年前的故事，如此引人入胜，第一位翻译的人 甚至激动得脱起了衣服。"
+    },
+    {
+      "id": 4,
+      "start": 37.162,
+      "end": 51.529,
+      "text": "Called the epic of Gilgamesh, the story starts with Gilgamesh, king of the city of Uruk, crashing every wedding and sleeping with the bride before she has a chance to sleep with her husband.",
+      "translation": "这个故事叫做《吉尔伽美什史诗》，开篇讲述了乌鲁克国王吉尔伽美什擅闯每一个婚礼，强行霸占每位新娘的初夜。"
+    },
+    {
+      "id": 5,
+      "start": 51.579,
+      "end": 57.737,
+      "text": "To tame Gilgamesh, the goddess Aruru created a rival called Enkidu.",
+      "translation": "为了降服吉尔伽美什，女神阿鲁鲁 为他创造了一位对手，名叫恩奇都。"
+    },
+    {
+      "id": 6,
+      "start": 57.787,
+      "end": 66.654,
+      "text": "Enkidu lived beyond the walls of the city, where chaos reigned and wild animals, invaders, and evil spirits prowled.",
+      "translation": "恩奇都生活在城墙之外，以蛮荒为伴，野兽、侵略者 和恶灵在周围徘徊。"
+    },
+    {
+      "id": 7,
+      "start": 66.704,
+      "end": 76.779,
+      "text": "After a priestess of the goddess Ishtar seduced Enkidu, the wild animals beyond the wall rejected him and he ventured into the city.",
+      "translation": "女神伊什塔尔的女祭司 引诱了恩奇都之后，城外的野兽们开始排斥他， 于是他便向城里进发。"
+    },
+    {
+      "id": 8,
+      "start": 76.829,
+      "end": 81.279,
+      "text": "There, he encountered Gilgamesh up to his usual tricks.",
+      "translation": "在那里，他遇到了 恣意妄为的吉尔伽美什，"
+    },
+    {
+      "id": 9,
+      "start": 81.329,
+      "end": 84.446,
+      "text": "Enkidu stepped in to stop him.",
+      "translation": "恩奇都便上前制止。"
+    },
+    {
+      "id": 10,
+      "start": 84.496,
+      "end": 93.071,
+      "text": "Almost perfectly matched, the two men wrestled all through the city streets until Gilgamesh won the fight by a hair.",
+      "translation": "两人势均力敌、不分伯仲， 在乌鲁克街上扭打得难解难分，直到吉尔伽美什险胜毫厘。"
+    },
+    {
+      "id": 11,
+      "start": 93.121,
+      "end": 96.238,
+      "text": "Afterwards, they were inseparable.",
+      "translation": "两人从此形影不离。"
+    },
+    {
+      "id": 12,
+      "start": 96.288,
+      "end": 103.696,
+      "text": "With his new friend, Gilgamesh turned his attention from the brides of Uruk to proving his strength in combat.",
+      "translation": "结识新朋友后， 吉尔伽美什不再滥抢民女，而是决意在战斗中证明力量。"
+    },
+    {
+      "id": 13,
+      "start": 103.746,
+      "end": 112.321,
+      "text": "They set out to slay Humbaba, a creature with a thousand faces who guarded the trees of the Forest of Cedar.",
+      "translation": "他们出发去讨伐芬巴巴，一只守卫雪松之林的千面怪物。"
+    },
+    {
+      "id": 14,
+      "start": 112.371,
+      "end": 115.196,
+      "text": "They tracked Humbaba and ambushed him.",
+      "translation": "他们追踪芬巴巴，发起伏击。"
+    },
+    {
+      "id": 15,
+      "start": 115.246,
+      "end": 122.488,
+      "text": "Cornered, he begged for his life, then cursed them as Gilgamesh dealt the final blow.",
+      "translation": "芬巴巴进退维谷，乞求饶命，在吉尔伽美什砍下最后一击时 诅咒他们。"
+    },
+    {
+      "id": 16,
+      "start": 122.538,
+      "end": 128.446,
+      "text": "Back home in Uruk, the goddess Ishtar took a romantic interest in Gilgamesh.",
+      "translation": "回到乌鲁克后，女神伊什塔尔 对吉尔伽美什动了芳心。"
+    },
+    {
+      "id": 17,
+      "start": 128.496,
+      "end": 136.279,
+      "text": "Knowing she tended to lose interest and curse her former flames, Gilgamesh refused her advances.",
+      "translation": "吉尔伽美什知道她常常 对旧爱始乱终弃、降下诅咒，因此拒绝了她的求爱。"
+    },
+    {
+      "id": 18,
+      "start": 136.329,
+      "end": 142.613,
+      "text": "So Ishtar unleashed the Bull of Heaven on Uruk to destroy crops and kill people.",
+      "translation": "于是伊什塔尔在乌鲁克降下天之公牛， 践踏庄稼、屠戮人民。"
+    },
+    {
+      "id": 19,
+      "start": 142.663,
+      "end": 150.571,
+      "text": "When Gilgamesh and Enkidu slayed the creature defending the city, the gods killed Enkidu.",
+      "translation": "在吉尔伽美什和恩奇都 杀死公牛、守护城市之后，众神杀死了恩奇都。"
+    },
+    {
+      "id": 20,
+      "start": 150.621,
+      "end": 163.613,
+      "text": "He entered the House of Dust, the shadowy Mesopotamian underworld where the spirits of the dead knelt eternally on the ground, eating dirt and drinking stone.",
+      "translation": "他来到了尘土之家，美索不达米亚阴暗的冥界，在那里的亡魂永世跪地， 以泥土为食、以石砾为饮。"
+    },
+    {
+      "id": 21,
+      "start": 163.663,
+      "end": 173.321,
+      "text": "Grieving for Enkidu and terrified of meeting this fate himself, Gilgamesh set off beyond the cosmic mountains to seek immortality.",
+      "translation": "吉尔伽美什为恩奇都悲痛不已， 也对命定的死亡感到惶恐，于是便翻越宇宙之山， 踏上了寻求永生的旅程。"
+    },
+    {
+      "id": 22,
+      "start": 173.371,
+      "end": 188.904,
+      "text": "He passed scorpion people and groves of gemstone trees, travelled beneath the mountains and outran the rising sun, until he finally came to the end of the world, where he found a bar.",
+      "translation": "他经过蝎子人守卫，穿过宝石树林，在山底之路跋涉，与初升旭日赛跑，终于抵达了世界的尽头，在那里发现了一家酒馆。"
+    },
+    {
+      "id": 23,
+      "start": 188.954,
+      "end": 195.821,
+      "text": "The bartender was a goddess named Shiduri, who urged Gilgamesh to give up his quest.",
+      "translation": "老板娘是一位名叫西杜丽的女神，她试图劝阻吉尔伽美什对永生的追求。"
+    },
+    {
+      "id": 24,
+      "start": 195.871,
+      "end": 203.863,
+      "text": "She told him all mortals must die, but until death comes, he should enjoy his life.",
+      "translation": "她告诉他，所有凡人必将死亡，但在死亡来临之前， 应当学会享受人生。"
+    },
+    {
+      "id": 25,
+      "start": 203.913,
+      "end": 206.446,
+      "text": "But Gilgamesh refused to give up.",
+      "translation": "但吉尔伽美什不愿放弃。"
+    },
+    {
+      "id": 26,
+      "start": 206.496,
+      "end": 214.821,
+      "text": "Reluctantly, Shiduri gave him directions to cross the Waters of Death and meet the immortal man Utanapishti.",
+      "translation": "西杜丽只能勉为其难地指点他 渡过死亡之海，去见永生者乌特纳庇什提。"
+    },
+    {
+      "id": 27,
+      "start": 214.871,
+      "end": 226.946,
+      "text": "The gods had granted Utanapishti immortality following a great flood, during which he built a boat, loaded two of every animal onto it, and landed on a mountain peak.",
+      "translation": "众神在大洪水之后 赐予了乌特纳庇什提永生；在大洪水前，他造了一艘船，载上每种动物中的一对， 最后停靠在了山顶。"
+    },
+    {
+      "id": 28,
+      "start": 226.996,
+      "end": 233.029,
+      "text": "Utanapishti also encouraged Gilgamesh to accept that death comes for everyone.",
+      "translation": "乌特纳庇什提同样告诫吉尔伽美什， 接受人人必将死亡的命运。"
+    },
+    {
+      "id": 29,
+      "start": 233.079,
+      "end": 235.779,
+      "text": "But Gilgamesh still would not budge.",
+      "translation": "但吉尔伽美什依然不依不饶。"
+    },
+    {
+      "id": 30,
+      "start": 235.829,
+      "end": 242.279,
+      "text": "So Utanapishti told him that if he could conquer sleep, the gods might grant him immortality.",
+      "translation": "于是乌特纳庇什提告诉他， 如果他能战胜睡眠，众神或许就会赐予他永生。"
+    },
+    {
+      "id": 31,
+      "start": 242.329,
+      "end": 248.738,
+      "text": "Gilgamesh intended to stay awake for seven days, but fell asleep immediately.",
+      "translation": "吉尔伽美什本想六天七夜保持清醒，但他立刻睡着了。"
+    },
+    {
+      "id": 32,
+      "start": 248.788,
+      "end": 256.904,
+      "text": "Utanapishti then told him about a magical plant that grew at the bottom of the ocean and granted eternal youth.",
+      "translation": "乌特纳庇什提又告诉他， 在海底生长着一种仙草，能够让人长生不老。"
+    },
+    {
+      "id": 33,
+      "start": 256.954,
+      "end": 262.779,
+      "text": "Though Gilgamesh successfully retrieved the plant, a snake stole it on his way home.",
+      "translation": "虽然吉尔伽美什成功摘得了仙草，但在回家路上却不幸被蛇偷吃。"
+    },
+    {
+      "id": 34,
+      "start": 262.829,
+      "end": 274.196,
+      "text": "But when Gilgamesh laid eyes on his beautiful city again, he made peace with his mortality and vowed to spend his lifetime doing great deeds.",
+      "translation": "但当吉尔伽美什 再度看见自己美丽的城市，他便接受了人固有一死的宿命， 并发誓要用余生建功立业。"
+    },
+    {
+      "id": 35,
+      "start": 274.246,
+      "end": 283.904,
+      "text": "He wrote his story on a lapis lazuli tablet and buried it under the city walls for future generations to find and learn from.",
+      "translation": "他把自己的故事写在青金石板上，埋在城墙下，供后人发现学习。"
+    },
+    {
+      "id": 36,
+      "start": 283.954,
+      "end": 290.529,
+      "text": "The tablets uncovered in Nineveh were part of the library of the Assyrian king, Ashurbanipal.",
+      "translation": "在尼尼微出土的泥板是亚述国王亚述巴尼拔 图书馆的藏品。"
+    },
+    {
+      "id": 37,
+      "start": 290.579,
+      "end": 295.863,
+      "text": "Though the story is mythical, Gilgamesh was probably a real king of Uruk.",
+      "translation": "尽管史诗是神话传说，乌鲁克国王 吉尔伽美什可能确有其人。"
+    },
+    {
+      "id": 38,
+      "start": 295.913,
+      "end": 306.95,
+      "text": "Versions of his tale date to 2000 BCE and perhaps even longer ago, and still echo through literature today.",
+      "translation": "他的故事有诸多版本，可以追溯到 公元前 2000 年，甚至更早，时至今日仍在文学之中回响。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.913,
+      "text": "In 1849, in the ancient city of Nineveh in northern Iraq,",
+      "end": 12.196
+    },
+    {
+      "start": 12.246,
+      "text": "archaeologists sifted through dusty remains,",
+      "end": 15.571
+    },
+    {
+      "start": 15.621,
+      "text": "hoping to find records to prove that Bible stories were true.",
+      "end": 20.113
+    },
+    {
+      "start": 20.163,
+      "text": "What they found instead was one of the oldest libraries in the world.",
+      "end": 24.945999999999998
+    },
+    {
+      "start": 24.996,
+      "text": "Inscribed on crumbling clay tablets was a 4,000-year-old story",
+      "end": 30.488
+    },
+    {
+      "start": 30.538,
+      "text": "so riveting the first person to translate it started stripping from excitement.",
+      "end": 37.112
+    },
+    {
+      "start": 37.162,
+      "text": "Called the epic of Gilgamesh,",
+      "end": 39.904
+    },
+    {
+      "start": 39.954,
+      "text": "the story starts with Gilgamesh, king of the city of Uruk,",
+      "end": 44.446000000000005
+    },
+    {
+      "start": 44.496,
+      "text": "crashing every wedding and sleeping with the bride",
+      "end": 47.862
+    },
+    {
+      "start": 47.912,
+      "text": "before she has a chance to sleep with her husband.",
+      "end": 51.529
+    },
+    {
+      "start": 51.579,
+      "text": "To tame Gilgamesh, the goddess Aruru created a rival called Enkidu.",
+      "end": 57.737
+    },
+    {
+      "start": 57.787,
+      "text": "Enkidu lived beyond the walls of the city,",
+      "end": 60.279
+    },
+    {
+      "start": 60.329,
+      "text": "where chaos reigned and wild animals, invaders, and evil spirits prowled.",
+      "end": 66.654
+    },
+    {
+      "start": 66.704,
+      "text": "After a priestess of the goddess Ishtar seduced Enkidu,",
+      "end": 71.029
+    },
+    {
+      "start": 71.079,
+      "text": "the wild animals beyond the wall rejected him and he ventured into the city.",
+      "end": 76.779
+    },
+    {
+      "start": 76.829,
+      "text": "There, he encountered Gilgamesh up to his usual tricks.",
+      "end": 81.279
+    },
+    {
+      "start": 81.329,
+      "text": "Enkidu stepped in to stop him.",
+      "end": 84.446
+    },
+    {
+      "start": 84.496,
+      "text": "Almost perfectly matched, the two men wrestled all through the city streets",
+      "end": 89.571
+    },
+    {
+      "start": 89.621,
+      "text": "until Gilgamesh won the fight by a hair.",
+      "end": 93.071
+    },
+    {
+      "start": 93.121,
+      "text": "Afterwards, they were inseparable.",
+      "end": 96.238
+    },
+    {
+      "start": 96.288,
+      "text": "With his new friend, Gilgamesh turned his attention from the brides of Uruk",
+      "end": 100.738
+    },
+    {
+      "start": 100.788,
+      "text": "to proving his strength in combat.",
+      "end": 103.696
+    },
+    {
+      "start": 103.746,
+      "text": "They set out to slay Humbaba,",
+      "end": 105.863
+    },
+    {
+      "start": 105.913,
+      "text": "a creature with a thousand faces who guarded the trees of the Forest of Cedar.",
+      "end": 112.321
+    },
+    {
+      "start": 112.371,
+      "text": "They tracked Humbaba and ambushed him.",
+      "end": 115.196
+    },
+    {
+      "start": 115.246,
+      "text": "Cornered, he begged for his life,",
+      "end": 117.821
+    },
+    {
+      "start": 117.871,
+      "text": "then cursed them as Gilgamesh dealt the final blow.",
+      "end": 122.488
+    },
+    {
+      "start": 122.538,
+      "text": "Back home in Uruk, the goddess Ishtar took a romantic interest in Gilgamesh.",
+      "end": 128.446
+    },
+    {
+      "start": 128.496,
+      "text": "Knowing she tended to lose interest and curse her former flames,",
+      "end": 133.279
+    },
+    {
+      "start": 133.329,
+      "text": "Gilgamesh refused her advances.",
+      "end": 136.279
+    },
+    {
+      "start": 136.329,
+      "text": "So Ishtar unleashed the Bull of Heaven on Uruk to destroy crops and kill people.",
+      "end": 142.613
+    },
+    {
+      "start": 142.663,
+      "text": "When Gilgamesh and Enkidu slayed the creature defending the city,",
+      "end": 147.738
+    },
+    {
+      "start": 147.788,
+      "text": "the gods killed Enkidu.",
+      "end": 150.571
+    },
+    {
+      "start": 150.621,
+      "text": "He entered the House of Dust,",
+      "end": 153.738
+    },
+    {
+      "start": 153.788,
+      "text": "the shadowy Mesopotamian underworld where the spirits of the dead",
+      "end": 158.071
+    },
+    {
+      "start": 158.121,
+      "text": "knelt eternally on the ground, eating dirt and drinking stone.",
+      "end": 163.613
+    },
+    {
+      "start": 163.663,
+      "text": "Grieving for Enkidu and terrified of meeting this fate himself,",
+      "end": 167.779
+    },
+    {
+      "start": 167.829,
+      "text": "Gilgamesh set off beyond the cosmic mountains to seek immortality.",
+      "end": 173.321
+    },
+    {
+      "start": 173.371,
+      "text": "He passed scorpion people and groves of gemstone trees,",
+      "end": 178.363
+    },
+    {
+      "start": 178.413,
+      "text": "travelled beneath the mountains and outran the rising sun,",
+      "end": 182.696
+    },
+    {
+      "start": 182.746,
+      "text": "until he finally came to the end of the world,",
+      "end": 186.488
+    },
+    {
+      "start": 186.538,
+      "text": "where he found a bar.",
+      "end": 188.904
+    },
+    {
+      "start": 188.954,
+      "text": "The bartender was a goddess named Shiduri,",
+      "end": 192.738
+    },
+    {
+      "start": 192.788,
+      "text": "who urged Gilgamesh to give up his quest.",
+      "end": 195.821
+    },
+    {
+      "start": 195.871,
+      "text": "She told him all mortals must die,",
+      "end": 199.904
+    },
+    {
+      "start": 199.954,
+      "text": "but until death comes, he should enjoy his life.",
+      "end": 203.863
+    },
+    {
+      "start": 203.913,
+      "text": "But Gilgamesh refused to give up.",
+      "end": 206.446
+    },
+    {
+      "start": 206.496,
+      "text": "Reluctantly, Shiduri gave him directions to cross the Waters of Death",
+      "end": 211.113
+    },
+    {
+      "start": 211.163,
+      "text": "and meet the immortal man Utanapishti.",
+      "end": 214.821
+    },
+    {
+      "start": 214.871,
+      "text": "The gods had granted Utanapishti immortality following a great flood,",
+      "end": 219.613
+    },
+    {
+      "start": 219.663,
+      "text": "during which he built a boat,",
+      "end": 221.404
+    },
+    {
+      "start": 221.454,
+      "text": "loaded two of every animal onto it, and landed on a mountain peak.",
+      "end": 226.946
+    },
+    {
+      "start": 226.996,
+      "text": "Utanapishti also encouraged Gilgamesh to accept that death comes for everyone.",
+      "end": 233.029
+    },
+    {
+      "start": 233.079,
+      "text": "But Gilgamesh still would not budge.",
+      "end": 235.779
+    },
+    {
+      "start": 235.829,
+      "text": "So Utanapishti told him that if he could conquer sleep,",
+      "end": 239.446
+    },
+    {
+      "start": 239.496,
+      "text": "the gods might grant him immortality.",
+      "end": 242.279
+    },
+    {
+      "start": 242.329,
+      "text": "Gilgamesh intended to stay awake for seven days,",
+      "end": 245.988
+    },
+    {
+      "start": 246.038,
+      "text": "but fell asleep immediately.",
+      "end": 248.738
+    },
+    {
+      "start": 248.788,
+      "text": "Utanapishti then told him about a magical plant that grew at the bottom of the ocean",
+      "end": 254.154
+    },
+    {
+      "start": 254.204,
+      "text": "and granted eternal youth.",
+      "end": 256.904
+    },
+    {
+      "start": 256.954,
+      "text": "Though Gilgamesh successfully retrieved the plant,",
+      "end": 259.82099999999997
+    },
+    {
+      "start": 259.871,
+      "text": "a snake stole it on his way home.",
+      "end": 262.779
+    },
+    {
+      "start": 262.829,
+      "text": "But when Gilgamesh laid eyes on his beautiful city again,",
+      "end": 266.863
+    },
+    {
+      "start": 266.913,
+      "text": "he made peace with his mortality and vowed to spend his lifetime doing great deeds.",
+      "end": 274.19599999999997
+    },
+    {
+      "start": 274.246,
+      "text": "He wrote his story on a lapis lazuli tablet",
+      "end": 277.69599999999997
+    },
+    {
+      "start": 277.746,
+      "text": "and buried it under the city walls for future generations to find and learn from.",
+      "end": 283.904
+    },
+    {
+      "start": 283.954,
+      "text": "The tablets uncovered in Nineveh",
+      "end": 285.488
+    },
+    {
+      "start": 285.538,
+      "text": "were part of the library of the Assyrian king, Ashurbanipal.",
+      "end": 290.529
+    },
+    {
+      "start": 290.579,
+      "text": "Though the story is mythical, Gilgamesh was probably a real king of Uruk.",
+      "end": 295.863
+    },
+    {
+      "start": 295.913,
+      "text": "Versions of his tale date to 2000 BCE and perhaps even longer ago,",
+      "end": 302.238
+    },
+    {
+      "start": 302.288,
+      "text": "and still echo through literature today.",
+      "end": 306.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.913,
+      "text": "1849 年，在北伊拉克的尼尼微古城，",
+      "end": 12.196
+    },
+    {
+      "start": 12.246,
+      "text": "考古学家们在沙尘弥漫的遗迹中筛土，",
+      "end": 15.571
+    },
+    {
+      "start": 15.621,
+      "text": "希望能找到可以证实圣经故事的记录。",
+      "end": 20.113
+    },
+    {
+      "start": 20.163,
+      "text": "而他们发现的却是 世界上最古老的图书馆之一。",
+      "end": 24.945999999999998
+    },
+    {
+      "start": 24.996,
+      "text": "在碎裂的泥板上刻着 一个四千年前的故事，",
+      "end": 30.488
+    },
+    {
+      "start": 30.538,
+      "text": "如此引人入胜，第一位翻译的人 甚至激动得脱起了衣服。",
+      "end": 37.112
+    },
+    {
+      "start": 37.162,
+      "text": "这个故事叫做《吉尔伽美什史诗》，",
+      "end": 39.904
+    },
+    {
+      "start": 39.954,
+      "text": "开篇讲述了乌鲁克国王吉尔伽美什",
+      "end": 44.446000000000005
+    },
+    {
+      "start": 44.496,
+      "text": "擅闯每一个婚礼，",
+      "end": 46.362
+    },
+    {
+      "start": 46.412,
+      "text": "强行霸占每位新娘的初夜。",
+      "end": 51.612
+    },
+    {
+      "start": 51.662,
+      "text": "为了降服吉尔伽美什，女神阿鲁鲁 为他创造了一位对手，名叫恩奇都。",
+      "end": 57.737
+    },
+    {
+      "start": 57.787,
+      "text": "恩奇都生活在城墙之外，",
+      "end": 60.279
+    },
+    {
+      "start": 60.329,
+      "text": "以蛮荒为伴，野兽、侵略者 和恶灵在周围徘徊。",
+      "end": 66.654
+    },
+    {
+      "start": 66.704,
+      "text": "女神伊什塔尔的女祭司 引诱了恩奇都之后，",
+      "end": 71.029
+    },
+    {
+      "start": 71.079,
+      "text": "城外的野兽们开始排斥他， 于是他便向城里进发。",
+      "end": 76.779
+    },
+    {
+      "start": 76.829,
+      "text": "在那里，他遇到了 恣意妄为的吉尔伽美什，",
+      "end": 81.279
+    },
+    {
+      "start": 81.329,
+      "text": "恩奇都便上前制止。",
+      "end": 84.446
+    },
+    {
+      "start": 84.496,
+      "text": "两人势均力敌、不分伯仲， 在乌鲁克街上扭打得难解难分，",
+      "end": 89.571
+    },
+    {
+      "start": 89.621,
+      "text": "直到吉尔伽美什险胜毫厘。",
+      "end": 93.071
+    },
+    {
+      "start": 93.121,
+      "text": "两人从此形影不离。",
+      "end": 96.238
+    },
+    {
+      "start": 96.288,
+      "text": "结识新朋友后， 吉尔伽美什不再滥抢民女，",
+      "end": 100.571
+    },
+    {
+      "start": 100.621,
+      "text": "而是决意在战斗中证明力量。",
+      "end": 103.696
+    },
+    {
+      "start": 103.746,
+      "text": "他们出发去讨伐芬巴巴，",
+      "end": 105.863
+    },
+    {
+      "start": 105.913,
+      "text": "一只守卫雪松之林的千面怪物。",
+      "end": 112.321
+    },
+    {
+      "start": 112.371,
+      "text": "他们追踪芬巴巴，发起伏击。",
+      "end": 115.196
+    },
+    {
+      "start": 115.246,
+      "text": "芬巴巴进退维谷，乞求饶命，",
+      "end": 117.821
+    },
+    {
+      "start": 117.871,
+      "text": "在吉尔伽美什砍下最后一击时 诅咒他们。",
+      "end": 122.488
+    },
+    {
+      "start": 122.538,
+      "text": "回到乌鲁克后，女神伊什塔尔 对吉尔伽美什动了芳心。",
+      "end": 128.446
+    },
+    {
+      "start": 128.496,
+      "text": "吉尔伽美什知道她常常 对旧爱始乱终弃、降下诅咒，",
+      "end": 133.279
+    },
+    {
+      "start": 133.329,
+      "text": "因此拒绝了她的求爱。",
+      "end": 136.279
+    },
+    {
+      "start": 136.329,
+      "text": "于是伊什塔尔在乌鲁克降下天之公牛， 践踏庄稼、屠戮人民。",
+      "end": 142.613
+    },
+    {
+      "start": 142.663,
+      "text": "在吉尔伽美什和恩奇都 杀死公牛、守护城市之后，",
+      "end": 147.738
+    },
+    {
+      "start": 147.788,
+      "text": "众神杀死了恩奇都。",
+      "end": 150.571
+    },
+    {
+      "start": 150.621,
+      "text": "他来到了尘土之家，",
+      "end": 153.738
+    },
+    {
+      "start": 153.788,
+      "text": "美索不达米亚阴暗的冥界，",
+      "end": 156.613
+    },
+    {
+      "start": 156.663,
+      "text": "在那里的亡魂永世跪地， 以泥土为食、以石砾为饮。",
+      "end": 163.613
+    },
+    {
+      "start": 163.663,
+      "text": "吉尔伽美什为恩奇都悲痛不已， 也对命定的死亡感到惶恐，",
+      "end": 167.779
+    },
+    {
+      "start": 167.829,
+      "text": "于是便翻越宇宙之山， 踏上了寻求永生的旅程。",
+      "end": 173.321
+    },
+    {
+      "start": 173.371,
+      "text": "他经过蝎子人守卫，穿过宝石树林，",
+      "end": 178.363
+    },
+    {
+      "start": 178.413,
+      "text": "在山底之路跋涉，与初升旭日赛跑，",
+      "end": 182.696
+    },
+    {
+      "start": 182.746,
+      "text": "终于抵达了世界的尽头，",
+      "end": 186.488
+    },
+    {
+      "start": 186.538,
+      "text": "在那里发现了一家酒馆。",
+      "end": 188.904
+    },
+    {
+      "start": 188.954,
+      "text": "老板娘是一位名叫西杜丽的女神，",
+      "end": 192.738
+    },
+    {
+      "start": 192.788,
+      "text": "她试图劝阻吉尔伽美什对永生的追求。",
+      "end": 195.821
+    },
+    {
+      "start": 195.871,
+      "text": "她告诉他，所有凡人必将死亡，",
+      "end": 199.904
+    },
+    {
+      "start": 199.954,
+      "text": "但在死亡来临之前， 应当学会享受人生。",
+      "end": 203.779
+    },
+    {
+      "start": 203.829,
+      "text": "但吉尔伽美什不愿放弃。",
+      "end": 206.446
+    },
+    {
+      "start": 206.496,
+      "text": "西杜丽只能勉为其难地指点他 渡过死亡之海，",
+      "end": 211.113
+    },
+    {
+      "start": 211.163,
+      "text": "去见永生者乌特纳庇什提。",
+      "end": 214.821
+    },
+    {
+      "start": 214.871,
+      "text": "众神在大洪水之后 赐予了乌特纳庇什提永生；",
+      "end": 219.613
+    },
+    {
+      "start": 219.663,
+      "text": "在大洪水前，他造了一艘船，",
+      "end": 221.404
+    },
+    {
+      "start": 221.454,
+      "text": "载上每种动物中的一对， 最后停靠在了山顶。",
+      "end": 226.946
+    },
+    {
+      "start": 226.996,
+      "text": "乌特纳庇什提同样告诫吉尔伽美什， 接受人人必将死亡的命运。",
+      "end": 233.029
+    },
+    {
+      "start": 233.079,
+      "text": "但吉尔伽美什依然不依不饶。",
+      "end": 235.779
+    },
+    {
+      "start": 235.829,
+      "text": "于是乌特纳庇什提告诉他， 如果他能战胜睡眠，",
+      "end": 239.446
+    },
+    {
+      "start": 239.496,
+      "text": "众神或许就会赐予他永生。",
+      "end": 242.279
+    },
+    {
+      "start": 242.329,
+      "text": "吉尔伽美什本想六天七夜保持清醒，",
+      "end": 245.988
+    },
+    {
+      "start": 246.038,
+      "text": "但他立刻睡着了。",
+      "end": 248.738
+    },
+    {
+      "start": 248.788,
+      "text": "乌特纳庇什提又告诉他， 在海底生长着一种仙草，",
+      "end": 254.154
+    },
+    {
+      "start": 254.204,
+      "text": "能够让人长生不老。",
+      "end": 256.904
+    },
+    {
+      "start": 256.954,
+      "text": "虽然吉尔伽美什成功摘得了仙草，",
+      "end": 259.82099999999997
+    },
+    {
+      "start": 259.871,
+      "text": "但在回家路上却不幸被蛇偷吃。",
+      "end": 262.779
+    },
+    {
+      "start": 262.829,
+      "text": "但当吉尔伽美什 再度看见自己美丽的城市，",
+      "end": 266.863
+    },
+    {
+      "start": 266.913,
+      "text": "他便接受了人固有一死的宿命， 并发誓要用余生建功立业。",
+      "end": 274.19599999999997
+    },
+    {
+      "start": 274.246,
+      "text": "他把自己的故事写在青金石板上，",
+      "end": 277.69599999999997
+    },
+    {
+      "start": 277.746,
+      "text": "埋在城墙下，供后人发现学习。",
+      "end": 283.904
+    },
+    {
+      "start": 283.954,
+      "text": "在尼尼微出土的泥板",
+      "end": 285.488
+    },
+    {
+      "start": 285.538,
+      "text": "是亚述国王亚述巴尼拔 图书馆的藏品。",
+      "end": 290.529
+    },
+    {
+      "start": 290.579,
+      "text": "尽管史诗是神话传说，乌鲁克国王 吉尔伽美什可能确有其人。",
+      "end": 295.863
+    },
+    {
+      "start": 295.913,
+      "text": "他的故事有诸多版本，可以追溯到 公元前 2000 年，甚至更早，",
+      "end": 302.238
+    },
+    {
+      "start": 302.288,
+      "text": "时至今日仍在文学之中回响。",
+      "end": 306.95
+    }
+  ]
+};

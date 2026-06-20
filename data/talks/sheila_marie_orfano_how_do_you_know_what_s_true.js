@@ -1,0 +1,1018 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "How do you know what's true?",
+    "speaker": "Sheila Marie Orfano",
+    "duration": 293,
+    "slug": "sheila_marie_orfano_how_do_you_know_what_s_true",
+    "sourcePage": "https://www.ted.com/talks/sheila_marie_orfano_how_do_you_know_what_s_true",
+    "translationSourcePage": "https://www.ted.com/talks/sheila_marie_orfano_how_do_you_know_what_s_true?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/54/39/002/products/2020e-sheila-marie-orfano-rashomon-effect-002-fallback-5aa8d623e1df2a5b0a09bddb2f1c4c77-1200k.mp4",
+    "youtubeId": "xg5y6Ao7VE4",
+    "youtubeTitle": "How do you know what's true? - Sheila Marie Orfano"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 9.329,
+      "end": 13.446,
+      "text": "A samurai is found dead in a quiet bamboo grove.",
+      "translation": "一位武士陈尸于僻静的竹林中。"
+    },
+    {
+      "id": 2,
+      "start": 13.496,
+      "end": 20.904,
+      "text": "One by one, the crime’s only known witnesses recount their version of the events that transpired.",
+      "translation": "命案仅有的几位证人 逐一从各自的视角描述了事件经过。"
+    },
+    {
+      "id": 3,
+      "start": 20.954,
+      "end": 27.779,
+      "text": "But as they each tell their tale, it becomes clear that every testimony is plausible, yet different.",
+      "translation": "然而，当他们逐个叙述时，显然，每个人的证词 都能自圆其说，却又互相矛盾，"
+    },
+    {
+      "id": 4,
+      "start": 27.829,
+      "end": 31.071,
+      "text": "And each witness implicates themselves.",
+      "translation": "而且每位证人都承认自己涉案。"
+    },
+    {
+      "id": 5,
+      "start": 31.121,
+      "end": 39.946,
+      "text": "This is the premise of “In a Grove,” a short story published in the early 1920s by Japanese author Ryūnosuke Akutagawa.",
+      "translation": "这就是日本作家芥川龙之介 早在 1920 年发表的短篇小说《竹林中》的引文。"
+    },
+    {
+      "id": 6,
+      "start": 39.996,
+      "end": 45.487,
+      "text": "Though many know this tale of warring perspectives by a different name: “Rashomon.”",
+      "translation": "不过，大多数人知道的可能是 这扑朔迷离故事的别名：《罗生门》。"
+    },
+    {
+      "id": 7,
+      "start": 45.537,
+      "end": 53.696,
+      "text": "In 1950, Japanese filmmaker Akira Kurosawa adapted two of Akutagawa’s stories into one film.",
+      "translation": "1950 年，日本导演黑泽明 将芥川的两篇小说改编成了一部电影。"
+    },
+    {
+      "id": 8,
+      "start": 53.746,
+      "end": 66.279,
+      "text": "This movie introduced the world to an enduring cultural metaphor that has transformed our understanding of truth, justice and human memory.",
+      "translation": "这部电影向世界介绍了 一个经久不衰的文化隐喻，这个隐喻转变了我们 对真相、正义和人类记忆的所知。"
+    },
+    {
+      "id": 9,
+      "start": 66.329,
+      "end": 76.113,
+      "text": "The Rashomon effect describes a situation in which individuals give significantly different but equally conceivable accounts of the same event.",
+      "translation": "罗生门效应描述的情况是，个体对同一个事件给出了截然不同 却又同样可信的描述。"
+    },
+    {
+      "id": 10,
+      "start": 76.163,
+      "end": 84.029,
+      "text": "Often used to highlight the unreliability of eyewitnesses, the Rashomon effect usually occurs under two specific conditions.",
+      "translation": "罗生门效应常常被用来强调 目击证人的不可靠，这种效应经常在两种特定条件下发生。"
+    },
+    {
+      "id": 11,
+      "start": 84.079,
+      "end": 88.029,
+      "text": "The first: there’s no evidence to verify what really happened.",
+      "translation": "其一：没有证据印证究竟发生了什么。"
+    },
+    {
+      "id": 12,
+      "start": 88.079,
+      "end": 96.654,
+      "text": "And the second: there’s pressure to achieve closure, often provided by an authority figure trying to identify the definitive truth.",
+      "translation": "其二：有人施压想要了结事件，这种压力通常来自 试图对真相得出定论的权威人物。"
+    },
+    {
+      "id": 13,
+      "start": 96.704,
+      "end": 103.113,
+      "text": "But the Rashomon effect undermines the very idea of a singular, objective truth.",
+      "translation": "但罗生门效应动摇了 存在单一、客观真相的想法。"
+    },
+    {
+      "id": 14,
+      "start": 103.163,
+      "end": 115.071,
+      "text": "In the source material, Akutagawa and Kurosawa use the tools of their media to give each character’s testimony equal weight, transforming each witness into an unreliable narrator.",
+      "translation": "在原始作品中，芥川和黑泽分别在小说与电影中，给每个角色的证词以同等权重，从而使得每位证人的证词都不可靠。"
+    },
+    {
+      "id": 15,
+      "start": 115.121,
+      "end": 121.988,
+      "text": "Without any hints on who’s sharing the most accurate account, the audience can’t tell which character to trust.",
+      "translation": "因为没有任何线索告诉我们 谁分享的事件经过最确切，观众也无法判断该信任哪个角色。"
+    },
+    {
+      "id": 16,
+      "start": 122.038,
+      "end": 131.613,
+      "text": "Instead, each testimony takes on a truthful quality, and the audience is left doubting their convictions as they guess who ended the samurai’s life.",
+      "translation": "相反，每段证词都具备真实性，观众只能一边猜测 谁夺走了武士的性命，一边怀疑自己的判断。"
+    },
+    {
+      "id": 17,
+      "start": 131.663,
+      "end": 138.071,
+      "text": "Some might find this frustrating because the plot subverts expectations of how mysteries usually end.",
+      "translation": "有些人可能会感到沮丧， 因为剧情颠覆了人们以往对悬疑小说结尾的期望。"
+    },
+    {
+      "id": 18,
+      "start": 138.121,
+      "end": 147.196,
+      "text": "But by refusing to provide a clear answer, these two artists capture the messiness and complexity of truth and human memory.",
+      "translation": "但正因为没有提供明确答案，这两位艺术大家捕捉到 真相与人类记忆的纷乱与复杂。"
+    },
+    {
+      "id": 19,
+      "start": 147.246,
+      "end": 157.488,
+      "text": "Neuroscientists have found that when we form a memory, our interpretation of visual information is influenced by our previous experiences and internal biases.",
+      "translation": "神经科学家发现， 当我们记忆形成时，我们对眼前信息的解读会受到过往经历和内在偏见的影响。"
+    },
+    {
+      "id": 20,
+      "start": 157.538,
+      "end": 162.363,
+      "text": "Some of these biases are unique to individuals, but others are more universal.",
+      "translation": "有些偏见是个人独有的，有些则更为普遍。"
+    },
+    {
+      "id": 21,
+      "start": 162.413,
+      "end": 171.571,
+      "text": "For example, egocentric bias can influence people to subconsciously reshape their memories in ways that cast a positive light on their actions.",
+      "translation": "比如说，自我中心偏差能让人潜意识地重塑记忆，让自己的行动显得更为积极。"
+    },
+    {
+      "id": 22,
+      "start": 171.621,
+      "end": 178.738,
+      "text": "Even if we were able to encode a memory accurately, recalling it incorporates new information that changes the memory.",
+      "translation": "即使我们能准确地记住，在回忆时也会加入新信息， 让记忆发生改变。"
+    },
+    {
+      "id": 23,
+      "start": 178.788,
+      "end": 186.779,
+      "text": "And when we later recall that event, we typically remember the embellished memory instead of the original experience.",
+      "translation": "之后再回忆事件时，我们通常会记住经过修饰的记忆， 而不是原始的经历。"
+    },
+    {
+      "id": 24,
+      "start": 186.829,
+      "end": 192.654,
+      "text": "These underlying psychological phenomena mean that the Rashomon effect can pop up anywhere.",
+      "translation": "这些基本的心理现象意味着罗生门效应 随时随地都能出现。"
+    },
+    {
+      "id": 25,
+      "start": 192.704,
+      "end": 201.029,
+      "text": "In biology, scientists starting from the same dataset and applying the same analytical methods, frequently publish different results.",
+      "translation": "在生物学中，科学家们用同样的分析方法研究同样的数据集， 却常常会发表不同的结果。"
+    },
+    {
+      "id": 26,
+      "start": 201.079,
+      "end": 207.321,
+      "text": "Anthropologists regularly grapple with the impact personal backgrounds can have on an expert's perception.",
+      "translation": "人类学家经常要面对个人背景对专业认知产生的影响。"
+    },
+    {
+      "id": 27,
+      "start": 207.371,
+      "end": 213.029,
+      "text": "In one famous case, two anthropologists visited the Mexican village of Tepoztlan.",
+      "translation": "一个有名的例子就是，两位人类学家 探访了墨西哥的迪坡斯特兰村镇。"
+    },
+    {
+      "id": 28,
+      "start": 213.079,
+      "end": 221.696,
+      "text": "The first researcher described life in the town as happy and contented, while the second recorded residents as paranoid and disgruntled.",
+      "translation": "第一位研究学者描述说， 镇里的生活幸福而满足；而第二位学者则记录的是， 居民既偏执又不满。"
+    },
+    {
+      "id": 29,
+      "start": 221.746,
+      "end": 230.529,
+      "text": "Experts aside, the Rashomon effect can also impact the general public, particularly when it comes to the perception of complicated world events.",
+      "translation": "抛开专家不谈，罗生门效应 也能影响普通公众，尤其是在对复杂的世界事件的看法上。"
+    },
+    {
+      "id": 30,
+      "start": 230.579,
+      "end": 241.529,
+      "text": "For example, following a 2015 security summit between the United States and leaders from the Arab States, media reports about the summit varied enormously.",
+      "translation": "例如，在 2015 年美国和阿拉伯国家领袖的安全峰会后，媒体对该峰会的报道大相径庭。"
+    },
+    {
+      "id": 31,
+      "start": 241.579,
+      "end": 247.446,
+      "text": "Some stated that it had gone smoothly, while others called it a complete failure.",
+      "translation": "有的声称峰会进行顺利， 而有的则大呼峰会彻底失败。"
+    },
+    {
+      "id": 32,
+      "start": 247.496,
+      "end": 257.613,
+      "text": "It's tempting to fixate on why we have competing perceptions, but perhaps the more important question the Rashomon effect raises is, what is truth anyway?",
+      "translation": "虽然很容易纠结于 我们为什么会有互相矛盾的感受，但也许罗生门效应 提出了一个更重要的问题：真相到底是什么呢？"
+    },
+    {
+      "id": 33,
+      "start": 257.663,
+      "end": 261.738,
+      "text": "Are there situations when an “objective truth” doesn’t exist?",
+      "translation": "是否有“客观真相”不存在的情况？"
+    },
+    {
+      "id": 34,
+      "start": 261.788,
+      "end": 268.696,
+      "text": "What can different versions of the same event tell us about the time, place and people involved?",
+      "translation": "同一事件的不同版本 是否能让我们了解时间、地点和涉及人物？"
+    },
+    {
+      "id": 35,
+      "start": 268.746,
+      "end": 276.613,
+      "text": "And how can we make group decisions if we’re all working with different information, backgrounds, and biases?",
+      "translation": "如果我们的信息、 背景和偏见各不相同，我们又该如何做出集体决策呢？"
+    },
+    {
+      "id": 36,
+      "start": 276.663,
+      "end": 281.613,
+      "text": "Like most questions, these don’t have a definitive answer.",
+      "translation": "与大多数问题一样， 这些并没有明确答案。"
+    },
+    {
+      "id": 37,
+      "start": 281.663,
+      "end": 292.95,
+      "text": "But the enduring importance of Akutagawa’s story suggests there may be value in embracing the ambiguity.",
+      "translation": "但芥川故事里的重要意义经久不衰，表明了接受不确定性 或许也有其价值。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 9.329,
+      "text": "A samurai is found dead in a quiet bamboo grove.",
+      "end": 13.446
+    },
+    {
+      "start": 13.496,
+      "text": "One by one, the crime’s only known witnesses recount their version",
+      "end": 18.113
+    },
+    {
+      "start": 18.163,
+      "text": "of the events that transpired.",
+      "end": 20.904
+    },
+    {
+      "start": 20.954,
+      "text": "But as they each tell their tale,",
+      "end": 23.154
+    },
+    {
+      "start": 23.204,
+      "text": "it becomes clear that every testimony is plausible, yet different.",
+      "end": 27.779
+    },
+    {
+      "start": 27.829,
+      "text": "And each witness implicates themselves.",
+      "end": 31.070999999999998
+    },
+    {
+      "start": 31.121,
+      "text": "This is the premise of “In a Grove,” a short story published in the early 1920s",
+      "end": 36.612
+    },
+    {
+      "start": 36.662,
+      "text": "by Japanese author Ryūnosuke Akutagawa.",
+      "end": 39.946000000000005
+    },
+    {
+      "start": 39.996,
+      "text": "Though many know this tale of warring perspectives by a different name:",
+      "end": 44.112
+    },
+    {
+      "start": 44.162,
+      "text": "“Rashomon.”",
+      "end": 45.487
+    },
+    {
+      "start": 45.537,
+      "text": "In 1950, Japanese filmmaker Akira Kurosawa adapted two of Akutagawa’s stories",
+      "end": 51.946000000000005
+    },
+    {
+      "start": 51.996,
+      "text": "into one film.",
+      "end": 53.696000000000005
+    },
+    {
+      "start": 53.746,
+      "text": "This movie introduced the world to an enduring cultural metaphor",
+      "end": 57.737
+    },
+    {
+      "start": 57.787,
+      "text": "that has transformed our understanding of truth, justice and human memory.",
+      "end": 66.279
+    },
+    {
+      "start": 66.329,
+      "text": "The Rashomon effect describes a situation",
+      "end": 68.779
+    },
+    {
+      "start": 68.829,
+      "text": "in which individuals give significantly different but equally conceivable accounts",
+      "end": 73.779
+    },
+    {
+      "start": 73.829,
+      "text": "of the same event.",
+      "end": 76.113
+    },
+    {
+      "start": 76.163,
+      "text": "Often used to highlight the unreliability of eyewitnesses,",
+      "end": 79.654
+    },
+    {
+      "start": 79.704,
+      "text": "the Rashomon effect usually occurs under two specific conditions.",
+      "end": 84.029
+    },
+    {
+      "start": 84.079,
+      "text": "The first: there’s no evidence to verify what really happened.",
+      "end": 88.029
+    },
+    {
+      "start": 88.079,
+      "text": "And the second: there’s pressure to achieve closure,",
+      "end": 91.279
+    },
+    {
+      "start": 91.329,
+      "text": "often provided by an authority figure trying to identify the definitive truth.",
+      "end": 96.654
+    },
+    {
+      "start": 96.704,
+      "text": "But the Rashomon effect undermines the very idea of a singular, objective truth.",
+      "end": 103.113
+    },
+    {
+      "start": 103.163,
+      "text": "In the source material,",
+      "end": 104.613
+    },
+    {
+      "start": 104.663,
+      "text": "Akutagawa and Kurosawa use the tools of their media",
+      "end": 108.071
+    },
+    {
+      "start": 108.121,
+      "text": "to give each character’s testimony equal weight,",
+      "end": 111.321
+    },
+    {
+      "start": 111.371,
+      "text": "transforming each witness into an unreliable narrator.",
+      "end": 115.071
+    },
+    {
+      "start": 115.121,
+      "text": "Without any hints on who’s sharing the most accurate account,",
+      "end": 118.529
+    },
+    {
+      "start": 118.579,
+      "text": "the audience can’t tell which character to trust.",
+      "end": 121.988
+    },
+    {
+      "start": 122.038,
+      "text": "Instead, each testimony takes on a truthful quality,",
+      "end": 125.946
+    },
+    {
+      "start": 125.996,
+      "text": "and the audience is left doubting their convictions",
+      "end": 128.613
+    },
+    {
+      "start": 128.663,
+      "text": "as they guess who ended the samurai’s life.",
+      "end": 131.613
+    },
+    {
+      "start": 131.663,
+      "text": "Some might find this frustrating because the plot subverts expectations",
+      "end": 135.863
+    },
+    {
+      "start": 135.913,
+      "text": "of how mysteries usually end.",
+      "end": 138.071
+    },
+    {
+      "start": 138.121,
+      "text": "But by refusing to provide a clear answer,",
+      "end": 140.946
+    },
+    {
+      "start": 140.996,
+      "text": "these two artists capture the messiness and complexity of truth and human memory.",
+      "end": 147.196
+    },
+    {
+      "start": 147.246,
+      "text": "Neuroscientists have found that when we form a memory,",
+      "end": 150.321
+    },
+    {
+      "start": 150.371,
+      "text": "our interpretation of visual information is influenced",
+      "end": 153.279
+    },
+    {
+      "start": 153.329,
+      "text": "by our previous experiences and internal biases.",
+      "end": 157.488
+    },
+    {
+      "start": 157.538,
+      "text": "Some of these biases are unique to individuals,",
+      "end": 160.363
+    },
+    {
+      "start": 160.413,
+      "text": "but others are more universal.",
+      "end": 162.363
+    },
+    {
+      "start": 162.413,
+      "text": "For example, egocentric bias can influence people",
+      "end": 165.654
+    },
+    {
+      "start": 165.704,
+      "text": "to subconsciously reshape their memories",
+      "end": 167.988
+    },
+    {
+      "start": 168.038,
+      "text": "in ways that cast a positive light on their actions.",
+      "end": 171.571
+    },
+    {
+      "start": 171.621,
+      "text": "Even if we were able to encode a memory accurately,",
+      "end": 174.613
+    },
+    {
+      "start": 174.663,
+      "text": "recalling it incorporates new information that changes the memory.",
+      "end": 178.738
+    },
+    {
+      "start": 178.788,
+      "text": "And when we later recall that event,",
+      "end": 180.904
+    },
+    {
+      "start": 180.954,
+      "text": "we typically remember the embellished memory instead of the original experience.",
+      "end": 186.779
+    },
+    {
+      "start": 186.829,
+      "text": "These underlying psychological phenomena mean that the Rashomon effect",
+      "end": 190.821
+    },
+    {
+      "start": 190.871,
+      "text": "can pop up anywhere.",
+      "end": 192.654
+    },
+    {
+      "start": 192.704,
+      "text": "In biology, scientists starting from the same dataset",
+      "end": 195.779
+    },
+    {
+      "start": 195.829,
+      "text": "and applying the same analytical methods, frequently publish different results.",
+      "end": 201.029
+    },
+    {
+      "start": 201.079,
+      "text": "Anthropologists regularly grapple with the impact personal backgrounds can have",
+      "end": 205.321
+    },
+    {
+      "start": 205.371,
+      "text": "on an expert's perception.",
+      "end": 207.321
+    },
+    {
+      "start": 207.371,
+      "text": "In one famous case, two anthropologists visited the Mexican village of Tepoztlan.",
+      "end": 213.029
+    },
+    {
+      "start": 213.079,
+      "text": "The first researcher described life in the town as happy and contented,",
+      "end": 217.196
+    },
+    {
+      "start": 217.246,
+      "text": "while the second recorded residents as paranoid and disgruntled.",
+      "end": 221.696
+    },
+    {
+      "start": 221.746,
+      "text": "Experts aside, the Rashomon effect can also impact the general public,",
+      "end": 226.279
+    },
+    {
+      "start": 226.329,
+      "text": "particularly when it comes to the perception of complicated world events.",
+      "end": 230.529
+    },
+    {
+      "start": 230.579,
+      "text": "For example, following a 2015 security summit",
+      "end": 234.571
+    },
+    {
+      "start": 234.621,
+      "text": "between the United States and leaders from the Arab States,",
+      "end": 237.863
+    },
+    {
+      "start": 237.913,
+      "text": "media reports about the summit varied enormously.",
+      "end": 241.529
+    },
+    {
+      "start": 241.579,
+      "text": "Some stated that it had gone smoothly, while others called it a complete failure.",
+      "end": 247.446
+    },
+    {
+      "start": 247.496,
+      "text": "It's tempting to fixate on why we have competing perceptions,",
+      "end": 251.363
+    },
+    {
+      "start": 251.413,
+      "text": "but perhaps the more important question the Rashomon effect raises is,",
+      "end": 255.571
+    },
+    {
+      "start": 255.621,
+      "text": "what is truth anyway?",
+      "end": 257.613
+    },
+    {
+      "start": 257.663,
+      "text": "Are there situations when an “objective truth” doesn’t exist?",
+      "end": 261.738
+    },
+    {
+      "start": 261.788,
+      "text": "What can different versions of the same event tell us",
+      "end": 264.904
+    },
+    {
+      "start": 264.954,
+      "text": "about the time, place and people involved?",
+      "end": 268.69599999999997
+    },
+    {
+      "start": 268.746,
+      "text": "And how can we make group decisions if we’re all working",
+      "end": 271.69599999999997
+    },
+    {
+      "start": 271.746,
+      "text": "with different information, backgrounds, and biases?",
+      "end": 276.613
+    },
+    {
+      "start": 276.663,
+      "text": "Like most questions, these don’t have a definitive answer.",
+      "end": 281.613
+    },
+    {
+      "start": 281.663,
+      "text": "But the enduring importance of Akutagawa’s story",
+      "end": 285.029
+    },
+    {
+      "start": 285.079,
+      "text": "suggests there may be value in embracing the ambiguity.",
+      "end": 292.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 9.329,
+      "text": "一位武士陈尸于僻静的竹林中。",
+      "end": 13.446
+    },
+    {
+      "start": 13.496,
+      "text": "命案仅有的几位证人 逐一从各自的视角",
+      "end": 18.113
+    },
+    {
+      "start": 18.163,
+      "text": "描述了事件经过。",
+      "end": 20.904
+    },
+    {
+      "start": 20.954,
+      "text": "然而，当他们逐个叙述时，",
+      "end": 23.154
+    },
+    {
+      "start": 23.204,
+      "text": "显然，每个人的证词 都能自圆其说，却又互相矛盾，",
+      "end": 27.779
+    },
+    {
+      "start": 27.829,
+      "text": "而且每位证人都承认自己涉案。",
+      "end": 31.070999999999998
+    },
+    {
+      "start": 31.121,
+      "text": "这就是日本作家芥川龙之介 早在 1920 年发表的",
+      "end": 36.612
+    },
+    {
+      "start": 36.662,
+      "text": "短篇小说《竹林中》的引文。",
+      "end": 39.779
+    },
+    {
+      "start": 39.829,
+      "text": "不过，大多数人知道的可能是 这扑朔迷离故事的别名：",
+      "end": 44.112
+    },
+    {
+      "start": 44.162,
+      "text": "《罗生门》。",
+      "end": 45.487
+    },
+    {
+      "start": 45.537,
+      "text": "1950 年，日本导演黑泽明 将芥川的两篇小说",
+      "end": 51.946000000000005
+    },
+    {
+      "start": 51.996,
+      "text": "改编成了一部电影。",
+      "end": 53.696000000000005
+    },
+    {
+      "start": 53.746,
+      "text": "这部电影向世界介绍了 一个经久不衰的文化隐喻，",
+      "end": 57.737
+    },
+    {
+      "start": 57.787,
+      "text": "这个隐喻转变了我们 对真相、正义和人类记忆的所知。",
+      "end": 66.279
+    },
+    {
+      "start": 66.329,
+      "text": "罗生门效应描述的情况是，",
+      "end": 68.779
+    },
+    {
+      "start": 68.829,
+      "text": "个体对同一个事件",
+      "end": 71.029
+    },
+    {
+      "start": 71.079,
+      "text": "给出了截然不同 却又同样可信的描述。",
+      "end": 76.113
+    },
+    {
+      "start": 76.163,
+      "text": "罗生门效应常常被用来强调 目击证人的不可靠，",
+      "end": 79.654
+    },
+    {
+      "start": 79.704,
+      "text": "这种效应经常在两种特定条件下发生。",
+      "end": 84.029
+    },
+    {
+      "start": 84.079,
+      "text": "其一：没有证据印证究竟发生了什么。",
+      "end": 88.029
+    },
+    {
+      "start": 88.079,
+      "text": "其二：有人施压想要了结事件，",
+      "end": 91.279
+    },
+    {
+      "start": 91.329,
+      "text": "这种压力通常来自 试图对真相得出定论的权威人物。",
+      "end": 96.654
+    },
+    {
+      "start": 96.704,
+      "text": "但罗生门效应动摇了 存在单一、客观真相的想法。",
+      "end": 103.113
+    },
+    {
+      "start": 103.163,
+      "text": "在原始作品中，",
+      "end": 104.613
+    },
+    {
+      "start": 104.663,
+      "text": "芥川和黑泽分别在小说与电影中，",
+      "end": 108.071
+    },
+    {
+      "start": 108.121,
+      "text": "给每个角色的证词以同等权重，",
+      "end": 111.321
+    },
+    {
+      "start": 111.371,
+      "text": "从而使得每位证人的证词都不可靠。",
+      "end": 115.071
+    },
+    {
+      "start": 115.121,
+      "text": "因为没有任何线索告诉我们 谁分享的事件经过最确切，",
+      "end": 118.529
+    },
+    {
+      "start": 118.579,
+      "text": "观众也无法判断该信任哪个角色。",
+      "end": 121.988
+    },
+    {
+      "start": 122.038,
+      "text": "相反，每段证词都具备真实性，",
+      "end": 125.946
+    },
+    {
+      "start": 125.996,
+      "text": "观众只能一边猜测 谁夺走了武士的性命，",
+      "end": 128.613
+    },
+    {
+      "start": 128.663,
+      "text": "一边怀疑自己的判断。",
+      "end": 131.613
+    },
+    {
+      "start": 131.663,
+      "text": "有些人可能会感到沮丧， 因为剧情颠覆了",
+      "end": 134.988
+    },
+    {
+      "start": 135.038,
+      "text": "人们以往对悬疑小说结尾的期望。",
+      "end": 138.071
+    },
+    {
+      "start": 138.121,
+      "text": "但正因为没有提供明确答案，",
+      "end": 140.946
+    },
+    {
+      "start": 140.996,
+      "text": "这两位艺术大家捕捉到 真相与人类记忆的纷乱与复杂。",
+      "end": 147.196
+    },
+    {
+      "start": 147.246,
+      "text": "神经科学家发现， 当我们记忆形成时，",
+      "end": 150.321
+    },
+    {
+      "start": 150.371,
+      "text": "我们对眼前信息的解读",
+      "end": 152.779
+    },
+    {
+      "start": 152.829,
+      "text": "会受到过往经历和内在偏见的影响。",
+      "end": 157.488
+    },
+    {
+      "start": 157.538,
+      "text": "有些偏见是个人独有的，",
+      "end": 160.363
+    },
+    {
+      "start": 160.413,
+      "text": "有些则更为普遍。",
+      "end": 162.363
+    },
+    {
+      "start": 162.413,
+      "text": "比如说，自我中心偏差",
+      "end": 164.654
+    },
+    {
+      "start": 164.704,
+      "text": "能让人潜意识地重塑记忆，",
+      "end": 167.988
+    },
+    {
+      "start": 168.038,
+      "text": "让自己的行动显得更为积极。",
+      "end": 171.571
+    },
+    {
+      "start": 171.621,
+      "text": "即使我们能准确地记住，",
+      "end": 174.613
+    },
+    {
+      "start": 174.663,
+      "text": "在回忆时也会加入新信息， 让记忆发生改变。",
+      "end": 178.738
+    },
+    {
+      "start": 178.788,
+      "text": "之后再回忆事件时，",
+      "end": 180.904
+    },
+    {
+      "start": 180.954,
+      "text": "我们通常会记住经过修饰的记忆， 而不是原始的经历。",
+      "end": 186.779
+    },
+    {
+      "start": 186.829,
+      "text": "这些基本的心理现象",
+      "end": 189.279
+    },
+    {
+      "start": 189.329,
+      "text": "意味着罗生门效应 随时随地都能出现。",
+      "end": 192.654
+    },
+    {
+      "start": 192.704,
+      "text": "在生物学中，科学家们用同样的分析方法",
+      "end": 195.779
+    },
+    {
+      "start": 195.829,
+      "text": "研究同样的数据集， 却常常会发表不同的结果。",
+      "end": 201.029
+    },
+    {
+      "start": 201.079,
+      "text": "人类学家经常要面对",
+      "end": 203.321
+    },
+    {
+      "start": 203.371,
+      "text": "个人背景对专业认知产生的影响。",
+      "end": 207.321
+    },
+    {
+      "start": 207.371,
+      "text": "一个有名的例子就是，两位人类学家 探访了墨西哥的迪坡斯特兰村镇。",
+      "end": 213.029
+    },
+    {
+      "start": 213.079,
+      "text": "第一位研究学者描述说， 镇里的生活幸福而满足；",
+      "end": 217.196
+    },
+    {
+      "start": 217.246,
+      "text": "而第二位学者则记录的是， 居民既偏执又不满。",
+      "end": 221.696
+    },
+    {
+      "start": 221.746,
+      "text": "抛开专家不谈，罗生门效应 也能影响普通公众，",
+      "end": 226.279
+    },
+    {
+      "start": 226.329,
+      "text": "尤其是在对复杂的世界事件的看法上。",
+      "end": 230.529
+    },
+    {
+      "start": 230.579,
+      "text": "例如，在 2015 年",
+      "end": 233.154
+    },
+    {
+      "start": 233.204,
+      "text": "美国和阿拉伯国家领袖的安全峰会后，",
+      "end": 237.863
+    },
+    {
+      "start": 237.913,
+      "text": "媒体对该峰会的报道大相径庭。",
+      "end": 241.529
+    },
+    {
+      "start": 241.579,
+      "text": "有的声称峰会进行顺利， 而有的则大呼峰会彻底失败。",
+      "end": 247.446
+    },
+    {
+      "start": 247.496,
+      "text": "虽然很容易纠结于 我们为什么会有互相矛盾的感受，",
+      "end": 251.363
+    },
+    {
+      "start": 251.413,
+      "text": "但也许罗生门效应 提出了一个更重要的问题：",
+      "end": 255.571
+    },
+    {
+      "start": 255.621,
+      "text": "真相到底是什么呢？",
+      "end": 257.613
+    },
+    {
+      "start": 257.663,
+      "text": "是否有“客观真相”不存在的情况？",
+      "end": 261.738
+    },
+    {
+      "start": 261.788,
+      "text": "同一事件的不同版本 是否能让我们了解",
+      "end": 265.19599999999997
+    },
+    {
+      "start": 265.246,
+      "text": "时间、地点和涉及人物？",
+      "end": 268.69599999999997
+    },
+    {
+      "start": 268.746,
+      "text": "如果我们的信息、 背景和偏见各不相同，",
+      "end": 272.363
+    },
+    {
+      "start": 272.413,
+      "text": "我们又该如何做出集体决策呢？",
+      "end": 276.613
+    },
+    {
+      "start": 276.663,
+      "text": "与大多数问题一样， 这些并没有明确答案。",
+      "end": 281.613
+    },
+    {
+      "start": 281.663,
+      "text": "但芥川故事里的重要意义经久不衰，",
+      "end": 285.029
+    },
+    {
+      "start": 285.079,
+      "text": "表明了接受不确定性 或许也有其价值。",
+      "end": 292.95
+    }
+  ]
+};

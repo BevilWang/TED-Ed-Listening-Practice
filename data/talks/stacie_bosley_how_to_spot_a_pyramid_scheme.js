@@ -1,0 +1,1218 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "How to spot a pyramid scheme ",
+    "speaker": "Stacie Bosley",
+    "duration": 289,
+    "slug": "stacie_bosley_how_to_spot_a_pyramid_scheme",
+    "sourcePage": "https://www.ted.com/talks/stacie_bosley_how_to_spot_a_pyramid_scheme",
+    "translationSourcePage": "https://www.ted.com/talks/stacie_bosley_how_to_spot_a_pyramid_scheme?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/44/41/001/products/2019e-stacie-bosley-pyramid-schemes-001-fallback-24f9968ce572209cc78008ea93e3c789-1200k.mp4",
+    "youtubeId": "SBGfHk91Vrk",
+    "youtubeTitle": "How to spot a pyramid scheme - Stacie Bosley"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.104,
+      "end": 17.054,
+      "text": "In 2004, a new company called Vemma Nutrition started offering a life-changing opportunity to earn full time income for part time work.",
+      "translation": "2004年，一家名为Vemma营养的公司开始提供一个改变人生的机会，只需要做兼职即可获得全职报酬。"
+    },
+    {
+      "id": 2,
+      "start": 17.104,
+      "end": 22.854,
+      "text": "Vemma’s offer was open to everybody, regardless of prior experience or education.",
+      "translation": "Vemma的这个职位向所有人敞开，不论你是否有工作经验或教育背景。"
+    },
+    {
+      "id": 3,
+      "start": 22.904,
+      "end": 32.535,
+      "text": "There were only two steps to start get started earning: purchase a $500-600 kit of their liquid nutrition products, and recruit two more members to do the same.",
+      "translation": "只要两步即可开始赚钱：购买一份500到600美元的 该公司营养饮料产品的装备，并招募再两名成员也来做这件事。"
+    },
+    {
+      "id": 4,
+      "start": 32.585,
+      "end": 41.095,
+      "text": "Vemma Nutrition Company grew quickly, becoming a global operation that brought in 30,000 new members per month at its peak.",
+      "translation": "这家公司成长迅速，并在国际范围内运转，最高时每月能招募 30000名新成员。"
+    },
+    {
+      "id": 5,
+      "start": 41.145,
+      "end": 52.815,
+      "text": "There was just one problem— while the company generated $200 million of annual revenue by 2013, the vast majority of participants earned less than they paid in.",
+      "translation": "这其中只有一个问题--当这家公司在2013年 达到年利润达到2亿美元时，大部分的参与者 赚的没有投入的多。"
+    },
+    {
+      "id": 6,
+      "start": 52.865,
+      "end": 61.686,
+      "text": "Vemma was eventually charged with operating a pyramid scheme: a common type of fraud where members make money by recruiting more people to buy in.",
+      "translation": "Vemma最终被以层压式推销 （也就是金字塔骗局）起诉：这是一种常见的骗局，参与者们通过招来更多的人投资来赚钱。"
+    },
+    {
+      "id": 7,
+      "start": 61.736,
+      "end": 66.906,
+      "text": "Typically, the founder solicits an initial group of people to buy in and promote the scheme.",
+      "translation": "创始人一般说服 起始的小团队投资并宣传他们的计划。"
+    },
+    {
+      "id": 8,
+      "start": 66.956,
+      "end": 74.946,
+      "text": "They are then encouraged to recruit others and promised part of the money those people invest, while the founder also takes a share.",
+      "translation": "接着鼓励他们招募新人并允诺回报他们投资的那部分钱财，同时创始人也捞上一笔。"
+    },
+    {
+      "id": 9,
+      "start": 74.996,
+      "end": 81.896,
+      "text": "The pattern repeats for each group of new participants, with money from recent arrivals funneled to those who recruited them.",
+      "translation": "这一模式在新的参与者中重复，最后新投资人的钱汇总回馈给招募者。"
+    },
+    {
+      "id": 10,
+      "start": 81.946,
+      "end": 92.415,
+      "text": "This differs from a Ponzi scheme, where the founders recruit new members and secretly use their fees to pay existing members, who think the payments come from a legitimate investment.",
+      "translation": "这和庞氏骗局不同，庞氏骗局的创始者招募新人并私底下用新投资者的钱 回馈现存的老投资者，老投资者们认为回馈是来自合法的投资。"
+    },
+    {
+      "id": 11,
+      "start": 92.465,
+      "end": 97.855,
+      "text": "As a pyramid scheme grows, it becomes increasingly difficult for new recruits to make money.",
+      "translation": "当金字塔骗局壮大时，新投资人很难再赚到钱。"
+    },
+    {
+      "id": 12,
+      "start": 97.905,
+      "end": 102.175,
+      "text": "That’s because the number of participants expands exponentially.",
+      "translation": "因为加入者的数量呈指数型递增。"
+    },
+    {
+      "id": 13,
+      "start": 102.225,
+      "end": 106.915,
+      "text": "Take a structure where each person has to recruit six more to earn a profit.",
+      "translation": "就拿一个需要招募六人 来实现盈利的结构来说。"
+    },
+    {
+      "id": 14,
+      "start": 106.965,
+      "end": 111.76,
+      "text": "The founder recruits six people to start, and each of them recruits six more.",
+      "translation": "创始人招募六个人来开始计划，每一个人再招募六个人。"
+    },
+    {
+      "id": 15,
+      "start": 111.81,
+      "end": 121.1,
+      "text": "There are 36 people in that second round of recruits, who then each recruit 6 people— a total of 216 new recruits.",
+      "translation": "完成第二轮招募就有36个人，他们再每人招募6人----总共216个新投资者"
+    },
+    {
+      "id": 16,
+      "start": 121.15,
+      "end": 134.07,
+      "text": "By the twelfth round of recruiting, the 2.1 billion newest members would have to recruit over 13 billion more people total to make money– more than the entire world population.",
+      "translation": "在第12轮招募过后，将有21亿人在这个团伙中， 亟需招募新人，总共130亿人参与盈利--超过整个世界人口。"
+    },
+    {
+      "id": 17,
+      "start": 134.12,
+      "end": 142.43,
+      "text": "In this scenario, the most recent recruits, over 80% of the scheme’s participants, lose all the money they paid in.",
+      "translation": "这个情况下，最新加入的投资者，即整个骗局的80%，将会失去他们投入的全部钱。"
+    },
+    {
+      "id": 18,
+      "start": 142.48,
+      "end": 146.98,
+      "text": "And in real life, many earlier joiners lose out too.",
+      "translation": "在现实生活中，许多老投资者也会亏本。"
+    },
+    {
+      "id": 19,
+      "start": 147.03,
+      "end": 151.86,
+      "text": "Pyramid schemes are illegal in most countries, but they can be difficult to detect.",
+      "translation": "金字塔骗局在大多数国家是非法的，但它们很难被察觉。"
+    },
+    {
+      "id": 20,
+      "start": 151.91,
+      "end": 159.629,
+      "text": "They are presented as many different things, including gifting groups, investment clubs, and multi-level marketing businesses.",
+      "translation": "他们以很多种外表呈现，包括礼品销售团队，投资俱乐部，多层营销公司。"
+    },
+    {
+      "id": 21,
+      "start": 159.679,
+      "end": 166.039,
+      "text": "The distinction between pyramid schemes and legitimate multi-level marketing can be particularly hazy.",
+      "translation": "合法的分级营销和 金字塔骗局有区别，但界线非常模糊。"
+    },
+    {
+      "id": 22,
+      "start": 166.089,
+      "end": 181.013,
+      "text": "In theory, the difference is that the members of the multi-level marketing companies primarily earn compensation from selling a particular product or a service to retail customers, while pyramid schemes primarily compensate members for recruitment of new sellers.",
+      "translation": "理论上，它们的区别在于，分级营销公司的员工主要通过销售特定商品或服务得到报酬，且卖给零售消费者，而金字塔骗局主要通过 招揽新投资人给老投资人报酬。"
+    },
+    {
+      "id": 23,
+      "start": 181.063,
+      "end": 188.35,
+      "text": "In practice, though, many multi-level marketing companies make it all but impossible for members to profit purely through sales.",
+      "translation": "实际上，许多分级营销公司让员工 通过单纯销售而可能获得盈利。"
+    },
+    {
+      "id": 24,
+      "start": 188.4,
+      "end": 199.74,
+      "text": "And many pyramid schemes, like Vemma Nutrition, disguise themselves as legal multi-level marketing businesses, using a product or service to hide the pay-and-recruit structure.",
+      "translation": "而像Vemma这样的层压式推销组织，通过所谓的产品或服务 掩盖招募-回馈的架构，把自己伪装成合法的分级营销产业。"
+    },
+    {
+      "id": 25,
+      "start": 199.79,
+      "end": 208.561,
+      "text": "Many pyramid schemes also capitalize on already existing trust within churches, immigrant communities, or other tightly knit groups.",
+      "translation": "许多层压式推销组织还利用教堂，移民社区或其他紧密联结的团体 成员之间的信任。"
+    },
+    {
+      "id": 26,
+      "start": 208.611,
+      "end": 214.591,
+      "text": "The first few members are encouraged to report a good experience before they actually start making a profit.",
+      "translation": "最先加入的投资者 在真的开始获取利润之前被要求说自己体验良好。"
+    },
+    {
+      "id": 27,
+      "start": 214.641,
+      "end": 223.471,
+      "text": "Others in their network follow their example, and the schemes balloon in size before it comes clear that most members aren’t actually profiting.",
+      "translation": "团体中的其他人也效仿这种做法，在大多数人意识到 他们并未赚到钱之前骗局像气球一样不断膨胀。"
+    },
+    {
+      "id": 28,
+      "start": 223.521,
+      "end": 226.716,
+      "text": "Often, the victims are embarrassed into silence.",
+      "translation": "通常骗局的受害者会羞于启齿。"
+    },
+    {
+      "id": 29,
+      "start": 226.766,
+      "end": 231.126,
+      "text": "Pyramid schemes entice people with the promise of opportunity and empowerment.",
+      "translation": "层压式推销组织还利用机会 和授权的口头保证诱骗人们。"
+    },
+    {
+      "id": 30,
+      "start": 231.176,
+      "end": 240.276,
+      "text": "So when members don’t end up making money, they can blame themselves rather than the scheme, thinking they weren’t tenacious enough to earn the returns promised.",
+      "translation": "所以当投资者没有赚到钱时，他们会责怪自己而非这个组织，他们认为自己不够顽强， 所以赚不到事先保证的收益。"
+    },
+    {
+      "id": 31,
+      "start": 240.326,
+      "end": 246.586,
+      "text": "Some victims keep trying, investing in multiple schemes, and losing money each time.",
+      "translation": "一些受害者受骗后会继续尝试，在多个金字塔骗局中投资，但每次都无功而返。"
+    },
+    {
+      "id": 32,
+      "start": 246.636,
+      "end": 251.442,
+      "text": "In spite of all these factors, there are ways to spot a pyramid scheme.",
+      "translation": "尽管有上述因素，还是有办法能识别金字塔骗局。"
+    },
+    {
+      "id": 33,
+      "start": 251.492,
+      "end": 259.182,
+      "text": "Time pressure is one red flag— be wary of directives to “act now or miss a once-in-a-lifetime opportunity.”",
+      "translation": "“时间紧迫性”是一个警告--一定要警惕“现在入手 否则错失人生良机”的指示。"
+    },
+    {
+      "id": 34,
+      "start": 259.232,
+      "end": 264.342,
+      "text": "Promises of large, life-altering amounts of income are also suspect.",
+      "translation": "一些诸如“巨大的，改变人生 数额的收益”的承诺也很可疑。"
+    },
+    {
+      "id": 35,
+      "start": 264.392,
+      "end": 273.39,
+      "text": "And finally, a legitimate multi-level marketing business shouldn’t require members to pay for the opportunity to sell a product or service.",
+      "translation": "最后，合法的分级营销不应该要求员工为销售 该组织产品的机会付款。"
+    },
+    {
+      "id": 36,
+      "start": 273.44,
+      "end": 280.93,
+      "text": "Pyramid schemes can be incredibly destructive to individuals, communities, and even entire countries.",
+      "translation": "金字塔骗局对个体， 团体，甚至整个国家，是毁灭性的。"
+    },
+    {
+      "id": 37,
+      "start": 280.98,
+      "end": 288.95,
+      "text": "But you can fight fire with fire by sending this video to three people you know, and encouraging them to do the same.",
+      "translation": "但你可以以毒攻毒，把这个视频发送给你认识的三个人，也让他们继续转发下去。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.104,
+      "text": "In 2004,",
+      "end": 8.543999999999999
+    },
+    {
+      "start": 8.594,
+      "text": "a new company called Vemma Nutrition",
+      "end": 10.623999999999999
+    },
+    {
+      "start": 10.674,
+      "text": "started offering a life-changing opportunity",
+      "end": 13.383999999999999
+    },
+    {
+      "start": 13.434,
+      "text": "to earn full time income for part time work.",
+      "end": 17.054
+    },
+    {
+      "start": 17.104,
+      "text": "Vemma’s offer was open to everybody,",
+      "end": 19.134
+    },
+    {
+      "start": 19.184,
+      "text": "regardless of prior experience or education.",
+      "end": 22.854
+    },
+    {
+      "start": 22.904,
+      "text": "There were only two steps to start get started earning:",
+      "end": 25.323999999999998
+    },
+    {
+      "start": 25.374,
+      "text": "purchase a $500-600 kit of their liquid nutrition products,",
+      "end": 29.384
+    },
+    {
+      "start": 29.434,
+      "text": "and recruit two more members to do the same.",
+      "end": 32.535000000000004
+    },
+    {
+      "start": 32.585,
+      "text": "Vemma Nutrition Company grew quickly,",
+      "end": 34.795
+    },
+    {
+      "start": 34.845,
+      "text": "becoming a global operation",
+      "end": 36.345000000000006
+    },
+    {
+      "start": 36.395,
+      "text": "that brought in 30,000 new members per month at its peak.",
+      "end": 41.095000000000006
+    },
+    {
+      "start": 41.145,
+      "text": "There was just one problem—",
+      "end": 42.791000000000004
+    },
+    {
+      "start": 42.841,
+      "text": "while the company generated $200 million of annual revenue by 2013,",
+      "end": 48.561
+    },
+    {
+      "start": 48.611,
+      "text": "the vast majority of participants earned less than they paid in.",
+      "end": 52.815000000000005
+    },
+    {
+      "start": 52.865,
+      "text": "Vemma was eventually charged with operating a pyramid scheme:",
+      "end": 56.176
+    },
+    {
+      "start": 56.226,
+      "text": "a common type of fraud",
+      "end": 57.506
+    },
+    {
+      "start": 57.556,
+      "text": "where members make money",
+      "end": 58.776
+    },
+    {
+      "start": 58.826,
+      "text": "by recruiting more people to buy in.",
+      "end": 61.686
+    },
+    {
+      "start": 61.736,
+      "text": "Typically, the founder solicits an initial group of people",
+      "end": 64.556
+    },
+    {
+      "start": 64.606,
+      "text": "to buy in and promote the scheme.",
+      "end": 66.906
+    },
+    {
+      "start": 66.956,
+      "text": "They are then encouraged to recruit others",
+      "end": 68.846
+    },
+    {
+      "start": 68.896,
+      "text": "and promised part of the money those people invest,",
+      "end": 72.066
+    },
+    {
+      "start": 72.116,
+      "text": "while the founder also takes a share.",
+      "end": 74.946
+    },
+    {
+      "start": 74.996,
+      "text": "The pattern repeats for each group of new participants,",
+      "end": 77.796
+    },
+    {
+      "start": 77.846,
+      "text": "with money from recent arrivals funneled to those who recruited them.",
+      "end": 81.896
+    },
+    {
+      "start": 81.946,
+      "text": "This differs from a Ponzi scheme,",
+      "end": 83.745
+    },
+    {
+      "start": 83.795,
+      "text": "where the founders recruit new members",
+      "end": 85.555
+    },
+    {
+      "start": 85.605,
+      "text": "and secretly use their fees to pay existing members,",
+      "end": 88.86500000000001
+    },
+    {
+      "start": 88.915,
+      "text": "who think the payments come from a legitimate investment.",
+      "end": 92.415
+    },
+    {
+      "start": 92.465,
+      "text": "As a pyramid scheme grows,",
+      "end": 94.395
+    },
+    {
+      "start": 94.445,
+      "text": "it becomes increasingly difficult for new recruits to make money.",
+      "end": 97.855
+    },
+    {
+      "start": 97.905,
+      "text": "That’s because the number of participants expands exponentially.",
+      "end": 102.175
+    },
+    {
+      "start": 102.225,
+      "text": "Take a structure where each person has to recruit six more to earn a profit.",
+      "end": 106.915
+    },
+    {
+      "start": 106.965,
+      "text": "The founder recruits six people to start,",
+      "end": 109.35000000000001
+    },
+    {
+      "start": 109.4,
+      "text": "and each of them recruits six more.",
+      "end": 111.76
+    },
+    {
+      "start": 111.81,
+      "text": "There are 36 people in that second round of recruits,",
+      "end": 114.89
+    },
+    {
+      "start": 114.94,
+      "text": "who then each recruit 6 people—",
+      "end": 117.44
+    },
+    {
+      "start": 117.49,
+      "text": "a total of 216 new recruits.",
+      "end": 121.10000000000001
+    },
+    {
+      "start": 121.15,
+      "text": "By the twelfth round of recruiting,",
+      "end": 123.05
+    },
+    {
+      "start": 123.1,
+      "text": "the 2.1 billion newest members would have to recruit",
+      "end": 127.05
+    },
+    {
+      "start": 127.1,
+      "text": "over 13 billion more people total to make money–",
+      "end": 130.95
+    },
+    {
+      "start": 131.0,
+      "text": "more than the entire world population.",
+      "end": 134.07
+    },
+    {
+      "start": 134.12,
+      "text": "In this scenario,",
+      "end": 135.2
+    },
+    {
+      "start": 135.25,
+      "text": "the most recent recruits,",
+      "end": 136.7
+    },
+    {
+      "start": 136.75,
+      "text": "over 80% of the scheme’s participants,",
+      "end": 139.79999999999998
+    },
+    {
+      "start": 139.85,
+      "text": "lose all the money they paid in.",
+      "end": 142.42999999999998
+    },
+    {
+      "start": 142.48,
+      "text": "And in real life,",
+      "end": 143.89
+    },
+    {
+      "start": 143.94,
+      "text": "many earlier joiners lose out too.",
+      "end": 146.98
+    },
+    {
+      "start": 147.03,
+      "text": "Pyramid schemes are illegal in most countries,",
+      "end": 149.76999999999998
+    },
+    {
+      "start": 149.82,
+      "text": "but they can be difficult to detect.",
+      "end": 151.85999999999999
+    },
+    {
+      "start": 151.91,
+      "text": "They are presented as many different things,",
+      "end": 154.20899999999997
+    },
+    {
+      "start": 154.259,
+      "text": "including gifting groups,",
+      "end": 155.999
+    },
+    {
+      "start": 156.049,
+      "text": "investment clubs, and multi-level marketing businesses.",
+      "end": 159.629
+    },
+    {
+      "start": 159.679,
+      "text": "The distinction between pyramid schemes and legitimate multi-level marketing",
+      "end": 164.069
+    },
+    {
+      "start": 164.119,
+      "text": "can be particularly hazy.",
+      "end": 166.039
+    },
+    {
+      "start": 166.089,
+      "text": "In theory, the difference is that",
+      "end": 167.60899999999998
+    },
+    {
+      "start": 167.659,
+      "text": "the members of the multi-level marketing companies",
+      "end": 170.189
+    },
+    {
+      "start": 170.239,
+      "text": "primarily earn compensation from selling a particular product or a service",
+      "end": 174.569
+    },
+    {
+      "start": 174.619,
+      "text": "to retail customers,",
+      "end": 176.053
+    },
+    {
+      "start": 176.103,
+      "text": "while pyramid schemes primarily compensate members for recruitment of new sellers.",
+      "end": 181.01299999999998
+    },
+    {
+      "start": 181.063,
+      "text": "In practice, though,",
+      "end": 182.32999999999998
+    },
+    {
+      "start": 182.38,
+      "text": "many multi-level marketing companies make it all but impossible",
+      "end": 185.61999999999998
+    },
+    {
+      "start": 185.67,
+      "text": "for members to profit purely through sales.",
+      "end": 188.35
+    },
+    {
+      "start": 188.4,
+      "text": "And many pyramid schemes, like Vemma Nutrition,",
+      "end": 191.45999999999998
+    },
+    {
+      "start": 191.51,
+      "text": "disguise themselves as legal multi-level marketing businesses,",
+      "end": 195.26999999999998
+    },
+    {
+      "start": 195.32,
+      "text": "using a product or service to hide the pay-and-recruit structure.",
+      "end": 199.73999999999998
+    },
+    {
+      "start": 199.79,
+      "text": "Many pyramid schemes also capitalize on already existing trust within churches,",
+      "end": 205.363
+    },
+    {
+      "start": 205.413,
+      "text": "immigrant communities, or other tightly knit groups.",
+      "end": 208.56099999999998
+    },
+    {
+      "start": 208.611,
+      "text": "The first few members are encouraged to report a good experience",
+      "end": 212.24099999999999
+    },
+    {
+      "start": 212.291,
+      "text": "before they actually start making a profit.",
+      "end": 214.59099999999998
+    },
+    {
+      "start": 214.641,
+      "text": "Others in their network follow their example,",
+      "end": 217.12099999999998
+    },
+    {
+      "start": 217.171,
+      "text": "and the schemes balloon in size",
+      "end": 219.261
+    },
+    {
+      "start": 219.311,
+      "text": "before it comes clear that most members aren’t actually profiting.",
+      "end": 223.47099999999998
+    },
+    {
+      "start": 223.521,
+      "text": "Often, the victims are embarrassed into silence.",
+      "end": 226.71599999999998
+    },
+    {
+      "start": 226.766,
+      "text": "Pyramid schemes entice people with the promise of opportunity and empowerment.",
+      "end": 231.12599999999998
+    },
+    {
+      "start": 231.176,
+      "text": "So when members don’t end up making money,",
+      "end": 233.536
+    },
+    {
+      "start": 233.586,
+      "text": "they can blame themselves rather than the scheme,",
+      "end": 236.516
+    },
+    {
+      "start": 236.566,
+      "text": "thinking they weren’t tenacious enough to earn the returns promised.",
+      "end": 240.27599999999998
+    },
+    {
+      "start": 240.326,
+      "text": "Some victims keep trying,",
+      "end": 242.02599999999998
+    },
+    {
+      "start": 242.076,
+      "text": "investing in multiple schemes,",
+      "end": 244.09599999999998
+    },
+    {
+      "start": 244.146,
+      "text": "and losing money each time.",
+      "end": 246.58599999999998
+    },
+    {
+      "start": 246.636,
+      "text": "In spite of all these factors,",
+      "end": 248.422
+    },
+    {
+      "start": 248.472,
+      "text": "there are ways to spot a pyramid scheme.",
+      "end": 251.44199999999998
+    },
+    {
+      "start": 251.492,
+      "text": "Time pressure is one red flag—",
+      "end": 253.72199999999998
+    },
+    {
+      "start": 253.772,
+      "text": "be wary of directives to “act now or miss a once-in-a-lifetime opportunity.”",
+      "end": 259.182
+    },
+    {
+      "start": 259.232,
+      "text": "Promises of large, life-altering amounts of income are also suspect.",
+      "end": 264.342
+    },
+    {
+      "start": 264.392,
+      "text": "And finally, a legitimate multi-level marketing business",
+      "end": 268.12
+    },
+    {
+      "start": 268.17,
+      "text": "shouldn’t require members to pay for the opportunity to sell a product or service.",
+      "end": 273.39
+    },
+    {
+      "start": 273.44,
+      "text": "Pyramid schemes can be incredibly destructive to individuals,",
+      "end": 277.33
+    },
+    {
+      "start": 277.38,
+      "text": "communities, and even entire countries.",
+      "end": 280.93
+    },
+    {
+      "start": 280.98,
+      "text": "But you can fight fire with fire",
+      "end": 282.78
+    },
+    {
+      "start": 282.83,
+      "text": "by sending this video to three people you know,",
+      "end": 285.224
+    },
+    {
+      "start": 285.274,
+      "text": "and encouraging them to do the same.",
+      "end": 288.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.104,
+      "text": "2004年，",
+      "end": 8.543999999999999
+    },
+    {
+      "start": 8.594,
+      "text": "一家名为Vemma营养的公司",
+      "end": 10.623999999999999
+    },
+    {
+      "start": 10.674,
+      "text": "开始提供一个改变人生的机会，",
+      "end": 13.383999999999999
+    },
+    {
+      "start": 13.434,
+      "text": "只需要做兼职即可获得全职报酬。",
+      "end": 17.054
+    },
+    {
+      "start": 17.104,
+      "text": "Vemma的这个职位向所有人敞开，",
+      "end": 19.134
+    },
+    {
+      "start": 19.184,
+      "text": "不论你是否有工作经验或教育背景。",
+      "end": 22.854
+    },
+    {
+      "start": 22.904,
+      "text": "只要两步即可开始赚钱：",
+      "end": 25.323999999999998
+    },
+    {
+      "start": 25.374,
+      "text": "购买一份500到600美元的 该公司营养饮料产品的装备，",
+      "end": 29.384
+    },
+    {
+      "start": 29.434,
+      "text": "并招募再两名成员也来做这件事。",
+      "end": 32.535000000000004
+    },
+    {
+      "start": 32.585,
+      "text": "这家公司成长迅速，",
+      "end": 34.795
+    },
+    {
+      "start": 34.845,
+      "text": "并在国际范围内运转，",
+      "end": 36.345000000000006
+    },
+    {
+      "start": 36.395,
+      "text": "最高时每月能招募 30000名新成员。",
+      "end": 41.095000000000006
+    },
+    {
+      "start": 41.145,
+      "text": "这其中只有一个问题--",
+      "end": 42.791000000000004
+    },
+    {
+      "start": 42.841,
+      "text": "当这家公司在2013年 达到年利润达到2亿美元时，",
+      "end": 48.561
+    },
+    {
+      "start": 48.611,
+      "text": "大部分的参与者 赚的没有投入的多。",
+      "end": 52.815000000000005
+    },
+    {
+      "start": 52.865,
+      "text": "Vemma最终被以层压式推销 （也就是金字塔骗局）起诉：",
+      "end": 56.176
+    },
+    {
+      "start": 56.226,
+      "text": "这是一种常见的骗局，",
+      "end": 57.506
+    },
+    {
+      "start": 57.556,
+      "text": "参与者们通过",
+      "end": 58.776
+    },
+    {
+      "start": 58.826,
+      "text": "招来更多的人投资来赚钱。",
+      "end": 61.686
+    },
+    {
+      "start": 61.736,
+      "text": "创始人一般说服 起始的小团队",
+      "end": 64.556
+    },
+    {
+      "start": 64.606,
+      "text": "投资并宣传他们的计划。",
+      "end": 66.906
+    },
+    {
+      "start": 66.956,
+      "text": "接着鼓励他们招募新人",
+      "end": 68.846
+    },
+    {
+      "start": 68.896,
+      "text": "并允诺回报他们投资的那部分钱财，",
+      "end": 72.066
+    },
+    {
+      "start": 72.116,
+      "text": "同时创始人也捞上一笔。",
+      "end": 74.946
+    },
+    {
+      "start": 74.996,
+      "text": "这一模式在新的参与者中重复，",
+      "end": 77.796
+    },
+    {
+      "start": 77.846,
+      "text": "最后新投资人的钱汇总回馈给招募者。",
+      "end": 81.896
+    },
+    {
+      "start": 81.946,
+      "text": "这和庞氏骗局不同，",
+      "end": 83.745
+    },
+    {
+      "start": 83.795,
+      "text": "庞氏骗局的创始者招募新人",
+      "end": 85.555
+    },
+    {
+      "start": 85.605,
+      "text": "并私底下用新投资者的钱 回馈现存的老投资者，",
+      "end": 88.86500000000001
+    },
+    {
+      "start": 88.915,
+      "text": "老投资者们认为回馈是来自合法的投资。",
+      "end": 92.415
+    },
+    {
+      "start": 92.465,
+      "text": "当金字塔骗局壮大时，",
+      "end": 94.395
+    },
+    {
+      "start": 94.445,
+      "text": "新投资人很难再赚到钱。",
+      "end": 97.855
+    },
+    {
+      "start": 97.905,
+      "text": "因为加入者的数量呈指数型递增。",
+      "end": 102.175
+    },
+    {
+      "start": 102.225,
+      "text": "就拿一个需要招募六人 来实现盈利的结构来说。",
+      "end": 106.915
+    },
+    {
+      "start": 106.965,
+      "text": "创始人招募六个人来开始计划，",
+      "end": 109.35000000000001
+    },
+    {
+      "start": 109.4,
+      "text": "每一个人再招募六个人。",
+      "end": 111.76
+    },
+    {
+      "start": 111.81,
+      "text": "完成第二轮招募就有36个人，",
+      "end": 114.89
+    },
+    {
+      "start": 114.94,
+      "text": "他们再每人招募6人--",
+      "end": 117.44
+    },
+    {
+      "start": 117.49,
+      "text": "--总共216个新投资者",
+      "end": 121.10000000000001
+    },
+    {
+      "start": 121.15,
+      "text": "在第12轮招募过后，",
+      "end": 123.05
+    },
+    {
+      "start": 123.1,
+      "text": "将有21亿人在这个团伙中， 亟需招募新人，",
+      "end": 127.05
+    },
+    {
+      "start": 127.1,
+      "text": "总共130亿人参与盈利--",
+      "end": 130.95
+    },
+    {
+      "start": 131.0,
+      "text": "超过整个世界人口。",
+      "end": 134.07
+    },
+    {
+      "start": 134.12,
+      "text": "这个情况下，",
+      "end": 135.2
+    },
+    {
+      "start": 135.25,
+      "text": "最新加入的投资者，",
+      "end": 136.7
+    },
+    {
+      "start": 136.75,
+      "text": "即整个骗局的80%，",
+      "end": 139.79999999999998
+    },
+    {
+      "start": 139.85,
+      "text": "将会失去他们投入的全部钱。",
+      "end": 142.42999999999998
+    },
+    {
+      "start": 142.48,
+      "text": "在现实生活中，",
+      "end": 143.89
+    },
+    {
+      "start": 143.94,
+      "text": "许多老投资者也会亏本。",
+      "end": 146.98
+    },
+    {
+      "start": 147.03,
+      "text": "金字塔骗局在大多数国家是非法的，",
+      "end": 149.76999999999998
+    },
+    {
+      "start": 149.82,
+      "text": "但它们很难被察觉。",
+      "end": 151.85999999999999
+    },
+    {
+      "start": 151.91,
+      "text": "他们以很多种外表呈现，",
+      "end": 154.20899999999997
+    },
+    {
+      "start": 154.259,
+      "text": "包括礼品销售团队，",
+      "end": 155.999
+    },
+    {
+      "start": 156.049,
+      "text": "投资俱乐部，多层营销公司。",
+      "end": 159.629
+    },
+    {
+      "start": 159.679,
+      "text": "合法的分级营销和 金字塔骗局有区别，",
+      "end": 164.069
+    },
+    {
+      "start": 164.119,
+      "text": "但界线非常模糊。",
+      "end": 166.039
+    },
+    {
+      "start": 166.089,
+      "text": "理论上，它们的区别在于，",
+      "end": 167.60899999999998
+    },
+    {
+      "start": 167.659,
+      "text": "分级营销公司的员工",
+      "end": 170.189
+    },
+    {
+      "start": 170.239,
+      "text": "主要通过销售特定商品或服务得到报酬，",
+      "end": 174.569
+    },
+    {
+      "start": 174.619,
+      "text": "且卖给零售消费者，",
+      "end": 176.053
+    },
+    {
+      "start": 176.103,
+      "text": "而金字塔骗局主要通过 招揽新投资人给老投资人报酬。",
+      "end": 181.01299999999998
+    },
+    {
+      "start": 181.063,
+      "text": "实际上，",
+      "end": 182.32999999999998
+    },
+    {
+      "start": 182.38,
+      "text": "许多分级营销公司让员工 通过单纯销售",
+      "end": 185.61999999999998
+    },
+    {
+      "start": 185.67,
+      "text": "而可能获得盈利。",
+      "end": 188.35
+    },
+    {
+      "start": 188.4,
+      "text": "而像Vemma这样的层压式推销组织，",
+      "end": 190.42
+    },
+    {
+      "start": 190.47,
+      "text": "通过所谓的产品或服务 掩盖招募-回馈的架构，",
+      "end": 195.48999999999998
+    },
+    {
+      "start": 195.54,
+      "text": "把自己伪装成合法的分级营销产业。",
+      "end": 199.73999999999998
+    },
+    {
+      "start": 199.79,
+      "text": "许多层压式推销组织还利用",
+      "end": 202.01
+    },
+    {
+      "start": 202.06,
+      "text": "教堂，移民社区或其他紧密联结的团体 成员之间的信任。",
+      "end": 208.433
+    },
+    {
+      "start": 208.483,
+      "text": "最先加入的投资者 在真的开始获取利润之前",
+      "end": 211.25099999999998
+    },
+    {
+      "start": 211.301,
+      "text": "被要求说自己体验良好。",
+      "end": 214.37099999999998
+    },
+    {
+      "start": 214.421,
+      "text": "团体中的其他人也效仿这种做法，",
+      "end": 217.40099999999998
+    },
+    {
+      "start": 217.451,
+      "text": "在大多数人意识到 他们并未赚到钱之前",
+      "end": 220.421
+    },
+    {
+      "start": 220.471,
+      "text": "骗局像气球一样不断膨胀。",
+      "end": 222.881
+    },
+    {
+      "start": 222.931,
+      "text": "通常骗局的受害者会羞于启齿。",
+      "end": 226.271
+    },
+    {
+      "start": 226.321,
+      "text": "层压式推销组织还利用机会 和授权的口头保证诱骗人们。",
+      "end": 230.946
+    },
+    {
+      "start": 230.996,
+      "text": "所以当投资者没有赚到钱时，",
+      "end": 233.766
+    },
+    {
+      "start": 233.816,
+      "text": "他们会责怪自己而非这个组织，",
+      "end": 236.816
+    },
+    {
+      "start": 236.866,
+      "text": "他们认为自己不够顽强， 所以赚不到事先保证的收益。",
+      "end": 240.286
+    },
+    {
+      "start": 240.336,
+      "text": "一些受害者受骗后会继续尝试，",
+      "end": 242.646
+    },
+    {
+      "start": 242.696,
+      "text": "在多个金字塔骗局中投资，",
+      "end": 244.676
+    },
+    {
+      "start": 244.726,
+      "text": "但每次都无功而返。",
+      "end": 246.226
+    },
+    {
+      "start": 246.276,
+      "text": "尽管有上述因素，",
+      "end": 248.766
+    },
+    {
+      "start": 248.816,
+      "text": "还是有办法能识别金字塔骗局。",
+      "end": 252.072
+    },
+    {
+      "start": 252.122,
+      "text": "“时间紧迫性”是一个警告--",
+      "end": 254.19199999999998
+    },
+    {
+      "start": 254.242,
+      "text": "一定要警惕“现在入手 否则错失人生良机”的指示。",
+      "end": 259.132
+    },
+    {
+      "start": 259.182,
+      "text": "一些诸如“巨大的，改变人生 数额的收益”的承诺也很可疑。",
+      "end": 264.382
+    },
+    {
+      "start": 264.432,
+      "text": "最后，合法的分级营销",
+      "end": 267.462
+    },
+    {
+      "start": 267.512,
+      "text": "不应该要求员工为销售 该组织产品的机会付款。",
+      "end": 274.28
+    },
+    {
+      "start": 274.33,
+      "text": "金字塔骗局对个体， 团体，甚至整个国家，",
+      "end": 278.94
+    },
+    {
+      "start": 278.99,
+      "text": "是毁灭性的。",
+      "end": 280.69
+    },
+    {
+      "start": 280.74,
+      "text": "但你可以以毒攻毒，",
+      "end": 282.72999999999996
+    },
+    {
+      "start": 282.78,
+      "text": "把这个视频发送给你认识的三个人，",
+      "end": 285.53999999999996
+    },
+    {
+      "start": 285.59,
+      "text": "也让他们继续转发下去。",
+      "end": 288.95
+    }
+  ]
+};

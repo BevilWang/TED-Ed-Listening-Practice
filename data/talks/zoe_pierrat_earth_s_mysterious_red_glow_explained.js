@@ -1,0 +1,1025 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Earth's mysterious red glow, explained",
+    "speaker": "Zoe Pierrat",
+    "duration": 241,
+    "slug": "zoe_pierrat_earth_s_mysterious_red_glow_explained",
+    "sourcePage": "https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained",
+    "translationSourcePage": "https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/55/46/002/products/2021e-zoe-pierrat-solar-induced-chlorophyll-fluorescence-002-fallback-8736ff575bf3f167ac79b92c47e977c1-1200k.mp4",
+    "youtubeId": "3jpy8UZUEOw",
+    "youtubeTitle": "Earth's mysterious red glow, explained - Zoe Pierrat"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.746,
+      "end": 14.113,
+      "text": "In 2009, a satellite circled Earth, methodically scanning and sorting the wavelengths reflecting off the planet’s surface.",
+      "translation": "2009年，一颗环绕地球的人造卫星有条不紊地扫描并分类从地球表面反射的波长。"
+    },
+    {
+      "id": 2,
+      "start": 14.163,
+      "end": 22.571,
+      "text": "Researchers were looking for the spectral signature of carbon dioxide when they noticed something baffling: an unexpected wavelength of unknown origin.",
+      "translation": "在研究人员正在寻找 二氧化碳的光谱特征时，他们发现了一个令人疑惑的东西：一道来历不明，令人意外的波长。"
+    },
+    {
+      "id": 3,
+      "start": 22.621,
+      "end": 29.446,
+      "text": "They tried looking at Earth with only this wavelength, and saw the planet covered in a red hue of varying intensity.",
+      "translation": "研究人员试着只用这道波长观察地球，结果他们看见地球 被不同程度的红色所覆盖。"
+    },
+    {
+      "id": 4,
+      "start": 29.496,
+      "end": 35.237,
+      "text": "This couldn’t have been reflected sunlight because it was a wavelength that never escapes the Sun’s outer atmosphere.",
+      "translation": "但这肯定不是被反射的太阳光，因为这种波长从来逃不出 太阳的外部大气层，"
+    },
+    {
+      "id": 5,
+      "start": 35.287,
+      "end": 40.654,
+      "text": "And it didn’t correspond with densely populated areas, suggesting it wasn’t human-made either.",
+      "translation": "而且这种颜色也与人口密集的区域 对应不起来，因此也暗示了它也不是人造的。"
+    },
+    {
+      "id": 6,
+      "start": 40.704,
+      "end": 51.112,
+      "text": "In fact, it was emanating from places with lots of plants: the Amazon basin, northern evergreen forests, and croplands of the Midwestern US were all ablaze.",
+      "translation": "事实上，这道波长是从 植物众多的地方显示出来的，亚马逊盆地，北部长青森林，还有美国中西部的农田 都闪耀着红色的光芒。"
+    },
+    {
+      "id": 7,
+      "start": 51.162,
+      "end": 53.529,
+      "text": "So, what was going on?",
+      "translation": "那么，这到底是怎么一回事呢？"
+    },
+    {
+      "id": 8,
+      "start": 53.579,
+      "end": 58.112,
+      "text": "Plants and other organisms use light to grow by way of photosynthesis.",
+      "translation": "植物以及其他生物利用光 进行光合作用来生长，"
+    },
+    {
+      "id": 9,
+      "start": 58.162,
+      "end": 63.321,
+      "text": "But that’s just one of three ways that light entering a photosynthetic organism is used.",
+      "translation": "但是这仅仅只是光进入光合生物体内被使用的三种方式的其中一种。"
+    },
+    {
+      "id": 10,
+      "start": 63.371,
+      "end": 66.113,
+      "text": "And this is the key to solving the mystery.",
+      "translation": "而这就是解决这个谜团的关键。"
+    },
+    {
+      "id": 11,
+      "start": 66.163,
+      "end": 69.821,
+      "text": "To understand the others, we need to begin with photosynthesis.",
+      "translation": "为了弄懂其他两种方式， 我们先要弄懂光合作用。"
+    },
+    {
+      "id": 12,
+      "start": 69.871,
+      "end": 77.446,
+      "text": "During this process, sunlight hits structures within a plant’s cells called chloroplasts, which are packed with chlorophyll pigments.",
+      "translation": "在光合作用中，太阳光照射在植物细胞里 一些叫做叶绿体的结构上，而这些叶绿体中 含有大量的叶绿素色素。"
+    },
+    {
+      "id": 13,
+      "start": 77.496,
+      "end": 81.696,
+      "text": "When chlorophyll molecules absorb light, some of their electrons become excited.",
+      "translation": "当叶绿素分子吸收阳光时， 一部分电子被激发起来。"
+    },
+    {
+      "id": 14,
+      "start": 81.746,
+      "end": 87.113,
+      "text": "They go through a series of reactions, which transform light energy into chemical energy.",
+      "translation": "这些电子经过一系列的反应，把光能转化成化能。"
+    },
+    {
+      "id": 15,
+      "start": 87.163,
+      "end": 93.654,
+      "text": "This powers the conversion of carbon dioxide and water into glucose, the simple sugar plants need to grow.",
+      "translation": "这个过程也使二氧化碳和水 转化成了葡萄糖。而葡萄糖就是植物生长 不可或缺的简单糖类。"
+    },
+    {
+      "id": 16,
+      "start": 93.704,
+      "end": 97.404,
+      "text": "And of course, this reaction generates an important byproduct.",
+      "translation": "此外，这个反应当然还产生了 一个重要的附带产物。"
+    },
+    {
+      "id": 17,
+      "start": 97.454,
+      "end": 106.029,
+      "text": "Photosynthesis— which is constantly being carried out by plants, algae, and bacteria— produces all of Earth’s oxygen.",
+      "translation": "光合作用，这个一直由植物、藻类 和细菌在进行的反应，制造了地球上所有的氧气。"
+    },
+    {
+      "id": 18,
+      "start": 106.079,
+      "end": 109.779,
+      "text": "But plants regularly absorb more light than they’re able to consume.",
+      "translation": "但是通常植物吸收的光线 比他们能够消耗的光线要多一些。"
+    },
+    {
+      "id": 19,
+      "start": 109.829,
+      "end": 118.904,
+      "text": "For instance, over winter, the frozen leaves of evergreen trees can't photosynthesize at their usual rate, but they're still exposed to a lot of sunlight.",
+      "translation": "举个例子，在冬天，被冻住的常青树叶子 进行光合作用的效率不敌往常，尽管这些叶子依然 暴露在许多太阳光之下。"
+    },
+    {
+      "id": 20,
+      "start": 118.954,
+      "end": 123.279,
+      "text": "If not dealt with, the excess light can damage their photosynthetic machinery.",
+      "translation": "如果不解决这个问题，过量的光线 会毁坏植物中运行光合作用的机制。"
+    },
+    {
+      "id": 21,
+      "start": 123.329,
+      "end": 129.988,
+      "text": "So, the second way plants use light is by transforming it into heat and dissipating it out of their leaves.",
+      "translation": "因此，第二种植物利用光的方法 就是把光转化成热量，并且把热量通过它们的叶子疏散出去。"
+    },
+    {
+      "id": 22,
+      "start": 130.038,
+      "end": 139.571,
+      "text": "The third way plants interact with incoming light is by radiating it back out at a different wavelength, producing what’s called chlorophyll fluorescence.",
+      "translation": "而植物利用光的第三种方式就是让光以一种 与之前不同的波长发射回去，而这会产生一种叫叶绿素荧光的物质。"
+    },
+    {
+      "id": 23,
+      "start": 139.621,
+      "end": 145.988,
+      "text": "During photosynthesis, the chlorophyll’s excited electrons move through that series of chemical reactions.",
+      "translation": "在光合作用的过程中， 叶绿素中的被激发的电子会经过一系列的化学反应，"
+    },
+    {
+      "id": 24,
+      "start": 146.038,
+      "end": 152.779,
+      "text": "But as some of the excited electrons fall back to their ground states, they emit energy as light.",
+      "translation": "不过当一部分的激发电子 回到它们的基态的时候，它们会释放出能量，即光。"
+    },
+    {
+      "id": 25,
+      "start": 152.829,
+      "end": 160.154,
+      "text": "Overall, about 1% of the light absorbed is re-emitted as wavelengths at the red end of the spectrum.",
+      "translation": "大体上，被吸收的光中大约有1%被植物以位于光谱的红色尾端波长的形式 重新反射出去。"
+    },
+    {
+      "id": 26,
+      "start": 160.204,
+      "end": 163.613,
+      "text": "It’s such a small amount that you can’t see it with the naked eye.",
+      "translation": "因为反射的光量太小了， 我们甚至不能用肉眼看见。"
+    },
+    {
+      "id": 27,
+      "start": 163.663,
+      "end": 168.196,
+      "text": "But plants the world over are fluorescing as they photosynthesize.",
+      "translation": "但是当全世界的植物在进行光合作用时 它们都在发荧光。"
+    },
+    {
+      "id": 28,
+      "start": 168.246,
+      "end": 174.238,
+      "text": "And this is what’s caused the Earth’s baffling red glow, as observed by satellite.",
+      "translation": "这就是导致人造卫星观测到地球散发令人疑惑的耀眼红光的原因。"
+    },
+    {
+      "id": 29,
+      "start": 174.288,
+      "end": 177.363,
+      "text": "It was an accidental discovery, but a huge breakthrough.",
+      "translation": "这是一个意外却重大的突破性发现。"
+    },
+    {
+      "id": 30,
+      "start": 177.413,
+      "end": 186.321,
+      "text": "Tracking chlorophyll fluorescence from space allows us to watch the planet breathe in real time— and monitor the health of ecosystems worldwide.",
+      "translation": "在太空中追踪叶绿素荧光能让我们观看到地球的“呼吸”实况并且监管世界各地生态系统的健康情况。"
+    },
+    {
+      "id": 31,
+      "start": 186.371,
+      "end": 191.529,
+      "text": "Previously, researchers used levels of greenness as the main estimate for plant health.",
+      "translation": "以前，研究人员把植物的绿色等级作为估量植物健康的主要手段，"
+    },
+    {
+      "id": 32,
+      "start": 191.579,
+      "end": 199.529,
+      "text": "Because plants generally change colors or lose foliage when they’re stressed, higher levels of green typically indicate healthier plants.",
+      "translation": "因为当植物压力过大时 通常会变颜色或是掉叶子，因此更高程度的绿色 通常表明植物更加地健康。"
+    },
+    {
+      "id": 33,
+      "start": 199.579,
+      "end": 201.779,
+      "text": "But this measure can be unreliable.",
+      "translation": "但是这种方法也可能不可靠。"
+    },
+    {
+      "id": 34,
+      "start": 201.829,
+      "end": 207.488,
+      "text": "In contrast, chlorophyll fluorescence is a direct measure of photosynthetic activity.",
+      "translation": "相比之下，叶绿素荧光能直接地测量光合作用活动。"
+    },
+    {
+      "id": 35,
+      "start": 207.538,
+      "end": 214.196,
+      "text": "It can help us infer how much oxygen is being released and how much carbon is being absorbed in a given system.",
+      "translation": "叶绿素荧光能帮助我们推断 光合作用中释放的氧气量以及在给定系统中碳被吸收的量。"
+    },
+    {
+      "id": 36,
+      "start": 214.246,
+      "end": 221.321,
+      "text": "Drops in chlorophyll fluorescence may also occur before visible signs of plant stress, making it a timely measure.",
+      "translation": "此外，叶绿素荧光的下降可能会发生在有植物承压的明显迹象表现出来之前， 因此用叶绿素荧光测量会比较及时。"
+    },
+    {
+      "id": 37,
+      "start": 221.371,
+      "end": 230.696,
+      "text": "Scientists have already used chlorophyll fluorescence to monitor harmful phytoplankton blooms, and track the effects of drought in the Amazon and Great Plains.",
+      "translation": "科学家们已经在用叶绿素荧光来监控有害的浮游植物的野蛮生长，并且还用它来追踪 干旱对亚马逊和大平原的负面影响。"
+    },
+    {
+      "id": 38,
+      "start": 230.746,
+      "end": 240.95,
+      "text": "Going forward, we’ll be investigating photosynthesis from space, and gauging how best to support our silent friends, who already do so much for us.",
+      "translation": "在未来，我们将会在太空中研究光合作用，并且测量计算如何最好地帮助并支持已经为我们人类做了这么多贡献的 无声的植物朋友。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.746,
+      "text": "In 2009, a satellite circled Earth,",
+      "end": 9.571
+    },
+    {
+      "start": 9.621,
+      "text": "methodically scanning and sorting the wavelengths",
+      "end": 12.029
+    },
+    {
+      "start": 12.079,
+      "text": "reflecting off the planet’s surface.",
+      "end": 14.113
+    },
+    {
+      "start": 14.163,
+      "text": "Researchers were looking for the spectral signature of carbon dioxide",
+      "end": 17.820999999999998
+    },
+    {
+      "start": 17.871,
+      "text": "when they noticed something baffling:",
+      "end": 19.613
+    },
+    {
+      "start": 19.663,
+      "text": "an unexpected wavelength of unknown origin.",
+      "end": 22.570999999999998
+    },
+    {
+      "start": 22.621,
+      "text": "They tried looking at Earth with only this wavelength,",
+      "end": 25.654
+    },
+    {
+      "start": 25.704,
+      "text": "and saw the planet covered in a red hue of varying intensity.",
+      "end": 29.445999999999998
+    },
+    {
+      "start": 29.496,
+      "text": "This couldn’t have been reflected sunlight",
+      "end": 31.445999999999998
+    },
+    {
+      "start": 31.496,
+      "text": "because it was a wavelength that never escapes the Sun’s outer atmosphere.",
+      "end": 35.237
+    },
+    {
+      "start": 35.287,
+      "text": "And it didn’t correspond with densely populated areas,",
+      "end": 37.862
+    },
+    {
+      "start": 37.912,
+      "text": "suggesting it wasn’t human-made either.",
+      "end": 40.654
+    },
+    {
+      "start": 40.704,
+      "text": "In fact, it was emanating from places with lots of plants:",
+      "end": 44.529
+    },
+    {
+      "start": 44.579,
+      "text": "the Amazon basin, northern evergreen forests,",
+      "end": 47.154
+    },
+    {
+      "start": 47.204,
+      "text": "and croplands of the Midwestern US were all ablaze.",
+      "end": 51.112
+    },
+    {
+      "start": 51.162,
+      "text": "So, what was going on?",
+      "end": 53.529
+    },
+    {
+      "start": 53.579,
+      "text": "Plants and other organisms use light to grow by way of photosynthesis.",
+      "end": 58.112
+    },
+    {
+      "start": 58.162,
+      "text": "But that’s just one of three ways that light",
+      "end": 60.571000000000005
+    },
+    {
+      "start": 60.621,
+      "text": "entering a photosynthetic organism is used.",
+      "end": 63.321000000000005
+    },
+    {
+      "start": 63.371,
+      "text": "And this is the key to solving the mystery.",
+      "end": 66.113
+    },
+    {
+      "start": 66.163,
+      "text": "To understand the others, we need to begin with photosynthesis.",
+      "end": 69.821
+    },
+    {
+      "start": 69.871,
+      "text": "During this process,",
+      "end": 71.113
+    },
+    {
+      "start": 71.163,
+      "text": "sunlight hits structures within a plant’s cells called chloroplasts,",
+      "end": 75.196
+    },
+    {
+      "start": 75.246,
+      "text": "which are packed with chlorophyll pigments.",
+      "end": 77.446
+    },
+    {
+      "start": 77.496,
+      "text": "When chlorophyll molecules absorb light, some of their electrons become excited.",
+      "end": 81.696
+    },
+    {
+      "start": 81.746,
+      "text": "They go through a series of reactions,",
+      "end": 83.696
+    },
+    {
+      "start": 83.746,
+      "text": "which transform light energy into chemical energy.",
+      "end": 87.113
+    },
+    {
+      "start": 87.163,
+      "text": "This powers the conversion of carbon dioxide and water into glucose,",
+      "end": 91.279
+    },
+    {
+      "start": 91.329,
+      "text": "the simple sugar plants need to grow.",
+      "end": 93.654
+    },
+    {
+      "start": 93.704,
+      "text": "And of course, this reaction generates an important byproduct.",
+      "end": 97.404
+    },
+    {
+      "start": 97.454,
+      "text": "Photosynthesis—",
+      "end": 98.529
+    },
+    {
+      "start": 98.579,
+      "text": "which is constantly being carried out by plants, algae, and bacteria—",
+      "end": 102.529
+    },
+    {
+      "start": 102.579,
+      "text": "produces all of Earth’s oxygen.",
+      "end": 106.029
+    },
+    {
+      "start": 106.079,
+      "text": "But plants regularly absorb more light than they’re able to consume.",
+      "end": 109.779
+    },
+    {
+      "start": 109.829,
+      "text": "For instance, over winter,",
+      "end": 111.571
+    },
+    {
+      "start": 111.621,
+      "text": "the frozen leaves of evergreen trees can't photosynthesize at their usual rate,",
+      "end": 116.279
+    },
+    {
+      "start": 116.329,
+      "text": "but they're still exposed to a lot of sunlight.",
+      "end": 118.904
+    },
+    {
+      "start": 118.954,
+      "text": "If not dealt with, the excess light can damage their photosynthetic machinery.",
+      "end": 123.279
+    },
+    {
+      "start": 123.329,
+      "text": "So, the second way plants use light is by transforming it into heat",
+      "end": 127.529
+    },
+    {
+      "start": 127.579,
+      "text": "and dissipating it out of their leaves.",
+      "end": 129.988
+    },
+    {
+      "start": 130.038,
+      "text": "The third way plants interact with incoming light",
+      "end": 132.404
+    },
+    {
+      "start": 132.454,
+      "text": "is by radiating it back out at a different wavelength,",
+      "end": 136.113
+    },
+    {
+      "start": 136.163,
+      "text": "producing what’s called chlorophyll fluorescence.",
+      "end": 139.571
+    },
+    {
+      "start": 139.621,
+      "text": "During photosynthesis, the chlorophyll’s excited electrons",
+      "end": 142.696
+    },
+    {
+      "start": 142.746,
+      "text": "move through that series of chemical reactions.",
+      "end": 145.988
+    },
+    {
+      "start": 146.038,
+      "text": "But as some of the excited electrons fall back to their ground states,",
+      "end": 149.988
+    },
+    {
+      "start": 150.038,
+      "text": "they emit energy as light.",
+      "end": 152.779
+    },
+    {
+      "start": 152.829,
+      "text": "Overall, about 1% of the light absorbed is re-emitted",
+      "end": 156.446
+    },
+    {
+      "start": 156.496,
+      "text": "as wavelengths at the red end of the spectrum.",
+      "end": 160.154
+    },
+    {
+      "start": 160.204,
+      "text": "It’s such a small amount that you can’t see it with the naked eye.",
+      "end": 163.613
+    },
+    {
+      "start": 163.663,
+      "text": "But plants the world over are fluorescing as they photosynthesize.",
+      "end": 168.196
+    },
+    {
+      "start": 168.246,
+      "text": "And this is what’s caused the Earth’s baffling red glow,",
+      "end": 172.321
+    },
+    {
+      "start": 172.371,
+      "text": "as observed by satellite.",
+      "end": 174.238
+    },
+    {
+      "start": 174.288,
+      "text": "It was an accidental discovery, but a huge breakthrough.",
+      "end": 177.363
+    },
+    {
+      "start": 177.413,
+      "text": "Tracking chlorophyll fluorescence from space",
+      "end": 179.488
+    },
+    {
+      "start": 179.538,
+      "text": "allows us to watch the planet breathe in real time—",
+      "end": 182.904
+    },
+    {
+      "start": 182.954,
+      "text": "and monitor the health of ecosystems worldwide.",
+      "end": 186.321
+    },
+    {
+      "start": 186.371,
+      "text": "Previously, researchers used levels of greenness",
+      "end": 189.446
+    },
+    {
+      "start": 189.496,
+      "text": "as the main estimate for plant health.",
+      "end": 191.529
+    },
+    {
+      "start": 191.579,
+      "text": "Because plants generally change colors or lose foliage when they’re stressed,",
+      "end": 195.571
+    },
+    {
+      "start": 195.621,
+      "text": "higher levels of green typically indicate healthier plants.",
+      "end": 199.529
+    },
+    {
+      "start": 199.579,
+      "text": "But this measure can be unreliable.",
+      "end": 201.779
+    },
+    {
+      "start": 201.829,
+      "text": "In contrast, chlorophyll fluorescence is a direct measure",
+      "end": 205.613
+    },
+    {
+      "start": 205.663,
+      "text": "of photosynthetic activity.",
+      "end": 207.488
+    },
+    {
+      "start": 207.538,
+      "text": "It can help us infer how much oxygen is being released",
+      "end": 210.529
+    },
+    {
+      "start": 210.579,
+      "text": "and how much carbon is being absorbed in a given system.",
+      "end": 214.196
+    },
+    {
+      "start": 214.246,
+      "text": "Drops in chlorophyll fluorescence may also occur",
+      "end": 216.779
+    },
+    {
+      "start": 216.829,
+      "text": "before visible signs of plant stress, making it a timely measure.",
+      "end": 221.321
+    },
+    {
+      "start": 221.371,
+      "text": "Scientists have already used chlorophyll fluorescence to monitor",
+      "end": 225.238
+    },
+    {
+      "start": 225.288,
+      "text": "harmful phytoplankton blooms,",
+      "end": 227.238
+    },
+    {
+      "start": 227.288,
+      "text": "and track the effects of drought in the Amazon and Great Plains.",
+      "end": 230.696
+    },
+    {
+      "start": 230.746,
+      "text": "Going forward, we’ll be investigating photosynthesis from space,",
+      "end": 234.779
+    },
+    {
+      "start": 234.829,
+      "text": "and gauging how best to support our silent friends,",
+      "end": 237.696
+    },
+    {
+      "start": 237.746,
+      "text": "who already do so much for us.",
+      "end": 240.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.746,
+      "text": "2009年，一颗环绕地球的人造卫星",
+      "end": 9.571
+    },
+    {
+      "start": 9.621,
+      "text": "有条不紊地扫描并分类",
+      "end": 12.029
+    },
+    {
+      "start": 12.079,
+      "text": "从地球表面反射的波长。",
+      "end": 14.113
+    },
+    {
+      "start": 14.163,
+      "text": "在研究人员正在寻找 二氧化碳的光谱特征时，",
+      "end": 17.820999999999998
+    },
+    {
+      "start": 17.871,
+      "text": "他们发现了一个令人疑惑的东西：",
+      "end": 19.613
+    },
+    {
+      "start": 19.663,
+      "text": "一道来历不明，令人意外的波长。",
+      "end": 22.570999999999998
+    },
+    {
+      "start": 22.621,
+      "text": "研究人员试着只用这道波长观察地球，",
+      "end": 25.654
+    },
+    {
+      "start": 25.704,
+      "text": "结果他们看见地球 被不同程度的红色所覆盖。",
+      "end": 29.445999999999998
+    },
+    {
+      "start": 29.496,
+      "text": "但这肯定不是被反射的太阳光，",
+      "end": 31.445999999999998
+    },
+    {
+      "start": 31.496,
+      "text": "因为这种波长从来逃不出 太阳的外部大气层，",
+      "end": 35.237
+    },
+    {
+      "start": 35.287,
+      "text": "而且这种颜色也与人口密集的区域 对应不起来，",
+      "end": 37.862
+    },
+    {
+      "start": 37.912,
+      "text": "因此也暗示了它也不是人造的。",
+      "end": 40.654
+    },
+    {
+      "start": 40.704,
+      "text": "事实上，这道波长是从 植物众多的地方显示出来的，",
+      "end": 44.529
+    },
+    {
+      "start": 44.579,
+      "text": "亚马逊盆地，北部长青森林，",
+      "end": 47.154
+    },
+    {
+      "start": 47.204,
+      "text": "还有美国中西部的农田 都闪耀着红色的光芒。",
+      "end": 51.112
+    },
+    {
+      "start": 51.162,
+      "text": "那么，这到底是怎么一回事呢？",
+      "end": 53.529
+    },
+    {
+      "start": 53.579,
+      "text": "植物以及其他生物利用光 进行光合作用来生长，",
+      "end": 58.112
+    },
+    {
+      "start": 58.162,
+      "text": "但是这仅仅只是光进入光合生物体内",
+      "end": 60.571000000000005
+    },
+    {
+      "start": 60.621,
+      "text": "被使用的三种方式的其中一种。",
+      "end": 63.321000000000005
+    },
+    {
+      "start": 63.371,
+      "text": "而这就是解决这个谜团的关键。",
+      "end": 66.113
+    },
+    {
+      "start": 66.163,
+      "text": "为了弄懂其他两种方式， 我们先要弄懂光合作用。",
+      "end": 69.821
+    },
+    {
+      "start": 69.871,
+      "text": "在光合作用中，",
+      "end": 71.113
+    },
+    {
+      "start": 71.163,
+      "text": "太阳光照射在植物细胞里 一些叫做叶绿体的结构上，",
+      "end": 75.196
+    },
+    {
+      "start": 75.246,
+      "text": "而这些叶绿体中 含有大量的叶绿素色素。",
+      "end": 77.446
+    },
+    {
+      "start": 77.496,
+      "text": "当叶绿素分子吸收阳光时， 一部分电子被激发起来。",
+      "end": 81.696
+    },
+    {
+      "start": 81.746,
+      "text": "这些电子经过一系列的反应，",
+      "end": 83.696
+    },
+    {
+      "start": 83.746,
+      "text": "把光能转化成化能。",
+      "end": 87.113
+    },
+    {
+      "start": 87.163,
+      "text": "这个过程也使二氧化碳和水 转化成了葡萄糖。",
+      "end": 91.279
+    },
+    {
+      "start": 91.329,
+      "text": "而葡萄糖就是植物生长 不可或缺的简单糖类。",
+      "end": 93.654
+    },
+    {
+      "start": 93.704,
+      "text": "此外，这个反应当然还产生了 一个重要的附带产物。",
+      "end": 97.404
+    },
+    {
+      "start": 97.454,
+      "text": "光合作用，",
+      "end": 98.529
+    },
+    {
+      "start": 98.579,
+      "text": "这个一直由植物、藻类 和细菌在进行的反应，",
+      "end": 102.529
+    },
+    {
+      "start": 102.579,
+      "text": "制造了地球上所有的氧气。",
+      "end": 106.029
+    },
+    {
+      "start": 106.079,
+      "text": "但是通常植物吸收的光线 比他们能够消耗的光线要多一些。",
+      "end": 109.779
+    },
+    {
+      "start": 109.829,
+      "text": "举个例子，在冬天，",
+      "end": 111.571
+    },
+    {
+      "start": 111.621,
+      "text": "被冻住的常青树叶子 进行光合作用的效率不敌往常，",
+      "end": 116.279
+    },
+    {
+      "start": 116.329,
+      "text": "尽管这些叶子依然 暴露在许多太阳光之下。",
+      "end": 118.904
+    },
+    {
+      "start": 118.954,
+      "text": "如果不解决这个问题，过量的光线 会毁坏植物中运行光合作用的机制。",
+      "end": 123.279
+    },
+    {
+      "start": 123.329,
+      "text": "因此，第二种植物利用光的方法 就是把光转化成热量，",
+      "end": 127.529
+    },
+    {
+      "start": 127.579,
+      "text": "并且把热量通过它们的叶子疏散出去。",
+      "end": 129.988
+    },
+    {
+      "start": 130.038,
+      "text": "而植物利用光的第三种方式",
+      "end": 132.404
+    },
+    {
+      "start": 132.454,
+      "text": "就是让光以一种 与之前不同的波长发射回去，",
+      "end": 136.113
+    },
+    {
+      "start": 136.163,
+      "text": "而这会产生一种叫叶绿素荧光的物质。",
+      "end": 139.571
+    },
+    {
+      "start": 139.621,
+      "text": "在光合作用的过程中， 叶绿素中的被激发的电子",
+      "end": 142.696
+    },
+    {
+      "start": 142.746,
+      "text": "会经过一系列的化学反应，",
+      "end": 145.988
+    },
+    {
+      "start": 146.038,
+      "text": "不过当一部分的激发电子 回到它们的基态的时候，",
+      "end": 149.988
+    },
+    {
+      "start": 150.038,
+      "text": "它们会释放出能量，即光。",
+      "end": 152.779
+    },
+    {
+      "start": 152.829,
+      "text": "大体上，被吸收的光中大约有1%被植物",
+      "end": 156.446
+    },
+    {
+      "start": 156.496,
+      "text": "以位于光谱的红色尾端波长的形式 重新反射出去。",
+      "end": 160.154
+    },
+    {
+      "start": 160.204,
+      "text": "因为反射的光量太小了， 我们甚至不能用肉眼看见。",
+      "end": 163.613
+    },
+    {
+      "start": 163.663,
+      "text": "但是当全世界的植物在进行光合作用时 它们都在发荧光。",
+      "end": 168.196
+    },
+    {
+      "start": 168.246,
+      "text": "这就是导致人造卫星观测到",
+      "end": 172.321
+    },
+    {
+      "start": 172.371,
+      "text": "地球散发令人疑惑的耀眼红光的原因。",
+      "end": 174.238
+    },
+    {
+      "start": 174.288,
+      "text": "这是一个意外却重大的突破性发现。",
+      "end": 177.363
+    },
+    {
+      "start": 177.413,
+      "text": "在太空中追踪叶绿素荧光",
+      "end": 179.488
+    },
+    {
+      "start": 179.538,
+      "text": "能让我们观看到地球的“呼吸”实况",
+      "end": 182.904
+    },
+    {
+      "start": 182.954,
+      "text": "并且监管世界各地生态系统的健康情况。",
+      "end": 186.321
+    },
+    {
+      "start": 186.371,
+      "text": "以前，研究人员把植物的绿色等级",
+      "end": 189.446
+    },
+    {
+      "start": 189.496,
+      "text": "作为估量植物健康的主要手段，",
+      "end": 191.529
+    },
+    {
+      "start": 191.579,
+      "text": "因为当植物压力过大时 通常会变颜色或是掉叶子，",
+      "end": 195.571
+    },
+    {
+      "start": 195.621,
+      "text": "因此更高程度的绿色 通常表明植物更加地健康。",
+      "end": 199.529
+    },
+    {
+      "start": 199.579,
+      "text": "但是这种方法也可能不可靠。",
+      "end": 201.779
+    },
+    {
+      "start": 201.829,
+      "text": "相比之下，叶绿素荧光能直接地",
+      "end": 205.613
+    },
+    {
+      "start": 205.663,
+      "text": "测量光合作用活动。",
+      "end": 207.488
+    },
+    {
+      "start": 207.538,
+      "text": "叶绿素荧光能帮助我们推断 光合作用中释放的氧气量",
+      "end": 210.529
+    },
+    {
+      "start": 210.579,
+      "text": "以及在给定系统中碳被吸收的量。",
+      "end": 214.196
+    },
+    {
+      "start": 214.246,
+      "text": "此外，叶绿素荧光的下降可能会发生在",
+      "end": 216.779
+    },
+    {
+      "start": 216.829,
+      "text": "有植物承压的明显迹象表现出来之前， 因此用叶绿素荧光测量会比较及时。",
+      "end": 221.321
+    },
+    {
+      "start": 221.371,
+      "text": "科学家们已经在用叶绿素荧光来",
+      "end": 225.238
+    },
+    {
+      "start": 225.288,
+      "text": "监控有害的浮游植物的野蛮生长，",
+      "end": 227.238
+    },
+    {
+      "start": 227.288,
+      "text": "并且还用它来追踪 干旱对亚马逊和大平原的负面影响。",
+      "end": 230.696
+    },
+    {
+      "start": 230.746,
+      "text": "在未来，我们将会在太空中研究光合作用，",
+      "end": 234.779
+    },
+    {
+      "start": 234.829,
+      "text": "并且测量计算如何最好地帮助并支持",
+      "end": 237.696
+    },
+    {
+      "start": 237.746,
+      "text": "已经为我们人类做了这么多贡献的 无声的植物朋友。",
+      "end": 240.95
+    }
+  ]
+};

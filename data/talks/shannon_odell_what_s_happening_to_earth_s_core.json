@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "title": "What's happening to Earth's core?",
+    "speaker": "Shannon Odell",
+    "duration": 312,
+    "slug": "shannon_odell_what_s_happening_to_earth_s_core",
+    "sourcePage": "https://www.ted.com/talks/shannon_odell_what_s_happening_to_earth_s_core",
+    "translationSourcePage": "https://www.ted.com/talks/shannon_odell_what_s_happening_to_earth_s_core?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/65/52/001/products/2022e-shannon-odell-earth-is-leaking-001-fallback-90e739b6-bf70-469d-98fb-5d081323110e-1200k.mp4",
+    "youtubeId": "XLjdNXBZm3I",
+    "youtubeTitle": "What's happening to Earth's core? - Shannon Odell"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.045,
+      "end": 12.959,
+      "text": "A hydrogen atom travels high within the outermost layer of the Earth’s atmosphere.",
+      "translation": "一个氢原子在地球大气层最外层高空处穿梭。"
+    },
+    {
+      "id": 2,
+      "start": 13.009,
+      "end": 28.307,
+      "text": "This particular atom first entered the exosphere millions of years ago, and during its tenure on Earth, it’s spent time in the waves of the Atlantic Ocean, the ground soil of the Amazon, and even the steam rising off a boiling pot of spaghetti.",
+      "translation": "它在几百万年前第一次进入外逸层，待在地球期间,曾经过大西洋的海浪，亚马逊的土壤，甚至一锅煮沸意面散出的蒸汽。"
+    },
+    {
+      "id": 3,
+      "start": 28.357,
+      "end": 44.115,
+      "text": "But today, traveling 30 times faster than the speed of sound, it overcomes the Earth’s gravitational pull and escapes, joining the roughly 90 tons of material that leak out of our atmosphere each day.",
+      "translation": "今天，它以超过音速 30 倍的速度摆脱了地球的引力束缚，成为约 90 吨每天逸出 大气层的物质的一部分。"
+    },
+    {
+      "id": 4,
+      "start": 44.165,
+      "end": 50.997,
+      "text": "This daily whale-sized atmospheric loss is just one example of how the Earth is leaking.",
+      "translation": "每天这般巨量的大气层流失只是地球正在泄漏的例子之一。"
+    },
+    {
+      "id": 5,
+      "start": 51.047,
+      "end": 56.794,
+      "text": "Atoms, energy, and molecules seep from one layer of the planet to another.",
+      "translation": "原子、能量和分子 从地球的一层渗透到另一层。"
+    },
+    {
+      "id": 6,
+      "start": 56.844,
+      "end": 62.925,
+      "text": "And for Earth, whose stability is necessary to sustain life, these leaks can seem troubling.",
+      "translation": "对地球而言，其稳定性维持着生命，因此泄漏令人担忧。"
+    },
+    {
+      "id": 7,
+      "start": 62.975,
+      "end": 72.643,
+      "text": "To better understand the extent of the planet’s imperfect plumbing, and when it becomes a problem, let’s visit two more leakage sites.",
+      "translation": "为了更好理解地球的排泄系统，以及它何时会出问题，让我们来观察另外两个泄漏点。"
+    },
+    {
+      "id": 8,
+      "start": 72.693,
+      "end": 78.357,
+      "text": "Our second spot takes us to the Earth’s surface, to a field in Central Appalachia.",
+      "translation": "第二个点在地球表面，阿巴拉契亚中部的原野上。"
+    },
+    {
+      "id": 9,
+      "start": 78.407,
+      "end": 86.407,
+      "text": "Below, a 1,500 meter deep shaft connects an oil reservoir with the Earth’s surface.",
+      "translation": "地表下，一座 1500 米深的油井将一片储油层与地表相连。"
+    },
+    {
+      "id": 10,
+      "start": 86.457,
+      "end": 91.329,
+      "text": "The oil supply here is dried up, leaving the site neglected and abandoned.",
+      "translation": "这里石油已经枯竭，于是被遗弃。"
+    },
+    {
+      "id": 11,
+      "start": 91.379,
+      "end": 102.09,
+      "text": "But this underground reservoir also houses the potent greenhouse gas methane, which continues to travel up the shaft and escape through cracks and loose pipes.",
+      "translation": "但其储油层也储有强劲温室气体甲烷；甲烷持续从油井裂缝和开口管道逸出。"
+    },
+    {
+      "id": 12,
+      "start": 102.14,
+      "end": 117.48,
+      "text": "This leaky well joins the more than 3 million abandoned wells scattered throughout the US, that collectively emit, by lower estimates, 280,000 metric tons of methane each year.",
+      "translation": "这个泄漏的油井是散布在美国超过三百万废弃油井中的一座，保守估计总共每年排放超过 28 万吨甲烷。"
+    },
+    {
+      "id": 13,
+      "start": 117.53,
+      "end": 123.236,
+      "text": "Our final leakage point takes us deep within the innermost boundary of the Earth, the core.",
+      "translation": "最后的泄漏点在地球的最深处，即地核。"
+    },
+    {
+      "id": 14,
+      "start": 123.286,
+      "end": 131.786,
+      "text": "Heat, originating from the formation of our solar system, drives the rotation of liquid metal around the solid inner core.",
+      "translation": "来自太阳系诞生时期的热量驱使液态金属在 坚固内核周围流动。"
+    },
+    {
+      "id": 15,
+      "start": 131.836,
+      "end": 140.294,
+      "text": "The motion, in turn, creates the planet’s magnetic field, a barrier that protects it from cosmic radiation and solar wind.",
+      "translation": "这进而产生地球的磁场，保护它免于宇宙辐射和太阳风暴。"
+    },
+    {
+      "id": 16,
+      "start": 140.344,
+      "end": 150.847,
+      "text": "But the core isn't perfectly insulated, so heat constantly leaks, escaping to the surrounding mantle and driving plate tectonics and magmatic activity.",
+      "translation": "但地核并不是完全隔热的， 所以热量不停地散失，传递到周边的地幔并导致地壳板块运动和火山活动。"
+    },
+    {
+      "id": 17,
+      "start": 150.897,
+      "end": 155.601,
+      "text": "As a result, the core’s outer molten metal is slowly solidifying.",
+      "translation": "因此，地核外圈熔融金属正缓慢凝固，"
+    },
+    {
+      "id": 18,
+      "start": 155.651,
+      "end": 163.067,
+      "text": "Once fully cooled, the magnetic field will disappear, leaving us exposed to the Sun’s harshest rays.",
+      "translation": "彻底冷却之后，磁场会随即消失，让我们暴露在太阳的猛烈辐射下。"
+    },
+    {
+      "id": 19,
+      "start": 163.117,
+      "end": 166.904,
+      "text": "The Earth clearly has some cracks and bleeds.",
+      "translation": "地球显然有着不少裂缝和伤痕。"
+    },
+    {
+      "id": 20,
+      "start": 166.954,
+      "end": 168.739,
+      "text": "Should we be worried?",
+      "translation": "我们应当担心吗？"
+    },
+    {
+      "id": 21,
+      "start": 168.789,
+      "end": 172.785,
+      "text": "Thankfully, the immediate risks of our hydrogen leak are low.",
+      "translation": "好消息是，氢泄漏的即时风险很低。"
+    },
+    {
+      "id": 22,
+      "start": 172.835,
+      "end": 179.709,
+      "text": "At its current rate, it would take over 150 billion years to lose all our hydrogen to space.",
+      "translation": "以当前的速率，再过 1500 亿年所有的氢才会逃逸至宇宙。"
+    },
+    {
+      "id": 23,
+      "start": 179.759,
+      "end": 181.794,
+      "text": "The same goes for our core leak.",
+      "translation": "内核泄漏同样如此。"
+    },
+    {
+      "id": 24,
+      "start": 181.844,
+      "end": 190.052,
+      "text": "Scientists estimate the core won't completely cool for another 700 million to several billion years.",
+      "translation": "科学家们估计地核要在7 亿至数十亿年后才会彻底冷却。"
+    },
+    {
+      "id": 25,
+      "start": 190.102,
+      "end": 196.309,
+      "text": "Methane emissions, however, have the power to alter our Earth's climate within the next decade.",
+      "translation": "不过，甲烷排放可能在十年里改变地球的气候。"
+    },
+    {
+      "id": 26,
+      "start": 196.359,
+      "end": 204.025,
+      "text": "The gas’s unique structure efficiently absorbs energy radiating off the Earth, trapping it in the atmosphere as heat.",
+      "translation": "这个气体能高效吸收地球辐射的能量，将它以热量的形式留在大气层中。"
+    },
+    {
+      "id": 27,
+      "start": 204.075,
+      "end": 210.364,
+      "text": "This gives methane incredible warming potential, 86 times that of carbon dioxide.",
+      "translation": "这意味着甲烷具有极高的保温能力，是二氧化碳的 86 倍。"
+    },
+    {
+      "id": 28,
+      "start": 210.414,
+      "end": 219.248,
+      "text": "The impact of methane escaping from abandoned wells in the US is comparable to burning 10 billion pounds of coal each year.",
+      "translation": "从美国遗弃矿井逸出甲烷的影响相当于每年燃烧 100 亿磅煤炭。"
+    },
+    {
+      "id": 29,
+      "start": 219.298,
+      "end": 231.385,
+      "text": "As abandoned wells in most of the world’s top oil producers have yet to be extensively counted or surveyed, the global emissions of all abandoned wells is likely much, much higher.",
+      "translation": "而世界大多产油国的遗弃矿井尚未被广泛统计或调查，全球废弃矿井的排放很可能要高很多。"
+    },
+    {
+      "id": 30,
+      "start": 231.435,
+      "end": 241.52,
+      "text": "And they join the estimated 570 million tons of methane emitted by other anthropological and natural sources each year.",
+      "translation": "这还不包括每年估计 涉及其他人类和自然因素的5.7 亿吨甲烷排放。"
+    },
+    {
+      "id": 31,
+      "start": 241.57,
+      "end": 253.532,
+      "text": "Beyond their climate impact, these unsealed wells can leach methane and other toxic gases into nearby groundwater, contaminating drinking water and impacting local ecosystems.",
+      "translation": "除了气候影响，这些裸露的矿井会将 甲烷与其他有毒气体排至附近地下水，污染饮用水并影响地区生态系统。"
+    },
+    {
+      "id": 32,
+      "start": 253.582,
+      "end": 258.871,
+      "text": "Luckily, non-producing oil wells can be plugged by pumping cement into their depths.",
+      "translation": "幸运的是，废弃的油井可通过灌满水泥来填上。"
+    },
+    {
+      "id": 33,
+      "start": 258.921,
+      "end": 270.049,
+      "text": "While many state and federal governments require oil and gas companies to plug defunct wells, plugging comes at a high expense, so companies have historically dodged policies.",
+      "translation": "虽然许多联邦和州政府 要求石油与天然气公司堵上废旧油井，但填补的费用颇高，所以这些公司往往规避政策。"
+    },
+    {
+      "id": 34,
+      "start": 270.099,
+      "end": 277.723,
+      "text": "For decades, these leaky, low-producing, and economically non-viable wells were sold off and abandoned.",
+      "translation": "数十年来，这些泄漏、 低产而且无经济收益的油井被售卖，然后遭遗弃。"
+    },
+    {
+      "id": 35,
+      "start": 277.773,
+      "end": 281.978,
+      "text": "It's clear that oil and gas companies won't fix this problem on their own.",
+      "translation": "很明显石油与天然气公司 不会主动去修正这个问题。"
+    },
+    {
+      "id": 36,
+      "start": 282.028,
+      "end": 292.363,
+      "text": "It'll take concerted governmental efforts, such as placing high fees on methane emission and coordinated oversight on plugging, to make sure companies are held accountable.",
+      "translation": "需要协调的政府行动，例如给甲烷排放增高收费，和对于封堵油井的协同监管，以确保公司履行职责。"
+    },
+    {
+      "id": 37,
+      "start": 292.413,
+      "end": 295.825,
+      "text": "But the problem starts before these wells are abandoned.",
+      "translation": "但问题早在油井被弃置前已经出现了。"
+    },
+    {
+      "id": 38,
+      "start": 295.875,
+      "end": 305.501,
+      "text": "Within the US, active oil and gas production emits massive amounts of methane, about 28 times that of abandoned wells.",
+      "translation": "在美国境内，石油与天然气产出造成大量的甲烷排放，大概是废弃油井的 28 倍。"
+    },
+    {
+      "id": 39,
+      "start": 305.551,
+      "end": 311.95,
+      "text": "The best way to eliminate this leak is to stop drilling oil and gas wells in the first place.",
+      "translation": "杜绝这种泄漏的最佳方式是禁止开挖石油和天然气井。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.045,
+      "text": "A hydrogen atom travels high within the outermost layer",
+      "end": 10.956999999999999
+    },
+    {
+      "start": 11.007,
+      "text": "of the Earth’s atmosphere.",
+      "end": 12.959
+    },
+    {
+      "start": 13.009,
+      "text": "This particular atom first entered the exosphere millions of years ago,",
+      "end": 17.13
+    },
+    {
+      "start": 17.18,
+      "text": "and during its tenure on Earth,",
+      "end": 19.006999999999998
+    },
+    {
+      "start": 19.057,
+      "text": "it’s spent time in the waves of the Atlantic Ocean,",
+      "end": 22.259999999999998
+    },
+    {
+      "start": 22.31,
+      "text": "the ground soil of the Amazon,",
+      "end": 24.429
+    },
+    {
+      "start": 24.479,
+      "text": "and even the steam rising off a boiling pot of spaghetti.",
+      "end": 28.307
+    },
+    {
+      "start": 28.357,
+      "text": "But today, traveling 30 times faster than the speed of sound,",
+      "end": 32.895
+    },
+    {
+      "start": 32.945,
+      "text": "it overcomes the Earth’s gravitational pull and escapes,",
+      "end": 37.150000000000006
+    },
+    {
+      "start": 37.2,
+      "text": "joining the roughly 90 tons of material that leak out of our atmosphere each day.",
+      "end": 44.115
+    },
+    {
+      "start": 44.165,
+      "text": "This daily whale-sized atmospheric loss is just one example",
+      "end": 48.745000000000005
+    },
+    {
+      "start": 48.795,
+      "text": "of how the Earth is leaking.",
+      "end": 50.997
+    },
+    {
+      "start": 51.047,
+      "text": "Atoms, energy, and molecules seep from one layer of the planet to another.",
+      "end": 56.794000000000004
+    },
+    {
+      "start": 56.844,
+      "text": "And for Earth, whose stability is necessary to sustain life,",
+      "end": 60.548
+    },
+    {
+      "start": 60.598,
+      "text": "these leaks can seem troubling.",
+      "end": 62.925000000000004
+    },
+    {
+      "start": 62.975,
+      "text": "To better understand the extent of the planet’s imperfect plumbing,",
+      "end": 66.679
+    },
+    {
+      "start": 66.729,
+      "text": "and when it becomes a problem,",
+      "end": 68.598
+    },
+    {
+      "start": 68.648,
+      "text": "let’s visit two more leakage sites.",
+      "end": 72.643
+    },
+    {
+      "start": 72.693,
+      "text": "Our second spot takes us to the Earth’s surface,",
+      "end": 75.73
+    },
+    {
+      "start": 75.78,
+      "text": "to a field in Central Appalachia.",
+      "end": 78.357
+    },
+    {
+      "start": 78.407,
+      "text": "Below, a 1,500 meter deep shaft connects an oil reservoir",
+      "end": 84.28
+    },
+    {
+      "start": 84.33,
+      "text": "with the Earth’s surface.",
+      "end": 86.407
+    },
+    {
+      "start": 86.457,
+      "text": "The oil supply here is dried up, leaving the site neglected and abandoned.",
+      "end": 91.32900000000001
+    },
+    {
+      "start": 91.379,
+      "text": "But this underground reservoir also houses the potent greenhouse gas methane,",
+      "end": 97.21000000000001
+    },
+    {
+      "start": 97.26,
+      "text": "which continues to travel up the shaft and escape through cracks and loose pipes.",
+      "end": 102.09
+    },
+    {
+      "start": 102.14,
+      "text": "This leaky well joins the more than 3 million abandoned wells",
+      "end": 107.095
+    },
+    {
+      "start": 107.145,
+      "text": "scattered throughout the US,",
+      "end": 109.09700000000001
+    },
+    {
+      "start": 109.147,
+      "text": "that collectively emit, by lower estimates,",
+      "end": 111.808
+    },
+    {
+      "start": 111.858,
+      "text": "280,000 metric tons of methane each year.",
+      "end": 117.48
+    },
+    {
+      "start": 117.53,
+      "text": "Our final leakage point takes us deep within the innermost boundary",
+      "end": 121.275
+    },
+    {
+      "start": 121.325,
+      "text": "of the Earth, the core.",
+      "end": 123.236
+    },
+    {
+      "start": 123.286,
+      "text": "Heat, originating from the formation of our solar system,",
+      "end": 126.739
+    },
+    {
+      "start": 126.789,
+      "text": "drives the rotation of liquid metal around the solid inner core.",
+      "end": 131.786
+    },
+    {
+      "start": 131.836,
+      "text": "The motion, in turn, creates the planet’s magnetic field,",
+      "end": 135.79
+    },
+    {
+      "start": 135.84,
+      "text": "a barrier that protects it from cosmic radiation and solar wind.",
+      "end": 140.29399999999998
+    },
+    {
+      "start": 140.344,
+      "text": "But the core isn't perfectly insulated, so heat constantly leaks,",
+      "end": 145.25799999999998
+    },
+    {
+      "start": 145.308,
+      "text": "escaping to the surrounding mantle",
+      "end": 147.385
+    },
+    {
+      "start": 147.435,
+      "text": "and driving plate tectonics and magmatic activity.",
+      "end": 150.84699999999998
+    },
+    {
+      "start": 150.897,
+      "text": "As a result, the core’s outer molten metal is slowly solidifying.",
+      "end": 155.601
+    },
+    {
+      "start": 155.651,
+      "text": "Once fully cooled, the magnetic field will disappear,",
+      "end": 159.063
+    },
+    {
+      "start": 159.113,
+      "text": "leaving us exposed to the Sun’s harshest rays.",
+      "end": 163.06699999999998
+    },
+    {
+      "start": 163.117,
+      "text": "The Earth clearly has some cracks and bleeds.",
+      "end": 166.904
+    },
+    {
+      "start": 166.954,
+      "text": "Should we be worried?",
+      "end": 168.73899999999998
+    },
+    {
+      "start": 168.789,
+      "text": "Thankfully, the immediate risks of our hydrogen leak are low.",
+      "end": 172.785
+    },
+    {
+      "start": 172.835,
+      "text": "At its current rate, it would take over 150 billion years",
+      "end": 176.956
+    },
+    {
+      "start": 177.006,
+      "text": "to lose all our hydrogen to space.",
+      "end": 179.70899999999997
+    },
+    {
+      "start": 179.759,
+      "text": "The same goes for our core leak.",
+      "end": 181.79399999999998
+    },
+    {
+      "start": 181.844,
+      "text": "Scientists estimate the core won't completely cool",
+      "end": 184.922
+    },
+    {
+      "start": 184.972,
+      "text": "for another 700 million to several billion years.",
+      "end": 190.052
+    },
+    {
+      "start": 190.102,
+      "text": "Methane emissions, however,",
+      "end": 192.01299999999998
+    },
+    {
+      "start": 192.063,
+      "text": "have the power to alter our Earth's climate within the next decade.",
+      "end": 196.309
+    },
+    {
+      "start": 196.359,
+      "text": "The gas’s unique structure efficiently absorbs energy radiating off the Earth,",
+      "end": 201.314
+    },
+    {
+      "start": 201.364,
+      "text": "trapping it in the atmosphere as heat.",
+      "end": 204.02499999999998
+    },
+    {
+      "start": 204.075,
+      "text": "This gives methane incredible warming potential,",
+      "end": 207.111
+    },
+    {
+      "start": 207.161,
+      "text": "86 times that of carbon dioxide.",
+      "end": 210.36399999999998
+    },
+    {
+      "start": 210.414,
+      "text": "The impact of methane escaping from abandoned wells in the US",
+      "end": 213.91
+    },
+    {
+      "start": 213.96,
+      "text": "is comparable to burning 10 billion pounds of coal each year.",
+      "end": 219.248
+    },
+    {
+      "start": 219.298,
+      "text": "As abandoned wells in most of the world’s top oil producers",
+      "end": 222.83499999999998
+    },
+    {
+      "start": 222.885,
+      "text": "have yet to be extensively counted or surveyed,",
+      "end": 225.963
+    },
+    {
+      "start": 226.013,
+      "text": "the global emissions of all abandoned wells is likely much, much higher.",
+      "end": 231.385
+    },
+    {
+      "start": 231.435,
+      "text": "And they join the estimated 570 million tons of methane",
+      "end": 236.224
+    },
+    {
+      "start": 236.274,
+      "text": "emitted by other anthropological and natural sources each year.",
+      "end": 241.51999999999998
+    },
+    {
+      "start": 241.57,
+      "text": "Beyond their climate impact,",
+      "end": 243.231
+    },
+    {
+      "start": 243.281,
+      "text": "these unsealed wells can leach methane and other toxic gases",
+      "end": 247.02599999999998
+    },
+    {
+      "start": 247.076,
+      "text": "into nearby groundwater,",
+      "end": 248.861
+    },
+    {
+      "start": 248.911,
+      "text": "contaminating drinking water and impacting local ecosystems.",
+      "end": 253.53199999999998
+    },
+    {
+      "start": 253.582,
+      "text": "Luckily, non-producing oil wells can be plugged by pumping cement",
+      "end": 257.411
+    },
+    {
+      "start": 257.461,
+      "text": "into their depths.",
+      "end": 258.871
+    },
+    {
+      "start": 258.921,
+      "text": "While many state and federal governments require oil and gas companies",
+      "end": 262.75
+    },
+    {
+      "start": 262.8,
+      "text": "to plug defunct wells,",
+      "end": 264.585
+    },
+    {
+      "start": 264.635,
+      "text": "plugging comes at a high expense,",
+      "end": 266.837
+    },
+    {
+      "start": 266.887,
+      "text": "so companies have historically dodged policies.",
+      "end": 270.049
+    },
+    {
+      "start": 270.099,
+      "text": "For decades, these leaky, low-producing, and economically non-viable wells",
+      "end": 275.221
+    },
+    {
+      "start": 275.271,
+      "text": "were sold off and abandoned.",
+      "end": 277.723
+    },
+    {
+      "start": 277.773,
+      "text": "It's clear that oil and gas companies won't fix this problem on their own.",
+      "end": 281.978
+    },
+    {
+      "start": 282.028,
+      "text": "It'll take concerted governmental efforts,",
+      "end": 284.313
+    },
+    {
+      "start": 284.363,
+      "text": "such as placing high fees on methane emission",
+      "end": 287.108
+    },
+    {
+      "start": 287.158,
+      "text": "and coordinated oversight on plugging,",
+      "end": 289.735
+    },
+    {
+      "start": 289.785,
+      "text": "to make sure companies are held accountable.",
+      "end": 292.363
+    },
+    {
+      "start": 292.413,
+      "text": "But the problem starts before these wells are abandoned.",
+      "end": 295.825
+    },
+    {
+      "start": 295.875,
+      "text": "Within the US, active oil and gas production",
+      "end": 299.412
+    },
+    {
+      "start": 299.462,
+      "text": "emits massive amounts of methane,",
+      "end": 301.998
+    },
+    {
+      "start": 302.048,
+      "text": "about 28 times that of abandoned wells.",
+      "end": 305.501
+    },
+    {
+      "start": 305.551,
+      "text": "The best way to eliminate this leak is to stop drilling oil and gas wells",
+      "end": 310.381
+    },
+    {
+      "start": 310.431,
+      "text": "in the first place.",
+      "end": 311.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.045,
+      "text": "一个氢原子在地球大气层",
+      "end": 10.956999999999999
+    },
+    {
+      "start": 11.007,
+      "text": "最外层高空处穿梭。",
+      "end": 12.959
+    },
+    {
+      "start": 13.009,
+      "text": "它在几百万年前第一次进入外逸层，",
+      "end": 17.13
+    },
+    {
+      "start": 17.18,
+      "text": "待在地球期间,",
+      "end": 19.006999999999998
+    },
+    {
+      "start": 19.057,
+      "text": "曾经过大西洋的海浪，",
+      "end": 22.259999999999998
+    },
+    {
+      "start": 22.31,
+      "text": "亚马逊的土壤，",
+      "end": 24.429
+    },
+    {
+      "start": 24.479,
+      "text": "甚至一锅煮沸意面散出的蒸汽。",
+      "end": 28.307
+    },
+    {
+      "start": 28.357,
+      "text": "今天，它以超过音速 30 倍的速度",
+      "end": 32.895
+    },
+    {
+      "start": 32.945,
+      "text": "摆脱了地球的引力束缚，",
+      "end": 37.150000000000006
+    },
+    {
+      "start": 37.2,
+      "text": "成为约 90 吨每天逸出 大气层的物质的一部分。",
+      "end": 44.115
+    },
+    {
+      "start": 44.165,
+      "text": "每天这般巨量的大气层流失",
+      "end": 47.410000000000004
+    },
+    {
+      "start": 47.46,
+      "text": "只是地球正在泄漏的例子之一。",
+      "end": 50.997
+    },
+    {
+      "start": 51.047,
+      "text": "原子、能量和分子 从地球的一层渗透到另一层。",
+      "end": 56.794000000000004
+    },
+    {
+      "start": 56.844,
+      "text": "对地球而言，其稳定性维持着生命，",
+      "end": 60.548
+    },
+    {
+      "start": 60.598,
+      "text": "因此泄漏令人担忧。",
+      "end": 62.925000000000004
+    },
+    {
+      "start": 62.975,
+      "text": "为了更好理解地球的排泄系统，",
+      "end": 66.679
+    },
+    {
+      "start": 66.729,
+      "text": "以及它何时会出问题，",
+      "end": 68.598
+    },
+    {
+      "start": 68.648,
+      "text": "让我们来观察另外两个泄漏点。",
+      "end": 72.643
+    },
+    {
+      "start": 72.693,
+      "text": "第二个点在地球表面，",
+      "end": 75.73
+    },
+    {
+      "start": 75.78,
+      "text": "阿巴拉契亚中部的原野上。",
+      "end": 78.357
+    },
+    {
+      "start": 78.407,
+      "text": "地表下，一座 1500 米深的油井",
+      "end": 82.44500000000001
+    },
+    {
+      "start": 82.495,
+      "text": "将一片储油层与地表相连。",
+      "end": 86.407
+    },
+    {
+      "start": 86.457,
+      "text": "这里石油已经枯竭，于是被遗弃。",
+      "end": 91.32900000000001
+    },
+    {
+      "start": 91.379,
+      "text": "但其储油层也储有强劲温室气体甲烷；",
+      "end": 97.21000000000001
+    },
+    {
+      "start": 97.26,
+      "text": "甲烷持续从油井裂缝和开口管道逸出。",
+      "end": 102.09
+    },
+    {
+      "start": 102.14,
+      "text": "这个泄漏的油井是散布在美国",
+      "end": 107.095
+    },
+    {
+      "start": 107.145,
+      "text": "超过三百万废弃油井中的一座，",
+      "end": 109.09700000000001
+    },
+    {
+      "start": 109.147,
+      "text": "保守估计总共",
+      "end": 111.808
+    },
+    {
+      "start": 111.858,
+      "text": "每年排放超过 28 万吨甲烷。",
+      "end": 117.48
+    },
+    {
+      "start": 117.53,
+      "text": "最后的泄漏点在地球的",
+      "end": 121.275
+    },
+    {
+      "start": 121.325,
+      "text": "最深处，即地核。",
+      "end": 123.236
+    },
+    {
+      "start": 123.286,
+      "text": "来自太阳系诞生时期的热量",
+      "end": 126.739
+    },
+    {
+      "start": 126.789,
+      "text": "驱使液态金属在 坚固内核周围流动。",
+      "end": 131.786
+    },
+    {
+      "start": 131.836,
+      "text": "这进而产生地球的磁场，",
+      "end": 135.79
+    },
+    {
+      "start": 135.84,
+      "text": "保护它免于宇宙辐射和太阳风暴。",
+      "end": 140.29399999999998
+    },
+    {
+      "start": 140.344,
+      "text": "但地核并不是完全隔热的， 所以热量不停地散失，",
+      "end": 145.25799999999998
+    },
+    {
+      "start": 145.308,
+      "text": "传递到周边的地幔",
+      "end": 147.385
+    },
+    {
+      "start": 147.435,
+      "text": "并导致地壳板块运动和火山活动。",
+      "end": 150.84699999999998
+    },
+    {
+      "start": 150.897,
+      "text": "因此，地核外圈熔融金属正缓慢凝固，",
+      "end": 155.601
+    },
+    {
+      "start": 155.651,
+      "text": "彻底冷却之后，磁场会随即消失，",
+      "end": 159.063
+    },
+    {
+      "start": 159.113,
+      "text": "让我们暴露在太阳的猛烈辐射下。",
+      "end": 163.06699999999998
+    },
+    {
+      "start": 163.117,
+      "text": "地球显然有着不少裂缝和伤痕。",
+      "end": 166.904
+    },
+    {
+      "start": 166.954,
+      "text": "我们应当担心吗？",
+      "end": 168.73899999999998
+    },
+    {
+      "start": 168.789,
+      "text": "好消息是，氢泄漏的即时风险很低。",
+      "end": 172.785
+    },
+    {
+      "start": 172.835,
+      "text": "以当前的速率，再过 1500 亿年",
+      "end": 176.956
+    },
+    {
+      "start": 177.006,
+      "text": "所有的氢才会逃逸至宇宙。",
+      "end": 179.70899999999997
+    },
+    {
+      "start": 179.759,
+      "text": "内核泄漏同样如此。",
+      "end": 181.79399999999998
+    },
+    {
+      "start": 181.844,
+      "text": "科学家们估计地核要在",
+      "end": 184.922
+    },
+    {
+      "start": 184.972,
+      "text": "7 亿至数十亿年后才会彻底冷却。",
+      "end": 190.052
+    },
+    {
+      "start": 190.102,
+      "text": "不过，甲烷排放",
+      "end": 192.01299999999998
+    },
+    {
+      "start": 192.063,
+      "text": "可能在十年里改变地球的气候。",
+      "end": 196.309
+    },
+    {
+      "start": 196.359,
+      "text": "这个气体能高效吸收地球辐射的能量，",
+      "end": 201.314
+    },
+    {
+      "start": 201.364,
+      "text": "将它以热量的形式留在大气层中。",
+      "end": 204.02499999999998
+    },
+    {
+      "start": 204.075,
+      "text": "这意味着甲烷具有极高的保温能力，",
+      "end": 207.111
+    },
+    {
+      "start": 207.161,
+      "text": "是二氧化碳的 86 倍。",
+      "end": 210.36399999999998
+    },
+    {
+      "start": 210.414,
+      "text": "从美国遗弃矿井逸出甲烷的影响",
+      "end": 213.91
+    },
+    {
+      "start": 213.96,
+      "text": "相当于每年燃烧 100 亿磅煤炭。",
+      "end": 219.248
+    },
+    {
+      "start": 219.298,
+      "text": "而世界大多产油国的遗弃矿井",
+      "end": 222.83499999999998
+    },
+    {
+      "start": 222.885,
+      "text": "尚未被广泛统计或调查，",
+      "end": 225.963
+    },
+    {
+      "start": 226.013,
+      "text": "全球废弃矿井的排放很可能要高很多。",
+      "end": 231.385
+    },
+    {
+      "start": 231.435,
+      "text": "这还不包括每年估计 涉及其他人类和自然因素的",
+      "end": 236.224
+    },
+    {
+      "start": 236.274,
+      "text": "5.7 亿吨甲烷排放。",
+      "end": 241.51999999999998
+    },
+    {
+      "start": 241.57,
+      "text": "除了气候影响，",
+      "end": 243.231
+    },
+    {
+      "start": 243.281,
+      "text": "这些裸露的矿井会将 甲烷与其他有毒气体",
+      "end": 247.02599999999998
+    },
+    {
+      "start": 247.076,
+      "text": "排至附近地下水，",
+      "end": 248.861
+    },
+    {
+      "start": 248.911,
+      "text": "污染饮用水并影响地区生态系统。",
+      "end": 253.53199999999998
+    },
+    {
+      "start": 253.582,
+      "text": "幸运的是，废弃的油井可通过灌满水泥",
+      "end": 257.411
+    },
+    {
+      "start": 257.461,
+      "text": "来填上。",
+      "end": 258.871
+    },
+    {
+      "start": 258.921,
+      "text": "虽然许多联邦和州政府 要求石油与天然气公司",
+      "end": 262.75
+    },
+    {
+      "start": 262.8,
+      "text": "堵上废旧油井，",
+      "end": 264.585
+    },
+    {
+      "start": 264.635,
+      "text": "但填补的费用颇高，",
+      "end": 266.837
+    },
+    {
+      "start": 266.887,
+      "text": "所以这些公司往往规避政策。",
+      "end": 270.049
+    },
+    {
+      "start": 270.099,
+      "text": "数十年来，这些泄漏、 低产而且无经济收益的油井",
+      "end": 275.221
+    },
+    {
+      "start": 275.271,
+      "text": "被售卖，然后遭遗弃。",
+      "end": 277.723
+    },
+    {
+      "start": 277.773,
+      "text": "很明显石油与天然气公司 不会主动去修正这个问题。",
+      "end": 281.978
+    },
+    {
+      "start": 282.028,
+      "text": "需要协调的政府行动，",
+      "end": 284.313
+    },
+    {
+      "start": 284.363,
+      "text": "例如给甲烷排放增高收费，",
+      "end": 287.108
+    },
+    {
+      "start": 287.158,
+      "text": "和对于封堵油井的协同监管，",
+      "end": 289.735
+    },
+    {
+      "start": 289.785,
+      "text": "以确保公司履行职责。",
+      "end": 292.363
+    },
+    {
+      "start": 292.413,
+      "text": "但问题早在油井被弃置前已经出现了。",
+      "end": 295.825
+    },
+    {
+      "start": 295.875,
+      "text": "在美国境内，石油与天然气产出",
+      "end": 299.412
+    },
+    {
+      "start": 299.462,
+      "text": "造成大量的甲烷排放，",
+      "end": 301.998
+    },
+    {
+      "start": 302.048,
+      "text": "大概是废弃油井的 28 倍。",
+      "end": 305.501
+    },
+    {
+      "start": 305.551,
+      "text": "杜绝这种泄漏的最佳方式是",
+      "end": 307.378
+    },
+    {
+      "start": 307.428,
+      "text": "禁止开挖石油和天然气井。",
+      "end": 311.95
+    }
+  ]
+}

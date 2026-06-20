@@ -1,0 +1,1112 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The Nazis recruited to win the Cold War",
+    "speaker": "Brian Crim",
+    "duration": 385,
+    "slug": "brian_crim_the_nazis_recruited_to_win_the_cold_war",
+    "sourcePage": "https://www.ted.com/talks/brian_crim_the_nazis_recruited_to_win_the_cold_war",
+    "translationSourcePage": "https://www.ted.com/talks/brian_crim_the_nazis_recruited_to_win_the_cold_war?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/69/98/001/products/2023e-brian-crim-operation-paperclip-001-fallback-603fd534-22b2-4330-b236-36eaf4a5dae9-1200k.mp4",
+    "youtubeId": "OiKQjezOKXc",
+    "youtubeTitle": "The Nazis recruited to win the Cold War - Brian Crim"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.878,
+      "end": 12.0,
+      "text": "In May of 1945, the Third Reich was in chaos.",
+      "translation": "1945 年 5 月， 纳粹德国正处于混乱之中。"
+    },
+    {
+      "id": 2,
+      "start": 12.05,
+      "end": 22.593,
+      "text": "Adolf Hitler was dead, German surrender was imminent, and Allied troops had already begun divvying up German territory.",
+      "translation": "阿道夫·希特勒已去世， 德国的投降迫在眉睫。盟军已经迫不及待开始瓜分德国领土。"
+    },
+    {
+      "id": 3,
+      "start": 22.643,
+      "end": 28.683,
+      "text": "But high-ranking Nazi engineer Wernher von Braun wasn’t worried.",
+      "translation": "话虽如此，纳粹高级工程师华纳·冯·布朗 （Wernher von Braun）却不为所动。"
+    },
+    {
+      "id": 4,
+      "start": 28.733,
+      "end": 37.9,
+      "text": "In fact, he approached the US government directly— informing them of his location and waiting calmly for their arrival.",
+      "translation": "实际上，他直接联系了美国政府，告知了 他们自己所在的位置，并冷静地等待着他们的到来。"
+    },
+    {
+      "id": 5,
+      "start": 37.95,
+      "end": 48.703,
+      "text": "As the brain behind the world’s first long-range ballistic missile, von Braun knew his expertise made him a highly valuable military asset.",
+      "translation": "作为世界远程弹道导弹之父，华纳深知自己精湛的技术会让他 成为军事重地的宝贵财产。"
+    },
+    {
+      "id": 6,
+      "start": 48.753,
+      "end": 55.752,
+      "text": "And sure enough, his so-called captors gave him a decidedly warm welcome.",
+      "translation": "果不其然，他所谓的“绑架者” 对他表示了热烈的欢迎。"
+    },
+    {
+      "id": 7,
+      "start": 55.802,
+      "end": 61.549,
+      "text": "Von Braun wasn't the only Nazi scientist receiving this treatment.",
+      "translation": "华纳并不是唯一受到此待遇的 纳粹科学家。"
+    },
+    {
+      "id": 8,
+      "start": 61.599,
+      "end": 66.471,
+      "text": "While World War II was almost over, a new war was brewing.",
+      "translation": "虽然第二次世界大战即将结束， 但是一场新的斗争正在酝酿之中。"
+    },
+    {
+      "id": 9,
+      "start": 66.521,
+      "end": 74.062,
+      "text": "And the US was eager to recruit the smartest minds in Germany before the Soviets got the chance.",
+      "translation": "在苏联抓住机会之前，美国迫切的想雇佣德国一些最聪明的科学家。"
+    },
+    {
+      "id": 10,
+      "start": 74.112,
+      "end": 88.493,
+      "text": "This became known as Operation Paperclip— a clandestine campaign that brought over 1,500 German scientists to the US between 1945 and 1962.",
+      "translation": "此次行动以 “回形针行动” 为人熟知，这个秘密行动在1945年到1962年之间，将1500名以上的德国科学家带到了美国。"
+    },
+    {
+      "id": 11,
+      "start": 88.543,
+      "end": 102.84,
+      "text": "The program was named for the paperclips attached to the files of early recruits— indicating that incriminating information like Nazi affiliations or suspected war crimes could be disregarded.",
+      "translation": "该计划以早期新兵档案中 附带的回形针命名，这表明科学家们和纳粹的隶属关系或涉嫌战争罪等问题可以被忽视。"
+    },
+    {
+      "id": 12,
+      "start": 102.89,
+      "end": 113.142,
+      "text": "Von Braun, for example, had overseen an SS project that relied on forced labor from thousands of concentration camp prisoners.",
+      "translation": "就拿华纳来举例，他监督的SS项目 是依靠几千位来自集中营的囚犯在被强迫的条件下完成的。"
+    },
+    {
+      "id": 13,
+      "start": 113.192,
+      "end": 120.817,
+      "text": "While von Braun approached the US directly, other scientists had to be identified and located.",
+      "translation": "虽然华纳直接联系了美国，但是其他科学家还需要被识别和定位。"
+    },
+    {
+      "id": 14,
+      "start": 120.867,
+      "end": 133.037,
+      "text": "One important asset in this effort was a Nazi-compiled list of Germany’s top scientists, which someone had unsuccessfully tried to dispose of by flushing down a toilet.",
+      "translation": "这项任务得以突破的重要原因是，纳粹编制的德国顶尖科学家名单， 虽然有人曾试图将其冲到厕所中销毁，但未成功。"
+    },
+    {
+      "id": 15,
+      "start": 133.087,
+      "end": 136.499,
+      "text": "But the US was just one player in this scramble.",
+      "translation": "值得注意的是， 美国只是这场战斗中的一位玩家。"
+    },
+    {
+      "id": 16,
+      "start": 136.549,
+      "end": 144.966,
+      "text": "The Soviets were also competing to seize German brainpower, resorting to bribery and forced relocation.",
+      "translation": "此时的苏联也在想方设法 获取德国最强大的“大脑”，为此，他们采取贿赂 和强迫迁移等措施。"
+    },
+    {
+      "id": 17,
+      "start": 145.016,
+      "end": 155.059,
+      "text": "The French and British lacked the money to lure the best German brains, but that didn't stop them from kidnapping the occasional scientist.",
+      "translation": "即使是资金条件不足以吸引 德国优秀科学家的法国和英国，也试图绑架他们所能遇到的科学家。"
+    },
+    {
+      "id": 18,
+      "start": 155.109,
+      "end": 161.607,
+      "text": "They also stole patents and dismantled factories to learn what they could.",
+      "translation": "他们还窃取了专利， 并拆除了工厂以尽其所能地学习。"
+    },
+    {
+      "id": 19,
+      "start": 161.657,
+      "end": 175.58,
+      "text": "The US approach, however, featured a different and particularly tempting brand of coercion: the promise to relocate entire German families and grant them citizenship.",
+      "translation": "与此不同的，美国使用了一种独具特色的诱惑胁迫法：美国承诺将重新安置整个德国家庭 并给予他们公民身份。"
+    },
+    {
+      "id": 20,
+      "start": 175.63,
+      "end": 182.879,
+      "text": "This controversial offer was one of the reasons Paperclip was initially shrouded in secrecy.",
+      "translation": "这个有争议的承诺也是回形针计划最初被保密的原因之一。"
+    },
+    {
+      "id": 21,
+      "start": 182.929,
+      "end": 190.678,
+      "text": "But the project became difficult to hide when Germans started popping up all over the US.",
+      "translation": "但是，当德国人在美国各处出现时，这个秘密便变得难以掩盖了。"
+    },
+    {
+      "id": 22,
+      "start": 190.728,
+      "end": 198.811,
+      "text": "The military tried to get ahead of any controversy by revealing the operation to the press in late 1946.",
+      "translation": "于是，1946年晚期，抢在舆论爆发前，军方向出版社透露了本次的行动。"
+    },
+    {
+      "id": 23,
+      "start": 198.861,
+      "end": 214.452,
+      "text": "But the news immediately attracted criticism from many prominent voices, including Albert Einstein, Eleanor Roosevelt, and the NAACP, as well as many veteran’s organizations.",
+      "translation": "这个消息立即引发了许多知名人士的批评，其中包括阿尔伯特·爱因斯坦，爱莲娜·罗斯福， 美国全国有色人种协进会，以及许多退役兵组织。"
+    },
+    {
+      "id": 24,
+      "start": 214.502,
+      "end": 228.382,
+      "text": "These parties opposed granting German scientists citizenship while millions of displaced persons, including survivors of Nazi atrocities, had no chance of coming to America.",
+      "translation": "这些政党反对授予德国科学家 公民身份，因为此时还有上亿， 包括纳粹暴行后的幸存者，流离失所的人没有机会来到美国。"
+    },
+    {
+      "id": 25,
+      "start": 228.432,
+      "end": 236.682,
+      "text": "Most Americans were also against employing former Nazis in sensitive national security positions.",
+      "translation": "大多数美国人还反对雇用 前纳粹分子担任敏感的国家安全职位。"
+    },
+    {
+      "id": 26,
+      "start": 236.732,
+      "end": 247.193,
+      "text": "But as the Cold War ramped up, the military argument for keeping these scientists out of Soviet hands overpowered popular objections.",
+      "translation": "但是随着冷战的加剧，军方为了不让这些科学家 落入苏联手中的观点压倒了民众的反对意见。"
+    },
+    {
+      "id": 27,
+      "start": 247.243,
+      "end": 258.12,
+      "text": "With his Nazi past largely hidden from the public, von Braun became one of the US’s most important engineers at the height of the Space Race.",
+      "translation": "在华纳对公众隐瞒自己过去为纳粹的条件下，在太空竞赛的高峰期，他成为了美国最重要的工程师之一。"
+    },
+    {
+      "id": 28,
+      "start": 258.17,
+      "end": 267.672,
+      "text": "In 1958, his team responded to the Soviet launch of Sputnik with the US’s own successful satellite launch.",
+      "translation": "1958年，他的团队 以美国自己研发的人造卫星对苏联发射的人造卫星做出了回应。"
+    },
+    {
+      "id": 29,
+      "start": 267.722,
+      "end": 276.43,
+      "text": "And in the 60s, he was the chief architect of Saturn V, the rocket that brought Americans to the moon.",
+      "translation": "在60年代，他是将美国人送上月球的火箭土星五号的首席架构师。"
+    },
+    {
+      "id": 30,
+      "start": 276.48,
+      "end": 288.859,
+      "text": "Other Paperclip recruits contributed to the development of chemical weapons such as Agent Orange, pharmaceutical research, and the development of modern airplanes.",
+      "translation": "其他回形针计划的成员为橙剂 （Agent Orange）等化学武器的发展、药物研究和现代飞机的开发做出了贡献。"
+    },
+    {
+      "id": 31,
+      "start": 288.909,
+      "end": 294.615,
+      "text": "These contributions helped the US government present Paperclip as a success.",
+      "translation": "这些杰出的贡献使得回形针计划 成为美国政府的骄傲。"
+    },
+    {
+      "id": 32,
+      "start": 294.665,
+      "end": 300.955,
+      "text": "But, in hindsight, it’s hard to gauge how helpful the program really was.",
+      "translation": "但是，事后看来， 很难衡量该计划到底有多有用。"
+    },
+    {
+      "id": 33,
+      "start": 301.005,
+      "end": 312.758,
+      "text": "While von Braun saved the US years of rocketry experimentation, there's no reason to think American scientists couldn't have developed the same technology without him.",
+      "translation": "尽管华纳帮助美国节省了 多年火箭实验的时间，但是我们没有理由认为美国的 科学家没了华纳就没办法研究出同样的成果。"
+    },
+    {
+      "id": 34,
+      "start": 312.808,
+      "end": 319.765,
+      "text": "Furthermore, very few Paperclippers were as exceptional as von Braun.",
+      "translation": "此外，回形针计划中的其他成员 极少有像华纳这么出类拔萃的，"
+    },
+    {
+      "id": 35,
+      "start": 319.815,
+      "end": 331.36,
+      "text": "Many were average scientists who either completed their contracts and returned to Germany, or took jobs alongside Americans with equivalent expertise.",
+      "translation": "大多数都是普通的科学家， 他们要不在完成合约之后返回德国。要不就是与具有同样专业知识的美国人共事。"
+    },
+    {
+      "id": 36,
+      "start": 331.41,
+      "end": 343.456,
+      "text": "But ultimately, the issue of Paperclip’s success is just one of many questions raised by its contentious approach to science, ethics, and national security.",
+      "translation": "但归根结底， 回形针计划是否成功的问题，只是由此计划对于美国科学，伦理，以及国防的持续影响所引发的疑问之一。"
+    },
+    {
+      "id": 37,
+      "start": 343.506,
+      "end": 351.797,
+      "text": "Can scientists working on military technology be apolitical, or are they responsible for their creations?",
+      "translation": "研究军事科技的科学家们是否能做到 无心政治？或者他们是否可以对自己的研究负责？"
+    },
+    {
+      "id": 38,
+      "start": 351.847,
+      "end": 358.262,
+      "text": "Can pressing political and military concerns justify overlooking war crimes?",
+      "translation": "紧迫的政治和军事局面是否可以让我们 忽视他人的战争罪行？"
+    },
+    {
+      "id": 39,
+      "start": 358.312,
+      "end": 384.95,
+      "text": "In many ways, von Braun’s obituary sums up the operation’s murkiness: “A kind of Faustian shadow may be discerned in [...] the fascinating career of Wernher von Braun: a man so possessed of [...] intellectual hunger, that any accommodation may be justified.”",
+      "translation": "从各方面考量，华纳的讣告总结了 本次计划的模糊点：“华纳的职业生涯是灿烂的，但貌似可以察觉到一点浮士德的影子，他对知识的如饥似渴似乎可以让一切调整看似正确。“"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.878,
+      "text": "In May of 1945, the Third Reich was in chaos.",
+      "end": 12.0
+    },
+    {
+      "start": 12.05,
+      "text": "Adolf Hitler was dead, German surrender was imminent,",
+      "end": 16.671
+    },
+    {
+      "start": 16.721,
+      "text": "and Allied troops had already begun divvying up German territory.",
+      "end": 22.593
+    },
+    {
+      "start": 22.643,
+      "text": "But high-ranking Nazi engineer Wernher von Braun wasn’t worried.",
+      "end": 28.683
+    },
+    {
+      "start": 28.733,
+      "text": "In fact, he approached the US government directly—",
+      "end": 32.061
+    },
+    {
+      "start": 32.111,
+      "text": "informing them of his location and waiting calmly for their arrival.",
+      "end": 37.900000000000006
+    },
+    {
+      "start": 37.95,
+      "text": "As the brain behind the world’s first long-range ballistic missile,",
+      "end": 42.488
+    },
+    {
+      "start": 42.538,
+      "text": "von Braun knew his expertise made him a highly valuable military asset.",
+      "end": 48.703
+    },
+    {
+      "start": 48.753,
+      "text": "And sure enough, his so-called captors gave him a decidedly warm welcome.",
+      "end": 55.752
+    },
+    {
+      "start": 55.802,
+      "text": "Von Braun wasn't the only Nazi scientist receiving this treatment.",
+      "end": 61.549
+    },
+    {
+      "start": 61.599,
+      "text": "While World War II was almost over, a new war was brewing.",
+      "end": 66.471
+    },
+    {
+      "start": 66.521,
+      "text": "And the US was eager to recruit the smartest minds in Germany",
+      "end": 71.017
+    },
+    {
+      "start": 71.067,
+      "text": "before the Soviets got the chance.",
+      "end": 74.062
+    },
+    {
+      "start": 74.112,
+      "text": "This became known as Operation Paperclip—",
+      "end": 77.732
+    },
+    {
+      "start": 77.782,
+      "text": "a clandestine campaign that brought over 1,500 German scientists to the US",
+      "end": 84.405
+    },
+    {
+      "start": 84.455,
+      "text": "between 1945 and 1962.",
+      "end": 88.49300000000001
+    },
+    {
+      "start": 88.543,
+      "text": "The program was named for the paperclips attached to the files of early recruits—",
+      "end": 93.372
+    },
+    {
+      "start": 93.422,
+      "text": "indicating that incriminating information like Nazi affiliations",
+      "end": 98.419
+    },
+    {
+      "start": 98.469,
+      "text": "or suspected war crimes could be disregarded.",
+      "end": 102.84
+    },
+    {
+      "start": 102.89,
+      "text": "Von Braun, for example, had overseen an SS project",
+      "end": 107.178
+    },
+    {
+      "start": 107.228,
+      "text": "that relied on forced labor from thousands of concentration camp prisoners.",
+      "end": 113.142
+    },
+    {
+      "start": 113.192,
+      "text": "While von Braun approached the US directly,",
+      "end": 116.437
+    },
+    {
+      "start": 116.487,
+      "text": "other scientists had to be identified and located.",
+      "end": 120.81700000000001
+    },
+    {
+      "start": 120.867,
+      "text": "One important asset in this effort",
+      "end": 123.027
+    },
+    {
+      "start": 123.077,
+      "text": "was a Nazi-compiled list of Germany’s top scientists,",
+      "end": 127.156
+    },
+    {
+      "start": 127.206,
+      "text": "which someone had unsuccessfully tried to dispose of by flushing down a toilet.",
+      "end": 133.03699999999998
+    },
+    {
+      "start": 133.087,
+      "text": "But the US was just one player in this scramble.",
+      "end": 136.499
+    },
+    {
+      "start": 136.549,
+      "text": "The Soviets were also competing to seize German brainpower,",
+      "end": 140.58599999999998
+    },
+    {
+      "start": 140.636,
+      "text": "resorting to bribery and forced relocation.",
+      "end": 144.96599999999998
+    },
+    {
+      "start": 145.016,
+      "text": "The French and British lacked the money to lure the best German brains,",
+      "end": 149.97099999999998
+    },
+    {
+      "start": 150.021,
+      "text": "but that didn't stop them from kidnapping the occasional scientist.",
+      "end": 155.059
+    },
+    {
+      "start": 155.109,
+      "text": "They also stole patents and dismantled factories to learn what they could.",
+      "end": 161.607
+    },
+    {
+      "start": 161.657,
+      "text": "The US approach, however, featured a different and particularly tempting",
+      "end": 166.654
+    },
+    {
+      "start": 166.704,
+      "text": "brand of coercion:",
+      "end": 168.78099999999998
+    },
+    {
+      "start": 168.831,
+      "text": "the promise to relocate entire German families and grant them citizenship.",
+      "end": 175.57999999999998
+    },
+    {
+      "start": 175.63,
+      "text": "This controversial offer was one of the reasons",
+      "end": 178.708
+    },
+    {
+      "start": 178.758,
+      "text": "Paperclip was initially shrouded in secrecy.",
+      "end": 182.879
+    },
+    {
+      "start": 182.929,
+      "text": "But the project became difficult to hide when Germans started popping up",
+      "end": 188.259
+    },
+    {
+      "start": 188.309,
+      "text": "all over the US.",
+      "end": 190.678
+    },
+    {
+      "start": 190.728,
+      "text": "The military tried to get ahead of any controversy",
+      "end": 193.72299999999998
+    },
+    {
+      "start": 193.773,
+      "text": "by revealing the operation to the press in late 1946.",
+      "end": 198.81099999999998
+    },
+    {
+      "start": 198.861,
+      "text": "But the news immediately attracted criticism from many prominent voices,",
+      "end": 204.31699999999998
+    },
+    {
+      "start": 204.367,
+      "text": "including Albert Einstein, Eleanor Roosevelt, and the NAACP,",
+      "end": 210.86499999999998
+    },
+    {
+      "start": 210.915,
+      "text": "as well as many veteran’s organizations.",
+      "end": 214.452
+    },
+    {
+      "start": 214.502,
+      "text": "These parties opposed granting German scientists citizenship",
+      "end": 219.248
+    },
+    {
+      "start": 219.298,
+      "text": "while millions of displaced persons, including survivors of Nazi atrocities,",
+      "end": 225.087
+    },
+    {
+      "start": 225.137,
+      "text": "had no chance of coming to America.",
+      "end": 228.38199999999998
+    },
+    {
+      "start": 228.432,
+      "text": "Most Americans were also against employing former Nazis",
+      "end": 232.887
+    },
+    {
+      "start": 232.937,
+      "text": "in sensitive national security positions.",
+      "end": 236.682
+    },
+    {
+      "start": 236.732,
+      "text": "But as the Cold War ramped up,",
+      "end": 239.31
+    },
+    {
+      "start": 239.36,
+      "text": "the military argument for keeping these scientists out of Soviet hands",
+      "end": 243.648
+    },
+    {
+      "start": 243.698,
+      "text": "overpowered popular objections.",
+      "end": 247.19299999999998
+    },
+    {
+      "start": 247.243,
+      "text": "With his Nazi past largely hidden from the public,",
+      "end": 251.03
+    },
+    {
+      "start": 251.08,
+      "text": "von Braun became one of the US’s most important engineers",
+      "end": 255.451
+    },
+    {
+      "start": 255.501,
+      "text": "at the height of the Space Race.",
+      "end": 258.12
+    },
+    {
+      "start": 258.17,
+      "text": "In 1958, his team responded to the Soviet launch of Sputnik",
+      "end": 263.251
+    },
+    {
+      "start": 263.301,
+      "text": "with the US’s own successful satellite launch.",
+      "end": 267.67199999999997
+    },
+    {
+      "start": 267.722,
+      "text": "And in the 60s, he was the chief architect of Saturn V,",
+      "end": 273.05199999999996
+    },
+    {
+      "start": 273.102,
+      "text": "the rocket that brought Americans to the moon.",
+      "end": 276.43
+    },
+    {
+      "start": 276.48,
+      "text": "Other Paperclip recruits contributed to the development of chemical weapons",
+      "end": 281.185
+    },
+    {
+      "start": 281.235,
+      "text": "such as Agent Orange, pharmaceutical research,",
+      "end": 285.31399999999996
+    },
+    {
+      "start": 285.364,
+      "text": "and the development of modern airplanes.",
+      "end": 288.859
+    },
+    {
+      "start": 288.909,
+      "text": "These contributions helped the US government present Paperclip as a success.",
+      "end": 294.615
+    },
+    {
+      "start": 294.665,
+      "text": "But, in hindsight, it’s hard to gauge how helpful the program really was.",
+      "end": 300.955
+    },
+    {
+      "start": 301.005,
+      "text": "While von Braun saved the US years of rocketry experimentation,",
+      "end": 306.127
+    },
+    {
+      "start": 306.177,
+      "text": "there's no reason to think American scientists couldn't have developed",
+      "end": 309.755
+    },
+    {
+      "start": 309.805,
+      "text": "the same technology without him.",
+      "end": 312.758
+    },
+    {
+      "start": 312.808,
+      "text": "Furthermore, very few Paperclippers were as exceptional as von Braun.",
+      "end": 319.765
+    },
+    {
+      "start": 319.815,
+      "text": "Many were average scientists who either completed their contracts",
+      "end": 324.228
+    },
+    {
+      "start": 324.278,
+      "text": "and returned to Germany,",
+      "end": 326.147
+    },
+    {
+      "start": 326.197,
+      "text": "or took jobs alongside Americans with equivalent expertise.",
+      "end": 331.36
+    },
+    {
+      "start": 331.41,
+      "text": "But ultimately, the issue of Paperclip’s success",
+      "end": 334.78
+    },
+    {
+      "start": 334.83,
+      "text": "is just one of many questions raised by its contentious approach",
+      "end": 339.368
+    },
+    {
+      "start": 339.418,
+      "text": "to science, ethics, and national security.",
+      "end": 343.45599999999996
+    },
+    {
+      "start": 343.506,
+      "text": "Can scientists working on military technology be apolitical,",
+      "end": 348.252
+    },
+    {
+      "start": 348.302,
+      "text": "or are they responsible for their creations?",
+      "end": 351.79699999999997
+    },
+    {
+      "start": 351.847,
+      "text": "Can pressing political and military concerns justify overlooking war crimes?",
+      "end": 358.262
+    },
+    {
+      "start": 358.312,
+      "text": "In many ways, von Braun’s obituary sums up the operation’s murkiness:",
+      "end": 364.56
+    },
+    {
+      "start": 364.61,
+      "text": "“A kind of Faustian shadow may be discerned in [...] the fascinating career",
+      "end": 371.233
+    },
+    {
+      "start": 371.283,
+      "text": "of Wernher von Braun:",
+      "end": 374.236
+    },
+    {
+      "start": 374.286,
+      "text": "a man so possessed of [...] intellectual hunger,",
+      "end": 378.407
+    },
+    {
+      "start": 378.457,
+      "text": "that any accommodation may be justified.”",
+      "end": 384.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.878,
+      "text": "1945 年 5 月， 纳粹德国正处于混乱之中。",
+      "end": 12.0
+    },
+    {
+      "start": 12.05,
+      "text": "阿道夫·希特勒已去世， 德国的投降迫在眉睫。",
+      "end": 16.671
+    },
+    {
+      "start": 16.721,
+      "text": "盟军已经迫不及待开始瓜分德国领土。",
+      "end": 22.593
+    },
+    {
+      "start": 22.643,
+      "text": "话虽如此，纳粹高级工程师华纳·冯·布朗 （Wernher von Braun）却不为所动。",
+      "end": 28.683
+    },
+    {
+      "start": 28.733,
+      "text": "实际上，他直接联系了美国政府，告知了 他们自己所在的位置，",
+      "end": 32.061
+    },
+    {
+      "start": 32.111,
+      "text": "并冷静地等待着他们的到来。",
+      "end": 37.900000000000006
+    },
+    {
+      "start": 37.95,
+      "text": "作为世界远程弹道导弹之父，",
+      "end": 42.488
+    },
+    {
+      "start": 42.538,
+      "text": "华纳深知自己精湛的技术会让他 成为军事重地的宝贵财产。",
+      "end": 48.703
+    },
+    {
+      "start": 48.753,
+      "text": "果不其然，他所谓的“绑架者” 对他表示了热烈的欢迎。",
+      "end": 55.752
+    },
+    {
+      "start": 55.802,
+      "text": "华纳并不是唯一受到此待遇的 纳粹科学家。",
+      "end": 61.549
+    },
+    {
+      "start": 61.599,
+      "text": "虽然第二次世界大战即将结束， 但是一场新的斗争正在酝酿之中。",
+      "end": 66.471
+    },
+    {
+      "start": 66.521,
+      "text": "在苏联抓住机会之前，美国迫切的",
+      "end": 71.017
+    },
+    {
+      "start": 71.067,
+      "text": "想雇佣德国一些最聪明的科学家。",
+      "end": 74.062
+    },
+    {
+      "start": 74.112,
+      "text": "此次行动以 “回形针行动” 为人熟知，",
+      "end": 77.732
+    },
+    {
+      "start": 77.782,
+      "text": "这个秘密行动在1945年到1962年之间，",
+      "end": 84.405
+    },
+    {
+      "start": 84.455,
+      "text": "将1500名以上的德国科学家带到了美国。",
+      "end": 88.49300000000001
+    },
+    {
+      "start": 88.543,
+      "text": "该计划以早期新兵档案中 附带的回形针命名，",
+      "end": 93.372
+    },
+    {
+      "start": 93.422,
+      "text": "这表明科学家们和纳粹的隶属关系",
+      "end": 98.419
+    },
+    {
+      "start": 98.469,
+      "text": "或涉嫌战争罪等问题可以被忽视。",
+      "end": 102.84
+    },
+    {
+      "start": 102.89,
+      "text": "就拿华纳来举例，他监督的SS项目 是依靠几千位来自集中营的囚犯",
+      "end": 107.178
+    },
+    {
+      "start": 107.228,
+      "text": "在被强迫的条件下完成的。",
+      "end": 113.142
+    },
+    {
+      "start": 113.192,
+      "text": "虽然华纳直接联系了美国，",
+      "end": 116.437
+    },
+    {
+      "start": 116.487,
+      "text": "但是其他科学家还需要被识别和定位。",
+      "end": 120.81700000000001
+    },
+    {
+      "start": 120.867,
+      "text": "这项任务得以突破的重要原因是，",
+      "end": 123.027
+    },
+    {
+      "start": 123.077,
+      "text": "纳粹编制的德国顶尖科学家名单， 虽然有人曾试图",
+      "end": 127.156
+    },
+    {
+      "start": 127.206,
+      "text": "将其冲到厕所中销毁，但未成功。",
+      "end": 133.03699999999998
+    },
+    {
+      "start": 133.087,
+      "text": "值得注意的是， 美国只是这场战斗中的一位玩家。",
+      "end": 136.499
+    },
+    {
+      "start": 136.549,
+      "text": "此时的苏联也在想方设法 获取德国最强大的“大脑”，",
+      "end": 140.58599999999998
+    },
+    {
+      "start": 140.636,
+      "text": "为此，他们采取贿赂 和强迫迁移等措施。",
+      "end": 144.96599999999998
+    },
+    {
+      "start": 145.016,
+      "text": "即使是资金条件不足以吸引 德国优秀科学家的法国和英国，",
+      "end": 149.97099999999998
+    },
+    {
+      "start": 150.021,
+      "text": "也试图绑架他们所能遇到的科学家。",
+      "end": 155.059
+    },
+    {
+      "start": 155.109,
+      "text": "他们还窃取了专利， 并拆除了工厂以尽其所能地学习。",
+      "end": 161.607
+    },
+    {
+      "start": 161.657,
+      "text": "与此不同的，美国使用了一种独具特色的",
+      "end": 166.654
+    },
+    {
+      "start": 166.704,
+      "text": "诱惑胁迫法：",
+      "end": 168.78099999999998
+    },
+    {
+      "start": 168.831,
+      "text": "美国承诺将重新安置整个德国家庭 并给予他们公民身份。",
+      "end": 175.57999999999998
+    },
+    {
+      "start": 175.63,
+      "text": "这个有争议的承诺也是",
+      "end": 178.708
+    },
+    {
+      "start": 178.758,
+      "text": "回形针计划最初被保密的原因之一。",
+      "end": 182.879
+    },
+    {
+      "start": 182.929,
+      "text": "但是，当德国人在美国各处出现时，",
+      "end": 188.259
+    },
+    {
+      "start": 188.309,
+      "text": "这个秘密便变得难以掩盖了。",
+      "end": 190.678
+    },
+    {
+      "start": 190.728,
+      "text": "于是，1946年晚期，抢在舆论爆发前，",
+      "end": 193.72299999999998
+    },
+    {
+      "start": 193.773,
+      "text": "军方向出版社透露了本次的行动。",
+      "end": 198.81099999999998
+    },
+    {
+      "start": 198.861,
+      "text": "这个消息立即引发了许多知名人士的批评，",
+      "end": 204.31699999999998
+    },
+    {
+      "start": 204.367,
+      "text": "其中包括阿尔伯特·爱因斯坦，爱莲娜·罗斯福， 美国全国有色人种协进会，",
+      "end": 210.86499999999998
+    },
+    {
+      "start": 210.915,
+      "text": "以及许多退役兵组织。",
+      "end": 214.452
+    },
+    {
+      "start": 214.502,
+      "text": "这些政党反对授予德国科学家 公民身份，",
+      "end": 219.248
+    },
+    {
+      "start": 219.298,
+      "text": "因为此时还有上亿， 包括纳粹暴行后的幸存者，",
+      "end": 225.087
+    },
+    {
+      "start": 225.137,
+      "text": "流离失所的人没有机会来到美国。",
+      "end": 228.38199999999998
+    },
+    {
+      "start": 228.432,
+      "text": "大多数美国人还反对雇用 前纳粹分子",
+      "end": 232.887
+    },
+    {
+      "start": 232.937,
+      "text": "担任敏感的国家安全职位。",
+      "end": 236.682
+    },
+    {
+      "start": 236.732,
+      "text": "但是随着冷战的加剧，",
+      "end": 239.31
+    },
+    {
+      "start": 239.36,
+      "text": "军方为了不让这些科学家 落入苏联手中的观点",
+      "end": 243.648
+    },
+    {
+      "start": 243.698,
+      "text": "压倒了民众的反对意见。",
+      "end": 247.19299999999998
+    },
+    {
+      "start": 247.243,
+      "text": "在华纳对公众隐瞒自己过去为纳粹的条件下，",
+      "end": 251.03
+    },
+    {
+      "start": 251.08,
+      "text": "在太空竞赛的高峰期，他成为了",
+      "end": 255.451
+    },
+    {
+      "start": 255.501,
+      "text": "美国最重要的工程师之一。",
+      "end": 258.12
+    },
+    {
+      "start": 258.17,
+      "text": "1958年，他的团队 以美国自己研发的人造卫星",
+      "end": 263.251
+    },
+    {
+      "start": 263.301,
+      "text": "对苏联发射的人造卫星做出了回应。",
+      "end": 267.67199999999997
+    },
+    {
+      "start": 267.722,
+      "text": "在60年代，他是将美国人送上月球的",
+      "end": 273.05199999999996
+    },
+    {
+      "start": 273.102,
+      "text": "火箭土星五号的首席架构师。",
+      "end": 276.43
+    },
+    {
+      "start": 276.48,
+      "text": "其他回形针计划的成员为橙剂 （Agent Orange）",
+      "end": 281.185
+    },
+    {
+      "start": 281.235,
+      "text": "等化学武器的发展、药物研究",
+      "end": 285.31399999999996
+    },
+    {
+      "start": 285.364,
+      "text": "和现代飞机的开发做出了贡献。",
+      "end": 288.859
+    },
+    {
+      "start": 288.909,
+      "text": "这些杰出的贡献使得回形针计划 成为美国政府的骄傲。",
+      "end": 294.615
+    },
+    {
+      "start": 294.665,
+      "text": "但是，事后看来， 很难衡量该计划到底有多有用。",
+      "end": 300.955
+    },
+    {
+      "start": 301.005,
+      "text": "尽管华纳帮助美国节省了 多年火箭实验的时间，",
+      "end": 306.127
+    },
+    {
+      "start": 306.177,
+      "text": "但是我们没有理由认为美国的 科学家没了华纳",
+      "end": 309.755
+    },
+    {
+      "start": 309.805,
+      "text": "就没办法研究出同样的成果。",
+      "end": 312.758
+    },
+    {
+      "start": 312.808,
+      "text": "此外，回形针计划中的其他成员 极少有像华纳这么出类拔萃的，",
+      "end": 319.765
+    },
+    {
+      "start": 319.815,
+      "text": "大多数都是普通的科学家， 他们要不在完成合约之后",
+      "end": 324.228
+    },
+    {
+      "start": 324.278,
+      "text": "返回德国。",
+      "end": 326.147
+    },
+    {
+      "start": 326.197,
+      "text": "要不就是与具有同样专业知识的美国人共事。",
+      "end": 331.36
+    },
+    {
+      "start": 331.41,
+      "text": "但归根结底， 回形针计划是否成功的问题，",
+      "end": 334.78
+    },
+    {
+      "start": 334.83,
+      "text": "只是由此计划对于美国科学，伦理，",
+      "end": 339.368
+    },
+    {
+      "start": 339.418,
+      "text": "以及国防的持续影响所引发的疑问之一。",
+      "end": 343.45599999999996
+    },
+    {
+      "start": 343.506,
+      "text": "研究军事科技的科学家们是否能做到 无心政治？",
+      "end": 348.252
+    },
+    {
+      "start": 348.302,
+      "text": "或者他们是否可以对自己的研究负责？",
+      "end": 351.79699999999997
+    },
+    {
+      "start": 351.847,
+      "text": "紧迫的政治和军事局面是否可以让我们 忽视他人的战争罪行？",
+      "end": 358.262
+    },
+    {
+      "start": 358.312,
+      "text": "从各方面考量，华纳的讣告总结了 本次计划的模糊点：",
+      "end": 364.56
+    },
+    {
+      "start": 364.61,
+      "text": "“华纳的职业生涯是灿烂的，",
+      "end": 371.233
+    },
+    {
+      "start": 371.283,
+      "text": "但貌似可以察觉到一点浮士德的影子，",
+      "end": 374.236
+    },
+    {
+      "start": 374.286,
+      "text": "他对知识的如饥似渴似乎可以",
+      "end": 378.407
+    },
+    {
+      "start": 378.457,
+      "text": "让一切调整看似正确。“",
+      "end": 384.95
+    }
+  ]
+};

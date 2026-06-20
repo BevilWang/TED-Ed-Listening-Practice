@@ -1,0 +1,1204 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "Why can't you put metal in a microwave?",
+    "speaker": "Aaron Slepkov",
+    "duration": 328,
+    "slug": "aaron_slepkov_why_can_t_you_put_metal_in_a_microwave",
+    "sourcePage": "https://www.ted.com/talks/aaron_slepkov_why_can_t_you_put_metal_in_a_microwave",
+    "translationSourcePage": "https://www.ted.com/talks/aaron_slepkov_why_can_t_you_put_metal_in_a_microwave?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/68/90/001/products/2023e-aaron-slepkov-microwaves-001-fallback-aba185c2-b0cb-4802-9e81-b4c549d5933c-1200k.mp4",
+    "youtubeId": "ZExGV6jSuBw",
+    "youtubeTitle": "Why can't you put metal in a microwave? - Aaron Slepkov"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.003,
+      "end": 19.132,
+      "text": "American engineer Percy Spencer developed World War II RADAR technology that helped detect Nazi airplanes— but it would soon have other surprising applications.",
+      "translation": "美国工程师珀西·斯宾塞（Percy Spencer） 开发了二战雷达技术，该技术有助于探测纳粹飞机——但很快它有了其他令人惊喜的应用。"
+    },
+    {
+      "id": 2,
+      "start": 19.182,
+      "end": 31.519,
+      "text": "One day in 1945, Spencer was standing near a RADAR instrument called a magnetron, a device that produced high-intensity microwaves that could reflect off planes.",
+      "translation": "1945 年的某一天，斯宾塞站在一台名为磁控管的雷达仪器旁边，该设备可产生能在飞机上反射的高强度微波。"
+    },
+    {
+      "id": 3,
+      "start": 31.569,
+      "end": 36.482,
+      "text": "Suddenly, he noticed that the candy bar in his pocket had melted.",
+      "translation": "突然，他注意到口袋里的糖果棒融化了。"
+    },
+    {
+      "id": 4,
+      "start": 36.532,
+      "end": 45.366,
+      "text": "He exposed other things to the magnetron and, sure enough, popcorn kernels popped, and an egg—well— exploded onto a colleague.",
+      "translation": "他将其他东西暴露在磁控管中，果然，爆米花弹出来了，一个鸡蛋飞溅到了同事身上。"
+    },
+    {
+      "id": 5,
+      "start": 45.416,
+      "end": 52.206,
+      "text": "Soon after, the first microwave oven became available, operating using the very same technology.",
+      "translation": "不久之后，第一台微波炉问世，其运行技术（和磁控管）完全相同。"
+    },
+    {
+      "id": 6,
+      "start": 52.256,
+      "end": 54.292,
+      "text": "So, how does it work?",
+      "translation": "那么，它是如何运作的？"
+    },
+    {
+      "id": 7,
+      "start": 54.342,
+      "end": 60.256,
+      "text": "All light energy travels in waves of oscillating electric and magnetic fields.",
+      "translation": "所有光能都以振荡的电场和磁场波动性传播。"
+    },
+    {
+      "id": 8,
+      "start": 60.306,
+      "end": 66.596,
+      "text": "These oscillations span a range of frequencies comprising the electromagnetic spectrum.",
+      "translation": "这些振荡跨越了一系列频率，包括电磁频谱。"
+    },
+    {
+      "id": 9,
+      "start": 66.646,
+      "end": 69.766,
+      "text": "The higher the frequency, the more energetic.",
+      "translation": "频率越高，能量越大。"
+    },
+    {
+      "id": 10,
+      "start": 69.816,
+      "end": 76.314,
+      "text": "Gamma rays and X-rays have the highest frequencies; microwaves and radio waves, the lowest.",
+      "translation": "伽玛射线和 X 射线的频率最高；微波和无线电波的频率最低。"
+    },
+    {
+      "id": 11,
+      "start": 76.364,
+      "end": 83.571,
+      "text": "Generally, light’s oscillating electric field exerts forces on charged particles, like the electrons in a molecule.",
+      "translation": "通常，光的振荡电场对带电粒子施加压力，例如分子中的电子。"
+    },
+    {
+      "id": 12,
+      "start": 83.621,
+      "end": 94.082,
+      "text": "When light encounters polar molecules, like water, it can make them rotate, as their positive and negative regions are pushed and pulled in different directions.",
+      "translation": "当光遇到极性分子（例如水）时，它会使水分子旋转，这是因为极性分子的正负区域 被推向了不同的方向。"
+    },
+    {
+      "id": 13,
+      "start": 94.132,
+      "end": 100.088,
+      "text": "The frequency the light is traveling at also determines how it interacts with matter.",
+      "translation": "光的传播频率也决定了它与物质相互作用的方式。"
+    },
+    {
+      "id": 14,
+      "start": 100.138,
+      "end": 104.801,
+      "text": "Microwaves interact strongly with the water molecules found in most foods.",
+      "translation": "微波与大多数食物中的水分子强烈相互作用。"
+    },
+    {
+      "id": 15,
+      "start": 104.851,
+      "end": 111.891,
+      "text": "Essentially, they make the molecules jostle against each other, creating frictional heat.",
+      "translation": "本质上，它们使分子相互碰撞，产生摩擦热。"
+    },
+    {
+      "id": 16,
+      "start": 111.941,
+      "end": 116.312,
+      "text": "Household microwave ovens are fitted with cavity magnetrons.",
+      "translation": "家用微波炉装有腔体磁控管，"
+    },
+    {
+      "id": 17,
+      "start": 116.362,
+      "end": 126.28,
+      "text": "When you activate a microwave oven, a heated element within the magnetron ejects electrons, and a strong magnet forces them to spiral outwards.",
+      "translation": "当你开启微波炉时，磁控管内的加热元件会喷出电子，强磁体迫使它们向外螺旋。"
+    },
+    {
+      "id": 18,
+      "start": 126.33,
+      "end": 137.25,
+      "text": "As they pass over the magnetron’s metallic cavities, the electrons induce an oscillating charge, generating a continuous stream of electromagnetic microwaves.",
+      "translation": "当它们穿过磁控管的金属腔时，电子会产生振荡电荷，产生连续的电磁微波流。"
+    },
+    {
+      "id": 19,
+      "start": 137.3,
+      "end": 148.344,
+      "text": "A metal pipe directs the microwaves into the main food compartment, where they bounce off the metal walls and penetrate a few centimeters into the food inside.",
+      "translation": "金属管将微波引导到主要的食物空间，在那里它们从金属墙上反弹，并可穿透食物内部几厘米深。"
+    },
+    {
+      "id": 20,
+      "start": 148.394,
+      "end": 156.727,
+      "text": "When the microwaves encounter polar molecules in the food, like water, they make them vibrate at high frequencies.",
+      "translation": "当微波遇到食物中的极性分子（例如水）时，它们会使水分子以高频振动。"
+    },
+    {
+      "id": 21,
+      "start": 156.777,
+      "end": 161.399,
+      "text": "This can have interesting effects depending on the food's composition.",
+      "translation": "根据食物的成分，这可能会产生有趣的效果。"
+    },
+    {
+      "id": 22,
+      "start": 161.449,
+      "end": 169.24,
+      "text": "Oil and sugar absorb fewer microwaves than water, so if you microwave them alone, not much happens.",
+      "translation": "油和糖吸收的微波比水少，因此，如果单独用微波炉加热， 不会有什么额外变化。"
+    },
+    {
+      "id": 23,
+      "start": 169.29,
+      "end": 180.418,
+      "text": "But when microwaves encounter a marshmallow, they heat the moisture trapped within its gelatin-sugar matrix, making the hot air expand and the marshmallow puff.",
+      "translation": "但是，当微波炉遇到棉花糖时，它们会加热残留在其明胶糖基质中的水分，从而使热空气膨胀，棉花糖膨化。"
+    },
+    {
+      "id": 24,
+      "start": 180.468,
+      "end": 185.047,
+      "text": "Butter is essentially a suspension of water droplets in fat.",
+      "translation": "黄油本质上是水滴在脂肪中的悬浊液，"
+    },
+    {
+      "id": 25,
+      "start": 185.097,
+      "end": 193.639,
+      "text": "When microwaved, the water rapidly vaporizes, making the butter melt quickly— and sometimes, a bit violently.",
+      "translation": "用微波炉加热时，水迅速蒸发，使黄油快速融化，有时甚至有点剧烈了。"
+    },
+    {
+      "id": 26,
+      "start": 193.689,
+      "end": 200.021,
+      "text": "So microwaves heat food molecules mechanically, through friction— but they don't alter them chemically.",
+      "translation": "因此，微波通过摩擦机械地加热食物分子，但它们不会对食物分子进行化学改变。"
+    },
+    {
+      "id": 27,
+      "start": 200.071,
+      "end": 206.777,
+      "text": "Soup heated in the microwave is molecularly indistinguishable from soup heated using a stove or oven.",
+      "translation": "汤是用微波炉还是炉子或烤箱加热的，在分子上没有区别。"
+    },
+    {
+      "id": 28,
+      "start": 206.827,
+      "end": 210.281,
+      "text": "The term “microwave radiation” can be alarming.",
+      "translation": "“微波辐射” 一词可能令人警觉。"
+    },
+    {
+      "id": 29,
+      "start": 210.331,
+      "end": 216.746,
+      "text": "But in physics, radiation simply describes any transfer of energy across a gap.",
+      "translation": "但在物理学中， 辐射只是描述任何能量跨越间隙的传递。"
+    },
+    {
+      "id": 30,
+      "start": 216.796,
+      "end": 224.962,
+      "text": "High frequency, ionizing radiation may be harmful because it can strip electrons from molecules, including DNA.",
+      "translation": "高频电离辐射可能是有害的，因为它可以从分子中剥离电子，包括 DNA。"
+    },
+    {
+      "id": 31,
+      "start": 225.012,
+      "end": 229.842,
+      "text": "However, microwaves aren’t energetic enough to alter chemical bonds.",
+      "translation": "但是，微波的能量不足以改变化学键。"
+    },
+    {
+      "id": 32,
+      "start": 229.892,
+      "end": 236.766,
+      "text": "And microwave ovens are designed to prevent leakage— for safety and efficiency’s sake.",
+      "translation": "微波炉在设计上就是防泄漏的，既是为了安全也是效率。"
+    },
+    {
+      "id": 33,
+      "start": 236.816,
+      "end": 245.858,
+      "text": "Nonetheless, to totally limit exposure, experts recommend simply standing a few feet away when a microwave oven is on.",
+      "translation": "尽管如此，为了完全杜绝暴露在辐射下，专家建议在微波炉使用时 直接站在几英尺远的地方。"
+    },
+    {
+      "id": 34,
+      "start": 245.908,
+      "end": 249.779,
+      "text": "Microwaving metal is dangerous, though, right?",
+      "translation": "但是，用微波炉加热金属很危险，对吧？"
+    },
+    {
+      "id": 35,
+      "start": 249.829,
+      "end": 251.364,
+      "text": "Well, it depends.",
+      "translation": "好吧，这要看情况。"
+    },
+    {
+      "id": 36,
+      "start": 251.414,
+      "end": 259.288,
+      "text": "Metals are conductors, meaning their electrons are loosely bound to their atoms and move freely in response to electric fields.",
+      "translation": "金属是导体，这意味着它们的电子与原子结合松散，并在电场的作用下自由移动。"
+    },
+    {
+      "id": 37,
+      "start": 259.338,
+      "end": 269.674,
+      "text": "Instead of absorbing microwave radiation, the metal’s electrons concentrate on the surface, leading to high voltages at sharp edges, corners, and small gaps.",
+      "translation": "金属的电子不会吸收微波辐射，而是集中在表面，从而在锋利的边缘、角落和小间隙处产生高电压。"
+    },
+    {
+      "id": 38,
+      "start": 269.724,
+      "end": 279.517,
+      "text": "This includes areas between the creases on a sheet of aluminum foil, the prongs of a fork, or a metal object and the microwave oven’s metal walls.",
+      "translation": "这包括铝箔纸上的折痕、叉子或金属物体尖端以及微波炉的金属壁。"
+    },
+    {
+      "id": 39,
+      "start": 279.567,
+      "end": 284.855,
+      "text": "Sometimes, voltages get high enough to strip electrons from the surrounding air molecules.",
+      "translation": "有时，电压会高得足够从周围的空气分子中剥离电子。"
+    },
+    {
+      "id": 40,
+      "start": 284.905,
+      "end": 293.489,
+      "text": "This electrically charged gas, or plasma, may then form lightning-like sparks and grow as it absorbs more microwaves.",
+      "translation": "然后，这种带电的气体或等离子体 可能会形成电火花，并随着吸收更多的微波而变多。"
+    },
+    {
+      "id": 41,
+      "start": 293.539,
+      "end": 297.91,
+      "text": "Once the oven is turned off, the plasma dissipates.",
+      "translation": "烤箱关闭后，等离子体就会消散。"
+    },
+    {
+      "id": 42,
+      "start": 297.96,
+      "end": 304.667,
+      "text": "But not all metal objects spark in the microwave— though they might make things cook a little unevenly.",
+      "translation": "但是，并非所有的金属物体 都会在微波炉中产生火花，尽管它们可能会使食物煮得有点不均匀。"
+    },
+    {
+      "id": 43,
+      "start": 304.717,
+      "end": 313.259,
+      "text": "In fact, a lot of microwavable packaging takes advantage of this, using a thin metal coating to crisp the food’s surface.",
+      "translation": "实际上，许多可微波炉加热的包装 都利用了这一点，使用薄薄的金属涂层使食物表面变脆。"
+    },
+    {
+      "id": 44,
+      "start": 313.309,
+      "end": 322.226,
+      "text": "And overall, as long as it doesn't approach the oven's walls, leaving a metal spoon in a microwaving bowl of soup should be a pretty uneventful affair.",
+      "translation": "总的来说，只要它不靠近烤箱的墙壁，在装有微波炉的汤碗里放一把金属勺子应该没什么关系。"
+    },
+    {
+      "id": 45,
+      "start": 322.276,
+      "end": 327.95,
+      "text": "That’s just another neat benefit of cooking with RADAR.",
+      "translation": "这只是使用“雷达”烹饪的另一个好处。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.003,
+      "text": "American engineer Percy Spencer developed World War II RADAR technology",
+      "end": 12.417
+    },
+    {
+      "start": 12.467,
+      "text": "that helped detect Nazi airplanes—",
+      "end": 15.043999999999999
+    },
+    {
+      "start": 15.094,
+      "text": "but it would soon have other surprising applications.",
+      "end": 19.131999999999998
+    },
+    {
+      "start": 19.182,
+      "text": "One day in 1945, Spencer was standing near a RADAR instrument",
+      "end": 23.97
+    },
+    {
+      "start": 24.02,
+      "text": "called a magnetron,",
+      "end": 25.721999999999998
+    },
+    {
+      "start": 25.772,
+      "text": "a device that produced high-intensity microwaves that could reflect off planes.",
+      "end": 31.519
+    },
+    {
+      "start": 31.569,
+      "text": "Suddenly, he noticed that the candy bar in his pocket had melted.",
+      "end": 36.482
+    },
+    {
+      "start": 36.532,
+      "text": "He exposed other things to the magnetron and, sure enough,",
+      "end": 39.819
+    },
+    {
+      "start": 39.869,
+      "text": "popcorn kernels popped,",
+      "end": 41.612
+    },
+    {
+      "start": 41.662,
+      "text": "and an egg—well— exploded onto a colleague.",
+      "end": 45.366
+    },
+    {
+      "start": 45.416,
+      "text": "Soon after, the first microwave oven became available,",
+      "end": 48.870000000000005
+    },
+    {
+      "start": 48.92,
+      "text": "operating using the very same technology.",
+      "end": 52.206
+    },
+    {
+      "start": 52.256,
+      "text": "So, how does it work?",
+      "end": 54.292
+    },
+    {
+      "start": 54.342,
+      "text": "All light energy travels in waves of oscillating electric and magnetic fields.",
+      "end": 60.256
+    },
+    {
+      "start": 60.306,
+      "text": "These oscillations span a range of frequencies",
+      "end": 63.134
+    },
+    {
+      "start": 63.184,
+      "text": "comprising the electromagnetic spectrum.",
+      "end": 66.596
+    },
+    {
+      "start": 66.646,
+      "text": "The higher the frequency, the more energetic.",
+      "end": 69.766
+    },
+    {
+      "start": 69.816,
+      "text": "Gamma rays and X-rays have the highest frequencies;",
+      "end": 73.227
+    },
+    {
+      "start": 73.277,
+      "text": "microwaves and radio waves, the lowest.",
+      "end": 76.31400000000001
+    },
+    {
+      "start": 76.364,
+      "text": "Generally, light’s oscillating electric field exerts forces on charged particles,",
+      "end": 81.486
+    },
+    {
+      "start": 81.536,
+      "text": "like the electrons in a molecule.",
+      "end": 83.571
+    },
+    {
+      "start": 83.621,
+      "text": "When light encounters polar molecules, like water,",
+      "end": 87.492
+    },
+    {
+      "start": 87.542,
+      "text": "it can make them rotate,",
+      "end": 89.24300000000001
+    },
+    {
+      "start": 89.293,
+      "text": "as their positive and negative regions are pushed and pulled in different directions.",
+      "end": 94.08200000000001
+    },
+    {
+      "start": 94.132,
+      "text": "The frequency the light is traveling at",
+      "end": 96.417
+    },
+    {
+      "start": 96.467,
+      "text": "also determines how it interacts with matter.",
+      "end": 100.08800000000001
+    },
+    {
+      "start": 100.138,
+      "text": "Microwaves interact strongly with the water molecules found in most foods.",
+      "end": 104.801
+    },
+    {
+      "start": 104.851,
+      "text": "Essentially, they make the molecules jostle against each other,",
+      "end": 108.471
+    },
+    {
+      "start": 108.521,
+      "text": "creating frictional heat.",
+      "end": 111.891
+    },
+    {
+      "start": 111.941,
+      "text": "Household microwave ovens are fitted with cavity magnetrons.",
+      "end": 116.312
+    },
+    {
+      "start": 116.362,
+      "text": "When you activate a microwave oven,",
+      "end": 118.43900000000001
+    },
+    {
+      "start": 118.489,
+      "text": "a heated element within the magnetron ejects electrons,",
+      "end": 122.151
+    },
+    {
+      "start": 122.201,
+      "text": "and a strong magnet forces them to spiral outwards.",
+      "end": 126.28
+    },
+    {
+      "start": 126.33,
+      "text": "As they pass over the magnetron’s metallic cavities,",
+      "end": 129.575
+    },
+    {
+      "start": 129.625,
+      "text": "the electrons induce an oscillating charge,",
+      "end": 132.57799999999997
+    },
+    {
+      "start": 132.628,
+      "text": "generating a continuous stream of electromagnetic microwaves.",
+      "end": 137.25
+    },
+    {
+      "start": 137.3,
+      "text": "A metal pipe directs the microwaves into the main food compartment,",
+      "end": 141.546
+    },
+    {
+      "start": 141.596,
+      "text": "where they bounce off the metal walls",
+      "end": 143.464
+    },
+    {
+      "start": 143.514,
+      "text": "and penetrate a few centimeters into the food inside.",
+      "end": 148.344
+    },
+    {
+      "start": 148.394,
+      "text": "When the microwaves encounter polar molecules in the food, like water,",
+      "end": 152.72299999999998
+    },
+    {
+      "start": 152.773,
+      "text": "they make them vibrate at high frequencies.",
+      "end": 156.72699999999998
+    },
+    {
+      "start": 156.777,
+      "text": "This can have interesting effects depending on the food's composition.",
+      "end": 161.399
+    },
+    {
+      "start": 161.449,
+      "text": "Oil and sugar absorb fewer microwaves than water,",
+      "end": 165.403
+    },
+    {
+      "start": 165.453,
+      "text": "so if you microwave them alone, not much happens.",
+      "end": 169.23999999999998
+    },
+    {
+      "start": 169.29,
+      "text": "But when microwaves encounter a marshmallow,",
+      "end": 172.285
+    },
+    {
+      "start": 172.335,
+      "text": "they heat the moisture trapped within its gelatin-sugar matrix,",
+      "end": 176.12199999999999
+    },
+    {
+      "start": 176.172,
+      "text": "making the hot air expand and the marshmallow puff.",
+      "end": 180.41799999999998
+    },
+    {
+      "start": 180.468,
+      "text": "Butter is essentially a suspension of water droplets in fat.",
+      "end": 185.047
+    },
+    {
+      "start": 185.097,
+      "text": "When microwaved, the water rapidly vaporizes,",
+      "end": 188.384
+    },
+    {
+      "start": 188.434,
+      "text": "making the butter melt quickly— and sometimes, a bit violently.",
+      "end": 193.63899999999998
+    },
+    {
+      "start": 193.689,
+      "text": "So microwaves heat food molecules mechanically, through friction—",
+      "end": 197.768
+    },
+    {
+      "start": 197.818,
+      "text": "but they don't alter them chemically.",
+      "end": 200.021
+    },
+    {
+      "start": 200.071,
+      "text": "Soup heated in the microwave is molecularly indistinguishable",
+      "end": 203.89999999999998
+    },
+    {
+      "start": 203.95,
+      "text": "from soup heated using a stove or oven.",
+      "end": 206.777
+    },
+    {
+      "start": 206.827,
+      "text": "The term “microwave radiation” can be alarming.",
+      "end": 210.28099999999998
+    },
+    {
+      "start": 210.331,
+      "text": "But in physics, radiation simply describes any transfer of energy across a gap.",
+      "end": 216.74599999999998
+    },
+    {
+      "start": 216.796,
+      "text": "High frequency, ionizing radiation may be harmful",
+      "end": 220.625
+    },
+    {
+      "start": 220.675,
+      "text": "because it can strip electrons from molecules, including DNA.",
+      "end": 224.962
+    },
+    {
+      "start": 225.012,
+      "text": "However, microwaves aren’t energetic enough to alter chemical bonds.",
+      "end": 229.84199999999998
+    },
+    {
+      "start": 229.892,
+      "text": "And microwave ovens are designed to prevent leakage—",
+      "end": 233.72099999999998
+    },
+    {
+      "start": 233.771,
+      "text": "for safety and efficiency’s sake.",
+      "end": 236.766
+    },
+    {
+      "start": 236.816,
+      "text": "Nonetheless, to totally limit exposure,",
+      "end": 239.64399999999998
+    },
+    {
+      "start": 239.694,
+      "text": "experts recommend simply standing a few feet away when a microwave oven is on.",
+      "end": 245.85799999999998
+    },
+    {
+      "start": 245.908,
+      "text": "Microwaving metal is dangerous, though, right?",
+      "end": 249.779
+    },
+    {
+      "start": 249.829,
+      "text": "Well, it depends.",
+      "end": 251.36399999999998
+    },
+    {
+      "start": 251.414,
+      "text": "Metals are conductors,",
+      "end": 252.86499999999998
+    },
+    {
+      "start": 252.915,
+      "text": "meaning their electrons are loosely bound to their atoms",
+      "end": 255.993
+    },
+    {
+      "start": 256.043,
+      "text": "and move freely in response to electric fields.",
+      "end": 259.288
+    },
+    {
+      "start": 259.338,
+      "text": "Instead of absorbing microwave radiation,",
+      "end": 261.832
+    },
+    {
+      "start": 261.882,
+      "text": "the metal’s electrons concentrate on the surface,",
+      "end": 264.919
+    },
+    {
+      "start": 264.969,
+      "text": "leading to high voltages at sharp edges, corners, and small gaps.",
+      "end": 269.674
+    },
+    {
+      "start": 269.724,
+      "text": "This includes areas between the creases on a sheet of aluminum foil,",
+      "end": 273.88599999999997
+    },
+    {
+      "start": 273.936,
+      "text": "the prongs of a fork,",
+      "end": 275.388
+    },
+    {
+      "start": 275.438,
+      "text": "or a metal object and the microwave oven’s metal walls.",
+      "end": 279.517
+    },
+    {
+      "start": 279.567,
+      "text": "Sometimes, voltages get high enough to strip electrons",
+      "end": 282.77
+    },
+    {
+      "start": 282.82,
+      "text": "from the surrounding air molecules.",
+      "end": 284.85499999999996
+    },
+    {
+      "start": 284.905,
+      "text": "This electrically charged gas, or plasma, may then form lightning-like sparks",
+      "end": 290.611
+    },
+    {
+      "start": 290.661,
+      "text": "and grow as it absorbs more microwaves.",
+      "end": 293.489
+    },
+    {
+      "start": 293.539,
+      "text": "Once the oven is turned off, the plasma dissipates.",
+      "end": 297.90999999999997
+    },
+    {
+      "start": 297.96,
+      "text": "But not all metal objects spark in the microwave—",
+      "end": 301.414
+    },
+    {
+      "start": 301.464,
+      "text": "though they might make things cook a little unevenly.",
+      "end": 304.667
+    },
+    {
+      "start": 304.717,
+      "text": "In fact, a lot of microwavable packaging takes advantage of this,",
+      "end": 309.255
+    },
+    {
+      "start": 309.305,
+      "text": "using a thin metal coating to crisp the food’s surface.",
+      "end": 313.259
+    },
+    {
+      "start": 313.309,
+      "text": "And overall, as long as it doesn't approach the oven's walls,",
+      "end": 316.554
+    },
+    {
+      "start": 316.604,
+      "text": "leaving a metal spoon in a microwaving bowl of soup",
+      "end": 319.598
+    },
+    {
+      "start": 319.648,
+      "text": "should be a pretty uneventful affair.",
+      "end": 322.226
+    },
+    {
+      "start": 322.276,
+      "text": "That’s just another neat benefit of cooking with RADAR.",
+      "end": 327.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.003,
+      "text": "美国工程师珀西·斯宾塞（Percy Spencer） 开发了二战雷达技术，",
+      "end": 12.417
+    },
+    {
+      "start": 12.467,
+      "text": "该技术有助于探测纳粹飞机——",
+      "end": 15.043999999999999
+    },
+    {
+      "start": 15.094,
+      "text": "但很快它有了其他令人惊喜的应用。",
+      "end": 19.131999999999998
+    },
+    {
+      "start": 19.182,
+      "text": "1945 年的某一天，斯宾塞站在一台名为",
+      "end": 23.97
+    },
+    {
+      "start": 24.02,
+      "text": "磁控管的雷达仪器旁边，",
+      "end": 25.721999999999998
+    },
+    {
+      "start": 25.772,
+      "text": "该设备可产生能在飞机上反射的高强度微波。",
+      "end": 31.519
+    },
+    {
+      "start": 31.569,
+      "text": "突然，他注意到口袋里的糖果棒融化了。",
+      "end": 36.482
+    },
+    {
+      "start": 36.532,
+      "text": "他将其他东西暴露在磁控管中，果然，",
+      "end": 39.819
+    },
+    {
+      "start": 39.869,
+      "text": "爆米花弹出来了，",
+      "end": 41.612
+    },
+    {
+      "start": 41.662,
+      "text": "一个鸡蛋飞溅到了同事身上。",
+      "end": 45.366
+    },
+    {
+      "start": 45.416,
+      "text": "不久之后，第一台微波炉问世，",
+      "end": 48.870000000000005
+    },
+    {
+      "start": 48.92,
+      "text": "其运行技术（和磁控管）完全相同。",
+      "end": 52.206
+    },
+    {
+      "start": 52.256,
+      "text": "那么，它是如何运作的？",
+      "end": 54.292
+    },
+    {
+      "start": 54.342,
+      "text": "所有光能都以振荡的电场和磁场波动性传播。",
+      "end": 60.256
+    },
+    {
+      "start": 60.306,
+      "text": "这些振荡跨越了一系列频率，",
+      "end": 63.134
+    },
+    {
+      "start": 63.184,
+      "text": "包括电磁频谱。",
+      "end": 66.596
+    },
+    {
+      "start": 66.646,
+      "text": "频率越高，能量越大。",
+      "end": 69.766
+    },
+    {
+      "start": 69.816,
+      "text": "伽玛射线和 X 射线的频率最高；",
+      "end": 73.227
+    },
+    {
+      "start": 73.277,
+      "text": "微波和无线电波的频率最低。",
+      "end": 76.31400000000001
+    },
+    {
+      "start": 76.364,
+      "text": "通常，光的振荡电场对带电粒子施加压力，",
+      "end": 81.486
+    },
+    {
+      "start": 81.536,
+      "text": "例如分子中的电子。",
+      "end": 83.571
+    },
+    {
+      "start": 83.621,
+      "text": "当光遇到极性分子（例如水）时，",
+      "end": 87.492
+    },
+    {
+      "start": 87.542,
+      "text": "它会使水分子旋转，",
+      "end": 89.24300000000001
+    },
+    {
+      "start": 89.293,
+      "text": "这是因为极性分子的正负区域 被推向了不同的方向。",
+      "end": 94.08200000000001
+    },
+    {
+      "start": 94.132,
+      "text": "光的传播频率",
+      "end": 96.417
+    },
+    {
+      "start": 96.467,
+      "text": "也决定了它与物质相互作用的方式。",
+      "end": 100.08800000000001
+    },
+    {
+      "start": 100.138,
+      "text": "微波与大多数食物中的水分子强烈相互作用。",
+      "end": 104.801
+    },
+    {
+      "start": 104.851,
+      "text": "本质上，它们使分子相互碰撞，",
+      "end": 108.471
+    },
+    {
+      "start": 108.521,
+      "text": "产生摩擦热。",
+      "end": 111.891
+    },
+    {
+      "start": 111.941,
+      "text": "家用微波炉装有腔体磁控管，",
+      "end": 116.312
+    },
+    {
+      "start": 116.362,
+      "text": "当你开启微波炉时，",
+      "end": 118.43900000000001
+    },
+    {
+      "start": 118.489,
+      "text": "磁控管内的加热元件会喷出电子，",
+      "end": 122.151
+    },
+    {
+      "start": 122.201,
+      "text": "强磁体迫使它们向外螺旋。",
+      "end": 126.28
+    },
+    {
+      "start": 126.33,
+      "text": "当它们穿过磁控管的金属腔时，",
+      "end": 129.575
+    },
+    {
+      "start": 129.625,
+      "text": "电子会产生振荡电荷，",
+      "end": 132.57799999999997
+    },
+    {
+      "start": 132.628,
+      "text": "产生连续的电磁微波流。",
+      "end": 137.25
+    },
+    {
+      "start": 137.3,
+      "text": "金属管将微波引导到主要的食物空间，",
+      "end": 141.546
+    },
+    {
+      "start": 141.596,
+      "text": "在那里它们从金属墙上反弹，",
+      "end": 143.464
+    },
+    {
+      "start": 143.514,
+      "text": "并可穿透食物内部几厘米深。",
+      "end": 148.344
+    },
+    {
+      "start": 148.394,
+      "text": "当微波遇到食物中的极性分子（例如水）时，",
+      "end": 152.72299999999998
+    },
+    {
+      "start": 152.773,
+      "text": "它们会使水分子以高频振动。",
+      "end": 156.72699999999998
+    },
+    {
+      "start": 156.777,
+      "text": "根据食物的成分，这可能会产生有趣的效果。",
+      "end": 161.399
+    },
+    {
+      "start": 161.449,
+      "text": "油和糖吸收的微波比水少，",
+      "end": 165.403
+    },
+    {
+      "start": 165.453,
+      "text": "因此，如果单独用微波炉加热， 不会有什么额外变化。",
+      "end": 169.23999999999998
+    },
+    {
+      "start": 169.29,
+      "text": "但是，当微波炉遇到棉花糖时，",
+      "end": 172.285
+    },
+    {
+      "start": 172.335,
+      "text": "它们会加热残留在其明胶糖基质中的水分，",
+      "end": 176.12199999999999
+    },
+    {
+      "start": 176.172,
+      "text": "从而使热空气膨胀，棉花糖膨化。",
+      "end": 180.41799999999998
+    },
+    {
+      "start": 180.468,
+      "text": "黄油本质上是水滴在脂肪中的悬浊液，",
+      "end": 185.047
+    },
+    {
+      "start": 185.097,
+      "text": "用微波炉加热时，水迅速蒸发，",
+      "end": 188.384
+    },
+    {
+      "start": 188.434,
+      "text": "使黄油快速融化，有时甚至有点剧烈了。",
+      "end": 193.63899999999998
+    },
+    {
+      "start": 193.689,
+      "text": "因此，微波通过摩擦机械地加热食物分子，",
+      "end": 197.768
+    },
+    {
+      "start": 197.818,
+      "text": "但它们不会对食物分子进行化学改变。",
+      "end": 200.021
+    },
+    {
+      "start": 200.071,
+      "text": "汤是用微波炉还是炉子或烤箱加热的，",
+      "end": 203.89999999999998
+    },
+    {
+      "start": 203.95,
+      "text": "在分子上没有区别。",
+      "end": 206.777
+    },
+    {
+      "start": 206.827,
+      "text": "“微波辐射” 一词可能令人警觉。",
+      "end": 210.28099999999998
+    },
+    {
+      "start": 210.331,
+      "text": "但在物理学中， 辐射只是描述任何能量跨越间隙的传递。",
+      "end": 216.74599999999998
+    },
+    {
+      "start": 216.796,
+      "text": "高频电离辐射可能是有害的，",
+      "end": 220.625
+    },
+    {
+      "start": 220.675,
+      "text": "因为它可以从分子中剥离电子，包括 DNA。",
+      "end": 224.962
+    },
+    {
+      "start": 225.012,
+      "text": "但是，微波的能量不足以改变化学键。",
+      "end": 229.84199999999998
+    },
+    {
+      "start": 229.892,
+      "text": "微波炉在设计上就是防泄漏的，",
+      "end": 233.72099999999998
+    },
+    {
+      "start": 233.771,
+      "text": "既是为了安全也是效率。",
+      "end": 236.766
+    },
+    {
+      "start": 236.816,
+      "text": "尽管如此，为了完全杜绝暴露在辐射下，",
+      "end": 239.64399999999998
+    },
+    {
+      "start": 239.694,
+      "text": "专家建议在微波炉使用时 直接站在几英尺远的地方。",
+      "end": 245.85799999999998
+    },
+    {
+      "start": 245.908,
+      "text": "但是，用微波炉加热金属很危险，对吧？",
+      "end": 249.779
+    },
+    {
+      "start": 249.829,
+      "text": "好吧，这要看情况。",
+      "end": 251.36399999999998
+    },
+    {
+      "start": 251.414,
+      "text": "金属是导体，",
+      "end": 252.86499999999998
+    },
+    {
+      "start": 252.915,
+      "text": "这意味着它们的电子与原子结合松散，",
+      "end": 255.993
+    },
+    {
+      "start": 256.043,
+      "text": "并在电场的作用下自由移动。",
+      "end": 259.288
+    },
+    {
+      "start": 259.338,
+      "text": "金属的电子不会吸收微波辐射，",
+      "end": 261.832
+    },
+    {
+      "start": 261.882,
+      "text": "而是集中在表面，",
+      "end": 264.919
+    },
+    {
+      "start": 264.969,
+      "text": "从而在锋利的边缘、角落和小间隙处产生高电压。",
+      "end": 269.674
+    },
+    {
+      "start": 269.724,
+      "text": "这包括铝箔纸上的折痕、",
+      "end": 273.88599999999997
+    },
+    {
+      "start": 273.936,
+      "text": "叉子",
+      "end": 275.388
+    },
+    {
+      "start": 275.438,
+      "text": "或金属物体尖端以及微波炉的金属壁。",
+      "end": 279.517
+    },
+    {
+      "start": 279.567,
+      "text": "有时，电压会高得足够",
+      "end": 282.77
+    },
+    {
+      "start": 282.82,
+      "text": "从周围的空气分子中剥离电子。",
+      "end": 284.85499999999996
+    },
+    {
+      "start": 284.905,
+      "text": "然后，这种带电的气体或等离子体 可能会形成电火花，",
+      "end": 290.611
+    },
+    {
+      "start": 290.661,
+      "text": "并随着吸收更多的微波而变多。",
+      "end": 293.489
+    },
+    {
+      "start": 293.539,
+      "text": "烤箱关闭后，等离子体就会消散。",
+      "end": 297.90999999999997
+    },
+    {
+      "start": 297.96,
+      "text": "但是，并非所有的金属物体 都会在微波炉中产生火花，",
+      "end": 301.414
+    },
+    {
+      "start": 301.464,
+      "text": "尽管它们可能会使食物煮得有点不均匀。",
+      "end": 304.667
+    },
+    {
+      "start": 304.717,
+      "text": "实际上，许多可微波炉加热的包装 都利用了这一点，",
+      "end": 309.255
+    },
+    {
+      "start": 309.305,
+      "text": "使用薄薄的金属涂层使食物表面变脆。",
+      "end": 313.259
+    },
+    {
+      "start": 313.309,
+      "text": "总的来说，只要它不靠近烤箱的墙壁，",
+      "end": 316.554
+    },
+    {
+      "start": 316.604,
+      "text": "在装有微波炉的汤碗里放一把金属勺子",
+      "end": 319.598
+    },
+    {
+      "start": 319.648,
+      "text": "应该没什么关系。",
+      "end": 322.226
+    },
+    {
+      "start": 322.276,
+      "text": "这只是使用“雷达”烹饪的另一个好处。",
+      "end": 327.95
+    }
+  ]
+};

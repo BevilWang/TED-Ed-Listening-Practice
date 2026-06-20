@@ -1,0 +1,1029 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The fall of the House of Cadmus",
+    "speaker": "Iseult Gillespie",
+    "duration": 276,
+    "slug": "iseult_gillespie_the_fall_of_the_house_of_cadmus",
+    "sourcePage": "https://www.ted.com/talks/iseult_gillespie_the_fall_of_the_house_of_cadmus",
+    "translationSourcePage": "https://www.ted.com/talks/iseult_gillespie_the_fall_of_the_house_of_cadmus?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/71/76/001/products/2023e-iseult-gillespie-cadmus-001-fallback-81586178-1d0c-4cc6-b47e-16fd983b4fc3-1200k.mp4",
+    "youtubeId": "H7ZhDe1K8uU",
+    "youtubeTitle": "The fall of the House of Cadmus - Iseult Gillespie"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.128,
+      "end": 15.003,
+      "text": "When Cadmus walked the earth, just a few generations separated him from his divine ancestors.",
+      "translation": "当卡德摩斯 (Cadmus) 行走于世间时，他与他的神祖之间仅隔了几代人。"
+    },
+    {
+      "id": 2,
+      "start": 15.053,
+      "end": 20.758,
+      "text": "From atop Mount Olympus, they scrutinized and meddled with mortals like himself.",
+      "translation": "在奥林匹斯山巅， 诸神审视并干预着像他这样的凡人。"
+    },
+    {
+      "id": 3,
+      "start": 20.808,
+      "end": 25.346,
+      "text": "Cadmus was a skilled warrior and heir to the Phoenician throne.",
+      "translation": "卡德摩斯是一位技艺精湛的战士， 也是腓尼基 (Phoenician) 王位的继承人，"
+    },
+    {
+      "id": 4,
+      "start": 25.396,
+      "end": 28.85,
+      "text": "But he wouldn't stay in the gods' favor for long.",
+      "translation": "但是他不会受到众神长久的青睐。"
+    },
+    {
+      "id": 5,
+      "start": 28.9,
+      "end": 33.229,
+      "text": "First, Zeus coveted Cadmus' sister, Europa.",
+      "translation": "首先，宙斯渴望 卡德摩斯的姐姐欧罗巴 (Europa) 。"
+    },
+    {
+      "id": 6,
+      "start": 33.279,
+      "end": 38.484,
+      "text": "So, he snuck into the palace garden in the form of a bull and stole her away.",
+      "translation": "于是，他以公牛的形式偷偷进入宫殿花园， 把她偷走了。"
+    },
+    {
+      "id": 7,
+      "start": 38.534,
+      "end": 44.991,
+      "text": "Their father tasked Cadmus and his men with the impossible duty of bringing Europa back.",
+      "translation": "他们的父亲责成卡德摩斯和他的手下 肩负起不可能完成的任务，那就是将欧罗巴带回来。"
+    },
+    {
+      "id": 8,
+      "start": 45.041,
+      "end": 53.75,
+      "text": "Cadmus journeyed to the sacred Oracle of Delphi to plead for help, where he was told to find and follow a sacred, wild cow.",
+      "translation": "卡德摩斯前往 德尔斐<b>神谕 </b>(Oracle of Delphi) 寻求帮助，在那里他被告知要找到并跟随 一头神圣的野牛。"
+    },
+    {
+      "id": 9,
+      "start": 53.8,
+      "end": 58.337,
+      "text": "At the spot where the cow rested, he was to found a new city.",
+      "translation": "在牛休息的地方， 他要找到一座新城市。"
+    },
+    {
+      "id": 10,
+      "start": 58.387,
+      "end": 64.177,
+      "text": "Cadmus and his men did as the oracle said, then ventured into the nearby forest for supplies.",
+      "translation": "卡德摩斯和他的手下 照神言说的去做，然后冒险进入附近的森林寻找补给。"
+    },
+    {
+      "id": 11,
+      "start": 64.227,
+      "end": 67.055,
+      "text": "But a giant serpent soon appeared.",
+      "translation": "但是很快就出现了一条巨蛇。"
+    },
+    {
+      "id": 12,
+      "start": 67.105,
+      "end": 71.35,
+      "text": "It choked some of Cadmus' men and blasted others with venom.",
+      "translation": "它勒死了卡德摩斯的一些士兵， 并用毒液融化了随从。"
+    },
+    {
+      "id": 13,
+      "start": 71.4,
+      "end": 76.564,
+      "text": "Cadmus leapt into action, hurled his javelin, and pinned the snake to a tree.",
+      "translation": "卡德摩斯迅速投入战斗，投掷标枪，并将蛇钉在树上。"
+    },
+    {
+      "id": 14,
+      "start": 76.614,
+      "end": 85.907,
+      "text": "Without knowing it, he had just slain Ares', the god of war's, precious serpent— and sealed tragedy into his own fate along with it.",
+      "translation": "在不知情的情况下， 他刚杀死了的是战神阿瑞斯珍贵的毒蛇——并将悲剧锁进了自己的命运中。"
+    },
+    {
+      "id": 15,
+      "start": 85.957,
+      "end": 92.914,
+      "text": "Suddenly, a disembodied voice boomed: \"You too shall be a serpent to be gazed on.\"",
+      "translation": "突然，一个无形的声音响起：“你也将是一条遭受虎视眈眈的蛇。”"
+    },
+    {
+      "id": 16,
+      "start": 92.964,
+      "end": 100.129,
+      "text": "Taking pity on the prince, the goddess Athena instructed Cadmus to till the earth using the serpent's teeth.",
+      "translation": "女神雅典娜同情王子，指示卡德姆斯用蛇的牙齿在地上耕种。"
+    },
+    {
+      "id": 17,
+      "start": 100.179,
+      "end": 106.094,
+      "text": "As he nestled its fangs into the soil, a band of warriors sprouted from the ground.",
+      "translation": "当他把尖牙埋在土里时，一群勇士从地上冒了出来。"
+    },
+    {
+      "id": 18,
+      "start": 106.144,
+      "end": 109.722,
+      "text": "Together, they built the magnificent city of Thebes.",
+      "translation": "他们共同建造了宏伟的底比斯市。"
+    },
+    {
+      "id": 19,
+      "start": 109.772,
+      "end": 116.896,
+      "text": "And eventually, Cadmus fell in love with Harmonia, daughter of Ares and Aphrodite, and the two married.",
+      "translation": "最终，卡德摩斯爱上了 阿瑞斯和阿芙罗狄蒂的女儿哈耳摩尼亚，两人结婚了。"
+    },
+    {
+      "id": 20,
+      "start": 116.946,
+      "end": 125.655,
+      "text": "As years passed, and his city and family grew, hope that all strife might be forgotten between Cadmus and the gods glimmered briefly.",
+      "translation": "随着岁月的流逝，他的城市 和家庭不断壮大，卡德摩斯和众神之间的 所有纷争都被遗忘的希望短暂地出现。"
+    },
+    {
+      "id": 21,
+      "start": 125.705,
+      "end": 130.618,
+      "text": "But, soon enough, his family's luck began souring once more.",
+      "translation": "但是，很快，他家人的运气又 开始恶化了。"
+    },
+    {
+      "id": 22,
+      "start": 130.668,
+      "end": 137.75,
+      "text": "Tragedy struck when Cadmus' grandson, Actaeon, was tracking a stag in the forest with his hunting hounds.",
+      "translation": "悲剧发生时， 卡德摩斯的孙子阿克泰昂正带着猎犬在森林里追踪一只雄鹿。"
+    },
+    {
+      "id": 23,
+      "start": 137.8,
+      "end": 145.424,
+      "text": "The young man unwittingly infringed on the sacred grove of Artemis, goddess of the hunt, as she was bathing.",
+      "translation": "这名年轻人不知不觉中闯入了狩猎女神阿耳忒弥斯在洗澡的神圣树林。"
+    },
+    {
+      "id": 24,
+      "start": 145.474,
+      "end": 150.221,
+      "text": "Artemis punished Actaeon, transforming him into a skittish stag.",
+      "translation": "阿耳忒弥斯惩罚了阿克泰昂， 使他变成了一只狡猾的雄鹿。"
+    },
+    {
+      "id": 25,
+      "start": 150.271,
+      "end": 158.146,
+      "text": "And in this form Actaeon's own hounds could no longer distinguish him from the object of the hunt— and they went in for the kill.",
+      "translation": "以这种形式，阿克泰昂自己的猎犬 再也无法将他与狩猎对象区分开来了， 它们便将阿克泰阿杀了。"
+    },
+    {
+      "id": 26,
+      "start": 158.196,
+      "end": 165.153,
+      "text": "Then, Zeus visited again— this time taking advantage of Semele, one of Cadmus' four daughters.",
+      "translation": "然后，宙斯又来访了，这次是利用卡德姆斯的 四个女儿之一塞梅勒。"
+    },
+    {
+      "id": 27,
+      "start": 165.203,
+      "end": 175.955,
+      "text": "When Zeus' wife Hera learned that he'd been unfaithful yet again and that Semele was pregnant, she tricked Zeus into revealing himself to Semele in his divine form.",
+      "translation": "当宙斯的妻子赫拉得知他再次不忠并且塞梅勒怀孕时，她欺骗宙斯以神圣的形态向塞梅勒露面。"
+    },
+    {
+      "id": 28,
+      "start": 176.005,
+      "end": 183.629,
+      "text": "But even the feeblest of his thunderstorms was too much for a mortal to witness, and Semele perished.",
+      "translation": "但是，即使是他最微弱的雷暴 也是凡人无法目睹的，塞梅勒也死了。"
+    },
+    {
+      "id": 29,
+      "start": 183.679,
+      "end": 190.261,
+      "text": "Zeus managed to save their unborn child, who grew into Dionysus, god of wine.",
+      "translation": "宙斯设法救出了他们未出生的孩子， 也就是酒神狄俄尼索斯（Dionysus）。"
+    },
+    {
+      "id": 30,
+      "start": 190.311,
+      "end": 194.432,
+      "text": "His wild, revelrous rituals drew devoted followers.",
+      "translation": "他狂野狂欢的仪式吸引了忠实的追随者。"
+    },
+    {
+      "id": 31,
+      "start": 194.482,
+      "end": 196.976,
+      "text": "But they eventually got out of hand.",
+      "translation": "但是他们最终失控了。"
+    },
+    {
+      "id": 32,
+      "start": 197.026,
+      "end": 210.948,
+      "text": "On one occasion, two of Cadmus' four daughters, Agave and Autonoë— Dionysus' own aunts— had a hallucinatory fit and killed Agave's own son, believing he was a lion.",
+      "translation": "有一次，卡德摩斯的四个女儿中的两个，阿高厄和奥托诺厄， 也就是迪奥尼苏斯的亲姨，出现了幻觉， 以为阿高厄的儿子是狮子，便杀死了他。"
+    },
+    {
+      "id": 33,
+      "start": 210.998,
+      "end": 213.826,
+      "text": "Next, Hera targeted the family again.",
+      "translation": "接下来，赫拉再次瞄准了这个家庭。"
+    },
+    {
+      "id": 34,
+      "start": 213.876,
+      "end": 224.212,
+      "text": "Alongside the Furies, the goddesses of vengeance, she cursed Cadmus' fourth daughter, Ino, with an intolerable madness that drove her into the sea.",
+      "translation": "她与复仇女神一起，在极度的疯癫中 诅咒了卡德摩斯的第四个女儿伊诺，使她深陷大海。"
+    },
+    {
+      "id": 35,
+      "start": 224.262,
+      "end": 230.843,
+      "text": "Besieged by bad luck and overcome with grief, Cadmus and Harmonia wandered the wilderness.",
+      "translation": "卡德姆斯和哈耳摩尼亚 被厄运围困，悲痛欲绝，流浪于荒野。"
+    },
+    {
+      "id": 36,
+      "start": 230.893,
+      "end": 238.768,
+      "text": "They considered the many tragic turns their lives had taken— which Cadmus traced back to the time he killed the serpent.",
+      "translation": "他们认为自己的人生经历了许多悲惨的转折，卡德摩斯将这些转折追溯到 他杀死那条蛇的时候。"
+    },
+    {
+      "id": 37,
+      "start": 238.818,
+      "end": 248.569,
+      "text": "Realizing that the animal could have been sacred and that his act might have incited the unabating wrath of the gods, Cadmus prayed to recompense his error.",
+      "translation": "他意识到那条蛇本是圣物，他的行为可能会激起了众神的愤怒，因此祈祷以补偿自己的错误。"
+    },
+    {
+      "id": 38,
+      "start": 248.619,
+      "end": 253.407,
+      "text": "Suddenly, he felt his body change and he embraced Harmonia.",
+      "translation": "突然间，他感觉到自己的身体发生了变化 ， 他拥抱了哈耳摩尼亚。"
+    },
+    {
+      "id": 39,
+      "start": 253.457,
+      "end": 261.874,
+      "text": "The two melted to the ground and shed their human skins, until finally, two snakes were left coiled in the field.",
+      "translation": "两人融化在地上，脱下了人皮，直到最后，化为了两条蛇， 被困在田野里。"
+    },
+    {
+      "id": 40,
+      "start": 261.924,
+      "end": 275.95,
+      "text": "Cadmus' debt was at last repaid— to the snake he slayed in a desperate moment, and to the gods, who guarded their grudges and dispensed of their punishments liberally.",
+      "translation": "卡德摩斯的债务终于还清——偿还了他在绝望时刻杀死的那条蛇，偿还给了众神，最终放下了怨恨，宽大地停止了惩罚。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.128,
+      "text": "When Cadmus walked the earth,",
+      "end": 9.414
+    },
+    {
+      "start": 9.464,
+      "text": "just a few generations separated him from his divine ancestors.",
+      "end": 15.003
+    },
+    {
+      "start": 15.053,
+      "text": "From atop Mount Olympus, they scrutinized and meddled with mortals like himself.",
+      "end": 20.758
+    },
+    {
+      "start": 20.808,
+      "text": "Cadmus was a skilled warrior and heir to the Phoenician throne.",
+      "end": 25.346
+    },
+    {
+      "start": 25.396,
+      "text": "But he wouldn't stay in the gods' favor for long.",
+      "end": 28.849999999999998
+    },
+    {
+      "start": 28.9,
+      "text": "First, Zeus coveted Cadmus' sister, Europa.",
+      "end": 33.229000000000006
+    },
+    {
+      "start": 33.279,
+      "text": "So, he snuck into the palace garden in the form of a bull and stole her away.",
+      "end": 38.484
+    },
+    {
+      "start": 38.534,
+      "text": "Their father tasked Cadmus and his men with the impossible duty",
+      "end": 42.739000000000004
+    },
+    {
+      "start": 42.789,
+      "text": "of bringing Europa back.",
+      "end": 44.991
+    },
+    {
+      "start": 45.041,
+      "text": "Cadmus journeyed to the sacred Oracle of Delphi to plead for help,",
+      "end": 49.203
+    },
+    {
+      "start": 49.253,
+      "text": "where he was told to find and follow a sacred, wild cow.",
+      "end": 53.75
+    },
+    {
+      "start": 53.8,
+      "text": "At the spot where the cow rested, he was to found a new city.",
+      "end": 58.337
+    },
+    {
+      "start": 58.387,
+      "text": "Cadmus and his men did as the oracle said,",
+      "end": 60.923
+    },
+    {
+      "start": 60.973,
+      "text": "then ventured into the nearby forest for supplies.",
+      "end": 64.177
+    },
+    {
+      "start": 64.227,
+      "text": "But a giant serpent soon appeared.",
+      "end": 67.055
+    },
+    {
+      "start": 67.105,
+      "text": "It choked some of Cadmus' men and blasted others with venom.",
+      "end": 71.35000000000001
+    },
+    {
+      "start": 71.4,
+      "text": "Cadmus leapt into action, hurled his javelin,",
+      "end": 74.27
+    },
+    {
+      "start": 74.32,
+      "text": "and pinned the snake to a tree.",
+      "end": 76.56400000000001
+    },
+    {
+      "start": 76.614,
+      "text": "Without knowing it, he had just slain Ares', the god of war's, precious serpent—",
+      "end": 82.153
+    },
+    {
+      "start": 82.203,
+      "text": "and sealed tragedy into his own fate along with it.",
+      "end": 85.907
+    },
+    {
+      "start": 85.957,
+      "text": "Suddenly, a disembodied voice boomed:",
+      "end": 89.11800000000001
+    },
+    {
+      "start": 89.168,
+      "text": "\"You too shall be a serpent to be gazed on.\"",
+      "end": 92.914
+    },
+    {
+      "start": 92.964,
+      "text": "Taking pity on the prince,",
+      "end": 94.62400000000001
+    },
+    {
+      "start": 94.674,
+      "text": "the goddess Athena instructed Cadmus to till the earth",
+      "end": 97.96000000000001
+    },
+    {
+      "start": 98.01,
+      "text": "using the serpent's teeth.",
+      "end": 100.129
+    },
+    {
+      "start": 100.179,
+      "text": "As he nestled its fangs into the soil,",
+      "end": 102.632
+    },
+    {
+      "start": 102.682,
+      "text": "a band of warriors sprouted from the ground.",
+      "end": 106.09400000000001
+    },
+    {
+      "start": 106.144,
+      "text": "Together, they built the magnificent city of Thebes.",
+      "end": 109.72200000000001
+    },
+    {
+      "start": 109.772,
+      "text": "And eventually, Cadmus fell in love with Harmonia,",
+      "end": 112.642
+    },
+    {
+      "start": 112.692,
+      "text": "daughter of Ares and Aphrodite, and the two married.",
+      "end": 116.896
+    },
+    {
+      "start": 116.946,
+      "text": "As years passed, and his city and family grew,",
+      "end": 119.899
+    },
+    {
+      "start": 119.949,
+      "text": "hope that all strife might be forgotten between Cadmus and the gods",
+      "end": 123.903
+    },
+    {
+      "start": 123.953,
+      "text": "glimmered briefly.",
+      "end": 125.655
+    },
+    {
+      "start": 125.705,
+      "text": "But, soon enough, his family's luck began souring once more.",
+      "end": 130.618
+    },
+    {
+      "start": 130.668,
+      "text": "Tragedy struck when Cadmus' grandson, Actaeon,",
+      "end": 134.03799999999998
+    },
+    {
+      "start": 134.088,
+      "text": "was tracking a stag in the forest with his hunting hounds.",
+      "end": 137.75
+    },
+    {
+      "start": 137.8,
+      "text": "The young man unwittingly infringed on the sacred grove of Artemis,",
+      "end": 142.255
+    },
+    {
+      "start": 142.305,
+      "text": "goddess of the hunt, as she was bathing.",
+      "end": 145.42399999999998
+    },
+    {
+      "start": 145.474,
+      "text": "Artemis punished Actaeon, transforming him into a skittish stag.",
+      "end": 150.22099999999998
+    },
+    {
+      "start": 150.271,
+      "text": "And in this form Actaeon's own hounds could no longer distinguish him",
+      "end": 154.183
+    },
+    {
+      "start": 154.233,
+      "text": "from the object of the hunt— and they went in for the kill.",
+      "end": 158.146
+    },
+    {
+      "start": 158.196,
+      "text": "Then, Zeus visited again—",
+      "end": 160.273
+    },
+    {
+      "start": 160.323,
+      "text": "this time taking advantage of Semele, one of Cadmus' four daughters.",
+      "end": 165.153
+    },
+    {
+      "start": 165.203,
+      "text": "When Zeus' wife Hera learned that he'd been unfaithful yet again",
+      "end": 169.57399999999998
+    },
+    {
+      "start": 169.624,
+      "text": "and that Semele was pregnant,",
+      "end": 171.409
+    },
+    {
+      "start": 171.459,
+      "text": "she tricked Zeus into revealing himself to Semele in his divine form.",
+      "end": 175.95499999999998
+    },
+    {
+      "start": 176.005,
+      "text": "But even the feeblest of his thunderstorms was too much for a mortal to witness,",
+      "end": 181.20999999999998
+    },
+    {
+      "start": 181.26,
+      "text": "and Semele perished.",
+      "end": 183.629
+    },
+    {
+      "start": 183.679,
+      "text": "Zeus managed to save their unborn child, who grew into Dionysus, god of wine.",
+      "end": 190.261
+    },
+    {
+      "start": 190.311,
+      "text": "His wild, revelrous rituals drew devoted followers.",
+      "end": 194.432
+    },
+    {
+      "start": 194.482,
+      "text": "But they eventually got out of hand.",
+      "end": 196.976
+    },
+    {
+      "start": 197.026,
+      "text": "On one occasion, two of Cadmus' four daughters,",
+      "end": 200.396
+    },
+    {
+      "start": 200.446,
+      "text": "Agave and Autonoë— Dionysus' own aunts—",
+      "end": 204.39999999999998
+    },
+    {
+      "start": 204.45,
+      "text": "had a hallucinatory fit and killed Agave's own son,",
+      "end": 208.613
+    },
+    {
+      "start": 208.663,
+      "text": "believing he was a lion.",
+      "end": 210.94799999999998
+    },
+    {
+      "start": 210.998,
+      "text": "Next, Hera targeted the family again.",
+      "end": 213.826
+    },
+    {
+      "start": 213.876,
+      "text": "Alongside the Furies, the goddesses of vengeance,",
+      "end": 216.87099999999998
+    },
+    {
+      "start": 216.921,
+      "text": "she cursed Cadmus' fourth daughter, Ino,",
+      "end": 220.374
+    },
+    {
+      "start": 220.424,
+      "text": "with an intolerable madness that drove her into the sea.",
+      "end": 224.212
+    },
+    {
+      "start": 224.262,
+      "text": "Besieged by bad luck and overcome with grief,",
+      "end": 227.673
+    },
+    {
+      "start": 227.723,
+      "text": "Cadmus and Harmonia wandered the wilderness.",
+      "end": 230.843
+    },
+    {
+      "start": 230.893,
+      "text": "They considered the many tragic turns their lives had taken—",
+      "end": 234.59699999999998
+    },
+    {
+      "start": 234.647,
+      "text": "which Cadmus traced back to the time he killed the serpent.",
+      "end": 238.768
+    },
+    {
+      "start": 238.818,
+      "text": "Realizing that the animal could have been sacred",
+      "end": 241.22899999999998
+    },
+    {
+      "start": 241.279,
+      "text": "and that his act might have incited the unabating wrath of the gods,",
+      "end": 245.399
+    },
+    {
+      "start": 245.449,
+      "text": "Cadmus prayed to recompense his error.",
+      "end": 248.569
+    },
+    {
+      "start": 248.619,
+      "text": "Suddenly, he felt his body change and he embraced Harmonia.",
+      "end": 253.40699999999998
+    },
+    {
+      "start": 253.457,
+      "text": "The two melted to the ground and shed their human skins,",
+      "end": 257.37
+    },
+    {
+      "start": 257.42,
+      "text": "until finally, two snakes were left coiled in the field.",
+      "end": 261.87399999999997
+    },
+    {
+      "start": 261.924,
+      "text": "Cadmus' debt was at last repaid—",
+      "end": 264.794
+    },
+    {
+      "start": 264.844,
+      "text": "to the snake he slayed in a desperate moment,",
+      "end": 267.505
+    },
+    {
+      "start": 267.555,
+      "text": "and to the gods, who guarded their grudges",
+      "end": 270.508
+    },
+    {
+      "start": 270.558,
+      "text": "and dispensed of their punishments liberally.",
+      "end": 275.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.128,
+      "text": "当卡德摩斯 (Cadmus) 行走于世间时，",
+      "end": 9.414
+    },
+    {
+      "start": 9.464,
+      "text": "他与他的神祖之间仅隔了几代人。",
+      "end": 15.003
+    },
+    {
+      "start": 15.053,
+      "text": "在奥林匹斯山巅， 诸神审视并干预着像他这样的凡人。",
+      "end": 20.758
+    },
+    {
+      "start": 20.808,
+      "text": "卡德摩斯是一位技艺精湛的战士， 也是腓尼基 (Phoenician) 王位的继承人，",
+      "end": 25.346
+    },
+    {
+      "start": 25.396,
+      "text": "但是他不会受到众神长久的青睐。",
+      "end": 28.849999999999998
+    },
+    {
+      "start": 28.9,
+      "text": "首先，宙斯渴望 卡德摩斯的姐姐欧罗巴 (Europa) 。",
+      "end": 33.229000000000006
+    },
+    {
+      "start": 33.279,
+      "text": "于是，他以公牛的形式偷偷进入宫殿花园， 把她偷走了。",
+      "end": 38.484
+    },
+    {
+      "start": 38.534,
+      "text": "他们的父亲责成卡德摩斯和他的手下 肩负起不可能完成的任务，",
+      "end": 42.739000000000004
+    },
+    {
+      "start": 42.789,
+      "text": "那就是将欧罗巴带回来。",
+      "end": 44.991
+    },
+    {
+      "start": 45.041,
+      "text": "卡德摩斯前往 德尔斐<b>神谕 </b>(Oracle of Delphi) 寻求帮助，",
+      "end": 49.203
+    },
+    {
+      "start": 49.253,
+      "text": "在那里他被告知要找到并跟随 一头神圣的野牛。",
+      "end": 53.75
+    },
+    {
+      "start": 53.8,
+      "text": "在牛休息的地方， 他要找到一座新城市。",
+      "end": 58.337
+    },
+    {
+      "start": 58.387,
+      "text": "卡德摩斯和他的手下 照神言说的去做，",
+      "end": 60.923
+    },
+    {
+      "start": 60.973,
+      "text": "然后冒险进入附近的森林寻找补给。",
+      "end": 64.177
+    },
+    {
+      "start": 64.227,
+      "text": "但是很快就出现了一条巨蛇。",
+      "end": 67.055
+    },
+    {
+      "start": 67.105,
+      "text": "它勒死了卡德摩斯的一些士兵， 并用毒液融化了随从。",
+      "end": 71.35000000000001
+    },
+    {
+      "start": 71.4,
+      "text": "卡德摩斯迅速投入战斗，投掷标枪，",
+      "end": 74.27
+    },
+    {
+      "start": 74.32,
+      "text": "并将蛇钉在树上。",
+      "end": 76.56400000000001
+    },
+    {
+      "start": 76.614,
+      "text": "在不知情的情况下， 他刚杀死了的是战神阿瑞斯珍贵的毒蛇——",
+      "end": 82.153
+    },
+    {
+      "start": 82.203,
+      "text": "并将悲剧锁进了自己的命运中。",
+      "end": 85.907
+    },
+    {
+      "start": 85.957,
+      "text": "突然，一个无形的声音响起：",
+      "end": 89.11800000000001
+    },
+    {
+      "start": 89.168,
+      "text": "“你也将是一条遭受虎视眈眈的蛇。”",
+      "end": 92.914
+    },
+    {
+      "start": 92.964,
+      "text": "女神雅典娜同情王子，",
+      "end": 94.62400000000001
+    },
+    {
+      "start": 94.674,
+      "text": "指示卡德姆斯",
+      "end": 97.96000000000001
+    },
+    {
+      "start": 98.01,
+      "text": "用蛇的牙齿在地上耕种。",
+      "end": 100.129
+    },
+    {
+      "start": 100.179,
+      "text": "当他把尖牙埋在土里时，",
+      "end": 102.632
+    },
+    {
+      "start": 102.682,
+      "text": "一群勇士从地上冒了出来。",
+      "end": 106.09400000000001
+    },
+    {
+      "start": 106.144,
+      "text": "他们共同建造了宏伟的底比斯市。",
+      "end": 109.72200000000001
+    },
+    {
+      "start": 109.772,
+      "text": "最终，卡德摩斯爱上了 阿瑞斯和阿芙罗狄蒂的女儿",
+      "end": 112.642
+    },
+    {
+      "start": 112.692,
+      "text": "哈耳摩尼亚，两人结婚了。",
+      "end": 116.896
+    },
+    {
+      "start": 116.946,
+      "text": "随着岁月的流逝，他的城市 和家庭不断壮大，",
+      "end": 119.899
+    },
+    {
+      "start": 119.949,
+      "text": "卡德摩斯和众神之间的 所有纷争都被遗忘的希望",
+      "end": 123.903
+    },
+    {
+      "start": 123.953,
+      "text": "短暂地出现。",
+      "end": 125.655
+    },
+    {
+      "start": 125.705,
+      "text": "但是，很快，他家人的运气又 开始恶化了。",
+      "end": 130.618
+    },
+    {
+      "start": 130.668,
+      "text": "悲剧发生时， 卡德摩斯的孙子阿克泰昂",
+      "end": 134.03799999999998
+    },
+    {
+      "start": 134.088,
+      "text": "正带着猎犬在森林里追踪一只雄鹿。",
+      "end": 137.75
+    },
+    {
+      "start": 137.8,
+      "text": "这名年轻人不知不觉中闯入了",
+      "end": 142.255
+    },
+    {
+      "start": 142.305,
+      "text": "狩猎女神阿耳忒弥斯在洗澡的神圣树林。",
+      "end": 145.42399999999998
+    },
+    {
+      "start": 145.474,
+      "text": "阿耳忒弥斯惩罚了阿克泰昂， 使他变成了一只狡猾的雄鹿。",
+      "end": 150.22099999999998
+    },
+    {
+      "start": 150.271,
+      "text": "以这种形式，阿克泰昂自己的猎犬 再也无法将他",
+      "end": 154.183
+    },
+    {
+      "start": 154.233,
+      "text": "与狩猎对象区分开来了， 它们便将阿克泰阿杀了。",
+      "end": 158.146
+    },
+    {
+      "start": 158.196,
+      "text": "然后，宙斯又来访了，",
+      "end": 160.273
+    },
+    {
+      "start": 160.323,
+      "text": "这次是利用卡德姆斯的 四个女儿之一塞梅勒。",
+      "end": 165.153
+    },
+    {
+      "start": 165.203,
+      "text": "当宙斯的妻子赫拉得知他再次不忠",
+      "end": 169.57399999999998
+    },
+    {
+      "start": 169.624,
+      "text": "并且塞梅勒怀孕时，",
+      "end": 171.409
+    },
+    {
+      "start": 171.459,
+      "text": "她欺骗宙斯以神圣的形态向塞梅勒露面。",
+      "end": 175.95499999999998
+    },
+    {
+      "start": 176.005,
+      "text": "但是，即使是他最微弱的雷暴 也是凡人无法目睹的，",
+      "end": 181.20999999999998
+    },
+    {
+      "start": 181.26,
+      "text": "塞梅勒也死了。",
+      "end": 183.629
+    },
+    {
+      "start": 183.679,
+      "text": "宙斯设法救出了他们未出生的孩子， 也就是酒神狄俄尼索斯（Dionysus）。",
+      "end": 190.261
+    },
+    {
+      "start": 190.311,
+      "text": "他狂野狂欢的仪式吸引了忠实的追随者。",
+      "end": 194.432
+    },
+    {
+      "start": 194.482,
+      "text": "但是他们最终失控了。",
+      "end": 196.976
+    },
+    {
+      "start": 197.026,
+      "text": "有一次，卡德摩斯的四个女儿中的两个，",
+      "end": 200.396
+    },
+    {
+      "start": 200.446,
+      "text": "阿高厄和奥托诺厄， 也就是迪奥尼苏斯的亲姨，",
+      "end": 204.39999999999998
+    },
+    {
+      "start": 204.45,
+      "text": "出现了幻觉， 以为阿高厄的儿子是狮子，",
+      "end": 208.613
+    },
+    {
+      "start": 208.663,
+      "text": "便杀死了他。",
+      "end": 210.94799999999998
+    },
+    {
+      "start": 210.998,
+      "text": "接下来，赫拉再次瞄准了这个家庭。",
+      "end": 213.826
+    },
+    {
+      "start": 213.876,
+      "text": "她与复仇女神一起，",
+      "end": 216.87099999999998
+    },
+    {
+      "start": 216.921,
+      "text": "在极度的疯癫中 诅咒了卡德摩斯的第四个女儿伊诺，",
+      "end": 220.374
+    },
+    {
+      "start": 220.424,
+      "text": "使她深陷大海。",
+      "end": 224.212
+    },
+    {
+      "start": 224.262,
+      "text": "卡德姆斯和哈耳摩尼亚 被厄运围困，悲痛欲绝，",
+      "end": 227.673
+    },
+    {
+      "start": 227.723,
+      "text": "流浪于荒野。",
+      "end": 230.843
+    },
+    {
+      "start": 230.893,
+      "text": "他们认为自己的人生经历了许多悲惨的转折，",
+      "end": 234.59699999999998
+    },
+    {
+      "start": 234.647,
+      "text": "卡德摩斯将这些转折追溯到 他杀死那条蛇的时候。",
+      "end": 238.768
+    },
+    {
+      "start": 238.818,
+      "text": "他意识到那条蛇本是圣物，",
+      "end": 241.22899999999998
+    },
+    {
+      "start": 241.279,
+      "text": "他的行为可能会激起了众神的愤怒，",
+      "end": 245.399
+    },
+    {
+      "start": 245.449,
+      "text": "因此祈祷以补偿自己的错误。",
+      "end": 248.569
+    },
+    {
+      "start": 248.619,
+      "text": "突然间，他感觉到自己的身体发生了变化 ， 他拥抱了哈耳摩尼亚。",
+      "end": 253.40699999999998
+    },
+    {
+      "start": 253.457,
+      "text": "两人融化在地上，脱下了人皮，",
+      "end": 257.37
+    },
+    {
+      "start": 257.42,
+      "text": "直到最后，化为了两条蛇， 被困在田野里。",
+      "end": 261.87399999999997
+    },
+    {
+      "start": 261.924,
+      "text": "卡德摩斯的债务终于还清——",
+      "end": 264.794
+    },
+    {
+      "start": 264.844,
+      "text": "偿还了他在绝望时刻杀死的那条蛇，",
+      "end": 267.505
+    },
+    {
+      "start": 267.555,
+      "text": "偿还给了众神，最终放下了怨恨，",
+      "end": 270.508
+    },
+    {
+      "start": 270.558,
+      "text": "宽大地停止了惩罚。",
+      "end": 275.95
+    }
+  ]
+};

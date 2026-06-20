@@ -1,0 +1,759 @@
+window.TED_TALK_DATA = {
+  "meta": {
+    "title": "The Taino myth of the cursed creator",
+    "speaker": "Bill Keegan",
+    "duration": 204,
+    "slug": "bill_keegan_the_taino_myth_of_the_cursed_creator",
+    "sourcePage": "https://www.ted.com/talks/bill_keegan_the_taino_myth_of_the_cursed_creator",
+    "translationSourcePage": "https://www.ted.com/talks/bill_keegan_the_taino_myth_of_the_cursed_creator?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/50/79/001/products/2019e-bill-keegan-taino-originsofthe-sea-001-fallback-700c0ed0c325a9b5e57edb5556579d06-1200k.mp4",
+    "youtubeId": "arlTwhiMxVM",
+    "youtubeTitle": "The Taino myth of the cursed creator - Bill Keegan"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.72,
+      "end": 14.977,
+      "text": "Before the world of humans began, there was the world of the gods, made of fields, plains and gardens.",
+      "translation": "在有人类世界之前，是神的世界， 那里有田野、平原和花园，"
+    },
+    {
+      "id": 2,
+      "start": 15.027,
+      "end": 17.676,
+      "text": "Four brothers wandered this celestial realm.",
+      "translation": "有兄弟四人在天界中闲逛，"
+    },
+    {
+      "id": 3,
+      "start": 17.726,
+      "end": 22.727,
+      "text": "They had no family other than each other— they didn’t even know who their parents were.",
+      "translation": "他们除了彼此， 没有任何家人——甚至不知道自己父母是谁。"
+    },
+    {
+      "id": 4,
+      "start": 22.777,
+      "end": 26.432,
+      "text": "One of the brothers, Deminan, looked different from the others.",
+      "translation": "德米南与其他三兄弟长得不一样，"
+    },
+    {
+      "id": 5,
+      "start": 26.482,
+      "end": 33.152,
+      "text": "His skin was covered in painful scabs, and he wondered why he alone had been marked with this affliction.",
+      "translation": "他的皮肤上布满疮痂，疼痛无比，他不明白为何只有自己 要遭受这种痛苦。"
+    },
+    {
+      "id": 6,
+      "start": 33.202,
+      "end": 40.862,
+      "text": "One day, while the supreme spirit Yaya was out in his gardens, Deminan and his brothers snuck into Yaya’s house.",
+      "translation": "一天，至上的神祇亚雅去花园了，德米安和他的兄弟们 趁机溜进了亚雅的房子，"
+    },
+    {
+      "id": 7,
+      "start": 40.912,
+      "end": 46.072,
+      "text": "After feasting and exploring, they spotted a giant gourd hanging in the corner.",
+      "translation": "他们大吃一顿，并在屋里乱看， 发现角落里挂着一个巨大葫芦。"
+    },
+    {
+      "id": 8,
+      "start": 46.122,
+      "end": 49.058,
+      "text": "But as they tried to look inside the gourd, they dropped it.",
+      "translation": "但当他们想看看葫芦里有什么时， 不小心把葫芦碰掉，摔到了地上，"
+    },
+    {
+      "id": 9,
+      "start": 49.108,
+      "end": 57.31,
+      "text": "The gourd broke apart, releasing a deluge that swept the brothers away, separating them from the celestial lands forever.",
+      "translation": "葫芦摔成碎片，流出涛涛洪水， 席卷了四兄弟，把他们冲走了，他们四人从此与天界永远分离。"
+    },
+    {
+      "id": 10,
+      "start": 57.36,
+      "end": 60.905,
+      "text": "The waters from the gourd formed a new world.",
+      "translation": "葫芦中的水形成了一个新世界，"
+    },
+    {
+      "id": 11,
+      "start": 60.955,
+      "end": 65.475,
+      "text": "This realm was covered in seas, which didn’t exist in the gods’ world.",
+      "translation": "它被不存在于天界的海洋所覆盖，"
+    },
+    {
+      "id": 12,
+      "start": 65.525,
+      "end": 70.615,
+      "text": "The waters were full of fish and other creatures, and dotted with islands and caves.",
+      "translation": "水域里满是鱼类和其它生物，并散布着岛屿和洞穴。"
+    },
+    {
+      "id": 13,
+      "start": 70.665,
+      "end": 81.302,
+      "text": "This world of seas was also cut off completely from the celestial realm, and the brothers wandered aimlessly, even more lost than they had been before.",
+      "translation": "这个海洋世界与天界也完全隔绝，兄弟四人漫无目的地游荡，比以前更无所事事。"
+    },
+    {
+      "id": 14,
+      "start": 81.352,
+      "end": 84.98,
+      "text": "One day, three of the brothers stumbled upon a house.",
+      "translation": "一天，三兄弟偶然发现了一个房子，"
+    },
+    {
+      "id": 15,
+      "start": 85.03,
+      "end": 90.2,
+      "text": "In the house lived an elder named Bayamanacao, and he invited them in.",
+      "translation": "主人是位长者，叫巴亚玛那宼， 他邀请兄弟三人进屋去；"
+    },
+    {
+      "id": 16,
+      "start": 90.25,
+      "end": 94.411,
+      "text": "When Deminan caught up slightly later, he followed them into the house.",
+      "translation": "德米南稍后赶到， 也跟着进了屋。"
+    },
+    {
+      "id": 17,
+      "start": 94.461,
+      "end": 101.44,
+      "text": "Bayamanacao told the brothers he was their grandfather and gave them a gift of special cassava bread.",
+      "translation": "巴亚玛那宼告诉兄弟四人， 自己就是他们的祖父，并把特殊的木薯面包 作为礼物送给他们，"
+    },
+    {
+      "id": 18,
+      "start": 101.49,
+      "end": 109.942,
+      "text": "He revealed their family lineage to them: their mother had been the Earth Mother Goddess Itibi Cahubaba and had died when they were born.",
+      "translation": "还透露了兄弟四人的家庭血统：他们的母亲曾是地球母亲 伊蒂比 · 卡胡巴巴女神，他们刚出生，她就去世了。"
+    },
+    {
+      "id": 19,
+      "start": 109.992,
+      "end": 115.372,
+      "text": "The brothers were grateful for his hospitality and insight into their past.",
+      "translation": "兄弟们对他的热情款待 和告知家世背景无比感激。"
+    },
+    {
+      "id": 20,
+      "start": 115.422,
+      "end": 123.44,
+      "text": "But then Bayamanacao turned on Deminan, blowing tobacco spittle from his nose onto Deminan’s back.",
+      "translation": "但是随后，巴亚玛那宼转向德米南，从鼻子里把烟草唾沫 吐到德米南背上，"
+    },
+    {
+      "id": 21,
+      "start": 123.49,
+      "end": 128.61,
+      "text": "The spot where the spittle landed immediately began to swell and sting.",
+      "translation": "被唾沫沾到的地方 立即开始肿胀和刺痛，"
+    },
+    {
+      "id": 22,
+      "start": 128.66,
+      "end": 135.144,
+      "text": "Soon Deminan was delirious and his back was so swollen his brothers feared he would die.",
+      "translation": "很快，德米南就神志不清，他的背肿得特别厉害， 兄弟们担心他会因此死去。"
+    },
+    {
+      "id": 23,
+      "start": 135.194,
+      "end": 139.004,
+      "text": "Not knowing what else to do, they cut open the welt.",
+      "translation": "三兄弟不知所措，于是， 他们切开了他背部肿胀的地方，"
+    },
+    {
+      "id": 24,
+      "start": 139.054,
+      "end": 147.128,
+      "text": "A turtle emerged from the wound and swam away, alternating easily between sea and land as she went.",
+      "translation": "伤口中竟然冒出来一只乌龟，游走了，它灵活地在水中游、陆上爬，随心变换。"
+    },
+    {
+      "id": 25,
+      "start": 147.178,
+      "end": 159.059,
+      "text": "When Deminan recovered from his delirium, he finally understood what the curse of his disease meant: he was a caracaracol, able to communicate with the gods.",
+      "translation": "当德米南醒过来时，他终于明白 为何自己患有被诅咒的怪病：他是能够与众神交流的 卡拉卡拉科尔，"
+    },
+    {
+      "id": 26,
+      "start": 159.109,
+      "end": 163.801,
+      "text": "He was the link between the celestial realm and the earthly realm.",
+      "translation": "他是天界与尘世之间的纽带。"
+    },
+    {
+      "id": 27,
+      "start": 163.851,
+      "end": 168.855,
+      "text": "Deminan was the first in a long lineage of caracaracols.",
+      "translation": "德米南是卡拉卡拉科尔大家族的鼻祖，"
+    },
+    {
+      "id": 28,
+      "start": 168.905,
+      "end": 181.348,
+      "text": "The world of seas he and his brothers had created when they dropped the gourd became the world of humans, where the caracaracols who followed Deminan maintained the delicate balance between people and gods.",
+      "translation": "他和兄弟们摔破葫芦 所创造的海洋世界创造出人类的世界，住着德米南的后代—— 卡拉卡拉科尔们，他们维护着人与神之间的微妙平衡。"
+    },
+    {
+      "id": 29,
+      "start": 181.398,
+      "end": 191.89,
+      "text": "But their unique power came at a price: Deminan and all the caracaracols who followed him continued to suffer from the illness that had first marked Deminan as special.",
+      "translation": "但他们独特的力量是有代价的：德米南和后来追随他的克拉克拉科尔，继续遭受 最初标记德米南与众不同的怪病折磨。"
+    },
+    {
+      "id": 30,
+      "start": 191.94,
+      "end": 203.95,
+      "text": "Represented in Taino carvings and figurines with a swollen back and emaciated arms, the caracaracol is both cursed and blessed to be a conduit between worlds.",
+      "translation": "在泰诺雕刻和小雕像中，被刻画为背部肿胀、手臂细瘦的 卡拉卡洛科尔，作为神界与尘世的桥梁， 他是被诅咒也是被祝福的存在。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.72,
+      "text": "Before the world of humans began,",
+      "end": 9.283
+    },
+    {
+      "start": 9.333,
+      "text": "there was the world of the gods, made of fields, plains and gardens.",
+      "end": 14.976999999999999
+    },
+    {
+      "start": 15.027,
+      "text": "Four brothers wandered this celestial realm.",
+      "end": 17.676
+    },
+    {
+      "start": 17.726,
+      "text": "They had no family other than each other—",
+      "end": 19.977999999999998
+    },
+    {
+      "start": 20.028,
+      "text": "they didn’t even know who their parents were.",
+      "end": 22.727
+    },
+    {
+      "start": 22.777,
+      "text": "One of the brothers, Deminan, looked different from the others.",
+      "end": 26.432
+    },
+    {
+      "start": 26.482,
+      "text": "His skin was covered in painful scabs,",
+      "end": 28.811999999999998
+    },
+    {
+      "start": 28.862,
+      "text": "and he wondered why he alone had been marked with this affliction.",
+      "end": 33.152
+    },
+    {
+      "start": 33.202,
+      "text": "One day, while the supreme spirit Yaya was out in his gardens,",
+      "end": 37.27
+    },
+    {
+      "start": 37.32,
+      "text": "Deminan and his brothers snuck into Yaya’s house.",
+      "end": 40.862
+    },
+    {
+      "start": 40.912,
+      "text": "After feasting and exploring, they spotted a giant gourd hanging in the corner.",
+      "end": 46.072
+    },
+    {
+      "start": 46.122,
+      "text": "But as they tried to look inside the gourd, they dropped it.",
+      "end": 49.058
+    },
+    {
+      "start": 49.108,
+      "text": "The gourd broke apart, releasing a deluge that swept the brothers away,",
+      "end": 53.333000000000006
+    },
+    {
+      "start": 53.383,
+      "text": "separating them from the celestial lands forever.",
+      "end": 57.31
+    },
+    {
+      "start": 57.36,
+      "text": "The waters from the gourd formed a new world.",
+      "end": 60.905
+    },
+    {
+      "start": 60.955,
+      "text": "This realm was covered in seas, which didn’t exist in the gods’ world.",
+      "end": 65.47500000000001
+    },
+    {
+      "start": 65.525,
+      "text": "The waters were full of fish and other creatures,",
+      "end": 68.13600000000001
+    },
+    {
+      "start": 68.186,
+      "text": "and dotted with islands and caves.",
+      "end": 70.61500000000001
+    },
+    {
+      "start": 70.665,
+      "text": "This world of seas was also cut off completely from the celestial realm,",
+      "end": 75.575
+    },
+    {
+      "start": 75.625,
+      "text": "and the brothers wandered aimlessly,",
+      "end": 77.887
+    },
+    {
+      "start": 77.937,
+      "text": "even more lost than they had been before.",
+      "end": 81.302
+    },
+    {
+      "start": 81.352,
+      "text": "One day, three of the brothers stumbled upon a house.",
+      "end": 84.98
+    },
+    {
+      "start": 85.03,
+      "text": "In the house lived an elder named Bayamanacao, and he invited them in.",
+      "end": 90.2
+    },
+    {
+      "start": 90.25,
+      "text": "When Deminan caught up slightly later, he followed them into the house.",
+      "end": 94.411
+    },
+    {
+      "start": 94.461,
+      "text": "Bayamanacao told the brothers he was their grandfather",
+      "end": 98.199
+    },
+    {
+      "start": 98.249,
+      "text": "and gave them a gift of special cassava bread.",
+      "end": 101.44
+    },
+    {
+      "start": 101.49,
+      "text": "He revealed their family lineage to them:",
+      "end": 103.897
+    },
+    {
+      "start": 103.947,
+      "text": "their mother had been the Earth Mother Goddess Itibi Cahubaba",
+      "end": 107.936
+    },
+    {
+      "start": 107.986,
+      "text": "and had died when they were born.",
+      "end": 109.94200000000001
+    },
+    {
+      "start": 109.992,
+      "text": "The brothers were grateful for his hospitality and insight into their past.",
+      "end": 115.372
+    },
+    {
+      "start": 115.422,
+      "text": "But then Bayamanacao turned on Deminan,",
+      "end": 119.232
+    },
+    {
+      "start": 119.282,
+      "text": "blowing tobacco spittle from his nose onto Deminan’s back.",
+      "end": 123.44
+    },
+    {
+      "start": 123.49,
+      "text": "The spot where the spittle landed immediately began to swell and sting.",
+      "end": 128.60999999999999
+    },
+    {
+      "start": 128.66,
+      "text": "Soon Deminan was delirious",
+      "end": 130.759
+    },
+    {
+      "start": 130.809,
+      "text": "and his back was so swollen his brothers feared he would die.",
+      "end": 135.14399999999998
+    },
+    {
+      "start": 135.194,
+      "text": "Not knowing what else to do, they cut open the welt.",
+      "end": 139.004
+    },
+    {
+      "start": 139.054,
+      "text": "A turtle emerged from the wound and swam away,",
+      "end": 142.714
+    },
+    {
+      "start": 142.764,
+      "text": "alternating easily between sea and land as she went.",
+      "end": 147.128
+    },
+    {
+      "start": 147.178,
+      "text": "When Deminan recovered from his delirium,",
+      "end": 150.105
+    },
+    {
+      "start": 150.155,
+      "text": "he finally understood what the curse of his disease meant:",
+      "end": 154.345
+    },
+    {
+      "start": 154.395,
+      "text": "he was a caracaracol, able to communicate with the gods.",
+      "end": 159.059
+    },
+    {
+      "start": 159.109,
+      "text": "He was the link between the celestial realm and the earthly realm.",
+      "end": 163.801
+    },
+    {
+      "start": 163.851,
+      "text": "Deminan was the first in a long lineage of caracaracols.",
+      "end": 168.855
+    },
+    {
+      "start": 168.905,
+      "text": "The world of seas he and his brothers had created when they dropped the gourd",
+      "end": 173.46699999999998
+    },
+    {
+      "start": 173.517,
+      "text": "became the world of humans,",
+      "end": 175.20299999999997
+    },
+    {
+      "start": 175.253,
+      "text": "where the caracaracols who followed Deminan maintained the delicate balance",
+      "end": 179.041
+    },
+    {
+      "start": 179.091,
+      "text": "between people and gods.",
+      "end": 181.34799999999998
+    },
+    {
+      "start": 181.398,
+      "text": "But their unique power came at a price:",
+      "end": 184.024
+    },
+    {
+      "start": 184.074,
+      "text": "Deminan and all the caracaracols who followed him",
+      "end": 187.01999999999998
+    },
+    {
+      "start": 187.07,
+      "text": "continued to suffer from the illness that had first marked Deminan as special.",
+      "end": 191.89
+    },
+    {
+      "start": 191.94,
+      "text": "Represented in Taino carvings and figurines",
+      "end": 194.97199999999998
+    },
+    {
+      "start": 195.022,
+      "text": "with a swollen back and emaciated arms,",
+      "end": 198.018
+    },
+    {
+      "start": 198.068,
+      "text": "the caracaracol is both cursed and blessed to be a conduit between worlds.",
+      "end": 203.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.72,
+      "text": "在有人类世界之前，",
+      "end": 9.283
+    },
+    {
+      "start": 9.333,
+      "text": "是神的世界， 那里有田野、平原和花园，",
+      "end": 14.976999999999999
+    },
+    {
+      "start": 15.027,
+      "text": "有兄弟四人在天界中闲逛，",
+      "end": 17.676
+    },
+    {
+      "start": 17.726,
+      "text": "他们除了彼此， 没有任何家人——",
+      "end": 19.977999999999998
+    },
+    {
+      "start": 20.028,
+      "text": "甚至不知道自己父母是谁。",
+      "end": 22.727
+    },
+    {
+      "start": 22.777,
+      "text": "德米南与其他三兄弟长得不一样，",
+      "end": 26.432
+    },
+    {
+      "start": 26.482,
+      "text": "他的皮肤上布满疮痂，疼痛无比，",
+      "end": 29.092
+    },
+    {
+      "start": 29.142,
+      "text": "他不明白为何只有自己 要遭受这种痛苦。",
+      "end": 33.152
+    },
+    {
+      "start": 33.202,
+      "text": "一天，至上的神祇亚雅去花园了，",
+      "end": 37.27
+    },
+    {
+      "start": 37.32,
+      "text": "德米安和他的兄弟们 趁机溜进了亚雅的房子，",
+      "end": 40.862
+    },
+    {
+      "start": 40.912,
+      "text": "他们大吃一顿，并在屋里乱看， 发现角落里挂着一个巨大葫芦。",
+      "end": 46.072
+    },
+    {
+      "start": 46.122,
+      "text": "但当他们想看看葫芦里有什么时， 不小心把葫芦碰掉，摔到了地上，",
+      "end": 49.058
+    },
+    {
+      "start": 49.108,
+      "text": "葫芦摔成碎片，流出涛涛洪水， 席卷了四兄弟，把他们冲走了，",
+      "end": 53.333000000000006
+    },
+    {
+      "start": 53.383,
+      "text": "他们四人从此与天界永远分离。",
+      "end": 57.31
+    },
+    {
+      "start": 57.36,
+      "text": "葫芦中的水形成了一个新世界，",
+      "end": 60.905
+    },
+    {
+      "start": 60.955,
+      "text": "它被不存在于天界的海洋所覆盖，",
+      "end": 65.47500000000001
+    },
+    {
+      "start": 65.525,
+      "text": "水域里满是鱼类和其它生物，",
+      "end": 68.13600000000001
+    },
+    {
+      "start": 68.186,
+      "text": "并散布着岛屿和洞穴。",
+      "end": 70.61500000000001
+    },
+    {
+      "start": 70.665,
+      "text": "这个海洋世界与天界也完全隔绝，",
+      "end": 75.575
+    },
+    {
+      "start": 75.625,
+      "text": "兄弟四人漫无目的地游荡，",
+      "end": 77.887
+    },
+    {
+      "start": 77.937,
+      "text": "比以前更无所事事。",
+      "end": 81.302
+    },
+    {
+      "start": 81.352,
+      "text": "一天，三兄弟偶然发现了一个房子，",
+      "end": 84.98
+    },
+    {
+      "start": 85.03,
+      "text": "主人是位长者，叫巴亚玛那宼， 他邀请兄弟三人进屋去；",
+      "end": 90.2
+    },
+    {
+      "start": 90.25,
+      "text": "德米南稍后赶到， 也跟着进了屋。",
+      "end": 94.411
+    },
+    {
+      "start": 94.461,
+      "text": "巴亚玛那宼告诉兄弟四人， 自己就是他们的祖父，",
+      "end": 98.199
+    },
+    {
+      "start": 98.249,
+      "text": "并把特殊的木薯面包 作为礼物送给他们，",
+      "end": 101.44
+    },
+    {
+      "start": 101.49,
+      "text": "还透露了兄弟四人的家庭血统：",
+      "end": 103.897
+    },
+    {
+      "start": 103.947,
+      "text": "他们的母亲曾是地球母亲 伊蒂比 · 卡胡巴巴女神，",
+      "end": 107.936
+    },
+    {
+      "start": 107.986,
+      "text": "他们刚出生，她就去世了。",
+      "end": 109.94200000000001
+    },
+    {
+      "start": 109.992,
+      "text": "兄弟们对他的热情款待 和告知家世背景无比感激。",
+      "end": 115.372
+    },
+    {
+      "start": 115.422,
+      "text": "但是随后，巴亚玛那宼转向德米南，",
+      "end": 119.232
+    },
+    {
+      "start": 119.282,
+      "text": "从鼻子里把烟草唾沫 吐到德米南背上，",
+      "end": 123.44
+    },
+    {
+      "start": 123.49,
+      "text": "被唾沫沾到的地方 立即开始肿胀和刺痛，",
+      "end": 128.60999999999999
+    },
+    {
+      "start": 128.66,
+      "text": "很快，德米南就神志不清，",
+      "end": 130.759
+    },
+    {
+      "start": 130.809,
+      "text": "他的背肿得特别厉害， 兄弟们担心他会因此死去。",
+      "end": 135.14399999999998
+    },
+    {
+      "start": 135.194,
+      "text": "三兄弟不知所措，于是， 他们切开了他背部肿胀的地方，",
+      "end": 139.004
+    },
+    {
+      "start": 139.054,
+      "text": "伤口中竟然冒出来一只乌龟，游走了，",
+      "end": 142.714
+    },
+    {
+      "start": 142.764,
+      "text": "它灵活地在水中游、陆上爬，随心变换。",
+      "end": 147.128
+    },
+    {
+      "start": 147.178,
+      "text": "当德米南醒过来时，",
+      "end": 150.105
+    },
+    {
+      "start": 150.155,
+      "text": "他终于明白 为何自己患有被诅咒的怪病：",
+      "end": 154.345
+    },
+    {
+      "start": 154.395,
+      "text": "他是能够与众神交流的 卡拉卡拉科尔，",
+      "end": 159.059
+    },
+    {
+      "start": 159.109,
+      "text": "他是天界与尘世之间的纽带。",
+      "end": 163.801
+    },
+    {
+      "start": 163.851,
+      "text": "德米南是卡拉卡拉科尔大家族的鼻祖，",
+      "end": 168.855
+    },
+    {
+      "start": 168.905,
+      "text": "他和兄弟们摔破葫芦 所创造的海洋世界",
+      "end": 173.46699999999998
+    },
+    {
+      "start": 173.517,
+      "text": "创造出人类的世界，",
+      "end": 175.20299999999997
+    },
+    {
+      "start": 175.253,
+      "text": "住着德米南的后代—— 卡拉卡拉科尔们，",
+      "end": 179.041
+    },
+    {
+      "start": 179.091,
+      "text": "他们维护着人与神之间的微妙平衡。",
+      "end": 181.34799999999998
+    },
+    {
+      "start": 181.398,
+      "text": "但他们独特的力量是有代价的：",
+      "end": 184.024
+    },
+    {
+      "start": 184.074,
+      "text": "德米南和后来追随他的克拉克拉科尔，",
+      "end": 187.01999999999998
+    },
+    {
+      "start": 187.07,
+      "text": "继续遭受 最初标记德米南与众不同的怪病折磨。",
+      "end": 191.89
+    },
+    {
+      "start": 191.94,
+      "text": "在泰诺雕刻和小雕像中，",
+      "end": 194.97199999999998
+    },
+    {
+      "start": 195.022,
+      "text": "被刻画为背部肿胀、手臂细瘦的 卡拉卡洛科尔，",
+      "end": 198.018
+    },
+    {
+      "start": 198.068,
+      "text": "作为神界与尘世的桥梁， 他是被诅咒也是被祝福的存在。",
+      "end": 203.95
+    }
+  ]
+};

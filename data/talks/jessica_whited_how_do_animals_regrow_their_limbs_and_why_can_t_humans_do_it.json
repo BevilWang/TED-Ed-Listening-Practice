@@ -1,0 +1,1075 @@
+{
+  "meta": {
+    "title": "How do animals regrow their limbs? And why can't humans do it?",
+    "speaker": "Jessica Whited",
+    "duration": 308,
+    "slug": "jessica_whited_how_do_animals_regrow_their_limbs_and_why_can_t_humans_do_it",
+    "sourcePage": "https://www.ted.com/talks/jessica_whited_how_do_animals_regrow_their_limbs_and_why_can_t_humans_do_it",
+    "translationSourcePage": "https://www.ted.com/talks/jessica_whited_how_do_animals_regrow_their_limbs_and_why_can_t_humans_do_it?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/73/10/001/products/2024e-jessica-whited-limb-regeneration-001-fallback-955d1bd7-bb88-40f7-861a-f36f14ebd644-1200k.mp4",
+    "youtubeId": "3uTmcG7CgdI",
+    "youtubeTitle": "How do animals regrow their limbs? And why can't humans do it? - Jessica Whited"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 6.961,
+      "end": 12.417,
+      "text": "For some animals, losing a limb is a decidedly permanent affair.",
+      "translation": "对于某些动物来说，失去四肢 绝对是一件永久的事情。"
+    },
+    {
+      "id": 2,
+      "start": 12.467,
+      "end": 19.298,
+      "text": "But for salamanders, particularly axolotls, amputation is just a temporary affliction.",
+      "translation": "但是对于火蜥蜴， 尤其是对蝾螈来说，截肢只是一种暂时的痛苦。"
+    },
+    {
+      "id": 3,
+      "start": 19.348,
+      "end": 27.724,
+      "text": "Not only can they grow back entire limbs in as little as six weeks, they can also regenerate heart and even brain tissue.",
+      "translation": "它们不仅可以在短短 六周内恢复整个四肢，还可以再生心脏 甚至脑组织。"
+    },
+    {
+      "id": 4,
+      "start": 27.774,
+      "end": 32.02,
+      "text": "So how does this astonishing adaptation work?",
+      "translation": "那么，这种惊人的 适应力是如何运作的？"
+    },
+    {
+      "id": 5,
+      "start": 32.07,
+      "end": 38.651,
+      "text": "Regardless of regeneration, every limbed creature had to grow their arms and legs at some point.",
+      "translation": "不管再生如何，每个四肢生物都必须在某个时候 长出自己的手臂和腿。"
+    },
+    {
+      "id": 6,
+      "start": 38.701,
+      "end": 47.076,
+      "text": "And whether that process starts in the womb or the world, it almost always begins with little bumps called limb buds.",
+      "translation": "而且，无论这个过程是从子宫 还是出生后开始的，它几乎总是从称为肢芽开始生长的。"
+    },
+    {
+      "id": 7,
+      "start": 47.126,
+      "end": 58.796,
+      "text": "These buds are full of progenitor cells— a cornucopia of cell types that can differentiate into various tissues, including muscles, cartilage, ligaments, and tendons.",
+      "translation": "这些芽充满了祖细胞，这是一种细胞类型的聚宝盆， 可以分化成各种组织，包括肌肉、软骨、韧带和肌腱。"
+    },
+    {
+      "id": 8,
+      "start": 58.846,
+      "end": 69.766,
+      "text": "Some of these progenitors are stem cells, capable of developing into a range of specialized cells and tissues, while others are merely derived from stem cells.",
+      "translation": "其中一些祖细胞是干细胞，能够发育成一系列特殊的 细胞和组织，而另一些则仅来自干细胞。"
+    },
+    {
+      "id": 9,
+      "start": 69.816,
+      "end": 76.355,
+      "text": "But in either case, the progenitors differentiate and multiply rapidly as the limb bud develops.",
+      "translation": "但无论哪种情况，祖细胞都会随着肢芽的发育而迅速分化和繁殖。"
+    },
+    {
+      "id": 10,
+      "start": 76.405,
+      "end": 84.447,
+      "text": "Nerves grow into the limb from nearby cell bodies and a network of blood vessels form which fuel the process with oxygen.",
+      "translation": "神经从附近的细胞体生长到四肢，形成血管网络， 为这一过程提供氧气。"
+    },
+    {
+      "id": 11,
+      "start": 84.497,
+      "end": 90.411,
+      "text": "Eventually, that tiny bud grows into a full infant limb.",
+      "translation": "最终，那个肢芽 成了满满的婴儿四肢。"
+    },
+    {
+      "id": 12,
+      "start": 90.461,
+      "end": 95.708,
+      "text": "Most salamanders, including axolotls, develop their limbs in the same way.",
+      "translation": "大多数火蜥蜴，包括蝾螈， 其四肢发育方式相同。"
+    },
+    {
+      "id": 13,
+      "start": 95.758,
+      "end": 102.799,
+      "text": "But unlike other animals, they can also start this process all over again if they need to.",
+      "translation": "但是与其他动物不同，如果需要，它们也可以重新 开始这个过程。"
+    },
+    {
+      "id": 14,
+      "start": 102.849,
+      "end": 108.596,
+      "text": "When salamanders lose a limb, surrounding skin cells quickly surge across the wound’s surface.",
+      "translation": "当蜥蜴失去肢体时，周围的皮肤细胞会 迅速涌过伤口表面。"
+    },
+    {
+      "id": 15,
+      "start": 108.646,
+      "end": 120.566,
+      "text": "This new layer of skin is called the wound epidermis, and once established, it signals cells in the underlying limb stump to undergo something called dedifferentiation.",
+      "translation": "这种新的皮肤层被称为伤口表皮，一旦受伤，它就会向下肢残端 中的细胞发出信号，要求他们进行所谓的分化。"
+    },
+    {
+      "id": 16,
+      "start": 120.616,
+      "end": 128.825,
+      "text": "This process reverts nearby cells from fully developed limb tissues back into earlier, less specialized progenitor cells.",
+      "translation": "这个过程将附近的细胞 从完全发育的肢体组织恢复为早期的、 不太专业的祖细胞。"
+    },
+    {
+      "id": 17,
+      "start": 128.875,
+      "end": 135.414,
+      "text": "At the same time, the peripheral nervous system fires up stem cells throughout the salamander’s body.",
+      "translation": "同时，周围神经 系统会激发火蜥蜴全身的干细胞。"
+    },
+    {
+      "id": 18,
+      "start": 135.464,
+      "end": 143.548,
+      "text": "This would be impossible for most multicellular organisms, whose stem cells typically lose their regenerative capacity with age.",
+      "translation": "对于大多数多细胞生物来说， 这是不可能的，它们的干细胞通常会随着 年龄的增长而失去再生能力。"
+    },
+    {
+      "id": 19,
+      "start": 143.598,
+      "end": 151.514,
+      "text": "But when salamander stem cells near the injury get the right signal, they reactivate and start multiplying.",
+      "translation": "但是，当蜥蜴受伤处附近的 干细胞获得正确的信号时，它们就会重新激活并开始繁殖。"
+    },
+    {
+      "id": 20,
+      "start": 151.564,
+      "end": 158.229,
+      "text": "Researchers don’t know what ratio of stem cells and dedifferentiated progenitor cells regeneration requires.",
+      "translation": "研究人员不知道干细胞和去分化的祖细胞 再生需要什么比例。"
+    },
+    {
+      "id": 21,
+      "start": 158.279,
+      "end": 165.987,
+      "text": "But we do know these cells come together to form the most important part of the process: the blastema.",
+      "translation": "但是我们确实知道这些细胞聚集在一起构成了该过程中最重要的部分：芽基。"
+    },
+    {
+      "id": 22,
+      "start": 166.037,
+      "end": 178.04,
+      "text": "This structure is almost identical to a limb bud— the primary difference is that it’s made of recycled, repurposed cells, and potentially reserved cells, rather than completely new ones.",
+      "translation": "这种结构几乎与肢芽相同主要区别在于它是由回收的、 再利用的细胞以及可能保留的细胞组成的， 而不是全新的细胞。"
+    },
+    {
+      "id": 23,
+      "start": 178.09,
+      "end": 190.636,
+      "text": "Beyond that, blastemas and limb buds have the same mission: to make thousands of new cells and organize them into the muscle, bone, skin, and nerve tissue required for a functional limb.",
+      "translation": "除此之外，囊肿和肢芽 具有相同的使命：制造成千上万个新细胞，并将它们组织成四肢功能所需的肌肉、骨骼、皮肤和神经组织。"
+    },
+    {
+      "id": 24,
+      "start": 190.686,
+      "end": 198.561,
+      "text": "As this process unfolds, nerves and blood vessels spanning the injury site transmit nutrition and oxygen.",
+      "translation": "随着这一过程的展开， 横跨损伤部位的神经和血管会传递营养和氧气。"
+    },
+    {
+      "id": 25,
+      "start": 198.611,
+      "end": 204.775,
+      "text": "Over several weeks, the stump will steadily grow a miniature limb with translucent skin.",
+      "translation": "在几周内，肢芽将稳步长出具有半透明皮肤的微型肢体。"
+    },
+    {
+      "id": 26,
+      "start": 204.825,
+      "end": 212.992,
+      "text": "And when the process is complete, not only will the limb match the rest of the salamander, there won't even be a scar.",
+      "translation": "而且，当过程完成后，不仅肢体会与火蜥蜴的其余部分相匹配，甚至不会有疤痕。"
+    },
+    {
+      "id": 27,
+      "start": 213.042,
+      "end": 219.582,
+      "text": "The relationship between scarring and regeneration is just one of this processes’ many mysteries.",
+      "translation": "疤痕和再生之间的关系只是这个过程的众多奥秘之一。"
+    },
+    {
+      "id": 28,
+      "start": 219.632,
+      "end": 229.217,
+      "text": "Scientists are still tracking salamander cells on the molecular level to determine how they revert from a mature stage into a regenerative one.",
+      "translation": "科学家们仍在分子层面上追踪蜥蜴细胞，以确定它们是如何从 成熟阶段恢复到再生阶段的。"
+    },
+    {
+      "id": 29,
+      "start": 229.267,
+      "end": 237.016,
+      "text": "And research into transplanting blastema cells investigates how other animals might replicate this reconstructive wizardry.",
+      "translation": "对芽基细胞移植的 研究调查了其他动物如何复制 这种重建魔法。"
+    },
+    {
+      "id": 30,
+      "start": 237.066,
+      "end": 245.149,
+      "text": "We also don’t understand how salamanders’ bodies know what part of the limb has been lost or how much needs to be regrown.",
+      "translation": "我们也不明白 火蜥蜴的身体是怎么知道肢体的哪一部分 已经失去或者有多少需要再生。"
+    },
+    {
+      "id": 31,
+      "start": 245.199,
+      "end": 254.659,
+      "text": "One theory is that blastema cells have a form of positional memory, allowing them to determine how much to grow in relation to one another.",
+      "translation": "一种理论认为，芽基细胞具有 一种位置记忆形式，这使它们能够确定相互之间生长多少。"
+    },
+    {
+      "id": 32,
+      "start": 254.709,
+      "end": 263.417,
+      "text": "And it’s equally important to understand how these limbs know when to stop growing to prevent overdevelopment, like in cancerous tumors.",
+      "translation": "同样重要的是要了解这些四肢 如何知道何时停止生长，以防止过度发育， 例如癌性肿瘤。"
+    },
+    {
+      "id": 33,
+      "start": 263.467,
+      "end": 270.841,
+      "text": "But one of regenerations essential ingredients doesn’t belong solely to salamanders: the blastema.",
+      "translation": "但是，再生的 必需成分之一并不仅仅属于火蜥蜴：芽基。"
+    },
+    {
+      "id": 34,
+      "start": 270.891,
+      "end": 278.933,
+      "text": "Deer antlers use a similar healing tissue to regenerate each year, even though their skin scars like ours.",
+      "translation": "鹿角每年都会使用 类似的愈合组织进行再生，尽管它们的皮肤疤痕像我们一样。"
+    },
+    {
+      "id": 35,
+      "start": 278.983,
+      "end": 285.606,
+      "text": "Spiny mice can also restore skin, hair, and some other appendages scar-free.",
+      "translation": "多刺老鼠还可以使皮肤、 头发和其他一些附属物恢复无疤痕。"
+    },
+    {
+      "id": 36,
+      "start": 285.656,
+      "end": 292.405,
+      "text": "And even humans can regenerate the tips of our fingers and toes in a surprisingly similar manner.",
+      "translation": "甚至人类也可以以惊 人的相似方式再生我们的手指和脚趾尖。"
+    },
+    {
+      "id": 37,
+      "start": 292.455,
+      "end": 300.871,
+      "text": "We still don’t know whether this ability is tied to our shared ancestry with salamanders or fueled by distinct biological mechanisms.",
+      "translation": "我们仍然不知道 这种能力是和我们与火蜥蜴的共同祖先有关， 还是由不同的生物机制推动的。"
+    },
+    {
+      "id": 38,
+      "start": 300.921,
+      "end": 307.95,
+      "text": "But with time and research, who knows what evolutionary knowledge we might grow back.",
+      "translation": "但是随着时间的推移和研究，谁知道我们会重新发现 出什么样的进化知识。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 6.961,
+      "text": "For some animals, losing a limb is a decidedly permanent affair.",
+      "end": 12.417
+    },
+    {
+      "start": 12.467,
+      "text": "But for salamanders, particularly axolotls,",
+      "end": 15.753
+    },
+    {
+      "start": 15.803,
+      "text": "amputation is just a temporary affliction.",
+      "end": 19.298
+    },
+    {
+      "start": 19.348,
+      "text": "Not only can they grow back entire limbs in as little as six weeks,",
+      "end": 23.052
+    },
+    {
+      "start": 23.102,
+      "text": "they can also regenerate heart and even brain tissue.",
+      "end": 27.724
+    },
+    {
+      "start": 27.774,
+      "text": "So how does this astonishing adaptation work?",
+      "end": 32.02
+    },
+    {
+      "start": 32.07,
+      "text": "Regardless of regeneration,",
+      "end": 34.063
+    },
+    {
+      "start": 34.113,
+      "text": "every limbed creature had to grow their arms and legs at some point.",
+      "end": 38.651
+    },
+    {
+      "start": 38.701,
+      "text": "And whether that process starts in the womb or the world,",
+      "end": 42.071000000000005
+    },
+    {
+      "start": 42.121,
+      "text": "it almost always begins with little bumps called limb buds.",
+      "end": 47.076
+    },
+    {
+      "start": 47.126,
+      "text": "These buds are full of progenitor cells—",
+      "end": 49.954
+    },
+    {
+      "start": 50.004,
+      "text": "a cornucopia of cell types that can differentiate into various tissues,",
+      "end": 54.959
+    },
+    {
+      "start": 55.009,
+      "text": "including muscles, cartilage, ligaments, and tendons.",
+      "end": 58.796
+    },
+    {
+      "start": 58.846,
+      "text": "Some of these progenitors are stem cells,",
+      "end": 61.674
+    },
+    {
+      "start": 61.724,
+      "text": "capable of developing into a range of specialized cells and tissues,",
+      "end": 66.095
+    },
+    {
+      "start": 66.145,
+      "text": "while others are merely derived from stem cells.",
+      "end": 69.766
+    },
+    {
+      "start": 69.816,
+      "text": "But in either case, the progenitors differentiate and multiply rapidly",
+      "end": 74.187
+    },
+    {
+      "start": 74.237,
+      "text": "as the limb bud develops.",
+      "end": 76.355
+    },
+    {
+      "start": 76.405,
+      "text": "Nerves grow into the limb from nearby cell bodies",
+      "end": 79.358
+    },
+    {
+      "start": 79.408,
+      "text": "and a network of blood vessels form which fuel the process with oxygen.",
+      "end": 84.447
+    },
+    {
+      "start": 84.497,
+      "text": "Eventually, that tiny bud grows into a full infant limb.",
+      "end": 90.411
+    },
+    {
+      "start": 90.461,
+      "text": "Most salamanders, including axolotls, develop their limbs in the same way.",
+      "end": 95.708
+    },
+    {
+      "start": 95.758,
+      "text": "But unlike other animals, they can also start this process all over again",
+      "end": 101.339
+    },
+    {
+      "start": 101.389,
+      "text": "if they need to.",
+      "end": 102.799
+    },
+    {
+      "start": 102.849,
+      "text": "When salamanders lose a limb,",
+      "end": 104.509
+    },
+    {
+      "start": 104.559,
+      "text": "surrounding skin cells quickly surge across the wound’s surface.",
+      "end": 108.596
+    },
+    {
+      "start": 108.646,
+      "text": "This new layer of skin is called the wound epidermis,",
+      "end": 112.683
+    },
+    {
+      "start": 112.733,
+      "text": "and once established, it signals cells in the underlying limb stump",
+      "end": 116.896
+    },
+    {
+      "start": 116.946,
+      "text": "to undergo something called dedifferentiation.",
+      "end": 120.566
+    },
+    {
+      "start": 120.616,
+      "text": "This process reverts nearby cells from fully developed limb tissues",
+      "end": 124.61200000000001
+    },
+    {
+      "start": 124.662,
+      "text": "back into earlier, less specialized progenitor cells.",
+      "end": 128.825
+    },
+    {
+      "start": 128.875,
+      "text": "At the same time, the peripheral nervous system fires up stem cells",
+      "end": 133.16199999999998
+    },
+    {
+      "start": 133.212,
+      "text": "throughout the salamander’s body.",
+      "end": 135.414
+    },
+    {
+      "start": 135.464,
+      "text": "This would be impossible for most multicellular organisms,",
+      "end": 138.75099999999998
+    },
+    {
+      "start": 138.801,
+      "text": "whose stem cells typically lose their regenerative capacity with age.",
+      "end": 143.548
+    },
+    {
+      "start": 143.598,
+      "text": "But when salamander stem cells near the injury get the right signal,",
+      "end": 147.593
+    },
+    {
+      "start": 147.643,
+      "text": "they reactivate and start multiplying.",
+      "end": 151.51399999999998
+    },
+    {
+      "start": 151.564,
+      "text": "Researchers don’t know what ratio of stem cells",
+      "end": 154.35
+    },
+    {
+      "start": 154.4,
+      "text": "and dedifferentiated progenitor cells regeneration requires.",
+      "end": 158.22899999999998
+    },
+    {
+      "start": 158.279,
+      "text": "But we do know these cells come together",
+      "end": 160.857
+    },
+    {
+      "start": 160.907,
+      "text": "to form the most important part of the process: the blastema.",
+      "end": 165.987
+    },
+    {
+      "start": 166.037,
+      "text": "This structure is almost identical to a limb bud—",
+      "end": 169.23999999999998
+    },
+    {
+      "start": 169.29,
+      "text": "the primary difference is that it’s made of recycled, repurposed cells,",
+      "end": 173.70299999999997
+    },
+    {
+      "start": 173.753,
+      "text": "and potentially reserved cells, rather than completely new ones.",
+      "end": 178.04
+    },
+    {
+      "start": 178.09,
+      "text": "Beyond that, blastemas and limb buds have the same mission:",
+      "end": 182.003
+    },
+    {
+      "start": 182.053,
+      "text": "to make thousands of new cells and organize them",
+      "end": 185.006
+    },
+    {
+      "start": 185.056,
+      "text": "into the muscle, bone, skin, and nerve tissue",
+      "end": 188.134
+    },
+    {
+      "start": 188.184,
+      "text": "required for a functional limb.",
+      "end": 190.636
+    },
+    {
+      "start": 190.686,
+      "text": "As this process unfolds, nerves and blood vessels spanning the injury site",
+      "end": 195.975
+    },
+    {
+      "start": 196.025,
+      "text": "transmit nutrition and oxygen.",
+      "end": 198.56099999999998
+    },
+    {
+      "start": 198.611,
+      "text": "Over several weeks, the stump will steadily grow",
+      "end": 201.355
+    },
+    {
+      "start": 201.405,
+      "text": "a miniature limb with translucent skin.",
+      "end": 204.77499999999998
+    },
+    {
+      "start": 204.825,
+      "text": "And when the process is complete,",
+      "end": 206.527
+    },
+    {
+      "start": 206.577,
+      "text": "not only will the limb match the rest of the salamander,",
+      "end": 210.15599999999998
+    },
+    {
+      "start": 210.206,
+      "text": "there won't even be a scar.",
+      "end": 212.992
+    },
+    {
+      "start": 213.042,
+      "text": "The relationship between scarring and regeneration",
+      "end": 216.20399999999998
+    },
+    {
+      "start": 216.254,
+      "text": "is just one of this processes’ many mysteries.",
+      "end": 219.582
+    },
+    {
+      "start": 219.632,
+      "text": "Scientists are still tracking salamander cells on the molecular level",
+      "end": 224.003
+    },
+    {
+      "start": 224.053,
+      "text": "to determine how they revert from a mature stage into a regenerative one.",
+      "end": 229.21699999999998
+    },
+    {
+      "start": 229.267,
+      "text": "And research into transplanting blastema cells investigates",
+      "end": 232.178
+    },
+    {
+      "start": 232.228,
+      "text": "how other animals might replicate this reconstructive wizardry.",
+      "end": 237.016
+    },
+    {
+      "start": 237.066,
+      "text": "We also don’t understand how salamanders’ bodies know",
+      "end": 240.01899999999998
+    },
+    {
+      "start": 240.069,
+      "text": "what part of the limb has been lost or how much needs to be regrown.",
+      "end": 245.149
+    },
+    {
+      "start": 245.199,
+      "text": "One theory is that blastema cells have a form of positional memory,",
+      "end": 250.029
+    },
+    {
+      "start": 250.079,
+      "text": "allowing them to determine how much to grow in relation to one another.",
+      "end": 254.659
+    },
+    {
+      "start": 254.709,
+      "text": "And it’s equally important to understand how these limbs know when to stop growing",
+      "end": 259.372
+    },
+    {
+      "start": 259.422,
+      "text": "to prevent overdevelopment, like in cancerous tumors.",
+      "end": 263.417
+    },
+    {
+      "start": 263.467,
+      "text": "But one of regenerations essential ingredients doesn’t belong solely",
+      "end": 267.755
+    },
+    {
+      "start": 267.805,
+      "text": "to salamanders: the blastema.",
+      "end": 270.841
+    },
+    {
+      "start": 270.891,
+      "text": "Deer antlers use a similar healing tissue to regenerate each year,",
+      "end": 275.471
+    },
+    {
+      "start": 275.521,
+      "text": "even though their skin scars like ours.",
+      "end": 278.933
+    },
+    {
+      "start": 278.983,
+      "text": "Spiny mice can also restore skin, hair, and some other appendages scar-free.",
+      "end": 285.606
+    },
+    {
+      "start": 285.656,
+      "text": "And even humans can regenerate the tips of our fingers and toes",
+      "end": 289.86
+    },
+    {
+      "start": 289.91,
+      "text": "in a surprisingly similar manner.",
+      "end": 292.405
+    },
+    {
+      "start": 292.455,
+      "text": "We still don’t know whether this ability is tied",
+      "end": 295.074
+    },
+    {
+      "start": 295.124,
+      "text": "to our shared ancestry with salamanders",
+      "end": 297.57599999999996
+    },
+    {
+      "start": 297.626,
+      "text": "or fueled by distinct biological mechanisms.",
+      "end": 300.871
+    },
+    {
+      "start": 300.921,
+      "text": "But with time and research,",
+      "end": 302.832
+    },
+    {
+      "start": 302.882,
+      "text": "who knows what evolutionary knowledge we might grow back.",
+      "end": 307.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 6.961,
+      "text": "对于某些动物来说，失去四肢 绝对是一件永久的事情。",
+      "end": 12.417
+    },
+    {
+      "start": 12.467,
+      "text": "但是对于火蜥蜴， 尤其是对蝾螈来说，",
+      "end": 15.753
+    },
+    {
+      "start": 15.803,
+      "text": "截肢只是一种暂时的痛苦。",
+      "end": 19.298
+    },
+    {
+      "start": 19.348,
+      "text": "它们不仅可以在短短 六周内恢复整个四肢，",
+      "end": 23.052
+    },
+    {
+      "start": 23.102,
+      "text": "还可以再生心脏 甚至脑组织。",
+      "end": 27.724
+    },
+    {
+      "start": 27.774,
+      "text": "那么，这种惊人的 适应力是如何运作的？",
+      "end": 32.02
+    },
+    {
+      "start": 32.07,
+      "text": "不管再生如何，",
+      "end": 34.063
+    },
+    {
+      "start": 34.113,
+      "text": "每个四肢生物都必须在某个时候 长出自己的手臂和腿。",
+      "end": 38.651
+    },
+    {
+      "start": 38.701,
+      "text": "而且，无论这个过程是从子宫 还是出生后开始的，",
+      "end": 42.071000000000005
+    },
+    {
+      "start": 42.121,
+      "text": "它几乎总是从称为肢芽开始生长的。",
+      "end": 47.076
+    },
+    {
+      "start": 47.126,
+      "text": "这些芽充满了祖细胞，",
+      "end": 49.954
+    },
+    {
+      "start": 50.004,
+      "text": "这是一种细胞类型的聚宝盆， 可以分化成各种组织，",
+      "end": 54.959
+    },
+    {
+      "start": 55.009,
+      "text": "包括肌肉、软骨、韧带和肌腱。",
+      "end": 58.796
+    },
+    {
+      "start": 58.846,
+      "text": "其中一些祖细胞是干细胞，",
+      "end": 61.674
+    },
+    {
+      "start": 61.724,
+      "text": "能够发育成一系列特殊的 细胞和组织，",
+      "end": 66.095
+    },
+    {
+      "start": 66.145,
+      "text": "而另一些则仅来自干细胞。",
+      "end": 69.766
+    },
+    {
+      "start": 69.816,
+      "text": "但无论哪种情况，祖细胞都会",
+      "end": 74.187
+    },
+    {
+      "start": 74.237,
+      "text": "随着肢芽的发育而迅速分化和繁殖。",
+      "end": 76.355
+    },
+    {
+      "start": 76.405,
+      "text": "神经从附近的细胞体生长到四肢，",
+      "end": 79.358
+    },
+    {
+      "start": 79.408,
+      "text": "形成血管网络， 为这一过程提供氧气。",
+      "end": 84.447
+    },
+    {
+      "start": 84.497,
+      "text": "最终，那个肢芽 成了满满的婴儿四肢。",
+      "end": 90.411
+    },
+    {
+      "start": 90.461,
+      "text": "大多数火蜥蜴，包括蝾螈， 其四肢发育方式相同。",
+      "end": 95.708
+    },
+    {
+      "start": 95.758,
+      "text": "但是与其他动物不同，",
+      "end": 101.339
+    },
+    {
+      "start": 101.389,
+      "text": "如果需要，它们也可以重新 开始这个过程。",
+      "end": 102.799
+    },
+    {
+      "start": 102.849,
+      "text": "当蜥蜴失去肢体时，",
+      "end": 104.509
+    },
+    {
+      "start": 104.559,
+      "text": "周围的皮肤细胞会 迅速涌过伤口表面。",
+      "end": 108.596
+    },
+    {
+      "start": 108.646,
+      "text": "这种新的皮肤层被称为伤口表皮，",
+      "end": 112.683
+    },
+    {
+      "start": 112.733,
+      "text": "一旦受伤，它就会向下肢残端 中的细胞发出信号，",
+      "end": 116.896
+    },
+    {
+      "start": 116.946,
+      "text": "要求他们进行所谓的分化。",
+      "end": 120.566
+    },
+    {
+      "start": 120.616,
+      "text": "这个过程将附近的细胞 从完全发育的肢体组织",
+      "end": 124.61200000000001
+    },
+    {
+      "start": 124.662,
+      "text": "恢复为早期的、 不太专业的祖细胞。",
+      "end": 128.825
+    },
+    {
+      "start": 128.875,
+      "text": "同时，周围神经 系统会激发火蜥蜴",
+      "end": 133.16199999999998
+    },
+    {
+      "start": 133.212,
+      "text": "全身的干细胞。",
+      "end": 135.414
+    },
+    {
+      "start": 135.464,
+      "text": "对于大多数多细胞生物来说， 这是不可能的，",
+      "end": 138.75099999999998
+    },
+    {
+      "start": 138.801,
+      "text": "它们的干细胞通常会随着 年龄的增长而失去再生能力。",
+      "end": 143.548
+    },
+    {
+      "start": 143.598,
+      "text": "但是，当蜥蜴受伤处附近的 干细胞获得正确的信号时，",
+      "end": 147.593
+    },
+    {
+      "start": 147.643,
+      "text": "它们就会重新激活并开始繁殖。",
+      "end": 151.51399999999998
+    },
+    {
+      "start": 151.564,
+      "text": "研究人员不知道干细胞",
+      "end": 154.35
+    },
+    {
+      "start": 154.4,
+      "text": "和去分化的祖细胞 再生需要什么比例。",
+      "end": 158.22899999999998
+    },
+    {
+      "start": 158.279,
+      "text": "但是我们确实知道这些细胞聚集在一起",
+      "end": 160.857
+    },
+    {
+      "start": 160.907,
+      "text": "构成了该过程中最重要的部分：芽基。",
+      "end": 165.987
+    },
+    {
+      "start": 166.037,
+      "text": "这种结构几乎与肢芽相同",
+      "end": 169.23999999999998
+    },
+    {
+      "start": 169.29,
+      "text": "主要区别在于它是由回收的、 再利用的细胞",
+      "end": 173.70299999999997
+    },
+    {
+      "start": 173.753,
+      "text": "以及可能保留的细胞组成的， 而不是全新的细胞。",
+      "end": 178.04
+    },
+    {
+      "start": 178.09,
+      "text": "除此之外，囊肿和肢芽 具有相同的使命：",
+      "end": 182.003
+    },
+    {
+      "start": 182.053,
+      "text": "制造成千上万个新细胞，并将它们组织",
+      "end": 185.006
+    },
+    {
+      "start": 185.056,
+      "text": "成四肢功能所需的",
+      "end": 188.134
+    },
+    {
+      "start": 188.184,
+      "text": "肌肉、骨骼、皮肤和神经组织。",
+      "end": 190.636
+    },
+    {
+      "start": 190.686,
+      "text": "随着这一过程的展开， 横跨损伤部位的神经和血管",
+      "end": 195.975
+    },
+    {
+      "start": 196.025,
+      "text": "会传递营养和氧气。",
+      "end": 198.56099999999998
+    },
+    {
+      "start": 198.611,
+      "text": "在几周内，肢芽将稳步长出具有",
+      "end": 201.355
+    },
+    {
+      "start": 201.405,
+      "text": "半透明皮肤的微型肢体。",
+      "end": 204.77499999999998
+    },
+    {
+      "start": 204.825,
+      "text": "而且，当过程完成后，",
+      "end": 206.527
+    },
+    {
+      "start": 206.577,
+      "text": "不仅肢体会与火蜥蜴的其余部分相匹配，",
+      "end": 210.15599999999998
+    },
+    {
+      "start": 210.206,
+      "text": "甚至不会有疤痕。",
+      "end": 212.992
+    },
+    {
+      "start": 213.042,
+      "text": "疤痕和再生之间的关系只是",
+      "end": 216.20399999999998
+    },
+    {
+      "start": 216.254,
+      "text": "这个过程的众多奥秘之一。",
+      "end": 219.582
+    },
+    {
+      "start": 219.632,
+      "text": "科学家们仍在分子层面上追踪蜥蜴细胞，",
+      "end": 224.003
+    },
+    {
+      "start": 224.053,
+      "text": "以确定它们是如何从 成熟阶段恢复到再生阶段的。",
+      "end": 229.21699999999998
+    },
+    {
+      "start": 229.267,
+      "text": "对芽基细胞移植的 研究调查了其他动物",
+      "end": 232.178
+    },
+    {
+      "start": 232.228,
+      "text": "如何复制 这种重建魔法。",
+      "end": 237.016
+    },
+    {
+      "start": 237.066,
+      "text": "我们也不明白 火蜥蜴的身体",
+      "end": 240.01899999999998
+    },
+    {
+      "start": 240.069,
+      "text": "是怎么知道肢体的哪一部分 已经失去或者有多少需要再生。",
+      "end": 245.149
+    },
+    {
+      "start": 245.199,
+      "text": "一种理论认为，芽基细胞具有 一种位置记忆形式，",
+      "end": 250.029
+    },
+    {
+      "start": 250.079,
+      "text": "这使它们能够确定相互之间生长多少。",
+      "end": 254.659
+    },
+    {
+      "start": 254.709,
+      "text": "同样重要的是要了解这些四肢 如何知道何时停止生长，",
+      "end": 259.372
+    },
+    {
+      "start": 259.422,
+      "text": "以防止过度发育， 例如癌性肿瘤。",
+      "end": 263.417
+    },
+    {
+      "start": 263.467,
+      "text": "但是，再生的 必需成分之一并不仅仅",
+      "end": 267.755
+    },
+    {
+      "start": 267.805,
+      "text": "属于火蜥蜴：芽基。",
+      "end": 270.841
+    },
+    {
+      "start": 270.891,
+      "text": "鹿角每年都会使用 类似的愈合组织进行再生，",
+      "end": 275.471
+    },
+    {
+      "start": 275.521,
+      "text": "尽管它们的皮肤疤痕像我们一样。",
+      "end": 278.933
+    },
+    {
+      "start": 278.983,
+      "text": "多刺老鼠还可以使皮肤、 头发和其他一些附属物恢复无疤痕。",
+      "end": 285.606
+    },
+    {
+      "start": 285.656,
+      "text": "甚至人类也可以以惊 人的相似方式再生我们的",
+      "end": 289.86
+    },
+    {
+      "start": 289.91,
+      "text": "手指和脚趾尖。",
+      "end": 292.405
+    },
+    {
+      "start": 292.455,
+      "text": "我们仍然不知道 这种能力是和",
+      "end": 295.074
+    },
+    {
+      "start": 295.124,
+      "text": "我们与火蜥蜴的共同祖先有关， 还是由不同的",
+      "end": 297.57599999999996
+    },
+    {
+      "start": 297.626,
+      "text": "生物机制推动的。",
+      "end": 300.871
+    },
+    {
+      "start": 300.921,
+      "text": "但是随着时间的推移和研究，",
+      "end": 302.832
+    },
+    {
+      "start": 302.882,
+      "text": "谁知道我们会重新发现 出什么样的进化知识。",
+      "end": 307.95
+    }
+  ]
+}

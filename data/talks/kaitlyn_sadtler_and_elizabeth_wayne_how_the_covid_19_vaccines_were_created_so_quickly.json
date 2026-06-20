@@ -1,0 +1,1011 @@
+{
+  "meta": {
+    "title": "How the COVID-19 vaccines were created so quickly",
+    "speaker": "Kaitlyn Sadtler and Elizabeth Wayne",
+    "duration": 288,
+    "slug": "kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly",
+    "sourcePage": "https://www.ted.com/talks/kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly",
+    "translationSourcePage": "https://www.ted.com/talks/kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly?language=zh-cn",
+    "audioUrl": "https://py.tedcdn.com/consus/projects/00/55/03/003/products/2021e-kaitlyn-sadtler-and-elizabeth-wayne-mrna-vaccines-003-fallback-842d9d70890d56d08faa86682c4cc981-1200k.mp4",
+    "youtubeId": "v-NEr3KCug8",
+    "youtubeTitle": "How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "start": 7.704,
+      "end": 14.779,
+      "text": "In the 20th century, most vaccines took well over a decade to research, test, and produce.",
+      "translation": "二十世纪时，多数疫苗 需要用至少十年时间来完成科研、测试和生产。"
+    },
+    {
+      "id": 2,
+      "start": 14.829,
+      "end": 21.488,
+      "text": "But the vaccines for COVID-19 cleared the threshold for emergency use in less than 11 months.",
+      "translation": "但新型冠状病毒 (COVID-19) 的疫苗 在不到 11 个月内通过了紧急使用的临界点。"
+    },
+    {
+      "id": 3,
+      "start": 21.538,
+      "end": 29.738,
+      "text": "The secret behind this speed is a medical technology that’s been developing for decades: the mRNA vaccine.",
+      "translation": "这速度背后的秘密是数十年医学技术发展的飞跃：mRNA 疫苗。"
+    },
+    {
+      "id": 4,
+      "start": 29.788,
+      "end": 40.737,
+      "text": "This new treatment uses our body’s existing cellular machinery to trigger an immune response, protecting us from viruses without ever experiencing an infection.",
+      "translation": "这个新治疗方式 运用我们身体里现有的细胞机器来触发免疫反应，让我们不感染生病就能抵抗病毒。"
+    },
+    {
+      "id": 5,
+      "start": 40.787,
+      "end": 47.571,
+      "text": "And in the future, this approach might be able to treat new diseases almost as quickly as they emerge.",
+      "translation": "而在未来，这个方法或许 能以发现新疾病的同等速度找到治疗方法。"
+    },
+    {
+      "id": 6,
+      "start": 47.621,
+      "end": 51.321,
+      "text": "So how do these revolutionary vaccines work?",
+      "translation": "这个变革性的疫苗是如何运作的呢？"
+    },
+    {
+      "id": 7,
+      "start": 51.371,
+      "end": 54.237,
+      "text": "The key ingredient is in the name.",
+      "translation": "它的主要成分就在写在疫苗的名字里。"
+    },
+    {
+      "id": 8,
+      "start": 54.287,
+      "end": 63.696,
+      "text": "mRNA, or messenger ribonucleic acid, is a naturally occurring molecule that encodes the instructions for producing proteins.",
+      "translation": "mRNA，或信使核糖核酸，是个自然生成的 合成蛋白质的模板分子。"
+    },
+    {
+      "id": 9,
+      "start": 63.746,
+      "end": 72.738,
+      "text": "When our cells process mRNA, a part of the cell called the ribosome translates and follows these instructions to build the encoded protein.",
+      "translation": "当我们的细胞处理 mRNA 时，一个叫核糖体的细胞部分"
+    },
+    {
+      "id": 10,
+      "start": 72.788,
+      "end": 81.738,
+      "text": "The mRNA in these vaccines works in exactly the same way, but scientists use the molecule to safely introduce our body to a virus.",
+      "translation": "将转译且复制对应的蛋白。这些疫苗里的 mRNA 使用相同的工作原理，"
+    },
+    {
+      "id": 11,
+      "start": 81.788,
+      "end": 88.779,
+      "text": "First, researchers encode trillions of mRNA molecules with the instructions for a specific viral protein.",
+      "translation": "但科学家们用这个分子 来安全地将病毒引入人体。首先，科学家们 把特定的病毒蛋白质模版"
+    },
+    {
+      "id": 12,
+      "start": 88.829,
+      "end": 94.404,
+      "text": "This part of the virus is harmless by itself, but helpful for training our body’s immune response.",
+      "translation": "编写到万亿个 mRNA 分子里。病毒的单独这一部分无害，"
+    },
+    {
+      "id": 13,
+      "start": 94.454,
+      "end": 101.404,
+      "text": "Then, they inject those molecules into a nanoparticle roughly 1,000 times smaller than the average cell.",
+      "translation": "但有助于训练体内的免疫反应。他们接下来将这些分子 注射到纳米药物里，"
+    },
+    {
+      "id": 14,
+      "start": 101.454,
+      "end": 108.154,
+      "text": "This nanoparticle is made of lipids, the same type of fatty material that forms the membrane around our cells.",
+      "translation": "大约比普通细胞小一千倍。这些纳米药物有间脂质构成，"
+    },
+    {
+      "id": 15,
+      "start": 108.204,
+      "end": 116.904,
+      "text": "But these lipids have been specially engineered to protect the mRNA on its journey through the body and assist its entry into the cell.",
+      "translation": "和我们细胞外包薄膜的 细胞间脂质为相同材质。但在这些间脂质受过特殊加工，用来保护 mRNA， 让它完成在体内行程"
+    },
+    {
+      "id": 16,
+      "start": 116.954,
+      "end": 125.571,
+      "text": "Lastly, the final ingredients are added: sugars and salt to help keep the nanoparticles intact until they reach their destination.",
+      "translation": "且协助它进入细胞。到最后，加入剩下的成分：糖与盐，"
+    },
+    {
+      "id": 17,
+      "start": 125.621,
+      "end": 133.988,
+      "text": "Before use, the vaccine is kept at a temperature of -20 to -80 degrees Celsius to ensure none of the components break down.",
+      "translation": "用来保持纳米药物完好无缺， 直到它们地抵达目的地。在使用前，疫苗需保存在 零下 20 到 80 摄氏度的环境下，"
+    },
+    {
+      "id": 18,
+      "start": 134.038,
+      "end": 138.154,
+      "text": "Once injected, the nanoparticles disperse and encounter cells.",
+      "translation": "以防其中任何成分的失效。"
+    },
+    {
+      "id": 19,
+      "start": 138.204,
+      "end": 145.863,
+      "text": "The lipid coating on each nanoparticle fuses with the lipid membrane of a cell and releases the mRNA to do its work.",
+      "translation": "一旦注射至体内，这些纳米粒子 会扩散并与细胞相遇。每一个纳米粒子的间脂质 将与细胞间脂质结合"
+    },
+    {
+      "id": 20,
+      "start": 145.913,
+      "end": 156.238,
+      "text": "At this point, we should note that while the vaccine is delivering viral genetic material into our cells, it’s impossible for this material to alter our DNA.",
+      "translation": "并通过释放 mRNA 来实现免疫。此刻值得一提： 虽然疫苗将病毒遗传物质输送进我们身体里，"
+    },
+    {
+      "id": 21,
+      "start": 156.288,
+      "end": 166.654,
+      "text": "mRNA is a short-lived molecule that would need additional enzymes and chemical signals to even access our DNA, let alone change it.",
+      "translation": "这个物质不可能更改我们的基因。mRNA 分子寿命很短，并需要其他的酶和化学信号 才能接触到我们的基因，"
+    },
+    {
+      "id": 22,
+      "start": 166.704,
+      "end": 172.779,
+      "text": "And none of these DNA altering components are present in mRNA vaccines.",
+      "translation": "更别提更改它了。"
+    },
+    {
+      "id": 23,
+      "start": 172.829,
+      "end": 180.238,
+      "text": "Once inside the cell, the ribosome translates the mRNA’s instructions and begins assembling the viral protein.",
+      "translation": "mRNA 疫苗里也不包括 任何一个修改基因的部分。一旦进入细胞，核糖体将转译 mRNA 的指令"
+    },
+    {
+      "id": 24,
+      "start": 180.288,
+      "end": 186.321,
+      "text": "In COVID-19 vaccines, that protein is one of the spikes typically found on the virus’s surface.",
+      "translation": "并开始组装病毒蛋白质。新冠疫苗含有的蛋白是 病毒表面的刺突蛋白。"
+    },
+    {
+      "id": 25,
+      "start": 186.371,
+      "end": 194.029,
+      "text": "Without the rest of the virus this lone spike is not infectious, but it does trigger our immune response.",
+      "translation": "少了剩下的病毒， 一个刺突蛋白没有感染力，但是能触发我们的免疫反应。"
+    },
+    {
+      "id": 26,
+      "start": 194.079,
+      "end": 201.821,
+      "text": "Activating the immune system can be taxing on the body, resulting in brief fatigue, fever, and muscle soreness in some people.",
+      "translation": "激活免疫系统会消耗体力，给一些人带来短期疲劳、发烧， 和肌肉酸痛的反应。"
+    },
+    {
+      "id": 27,
+      "start": 201.871,
+      "end": 207.029,
+      "text": "But this doesn’t mean the recipient is sick— it means the vaccine is working.",
+      "translation": "但这不代表接种者生病了——代表着疫苗生效了。"
+    },
+    {
+      "id": 28,
+      "start": 207.079,
+      "end": 215.029,
+      "text": "The body is producing antibodies to fight that viral protein, that will then stick around to defend against future COVID-19 infections.",
+      "translation": "身体生产着抵抗病毒蛋白的抗体，能持续在身体里抵抗 未来的新冠感染。"
+    },
+    {
+      "id": 29,
+      "start": 215.079,
+      "end": 224.029,
+      "text": "And since this particular protein is likely to be found in most COVID variants, these antibodies should reduce the threat of catching new strains.",
+      "translation": "由于这个蛋白很可能 在多种变异株上出现，这些抗体应当减少 感染变异株的威胁性。"
+    },
+    {
+      "id": 30,
+      "start": 224.079,
+      "end": 228.154,
+      "text": "This approach offers significant advantages over previous vaccines.",
+      "translation": "这个手段比起原先的疫苗 有明显的优势。"
+    },
+    {
+      "id": 31,
+      "start": 228.204,
+      "end": 241.779,
+      "text": "Traditional vaccines contain weakened versions of live viruses or amputated sections of a virus, both of which required time intensive research to prepare and unique chemical treatments to safely inject.",
+      "translation": "传统疫苗含有削弱的活病毒或肢解病毒的一部分，两个都需要耗时间的研究来生产及特殊的化学处理方式 才能安全接种。"
+    },
+    {
+      "id": 32,
+      "start": 241.829,
+      "end": 250.279,
+      "text": "But mRNA vaccines don’t actually contain any viral particles, so they don’t have to be built from scratch to safely adjust each virus.",
+      "translation": "可 mRNA 疫苗本身 不含有任何病毒颗粒，所以为了安全加工每个病毒， 它们不需要每次都从零开始。"
+    },
+    {
+      "id": 33,
+      "start": 250.329,
+      "end": 256.779,
+      "text": "In fact, every mRNA vaccine could have roughly the same list of ingredients.",
+      "translation": "实际上，每支 mRNA 疫苗 都有相似的成分表。"
+    },
+    {
+      "id": 34,
+      "start": 256.829,
+      "end": 265.571,
+      "text": "Imagine a reliable, robustly tested vaccine that can treat any disease by swapping out a single component.",
+      "translation": "想象一下，即可信又稳健的疫苗， 只需要更改一种成分就能医治任何一种疾病。"
+    },
+    {
+      "id": 35,
+      "start": 265.621,
+      "end": 276.571,
+      "text": "To treat a new illness, researchers would identify the right viral protein, encode it into mRNA, and then swap that mRNA into the existing vaccine platform.",
+      "translation": "治疗新兴疾病时，研究员们 要找到合适的病毒蛋白，改写编辑到 mRNA 里，再把那个 mRNA 替换到 现有的疫苗载体内。"
+    },
+    {
+      "id": 36,
+      "start": 276.621,
+      "end": 287.95,
+      "text": "This could make it possible to develop new vaccines in weeks, giving humanity a flexible new tool in the never-ending fight against disease.",
+      "translation": "这样就使得数周内 研制出新的疫苗成为可能，为人类在与疾病的无止境战斗中 提供灵活的新方法。"
+    }
+  ],
+  "cues": [
+    {
+      "start": 7.704,
+      "text": "In the 20th century, most vaccines took well over a decade",
+      "end": 11.821
+    },
+    {
+      "start": 11.871,
+      "text": "to research, test, and produce.",
+      "end": 14.779
+    },
+    {
+      "start": 14.829,
+      "text": "But the vaccines for COVID-19 cleared the threshold for emergency use",
+      "end": 19.070999999999998
+    },
+    {
+      "start": 19.121,
+      "text": "in less than 11 months.",
+      "end": 21.488
+    },
+    {
+      "start": 21.538,
+      "text": "The secret behind this speed is a medical technology",
+      "end": 24.945999999999998
+    },
+    {
+      "start": 24.996,
+      "text": "that’s been developing for decades:",
+      "end": 27.279
+    },
+    {
+      "start": 27.329,
+      "text": "the mRNA vaccine.",
+      "end": 29.738
+    },
+    {
+      "start": 29.788,
+      "text": "This new treatment uses our body’s existing cellular machinery",
+      "end": 33.612
+    },
+    {
+      "start": 33.662,
+      "text": "to trigger an immune response,",
+      "end": 35.654
+    },
+    {
+      "start": 35.704,
+      "text": "protecting us from viruses without ever experiencing an infection.",
+      "end": 40.737
+    },
+    {
+      "start": 40.787,
+      "text": "And in the future, this approach might be able to treat new diseases",
+      "end": 44.779
+    },
+    {
+      "start": 44.829,
+      "text": "almost as quickly as they emerge.",
+      "end": 47.571000000000005
+    },
+    {
+      "start": 47.621,
+      "text": "So how do these revolutionary vaccines work?",
+      "end": 51.321000000000005
+    },
+    {
+      "start": 51.371,
+      "text": "The key ingredient is in the name.",
+      "end": 54.237
+    },
+    {
+      "start": 54.287,
+      "text": "mRNA, or messenger ribonucleic acid, is a naturally occurring molecule",
+      "end": 60.404
+    },
+    {
+      "start": 60.454,
+      "text": "that encodes the instructions for producing proteins.",
+      "end": 63.696000000000005
+    },
+    {
+      "start": 63.746,
+      "text": "When our cells process mRNA, a part of the cell called the ribosome",
+      "end": 68.363
+    },
+    {
+      "start": 68.413,
+      "text": "translates and follows these instructions to build the encoded protein.",
+      "end": 72.738
+    },
+    {
+      "start": 72.788,
+      "text": "The mRNA in these vaccines works in exactly the same way,",
+      "end": 76.613
+    },
+    {
+      "start": 76.663,
+      "text": "but scientists use the molecule to safely introduce our body to a virus.",
+      "end": 81.738
+    },
+    {
+      "start": 81.788,
+      "text": "First, researchers encode trillions of mRNA molecules with the instructions",
+      "end": 86.446
+    },
+    {
+      "start": 86.496,
+      "text": "for a specific viral protein.",
+      "end": 88.779
+    },
+    {
+      "start": 88.829,
+      "text": "This part of the virus is harmless by itself,",
+      "end": 91.196
+    },
+    {
+      "start": 91.246,
+      "text": "but helpful for training our body’s immune response.",
+      "end": 94.404
+    },
+    {
+      "start": 94.454,
+      "text": "Then, they inject those molecules into a nanoparticle",
+      "end": 97.863
+    },
+    {
+      "start": 97.913,
+      "text": "roughly 1,000 times smaller than the average cell.",
+      "end": 101.404
+    },
+    {
+      "start": 101.454,
+      "text": "This nanoparticle is made of lipids,",
+      "end": 103.696
+    },
+    {
+      "start": 103.746,
+      "text": "the same type of fatty material that forms the membrane around our cells.",
+      "end": 108.154
+    },
+    {
+      "start": 108.204,
+      "text": "But these lipids have been specially engineered",
+      "end": 111.029
+    },
+    {
+      "start": 111.079,
+      "text": "to protect the mRNA on its journey through the body",
+      "end": 114.363
+    },
+    {
+      "start": 114.413,
+      "text": "and assist its entry into the cell.",
+      "end": 116.904
+    },
+    {
+      "start": 116.954,
+      "text": "Lastly, the final ingredients are added: sugars and salt",
+      "end": 121.029
+    },
+    {
+      "start": 121.079,
+      "text": "to help keep the nanoparticles intact until they reach their destination.",
+      "end": 125.571
+    },
+    {
+      "start": 125.621,
+      "text": "Before use, the vaccine is kept at a temperature of -20 to -80 degrees Celsius",
+      "end": 131.404
+    },
+    {
+      "start": 131.454,
+      "text": "to ensure none of the components break down.",
+      "end": 133.988
+    },
+    {
+      "start": 134.038,
+      "text": "Once injected, the nanoparticles disperse and encounter cells.",
+      "end": 138.154
+    },
+    {
+      "start": 138.204,
+      "text": "The lipid coating on each nanoparticle fuses with the lipid membrane of a cell",
+      "end": 143.029
+    },
+    {
+      "start": 143.079,
+      "text": "and releases the mRNA to do its work.",
+      "end": 145.863
+    },
+    {
+      "start": 145.913,
+      "text": "At this point, we should note that while the vaccine is delivering",
+      "end": 149.654
+    },
+    {
+      "start": 149.704,
+      "text": "viral genetic material into our cells,",
+      "end": 151.904
+    },
+    {
+      "start": 151.954,
+      "text": "it’s impossible for this material to alter our DNA.",
+      "end": 156.238
+    },
+    {
+      "start": 156.288,
+      "text": "mRNA is a short-lived molecule",
+      "end": 158.904
+    },
+    {
+      "start": 158.954,
+      "text": "that would need additional enzymes and chemical signals to even access our DNA,",
+      "end": 164.696
+    },
+    {
+      "start": 164.746,
+      "text": "let alone change it.",
+      "end": 166.654
+    },
+    {
+      "start": 166.704,
+      "text": "And none of these DNA altering components are present in mRNA vaccines.",
+      "end": 172.779
+    },
+    {
+      "start": 172.829,
+      "text": "Once inside the cell, the ribosome translates the mRNA’s instructions",
+      "end": 177.488
+    },
+    {
+      "start": 177.538,
+      "text": "and begins assembling the viral protein.",
+      "end": 180.238
+    },
+    {
+      "start": 180.288,
+      "text": "In COVID-19 vaccines, that protein is one of the spikes typically found",
+      "end": 184.571
+    },
+    {
+      "start": 184.621,
+      "text": "on the virus’s surface.",
+      "end": 186.321
+    },
+    {
+      "start": 186.371,
+      "text": "Without the rest of the virus this lone spike is not infectious,",
+      "end": 190.571
+    },
+    {
+      "start": 190.621,
+      "text": "but it does trigger our immune response.",
+      "end": 194.029
+    },
+    {
+      "start": 194.079,
+      "text": "Activating the immune system can be taxing on the body,",
+      "end": 197.154
+    },
+    {
+      "start": 197.204,
+      "text": "resulting in brief fatigue, fever, and muscle soreness in some people.",
+      "end": 201.821
+    },
+    {
+      "start": 201.871,
+      "text": "But this doesn’t mean the recipient is sick—",
+      "end": 204.196
+    },
+    {
+      "start": 204.246,
+      "text": "it means the vaccine is working.",
+      "end": 207.029
+    },
+    {
+      "start": 207.079,
+      "text": "The body is producing antibodies to fight that viral protein,",
+      "end": 210.071
+    },
+    {
+      "start": 210.121,
+      "text": "that will then stick around to defend against future COVID-19 infections.",
+      "end": 215.029
+    },
+    {
+      "start": 215.079,
+      "text": "And since this particular protein is likely to be found in most COVID variants,",
+      "end": 219.779
+    },
+    {
+      "start": 219.829,
+      "text": "these antibodies should reduce the threat of catching new strains.",
+      "end": 224.029
+    },
+    {
+      "start": 224.079,
+      "text": "This approach offers significant advantages over previous vaccines.",
+      "end": 228.154
+    },
+    {
+      "start": 228.204,
+      "text": "Traditional vaccines contain weakened versions of live viruses",
+      "end": 231.654
+    },
+    {
+      "start": 231.704,
+      "text": "or amputated sections of a virus,",
+      "end": 234.363
+    },
+    {
+      "start": 234.413,
+      "text": "both of which required time intensive research to prepare",
+      "end": 237.904
+    },
+    {
+      "start": 237.954,
+      "text": "and unique chemical treatments to safely inject.",
+      "end": 241.779
+    },
+    {
+      "start": 241.829,
+      "text": "But mRNA vaccines don’t actually contain any viral particles,",
+      "end": 245.446
+    },
+    {
+      "start": 245.496,
+      "text": "so they don’t have to be built from scratch to safely adjust each virus.",
+      "end": 250.279
+    },
+    {
+      "start": 250.329,
+      "text": "In fact, every mRNA vaccine could have roughly the same list of ingredients.",
+      "end": 256.779
+    },
+    {
+      "start": 256.829,
+      "text": "Imagine a reliable, robustly tested vaccine that can treat any disease",
+      "end": 262.363
+    },
+    {
+      "start": 262.413,
+      "text": "by swapping out a single component.",
+      "end": 265.57099999999997
+    },
+    {
+      "start": 265.621,
+      "text": "To treat a new illness, researchers would identify the right viral protein,",
+      "end": 269.904
+    },
+    {
+      "start": 269.954,
+      "text": "encode it into mRNA,",
+      "end": 272.029
+    },
+    {
+      "start": 272.079,
+      "text": "and then swap that mRNA into the existing vaccine platform.",
+      "end": 276.57099999999997
+    },
+    {
+      "start": 276.621,
+      "text": "This could make it possible to develop new vaccines in weeks,",
+      "end": 280.529
+    },
+    {
+      "start": 280.579,
+      "text": "giving humanity a flexible new tool in the never-ending fight against disease.",
+      "end": 287.95
+    }
+  ],
+  "cuesZh": [
+    {
+      "start": 7.704,
+      "text": "二十世纪时，多数疫苗 需要用至少十年时间",
+      "end": 11.821
+    },
+    {
+      "start": 11.871,
+      "text": "来完成科研、测试和生产。",
+      "end": 14.779
+    },
+    {
+      "start": 14.829,
+      "text": "但新型冠状病毒 (COVID-19) 的疫苗 在不到 11 个月内",
+      "end": 19.070999999999998
+    },
+    {
+      "start": 19.121,
+      "text": "通过了紧急使用的临界点。",
+      "end": 21.488
+    },
+    {
+      "start": 21.538,
+      "text": "这速度背后的秘密",
+      "end": 23.404
+    },
+    {
+      "start": 23.454,
+      "text": "是数十年医学技术发展的飞跃：",
+      "end": 27.279
+    },
+    {
+      "start": 27.329,
+      "text": "mRNA 疫苗。",
+      "end": 29.738
+    },
+    {
+      "start": 29.788,
+      "text": "这个新治疗方式 运用我们身体里现有的细胞机器",
+      "end": 33.612
+    },
+    {
+      "start": 33.662,
+      "text": "来触发免疫反应，",
+      "end": 35.654
+    },
+    {
+      "start": 35.704,
+      "text": "让我们不感染生病就能抵抗病毒。",
+      "end": 40.737
+    },
+    {
+      "start": 40.787,
+      "text": "而在未来，这个方法或许 能以发现新疾病的同等速度",
+      "end": 44.779
+    },
+    {
+      "start": 44.829,
+      "text": "找到治疗方法。",
+      "end": 47.571000000000005
+    },
+    {
+      "start": 47.621,
+      "text": "这个变革性的疫苗是如何运作的呢？",
+      "end": 51.321000000000005
+    },
+    {
+      "start": 51.371,
+      "text": "它的主要成分就在写在疫苗的名字里。",
+      "end": 54.237
+    },
+    {
+      "start": 54.287,
+      "text": "mRNA，或信使核糖核酸，",
+      "end": 58.487
+    },
+    {
+      "start": 58.537,
+      "text": "是个自然生成的 合成蛋白质的模板分子。",
+      "end": 63.696000000000005
+    },
+    {
+      "start": 63.746,
+      "text": "当我们的细胞处理 mRNA 时，",
+      "end": 65.738
+    },
+    {
+      "start": 65.788,
+      "text": "一个叫核糖体的细胞部分",
+      "end": 68.821
+    },
+    {
+      "start": 68.871,
+      "text": "将转译且复制对应的蛋白。",
+      "end": 72.738
+    },
+    {
+      "start": 72.788,
+      "text": "这些疫苗里的 mRNA 使用相同的工作原理，",
+      "end": 76.613
+    },
+    {
+      "start": 76.663,
+      "text": "但科学家们用这个分子 来安全地将病毒引入人体。",
+      "end": 81.738
+    },
+    {
+      "start": 81.788,
+      "text": "首先，科学家们 把特定的病毒蛋白质模版",
+      "end": 86.446
+    },
+    {
+      "start": 86.496,
+      "text": "编写到万亿个 mRNA 分子里。",
+      "end": 88.779
+    },
+    {
+      "start": 88.829,
+      "text": "病毒的单独这一部分无害，",
+      "end": 91.196
+    },
+    {
+      "start": 91.246,
+      "text": "但有助于训练体内的免疫反应。",
+      "end": 94.404
+    },
+    {
+      "start": 94.454,
+      "text": "他们接下来将这些分子 注射到纳米药物里，",
+      "end": 97.863
+    },
+    {
+      "start": 97.913,
+      "text": "大约比普通细胞小一千倍。",
+      "end": 101.404
+    },
+    {
+      "start": 101.454,
+      "text": "这些纳米药物有间脂质构成，",
+      "end": 103.696
+    },
+    {
+      "start": 103.746,
+      "text": "和我们细胞外包薄膜的 细胞间脂质为相同材质。",
+      "end": 108.154
+    },
+    {
+      "start": 108.204,
+      "text": "但在这些间脂质受过特殊加工，",
+      "end": 111.029
+    },
+    {
+      "start": 111.079,
+      "text": "用来保护 mRNA， 让它完成在体内行程",
+      "end": 114.363
+    },
+    {
+      "start": 114.413,
+      "text": "且协助它进入细胞。",
+      "end": 116.904
+    },
+    {
+      "start": 116.954,
+      "text": "到最后，加入剩下的成分：糖与盐，",
+      "end": 121.029
+    },
+    {
+      "start": 121.079,
+      "text": "用来保持纳米药物完好无缺， 直到它们地抵达目的地。",
+      "end": 125.571
+    },
+    {
+      "start": 125.621,
+      "text": "在使用前，疫苗需保存在 零下 20 到 80 摄氏度的环境下，",
+      "end": 131.404
+    },
+    {
+      "start": 131.454,
+      "text": "以防其中任何成分的失效。",
+      "end": 133.988
+    },
+    {
+      "start": 134.038,
+      "text": "一旦注射至体内，这些纳米粒子 会扩散并与细胞相遇。",
+      "end": 138.154
+    },
+    {
+      "start": 138.204,
+      "text": "每一个纳米粒子的间脂质 将与细胞间脂质结合",
+      "end": 143.029
+    },
+    {
+      "start": 143.079,
+      "text": "并通过释放 mRNA 来实现免疫。",
+      "end": 145.863
+    },
+    {
+      "start": 145.913,
+      "text": "此刻值得一提： 虽然疫苗将病毒遗传物质",
+      "end": 149.654
+    },
+    {
+      "start": 149.704,
+      "text": "输送进我们身体里，",
+      "end": 151.904
+    },
+    {
+      "start": 151.954,
+      "text": "这个物质不可能更改我们的基因。",
+      "end": 156.238
+    },
+    {
+      "start": 156.288,
+      "text": "mRNA 分子寿命很短，",
+      "end": 158.904
+    },
+    {
+      "start": 158.954,
+      "text": "并需要其他的酶和化学信号 才能接触到我们的基因，",
+      "end": 164.696
+    },
+    {
+      "start": 164.746,
+      "text": "更别提更改它了。",
+      "end": 166.654
+    },
+    {
+      "start": 166.704,
+      "text": "mRNA 疫苗里也不包括 任何一个修改基因的部分。",
+      "end": 172.779
+    },
+    {
+      "start": 172.829,
+      "text": "一旦进入细胞，核糖体将转译 mRNA 的指令",
+      "end": 177.488
+    },
+    {
+      "start": 177.538,
+      "text": "并开始组装病毒蛋白质。",
+      "end": 180.238
+    },
+    {
+      "start": 180.288,
+      "text": "新冠疫苗含有的蛋白是 病毒表面的刺突蛋白。",
+      "end": 186.321
+    },
+    {
+      "start": 186.371,
+      "text": "少了剩下的病毒， 一个刺突蛋白没有感染力，",
+      "end": 190.571
+    },
+    {
+      "start": 190.621,
+      "text": "但是能触发我们的免疫反应。",
+      "end": 194.029
+    },
+    {
+      "start": 194.079,
+      "text": "激活免疫系统会消耗体力，",
+      "end": 197.154
+    },
+    {
+      "start": 197.204,
+      "text": "给一些人带来短期疲劳、发烧， 和肌肉酸痛的反应。",
+      "end": 201.821
+    },
+    {
+      "start": 201.871,
+      "text": "但这不代表接种者生病了——",
+      "end": 204.196
+    },
+    {
+      "start": 204.246,
+      "text": "代表着疫苗生效了。",
+      "end": 207.029
+    },
+    {
+      "start": 207.079,
+      "text": "身体生产着抵抗病毒蛋白的抗体，",
+      "end": 210.071
+    },
+    {
+      "start": 210.121,
+      "text": "能持续在身体里抵抗 未来的新冠感染。",
+      "end": 215.029
+    },
+    {
+      "start": 215.079,
+      "text": "由于这个蛋白很可能 在多种变异株上出现，",
+      "end": 219.779
+    },
+    {
+      "start": 219.829,
+      "text": "这些抗体应当减少 感染变异株的威胁性。",
+      "end": 224.029
+    },
+    {
+      "start": 224.079,
+      "text": "这个手段比起原先的疫苗 有明显的优势。",
+      "end": 228.154
+    },
+    {
+      "start": 228.204,
+      "text": "传统疫苗含有削弱的活病毒",
+      "end": 231.654
+    },
+    {
+      "start": 231.704,
+      "text": "或肢解病毒的一部分，",
+      "end": 234.363
+    },
+    {
+      "start": 234.413,
+      "text": "两个都需要耗时间的研究来生产",
+      "end": 237.904
+    },
+    {
+      "start": 237.954,
+      "text": "及特殊的化学处理方式 才能安全接种。",
+      "end": 241.779
+    },
+    {
+      "start": 241.829,
+      "text": "可 mRNA 疫苗本身 不含有任何病毒颗粒，",
+      "end": 245.446
+    },
+    {
+      "start": 245.496,
+      "text": "所以为了安全加工每个病毒， 它们不需要每次都从零开始。",
+      "end": 250.279
+    },
+    {
+      "start": 250.329,
+      "text": "实际上，每支 mRNA 疫苗 都有相似的成分表。",
+      "end": 256.779
+    },
+    {
+      "start": 256.829,
+      "text": "想象一下，即可信又稳健的疫苗， 只需要更改一种成分",
+      "end": 262.363
+    },
+    {
+      "start": 262.413,
+      "text": "就能医治任何一种疾病。",
+      "end": 265.57099999999997
+    },
+    {
+      "start": 265.621,
+      "text": "治疗新兴疾病时，研究员们 要找到合适的病毒蛋白，",
+      "end": 269.904
+    },
+    {
+      "start": 269.954,
+      "text": "改写编辑到 mRNA 里，",
+      "end": 272.029
+    },
+    {
+      "start": 272.079,
+      "text": "再把那个 mRNA 替换到 现有的疫苗载体内。",
+      "end": 276.57099999999997
+    },
+    {
+      "start": 276.621,
+      "text": "这样就使得数周内 研制出新的疫苗成为可能，",
+      "end": 280.529
+    },
+    {
+      "start": 280.579,
+      "text": "为人类在与疾病的无止境战斗中 提供灵活的新方法。",
+      "end": 287.95
+    }
+  ]
+}
