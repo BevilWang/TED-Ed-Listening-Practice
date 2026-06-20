@@ -1,6 +1,6 @@
-# TED-Ed 精听练习
+# TED-Ed （英式口音）精听练习
 
-一个纯静态的 TED-Ed 英语精听练习网页：按句精听、全文跟读、双语对照、收藏复习。音频走 TED 官方 CDN，部署后即可在线使用，无需后端。
+一个纯静态的 TED-Ed 英语精听练习网页：按句精听、全文跟读、双语对照、收藏复习。音频走 TED 官方 CDN，可在线使用。
 
 在线访问（GitHub Pages）：https://bevilwang.github.io/TED-Ed-Listening-Practice/
 
@@ -15,7 +15,7 @@
 - 收藏复习（`favorites.html`）：按演讲分组，进入「收藏精听」只练收藏的句子
 - 通过 `?talk=<slug>` 加载指定演讲的练习数据
 
-当前内置 258 个 TED-Ed 演讲数据集。
+当前内置 130 个 TED-Ed 视频。
 
 ## 收藏功能说明
 
@@ -30,43 +30,4 @@ python -m http.server 8000
 
 浏览器打开：
 
-- `http://127.0.0.1:8000/`（播放列表首页）
-- `http://127.0.0.1:8000/practice.html?talk=<slug>`（练习页）
-
-## 部署到 GitHub Pages
-
-1. 打开仓库 **Settings → Pages**
-2. **Source** 选 `Deploy from a branch`
-3. **Branch** 选 `main`，目录 `/ (root)`，保存
-4. 约 1 分钟后即可通过上方在线地址访问
-
-## 更新数据
-
-抓取单个 TED 演讲：
-
-```bash
-python scripts/build_ted_talk_data.py "TED演讲页面URL"
-# 生成/更新：data/ted-talk.json、data/ted-talk.js
-```
-
-批量处理 YouTube 播放列表（匹配 TED-Ed）：
-
-```bash
-python scripts/build_teded_playlist_dataset.py "https://www.youtube.com/playlist?list=..."
-# 生成：data/talks/*.json、data/talks/*.js
-#       data/playlist-manifest.json、data/playlist-manifest.js
-```
-
-首页 `index.html` 读取 `data/playlist-manifest.json` 展示可练习音频，并跳转到 `practice.html?talk=<slug>`。
-
-## 项目结构
-
-```
-index.html / home.js / home.css        播放列表首页（站点入口）
-practice.html / bootstrap.js / app.js  精听练习页
-favorites.html / favorites.js / favorites.css  收藏复习页
-styles.css                          练习页样式
-data/talks/*.json                   各演讲练习数据
-data/playlist-manifest.json         播放列表清单
-scripts/                            数据抓取脚本
-```
+- `http://127.0.0.1:8000/`
