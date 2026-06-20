@@ -96,7 +96,7 @@
   }
 
   function buildPracticeUrl(talkSlug) {
-    return `index.html?talk=${encodeURIComponent(talkSlug)}&favoritesOnly=1`;
+    return `practice.html?talk=${encodeURIComponent(talkSlug)}&favoritesOnly=1`;
   }
 
   function render() {

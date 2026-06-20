@@ -34,7 +34,7 @@
 
       const start = document.createElement("a");
       start.className = "start-btn";
-      start.href = `index.html?talk=${encodeURIComponent(item.slug)}`;
+      start.href = `practice.html?talk=${encodeURIComponent(item.slug)}`;
       start.textContent = "开始练习";
 
       const tedLink = document.createElement("a");

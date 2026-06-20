@@ -2,16 +2,11 @@
 
 一个纯静态的 TED-Ed 英语精听练习网页：按句精听、全文跟读、双语对照、收藏复习。音频走 TED 官方 CDN，部署后即可在线使用，无需后端。
 
-在线访问（GitHub Pages）：
-
-- 播放列表首页：https://bevilwang.github.io/TED-Ed-Listening-Practice/home.html
-- 练习页：https://bevilwang.github.io/TED-Ed-Listening-Practice/index.html?talk=<slug>
-
-> 首次使用请从「播放列表首页」`home.html` 进入，选择一个演讲开始练习。
+在线访问（GitHub Pages）：https://bevilwang.github.io/TED-Ed-Listening-Practice/
 
 ## 功能
 
-- 播放列表首页（`home.html`）：浏览/搜索全部可练习音频，一键进入精听
+- 播放列表首页（`index.html`，站点入口）：浏览/搜索全部可练习音频，一键进入精听
 - 单句精听：显示/隐藏原文与译文、重播本句、收藏本句，「下一句」自动播放
 - 全文精听：滚动双语原文列表，当前句高亮跟随
 - 顶部播放条：播放/暂停、进度拖动、循环次数、倍速
@@ -35,8 +30,8 @@ python -m http.server 8000
 
 浏览器打开：
 
-- `http://127.0.0.1:8000/home.html`（播放列表首页）
-- `http://127.0.0.1:8000/index.html?talk=<slug>`（练习页）
+- `http://127.0.0.1:8000/`（播放列表首页）
+- `http://127.0.0.1:8000/practice.html?talk=<slug>`（练习页）
 
 ## 部署到 GitHub Pages
 
@@ -62,13 +57,13 @@ python scripts/build_teded_playlist_dataset.py "https://www.youtube.com/playlist
 #       data/playlist-manifest.json、data/playlist-manifest.js
 ```
 
-首页 `home.html` 读取 `data/playlist-manifest.json` 展示可练习音频，并跳转到 `index.html?talk=<slug>`。
+首页 `index.html` 读取 `data/playlist-manifest.json` 展示可练习音频，并跳转到 `practice.html?talk=<slug>`。
 
 ## 项目结构
 
 ```
-home.html / home.js / home.css     播放列表首页
-index.html / bootstrap.js / app.js  精听练习页
+index.html / home.js / home.css        播放列表首页（站点入口）
+practice.html / bootstrap.js / app.js  精听练习页
 favorites.html / favorites.js / favorites.css  收藏复习页
 styles.css                          练习页样式
 data/talks/*.json                   各演讲练习数据
